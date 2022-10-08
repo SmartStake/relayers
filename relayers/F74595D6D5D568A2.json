@@ -1,0 +1,24 @@
+{
+    "keybaseIdentity": "F74595D6D5D568A2",
+    "name": "Simply Staking",
+    "website": "https://simply-vc.com.mt/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "ATOM",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "STARS",
+            "relayerAddress": null
+        }
+    ]
+}

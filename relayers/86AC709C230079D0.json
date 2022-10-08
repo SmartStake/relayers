@@ -1,0 +1,20 @@
+{
+    "keybaseIdentity": "86AC709C230079D0",
+    "name": "PFC",
+    "website": "https://pfc-validator.github.io/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "INJ",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "KUJI",
+            "relayerAddress": null
+        }
+    ]
+}

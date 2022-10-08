@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "11A4103C4BCBD2B4",
+    "name": "Rockaway Staking",
+    "website": "https://rbf.capital/staking",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

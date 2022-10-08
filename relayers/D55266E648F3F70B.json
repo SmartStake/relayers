@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "D55266E648F3F70B",
+    "name": "Staketab",
+    "website": "https://staketab.com/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "STARS",
+            "relayerAddress": null
+        }
+    ]
+}

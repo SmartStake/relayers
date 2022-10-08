@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "94EFE192B2C52424",
+    "name": "NodeStake.top",
+    "website": "https://nodestake.top",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

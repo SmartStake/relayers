@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "A6C8B98CF795FEBF",
+    "name": "Needlecast Labs",
+    "website": "https://needlecast.co/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

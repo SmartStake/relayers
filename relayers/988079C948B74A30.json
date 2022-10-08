@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "988079C948B74A30",
+    "name": "unicorn-ethermat-1",
+    "website": "https://www.ethermat.com/pool.html",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

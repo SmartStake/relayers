@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "6386E8C1B6217AC2",
+    "name": "Stakewolle.com | Auto-compound",
+    "website": "https://stakewolle.com/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

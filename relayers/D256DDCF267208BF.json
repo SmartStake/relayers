@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "D256DDCF267208BF",
+    "name": "GreenStake One",
+    "website": "https://greenstake.one",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

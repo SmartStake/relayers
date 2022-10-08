@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "2EAD1233C496B583",
+    "name": "Start-Staking.info",
+    "website": "https://start-staking.info",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

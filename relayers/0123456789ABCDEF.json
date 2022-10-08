@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "0123456789ABCDEF",
+    "name": "JAILED_NODE",
+    "website": " ",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

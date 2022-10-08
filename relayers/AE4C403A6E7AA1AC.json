@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "AE4C403A6E7AA1AC",
+    "name": "Cosmostation",
+    "website": "https://www.cosmostation.io",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

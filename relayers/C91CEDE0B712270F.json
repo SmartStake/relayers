@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "C91CEDE0B712270F",
+    "name": "OracleGen",
+    "website": "https://oraclegen.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

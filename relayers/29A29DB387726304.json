@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "29A29DB387726304",
+    "name": "DUST Foundation",
+    "website": "https://dust.ventures/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

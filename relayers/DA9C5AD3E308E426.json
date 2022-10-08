@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "DA9C5AD3E308E426",
+    "name": "WeStaking",
+    "website": "https://www.westaking.io",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

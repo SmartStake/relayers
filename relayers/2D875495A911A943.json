@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "2D875495A911A943",
+    "name": "Cosmos Suisse",
+    "website": "https://cosmos-suisse.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

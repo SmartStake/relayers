@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "6CE4A2AB30E12FB6",
+    "name": "validator.moe",
+    "website": "https://validator.moe",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

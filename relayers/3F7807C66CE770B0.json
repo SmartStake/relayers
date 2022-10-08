@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "3F7807C66CE770B0",
+    "name": "CosmosLink",
+    "website": "",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

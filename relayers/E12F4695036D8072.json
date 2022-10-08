@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "E12F4695036D8072",
+    "name": "P2P.ORG - P2P Validator",
+    "website": "https://p2p.org",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "keybaseIdentity": "3804A3D13B6CB379",
+    "name": "Notional",
+    "website": "",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "ATOM",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": null
+        }
+    ]
+}

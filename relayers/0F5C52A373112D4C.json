@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "0F5C52A373112D4C",
+    "name": "Onbloc Node",
+    "website": "https://onbloc.xyz",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

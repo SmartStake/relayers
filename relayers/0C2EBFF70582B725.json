@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "0C2EBFF70582B725",
+    "name": "StakeAngle",
+    "website": "https://stakeangle.com/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "STARS",
+            "relayerAddress": null
+        }
+    ]
+}

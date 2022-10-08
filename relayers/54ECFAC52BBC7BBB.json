@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "54ECFAC52BBC7BBB",
+    "name": "entropic.nodes",
+    "website": "www.entropic.tech",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

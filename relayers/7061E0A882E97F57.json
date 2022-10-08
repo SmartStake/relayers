@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "7061E0A882E97F57",
+    "name": "StakeLikeMo",
+    "website": "https://twitter.com/StakeLikeMo",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

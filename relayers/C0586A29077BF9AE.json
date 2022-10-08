@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "C0586A29077BF9AE",
+    "name": "ZenChainLabs",
+    "website": "https://zenchainlabs.io",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

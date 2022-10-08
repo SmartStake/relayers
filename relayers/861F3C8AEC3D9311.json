@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "861F3C8AEC3D9311",
+    "name": "EON",
+    "website": "https://eon.capital",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

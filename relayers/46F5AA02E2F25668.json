@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "46F5AA02E2F25668",
+    "name": "stakefish",
+    "website": "https://stake.fish",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

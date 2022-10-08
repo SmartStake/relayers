@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "C5B68615F8828EC0",
+    "name": "SSSnodes",
+    "website": "http://sssnodes.com/cosmos",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

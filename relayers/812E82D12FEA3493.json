@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "812E82D12FEA3493",
+    "name": "Noderunners",
+    "website": "http://noderunners.biz",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

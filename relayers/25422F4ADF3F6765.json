@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "25422F4ADF3F6765",
+    "name": "DokiaCapital",
+    "website": "https://staking.dokia.cloud",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

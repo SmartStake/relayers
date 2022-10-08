@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "52079344AD4AD624",
+    "name": "Stir",
+    "website": "https://stir.network",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

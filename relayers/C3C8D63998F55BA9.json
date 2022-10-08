@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "C3C8D63998F55BA9",
+    "name": "Skip Labs",
+    "website": "https://skip.money",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

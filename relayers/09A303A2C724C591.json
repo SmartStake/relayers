@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "09A303A2C724C591",
+    "name": "Ztake.org",
+    "website": "https://ztake.org/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

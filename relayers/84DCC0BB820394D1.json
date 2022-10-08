@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "84DCC0BB820394D1",
+    "name": "Wanderer Staking",
+    "website": "https://keybase.io/wanderer_s",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "STARS",
+            "relayerAddress": null
+        }
+    ]
+}

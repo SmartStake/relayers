@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "1D4600B98DFF68AB",
+    "name": "MassStake.com",
+    "website": "www.massstake.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

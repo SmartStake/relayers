@@ -1,0 +1,28 @@
+{
+    "keybaseIdentity": "06B033BAC39DA21C",
+    "name": "Cosmos Spaces ?? ? ??",
+    "website": "https://linktr.ee/CosmosTwitterSpaces",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "ATOM",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "JUNO",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": null
+        }
+    ]
+}

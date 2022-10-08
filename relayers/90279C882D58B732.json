@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "90279C882D58B732",
+    "name": "Errorist | TestNetRun",
+    "website": "https://testnet.run/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": null
+        }
+    ]
+}

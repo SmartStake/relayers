@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "9B74364A5E526BED",
+    "name": "Kiln",
+    "website": "https://kiln.fi",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

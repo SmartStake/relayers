@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "31AFBBE0A52FA1ED",
+    "name": "HashQuark",
+    "website": "https://www.hashquark.io",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

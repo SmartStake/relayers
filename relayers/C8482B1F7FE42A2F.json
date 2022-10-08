@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "C8482B1F7FE42A2F",
+    "name": "Praetor App",
+    "website": "https://praetorapp.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "A2E180C6914F7F87",
+    "name": "Nodeist",
+    "website": "https://kujira.nodeist.net",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

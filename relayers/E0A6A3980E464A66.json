@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "E0A6A3980E464A66",
+    "name": "BasBlock",
+    "website": "https://twitter.com/basblock_io",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

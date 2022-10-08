@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "9C46A4ABF2271BEA",
+    "name": "SIGN Capital",
+    "website": "http://SIGNcapital.eu/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

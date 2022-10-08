@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "DFEAAB98E8D0975B",
+    "name": "Mandragora",
+    "website": "https://mandragora.io",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": null
+        }
+    ]
+}

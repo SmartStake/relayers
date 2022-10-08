@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "C5F94CC129A1EA81",
+    "name": "X-Stake",
+    "website": "https://xstake.io",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

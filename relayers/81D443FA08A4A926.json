@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "81D443FA08A4A926",
+    "name": "chainflow-cosmos-prodval-01",
+    "website": "https://chainflow.io/cosmos",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

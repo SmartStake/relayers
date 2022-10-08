@@ -1,0 +1,48 @@
+{
+    "keybaseIdentity": "0A6AF02D1557E5B4",
+    "name": "polkachu.com",
+    "website": "https://polkachu.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "AKT",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "CRE",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "INJ",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "JUNO",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "KUJI",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "STARS",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": null
+        }
+    ]
+}

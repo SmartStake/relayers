@@ -1,0 +1,24 @@
+{
+    "keybaseIdentity": "8A9FC930E1A980D6",
+    "name": "POSTHUMAN ? DVS",
+    "website": "https://posthuman.digital",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "ATOM",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "JUNO",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": null
+        }
+    ]
+}

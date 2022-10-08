@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "3D6E2861B47F2F9F",
+    "name": "Kalia Network",
+    "website": "https://kalia.network",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

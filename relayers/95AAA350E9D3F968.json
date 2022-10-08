@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "95AAA350E9D3F968",
+    "name": "sff-stake",
+    "website": "sff-stake.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

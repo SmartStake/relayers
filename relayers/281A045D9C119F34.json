@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "281A045D9C119F34",
+    "name": "StakeThat",
+    "website": "https://stakethat.io",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

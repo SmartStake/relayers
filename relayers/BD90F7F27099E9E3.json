@@ -1,0 +1,20 @@
+{
+    "keybaseIdentity": "BD90F7F27099E9E3",
+    "name": "Stake&Relax Validator ?",
+    "website": "https://twitter.com/StakeandRelax",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "JUNO",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": null
+        }
+    ]
+}

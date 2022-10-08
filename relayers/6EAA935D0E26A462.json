@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "6EAA935D0E26A462",
+    "name": "StakeRun",
+    "website": "https://stake.testnet.run",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "AXL",
+            "relayerAddress": null
+        }
+    ]
+}

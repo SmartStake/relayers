@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "73E751C14E2B3D25",
+    "name": "LUNAStaker 0%",
+    "website": "https://lunastaker.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

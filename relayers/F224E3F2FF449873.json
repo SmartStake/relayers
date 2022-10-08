@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "F224E3F2FF449873",
+    "name": "KiKi Finance",
+    "website": "https://kiki.finance/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

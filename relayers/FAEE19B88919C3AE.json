@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "FAEE19B88919C3AE",
+    "name": "COSMOS DAO",
+    "website": "",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

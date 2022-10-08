@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "A21D897660B856AC",
+    "name": "#NGC StakeX",
+    "website": "https://www.ngc.fund/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "E7E44347D730FEDB",
+    "name": "Certify Network",
+    "website": "http://certify.live",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

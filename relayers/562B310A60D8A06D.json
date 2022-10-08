@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "562B310A60D8A06D",
+    "name": "Stakepile",
+    "website": "https://www.stakepile.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

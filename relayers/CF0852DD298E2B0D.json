@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "CF0852DD298E2B0D",
+    "name": "Klub Staking",
+    "website": "https://klub.ki/staking",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "6E4D7901FD620209",
+    "name": "Block Producer",
+    "website": "https://twitter.com/block_producer",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

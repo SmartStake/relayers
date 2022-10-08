@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "609F83752053AD57",
+    "name": "StakeWithUs",
+    "website": "https://stakewith.us",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "INJ",
+            "relayerAddress": null
+        }
+    ]
+}

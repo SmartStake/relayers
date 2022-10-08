@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "0DA9092661F87186",
+    "name": "Gentarium Validator",
+    "website": "https://mn.gtmcoin.io/validators/cosmos",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "19185C91586D50DC",
+    "name": "SGTstake",
+    "website": "https://sgtstake.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "STARS",
+            "relayerAddress": null
+        }
+    ]
+}

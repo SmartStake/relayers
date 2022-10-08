@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "5FA6747A70A44C2F",
+    "name": "Undelegate | The Crypto Gateway",
+    "website": "https://thecryptogateway.it/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

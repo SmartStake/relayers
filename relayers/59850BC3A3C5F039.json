@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "59850BC3A3C5F039",
+    "name": "Staker Space",
+    "website": "https://staker.space",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "717F8A184E4FCA25",
+    "name": "Archpool.io",
+    "website": "https://www.archpool.io",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

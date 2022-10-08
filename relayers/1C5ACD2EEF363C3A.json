@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "1C5ACD2EEF363C3A",
+    "name": "kjnodes",
+    "website": "http://kjnodes.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "keybaseIdentity": "1326A75B9148A214",
+    "name": "Silk Nodes",
+    "website": "SilkNodes.io",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "ATOM",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "JUNO",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": null
+        }
+    ]
+}

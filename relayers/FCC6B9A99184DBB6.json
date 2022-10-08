@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "FCC6B9A99184DBB6",
+    "name": "AmberDAO",
+    "website": "",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

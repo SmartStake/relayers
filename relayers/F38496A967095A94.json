@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "F38496A967095A94",
+    "name": "Pro-Nodes & Node75",
+    "website": "",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "STRD",
+            "relayerAddress": null
+        }
+    ]
+}

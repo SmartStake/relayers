@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "12375441A4267DC9",
+    "name": "Staking4All",
+    "website": "https://www.staking4all.org",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

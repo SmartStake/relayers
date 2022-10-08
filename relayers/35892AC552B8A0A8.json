@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "35892AC552B8A0A8",
+    "name": "Blockdaemon",
+    "website": "https://blockdaemon.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

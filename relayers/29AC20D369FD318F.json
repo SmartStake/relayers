@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "29AC20D369FD318F",
+    "name": "chainvibes",
+    "website": "https://chainvibes.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

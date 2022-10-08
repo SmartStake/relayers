@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "33ABE8F442EA8409",
+    "name": "Steemhunt",
+    "website": "https://hunt.town",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

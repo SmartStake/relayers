@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "654899A548A41038",
+    "name": "Jerry's Pool",
+    "website": "https://pool.jerrychong.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": null
+        }
+    ]
+}

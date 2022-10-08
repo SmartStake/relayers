@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "EA61A46F31742B22",
+    "name": "DragonStake",
+    "website": "https://dragonstake.io",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

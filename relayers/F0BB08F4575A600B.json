@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "F0BB08F4575A600B",
+    "name": "0% fee - GunniStake.com",
+    "website": "https://www.gunnistake.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

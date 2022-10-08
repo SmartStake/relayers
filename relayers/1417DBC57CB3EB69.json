@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "1417DBC57CB3EB69",
+    "name": "Stake Capital",
+    "website": "https://stake.capital",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "4700D12228CC5EB5",
+    "name": "Dystopia Labs Validator",
+    "website": "http://dystopialabs.com/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

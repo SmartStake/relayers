@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "F96E3FCFA9A75DB9",
+    "name": "Project Stake",
+    "website": "https://www.projectstake.io",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

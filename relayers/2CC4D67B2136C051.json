@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "2CC4D67B2136C051",
+    "name": "Validator.run | 100% Slash Protected",
+    "website": "https://www.validator.run",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

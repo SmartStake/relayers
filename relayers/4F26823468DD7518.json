@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "4F26823468DD7518",
+    "name": "lunamint",
+    "website": "https://lunamint.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

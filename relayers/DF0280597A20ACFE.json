@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "DF0280597A20ACFE",
+    "name": "Citizen Cosmos",
+    "website": "https://www.citizencosmos.space/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

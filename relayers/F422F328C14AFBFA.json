@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "F422F328C14AFBFA",
+    "name": "syncnode",
+    "website": "wallet.syncnode.ro",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

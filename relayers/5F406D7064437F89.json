@@ -1,0 +1,20 @@
+{
+    "keybaseIdentity": "5F406D7064437F89",
+    "name": "coldy ?",
+    "website": "",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": null
+        }
+    ]
+}

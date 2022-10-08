@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "C7449E61C271EAA8",
+    "name": "Hathor Node",
+    "website": "https://hathornodes.com/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "38491F730E86F0C5",
+    "name": "Ledger",
+    "website": "https://www.ledger.com/staking-cosmos",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

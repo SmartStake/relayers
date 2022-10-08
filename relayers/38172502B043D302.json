@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "38172502B043D302",
+    "name": "Consensus One",
+    "website": "https://www.consensus.one",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "JUNO",
+            "relayerAddress": null
+        }
+    ]
+}

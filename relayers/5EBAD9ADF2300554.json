@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "5EBAD9ADF2300554",
+    "name": "Talis Protocol",
+    "website": "https://talis.art",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

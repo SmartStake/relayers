@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "6B633475425442FA",
+    "name": "windpowerstake",
+    "website": "http://windpowerstake.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

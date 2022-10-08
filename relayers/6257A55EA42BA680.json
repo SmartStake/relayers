@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "6257A55EA42BA680",
+    "name": "SOLAR Validator",
+    "website": "https://validator.solar",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

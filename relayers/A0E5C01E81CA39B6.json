@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "A0E5C01E81CA39B6",
+    "name": "Blockzilla | Staking ?",
+    "website": "https://blockzilla.tech",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

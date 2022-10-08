@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "DC34426544119615",
+    "name": "Castlenode",
+    "website": "https://www.castlenode.com/terra",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

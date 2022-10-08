@@ -1,0 +1,20 @@
+{
+    "keybaseIdentity": "6223697ACA24A4FF",
+    "name": "0% fees - Enigma",
+    "website": "https://enigma-validator.com/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "AXL",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "KUJI",
+            "relayerAddress": null
+        }
+    ]
+}

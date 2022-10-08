@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "DEE721DAF38ED46A",
+    "name": "Evmos Guardians",
+    "website": "https://www.evmosguardians.io/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

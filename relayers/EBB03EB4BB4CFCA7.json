@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "EBB03EB4BB4CFCA7",
+    "name": "Citadel.one",
+    "website": "https://citadel.one",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

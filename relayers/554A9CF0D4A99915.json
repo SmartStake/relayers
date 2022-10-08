@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "554A9CF0D4A99915",
+    "name": "CoinBevy",
+    "website": "https://coinbevy.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

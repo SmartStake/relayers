@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "42BBD6183544D905",
+    "name": "StakeCraft",
+    "website": "https://stakecraft.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

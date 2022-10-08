@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "0F79129686FFEFD4",
+    "name": "sleepykitten",
+    "website": "https://evmos.info",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": null
+        }
+    ]
+}

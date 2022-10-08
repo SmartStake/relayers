@@ -1,0 +1,20 @@
+{
+    "keybaseIdentity": "27FD74457A21B020",
+    "name": "Inter Blockchain Services (former 3Tekos)",
+    "website": "https://ibs.team",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "KUJI",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "STARS",
+            "relayerAddress": null
+        }
+    ]
+}

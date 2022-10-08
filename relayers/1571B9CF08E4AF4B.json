@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "1571B9CF08E4AF4B",
+    "name": "CLOSING REDELEGATE",
+    "website": "https://steadycrypto.solutions/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

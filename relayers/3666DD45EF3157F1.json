@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "3666DD45EF3157F1",
+    "name": "pro-nodes75",
+    "website": "",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "LUNA",
+            "relayerAddress": null
+        }
+    ]
+}

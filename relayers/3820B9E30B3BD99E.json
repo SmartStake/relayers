@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "3820B9E30B3BD99E",
+    "name": "Chill Validation",
+    "website": "www.chillvalidation.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

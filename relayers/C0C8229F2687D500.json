@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "C0C8229F2687D500",
+    "name": "FreeValidator",
+    "website": "",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

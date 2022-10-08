@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "33B2715526913907",
+    "name": "testovich",
+    "website": "https://testovi.ch/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "STARS",
+            "relayerAddress": null
+        }
+    ]
+}

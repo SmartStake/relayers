@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "9E31CFA37DA22B31",
+    "name": "Validatrium.com - 0% fee",
+    "website": "https://validatrium.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

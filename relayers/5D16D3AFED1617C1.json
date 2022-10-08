@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "5D16D3AFED1617C1",
+    "name": "CryptoGoose",
+    "website": "cryptogoose.io",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

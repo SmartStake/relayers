@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "F8FCC108B0120E16",
+    "name": "CommunityStaking",
+    "website": "https://twitter.com/CommunityStakin",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

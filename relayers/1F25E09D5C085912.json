@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "1F25E09D5C085912",
+    "name": "Atlas-Staking.com",
+    "website": "",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

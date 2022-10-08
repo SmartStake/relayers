@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "A999085B0D525EE3",
+    "name": "Luna Reserve System",
+    "website": "https://www.lunareserve.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

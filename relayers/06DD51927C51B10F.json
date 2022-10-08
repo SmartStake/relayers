@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "06DD51927C51B10F",
+    "name": "secretnodes.com",
+    "website": "https://secretnodes.org",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "5BC5BEB7D5633136",
+    "name": "azstake",
+    "website": "",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "STARS",
+            "relayerAddress": null
+        }
+    ]
+}

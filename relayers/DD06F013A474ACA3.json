@@ -1,0 +1,76 @@
+{
+    "keybaseIdentity": "DD06F013A474ACA3",
+    "name": "Smart Stake",
+    "website": "smartstake.io",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "AKT",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "BAND",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "CC",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "CRE",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "INJ",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "JUNO",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "KUJI",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "LUNA",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "SCRT",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "STARS",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "XPRT",
+            "relayerAddress": null
+        }
+    ]
+}

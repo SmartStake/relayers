@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "3CB75B60D76E461E",
+    "name": "NoDelegate",
+    "website": " ",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

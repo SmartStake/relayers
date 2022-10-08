@@ -1,0 +1,20 @@
+{
+    "keybaseIdentity": "6408AA029ADBE364",
+    "name": "Cephalopod Equipment Corp",
+    "website": "https://cephalopod.equipment",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "ATOM",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "JUNO",
+            "relayerAddress": null
+        }
+    ]
+}

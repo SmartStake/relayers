@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "D5CFA114A1EE1CC7",
+    "name": "MantiCore",
+    "website": "https://manticore.team/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

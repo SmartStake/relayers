@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "61BC2B70DE1EAF68",
+    "name": "Yummy Capital (0% fee)",
+    "website": "https://yummy.capital",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

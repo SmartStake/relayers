@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "47434737FEC2418A",
+    "name": "ShapeShift DAO",
+    "website": "https://www.shapeshift.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

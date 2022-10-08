@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "B094077DF80DB836",
+    "name": "Huobi",
+    "website": "https://www.huobi.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

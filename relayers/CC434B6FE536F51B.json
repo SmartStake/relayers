@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "CC434B6FE536F51B",
+    "name": "DSRV",
+    "website": "https://dsrvlabs.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

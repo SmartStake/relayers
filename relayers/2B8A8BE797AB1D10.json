@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "2B8A8BE797AB1D10",
+    "name": "StakeMonkey",
+    "website": "https://stakemonkey.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

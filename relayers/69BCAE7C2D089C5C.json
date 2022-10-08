@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "69BCAE7C2D089C5C",
+    "name": "Neta DAO",
+    "website": "netadao.zone",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

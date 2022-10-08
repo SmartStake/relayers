@@ -1,0 +1,20 @@
+{
+    "keybaseIdentity": "A47522A5527DB39F",
+    "name": "Please redelegate",
+    "website": "https://silentvalidator.com/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "STARS",
+            "relayerAddress": null
+        }
+    ]
+}

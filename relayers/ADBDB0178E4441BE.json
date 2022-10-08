@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "ADBDB0178E4441BE",
+    "name": "commercio.network",
+    "website": "https://commercio.network",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

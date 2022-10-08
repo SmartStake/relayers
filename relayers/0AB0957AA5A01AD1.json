@@ -1,0 +1,24 @@
+{
+    "keybaseIdentity": "0AB0957AA5A01AD1",
+    "name": "MMS",
+    "website": "https://mms.team",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "KUJI",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": null
+        }
+    ]
+}

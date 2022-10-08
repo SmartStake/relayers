@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "89BE1A153AC17E34",
+    "name": "AgoraNodes",
+    "website": "https://AgoraNodes.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

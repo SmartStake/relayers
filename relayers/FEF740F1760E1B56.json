@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "FEF740F1760E1B56",
+    "name": "Please Redelegate",
+    "website": "https://chihuahua.wtf",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

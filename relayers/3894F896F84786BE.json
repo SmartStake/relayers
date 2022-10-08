@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "3894F896F84786BE",
+    "name": "BotDotNet",
+    "website": "",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "STARS",
+            "relayerAddress": null
+        }
+    ]
+}

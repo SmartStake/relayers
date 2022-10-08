@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "979DBCE19C3DFE71",
+    "name": "TTLG Money",
+    "website": "https://ttlg.money/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

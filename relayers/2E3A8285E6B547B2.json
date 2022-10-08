@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "2E3A8285E6B547B2",
+    "name": "ushakov",
+    "website": "https://stake2.me",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "STARS",
+            "relayerAddress": null
+        }
+    ]
+}

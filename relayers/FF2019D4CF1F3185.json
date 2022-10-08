@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "FF2019D4CF1F3185",
+    "name": "SNZPool",
+    "website": "https://snzholding.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

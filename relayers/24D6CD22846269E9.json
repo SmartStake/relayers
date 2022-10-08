@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "24D6CD22846269E9",
+    "name": "MegaStake",
+    "website": "https://megastake.net",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

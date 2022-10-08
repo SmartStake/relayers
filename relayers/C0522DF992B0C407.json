@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "C0522DF992B0C407",
+    "name": "stakingcabin",
+    "website": "https://stakingcabin.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "70A99DBC20F94384",
+    "name": "Stealth Staking",
+    "website": "",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

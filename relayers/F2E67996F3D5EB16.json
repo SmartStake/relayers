@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "F2E67996F3D5EB16",
+    "name": "CrowdControl",
+    "website": "https://crowdcontrol.network/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

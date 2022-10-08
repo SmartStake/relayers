@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "48CE867E6AB5ED72",
+    "name": "? Mercury",
+    "website": "https://mercury-nodes.net",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

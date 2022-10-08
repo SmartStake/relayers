@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "0BC47B3228CBF46C",
+    "name": "Chandra Station",
+    "website": "https://www.chandrastation.com/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "JUNO",
+            "relayerAddress": null
+        }
+    ]
+}

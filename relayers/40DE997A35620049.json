@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "40DE997A35620049",
+    "name": "Meow (shutting down 4/28, please redelegate)",
+    "website": "https://daodao.zone",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

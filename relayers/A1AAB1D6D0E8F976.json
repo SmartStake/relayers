@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "A1AAB1D6D0E8F976",
+    "name": "StakeHouse",
+    "website": "stakehouse.org",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

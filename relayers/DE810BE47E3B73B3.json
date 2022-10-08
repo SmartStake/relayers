@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "DE810BE47E3B73B3",
+    "name": "Nocturnal Labs",
+    "website": "https://www.nocturnallabs.org/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

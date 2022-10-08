@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "B53747DFA9B95E67",
+    "name": "Ghost",
+    "website": "https://terra.money",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

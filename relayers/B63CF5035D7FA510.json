@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "B63CF5035D7FA510",
+    "name": "Chainnodes",
+    "website": "https://chainnodes.net",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

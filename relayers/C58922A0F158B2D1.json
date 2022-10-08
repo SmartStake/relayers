@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "C58922A0F158B2D1",
+    "name": "Unstake as we will shut down",
+    "website": "https://www.3stakes.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "1952CB5AFC6A0668",
+    "name": "Neptune Finance [Unbonding - Redelegate now]",
+    "website": "https://nept.finance/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

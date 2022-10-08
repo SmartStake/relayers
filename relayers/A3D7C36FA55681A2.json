@@ -1,0 +1,28 @@
+{
+    "keybaseIdentity": "A3D7C36FA55681A2",
+    "name": "Highlander | ChainTools",
+    "website": "https://chaintools.tech/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "JUNO",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "KUJI",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": null
+        }
+    ]
+}

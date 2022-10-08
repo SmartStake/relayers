@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "5CE1294DA68BE435",
+    "name": "StakeSabai",
+    "website": "https://sabai.finance",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

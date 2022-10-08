@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "ED24D5C4A3B04721",
+    "name": "Fina.cash",
+    "website": "https://fina.cash",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

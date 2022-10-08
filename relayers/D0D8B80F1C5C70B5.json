@@ -1,0 +1,24 @@
+{
+    "keybaseIdentity": "D0D8B80F1C5C70B5",
+    "name": "strangelove-ventures",
+    "website": "https://strangelove.ventures",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "ATOM",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "JUNO",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": null
+        }
+    ]
+}

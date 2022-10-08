@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "C4BD5C39CD23A40B",
+    "name": "Shutdown - redelegate",
+    "website": "",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

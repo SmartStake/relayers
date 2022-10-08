@@ -1,0 +1,32 @@
+{
+    "keybaseIdentity": "F12B081334CBE0C6",
+    "name": "StakeLab",
+    "website": "https://www.stakelab.fr",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "ATOM",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "JUNO",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "SCRT",
+            "relayerAddress": null
+        }
+    ]
+}

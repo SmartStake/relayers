@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "00B79D689B7DC1CE",
+    "name": "Chorus One",
+    "website": "https://chorus.one",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

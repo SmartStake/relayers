@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "545033B5FD01FC86",
+    "name": "Brightlystake",
+    "website": "https://brightlystake.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

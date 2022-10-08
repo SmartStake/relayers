@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "D21C8FB25FE081AA",
+    "name": "Making.cash Validator",
+    "website": "",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

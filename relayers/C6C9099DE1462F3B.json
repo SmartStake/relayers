@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "C6C9099DE1462F3B",
+    "name": "Crypteloid",
+    "website": "https://stake.crypteloid.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

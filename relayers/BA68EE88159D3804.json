@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "BA68EE88159D3804",
+    "name": "? staking.cafe",
+    "website": "https://staking.cafe",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

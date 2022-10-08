@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "CE3F404E9DD30A4A",
+    "name": "AuraStake",
+    "website": "",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

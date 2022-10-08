@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "742F7B64C32DF7A6",
+    "name": "Moonstake",
+    "website": "https://www.moonstake.io/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

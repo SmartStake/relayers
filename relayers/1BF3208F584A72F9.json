@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "1BF3208F584A72F9",
+    "name": "BTC.Secure",
+    "website": "https://btcsecure.io",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

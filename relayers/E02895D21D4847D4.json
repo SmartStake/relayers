@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "E02895D21D4847D4",
+    "name": "REDELEGATE",
+    "website": "",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

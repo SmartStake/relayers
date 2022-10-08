@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "EF5AC70C00BECEDC",
+    "name": "Everstake",
+    "website": "https://everstake.one",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

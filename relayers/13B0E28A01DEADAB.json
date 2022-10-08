@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "13B0E28A01DEADAB",
+    "name": "Darth Validator",
+    "website": "https://darthvalidator.github.io/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

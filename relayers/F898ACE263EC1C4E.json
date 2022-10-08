@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "F898ACE263EC1C4E",
+    "name": "NewroadNetwork",
+    "website": "https://newroad.network",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

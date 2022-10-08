@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "7DAC30FBD99879B0",
+    "name": "Fission Labs",
+    "website": "https://fissionlabs.io/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

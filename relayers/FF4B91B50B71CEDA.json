@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "FF4B91B50B71CEDA",
+    "name": "Cosmic Validator",
+    "website": "https://cosmicvalidator.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

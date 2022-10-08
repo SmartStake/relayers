@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "E5CA7CFB7F41CBAE",
+    "name": "vNodes Please Redelegate - Shutting Down",
+    "website": "www.vnodes.cloud",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

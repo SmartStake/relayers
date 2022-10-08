@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "AF9D7EF7CC70CE24",
+    "name": "Synergy Nodes",
+    "website": "https://www.synergynodes.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "KUJI",
+            "relayerAddress": null
+        }
+    ]
+}

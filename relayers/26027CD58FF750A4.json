@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "26027CD58FF750A4",
+    "name": "CAPAPULT",
+    "website": "http://kuji.capapult.finance",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

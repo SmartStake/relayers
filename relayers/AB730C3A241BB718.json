@@ -1,0 +1,20 @@
+{
+    "keybaseIdentity": "AB730C3A241BB718",
+    "name": "Architect Nodes",
+    "website": "https://www.architectnodes.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": null
+        }
+    ]
+}

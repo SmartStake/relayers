@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "4A3FFC803A0A04A3",
+    "name": "MTnode",
+    "website": "",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "STARS",
+            "relayerAddress": null
+        }
+    ]
+}

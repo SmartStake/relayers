@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "28B9D5E5A532428A",
+    "name": "Node Rangers",
+    "website": "",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

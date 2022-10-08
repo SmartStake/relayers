@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "12A956E65CB71882",
+    "name": "Neptune Stake (TSXV:DASH)",
+    "website": "https://neptunedash.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

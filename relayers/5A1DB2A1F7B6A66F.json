@@ -1,0 +1,24 @@
+{
+    "keybaseIdentity": "5A1DB2A1F7B6A66F",
+    "name": "AM Solutions ?",
+    "website": "https://www.theamsolutions.info",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "KUJI",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": null
+        }
+    ]
+}

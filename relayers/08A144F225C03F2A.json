@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "08A144F225C03F2A",
+    "name": "ChainofSecrets.org",
+    "website": "",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

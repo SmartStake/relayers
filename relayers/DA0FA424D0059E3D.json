@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "DA0FA424D0059E3D",
+    "name": "OtterSync",
+    "website": "https://ottersync.io",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

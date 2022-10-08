@@ -1,0 +1,20 @@
+{
+    "keybaseIdentity": "21A67C27F1A9CD69",
+    "name": "D-stake",
+    "website": "https://d-stake.xyz",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "STARS",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": null
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "3122925C291E2E74",
+    "name": "ys-validator",
+    "website": "",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

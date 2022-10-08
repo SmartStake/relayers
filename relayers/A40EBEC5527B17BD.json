@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "A40EBEC5527B17BD",
+    "name": "Hindsight",
+    "website": "https://hindsightcrypto.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

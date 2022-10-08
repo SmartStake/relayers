@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "E502A6FEA3CCA836",
+    "name": "Invicta Stake",
+    "website": "https://invictastake.com/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

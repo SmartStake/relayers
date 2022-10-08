@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "E973700FB1927C26",
+    "name": "Bloclick | autocompound on restake",
+    "website": "https://www.bloclick.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "STARS",
+            "relayerAddress": null
+        }
+    ]
+}

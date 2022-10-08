@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "2861F5EE06627224",
+    "name": "Forbole",
+    "website": "https://forbole.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "INJ",
+            "relayerAddress": null
+        }
+    ]
+}

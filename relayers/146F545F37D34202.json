@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "146F545F37D34202",
+    "name": "White Marlin Staking",
+    "website": "https://twitter.com/WhiteMarlin4",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

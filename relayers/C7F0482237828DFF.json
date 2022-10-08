@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "C7F0482237828DFF",
+    "name": "Autism Staking",
+    "website": "",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

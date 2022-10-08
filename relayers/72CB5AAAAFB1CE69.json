@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "72CB5AAAAFB1CE69",
+    "name": "Compass",
+    "website": "http://val.network/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

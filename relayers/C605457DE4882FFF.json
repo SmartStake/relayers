@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "C605457DE4882FFF",
+    "name": "Luna Rewards",
+    "website": "https://lunarewards.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

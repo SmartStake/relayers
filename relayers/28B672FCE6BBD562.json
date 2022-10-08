@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "28B672FCE6BBD562",
+    "name": "Nodes.Guru",
+    "website": "https://stake.nodes.guru",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

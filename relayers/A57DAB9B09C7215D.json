@@ -1,0 +1,20 @@
+{
+    "keybaseIdentity": "A57DAB9B09C7215D",
+    "name": "bro_n_bro",
+    "website": "monitor.bronbro.io/d/akt-stats",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "JUNO",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": null
+        }
+    ]
+}

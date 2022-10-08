@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "DA413860B22A8E07",
+    "name": "LikeCoin by Liker Land",
+    "website": "https://like.co",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "OSMO",
+            "relayerAddress": null
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "C67939CB33561F62",
+    "name": "greennode.pt 0% fee",
+    "website": "https://www.greennode.pt",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

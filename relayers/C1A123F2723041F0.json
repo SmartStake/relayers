@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "C1A123F2723041F0",
+    "name": "Genesis Lab",
+    "website": "https://genesislab.net",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

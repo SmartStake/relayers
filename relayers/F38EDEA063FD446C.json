@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "F38EDEA063FD446C",
+    "name": "Blockscale",
+    "website": "https://blockscale.net",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

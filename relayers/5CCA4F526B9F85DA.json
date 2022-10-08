@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "5CCA4F526B9F85DA",
+    "name": "Cypher Core",
+    "website": "https://cyphercore.io",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "OSMO",
+            "relayerAddress": null
+        }
+    ]
+}

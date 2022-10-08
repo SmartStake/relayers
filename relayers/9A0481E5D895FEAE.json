@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "9A0481E5D895FEAE",
+    "name": "stake-machine.com",
+    "website": "https://stake-machine.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

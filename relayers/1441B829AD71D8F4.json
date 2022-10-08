@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "1441B829AD71D8F4",
+    "name": "e-Money.com // validator.network",
+    "website": "https://e-money.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "keybaseIdentity": "B41FCF161C4B971B",
+    "name": "SpacePotato",
+    "website": "https://spacepotayto.carrd.co/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "JUNO",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": null
+        }
+    ]
+}

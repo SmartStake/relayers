@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "671A36F80118D52E",
+    "name": "PerfectStake",
+    "website": "",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

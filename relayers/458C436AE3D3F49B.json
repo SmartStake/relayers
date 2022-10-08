@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "458C436AE3D3F49B",
+    "name": "MissionControl",
+    "website": "https://mcontrol.ml",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

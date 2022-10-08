@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "F685CC35D748424C",
+    "name": "Castlenode",
+    "website": "https://www.castlenode.com/cosmos",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

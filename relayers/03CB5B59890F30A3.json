@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "03CB5B59890F30A3",
+    "name": "Sigma",
+    "website": "https://sigma.town",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

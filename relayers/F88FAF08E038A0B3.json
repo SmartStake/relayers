@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "F88FAF08E038A0B3",
+    "name": "coreweave",
+    "website": "https://coreweave.com",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "F15A1E2CFA1D2959",
+    "name": "Dgtize Stake",
+    "website": "https://dgtize.ventures",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

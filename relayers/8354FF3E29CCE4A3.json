@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "8354FF3E29CCE4A3",
+    "name": "Bwlnet",
+    "website": "https://bwl.network",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}

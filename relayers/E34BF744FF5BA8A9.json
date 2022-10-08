@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "E34BF744FF5BA8A9",
+    "name": "ChainodeTech",
+    "website": "https://chainode.tech/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "",
+            "relayerAddress": null
+        }
+    ]
+}
