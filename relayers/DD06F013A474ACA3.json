@@ -2,10 +2,10 @@
     "keybaseIdentity": "DD06F013A474ACA3",
     "name": "Smart Stake",
     "website": "smartstake.io",
-    "twitter": null,
-    "telegram": null,
+    "twitter": "twitter.com/SmartStake",
+    "telegram": "t.me/SmartStake",
     "discord": null,
-    "email": null,
+    "email": "info@smartstake.io",
     "supportRelayerBy": "delegate to validator",
     "chainsRelayed": [
         {
