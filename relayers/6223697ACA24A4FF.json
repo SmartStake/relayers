@@ -6,7 +6,7 @@
     "telegram": null,
     "discord": null,
     "email": null,
-    "supportRelayerBy": "delegate to validator",
+    "supportRelayerBy": "delegating to validator",
     "chainsRelayed": [
         {
             "ticker": "AXL",
