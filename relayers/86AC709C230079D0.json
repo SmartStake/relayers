@@ -2,19 +2,26 @@
     "keybaseIdentity": "86AC709C230079D0",
     "name": "PFC",
     "website": "https://pfc-validator.github.io/",
-    "twitter": null,
+    "twitter": "PFC_Validator",
     "telegram": null,
-    "discord": null,
+    "discord": "https://discord.gg/TfagT39TdQ",
     "email": null,
     "supportRelayerBy": "delegating to validator",
     "chainsRelayed": [
         {
             "ticker": "INJ",
-            "relayerAddress": null
+            "relayerAddress": "inj12qsz2ks3c88knmdg70naeu8xap6reeex9vyjg6"
         },
         {
             "ticker": "KUJI",
-            "relayerAddress": null
-        }
+            "relayerAddress": "kujira169aklus45swma32lwhjdpw8jaawsfk9g0ffl7n"
+        },
+        {"ticker":"LUNC","relayeraddress":"terra14cpqjy6tfryrqlwyycyy7hca5uzrdyqh0leked"},
+        {"ticker":"ATOM","relayeraddress":"cosmos1wqp8yslqh2mdvxzgljsde8wu6nyjp4qyk5ccwh"},
+        {"ticker":"EVMOS","relayeraddress":"evmos13mjl2wha3887np37e7gklrv5zv6ytmfh9k27vr"},
+        {"ticker":"LUNA","relayeraddress":"terra14cpqjy6tfryrqlwyycyy7hca5uzrdyqh0leked"},
+        {"ticker":"SCRT","relayeraddress":"secret1q5uvvkg0wp94hpnc8argyjr9ldgqyuty86r68v"},
+        {"ticker":"STRD","relayeraddress":"stride169aklus45swma32lwhjdpw8jaawsfk9ga2tm84"}
+        
     ]
 }
