@@ -2,10 +2,10 @@
     "keybaseIdentity": "5F1D6AC7EA588676",
     "name": "cros-nest",
     "website": "http://www.cros-nest.com",
-    "twitter": null,
+    "twitter": "https://twitter.com/crosnest_com",
     "telegram": null,
-    "discord": null,
-    "email": null,
+    "discord": "https://discord.gg/psDap3ed7C",
+    "email": "chainmaster@cros-nest.com",
     "supportRelayerBy": "delegating to validator",
     "chainsRelayed": [
         {
