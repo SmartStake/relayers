@@ -10,67 +10,67 @@
     "chainsRelayed": [
         {
             "ticker": "AKT",
-            "relayerAddress": null
+            "relayerAddress": "akash18yln7vx0n6qvta7kdcq0qheuwr06a7xjtt9ncn"
         },
         {
             "ticker": "ATOM",
-            "relayerAddress": null
+            "relayerAddress": "cosmos1wwxeusrluapjewppth29mp0dn6d8kukpa0l4zx"
         },
         {
             "ticker": "AXL",
-            "relayerAddress": null
+            "relayerAddress": "axelar1x32drz3d77r0ggk9xfmrrshjunljj6l0z8vtsc"
         },
         {
             "ticker": "BAND",
-            "relayerAddress": null
+            "relayerAddress": "band1grgqpjavx7u2rda5glwwq682h3ukvltk2q3yr6"
         },
         {
-            "ticker": "CC",
-            "relayerAddress": null
+            "ticker": "CRO",
+            "relayerAddress": "cro1tt4p7q85yhngggzrq2pt0guurdht0q8z8ry8mj"
         },
         {
             "ticker": "CRE",
-            "relayerAddress": null
+            "relayerAddress": "cre1nx0e3t2kqj3c6ctx06numtu9mvxxkm2848l296"
         },
         {
             "ticker": "EVMOS",
-            "relayerAddress": null
+            "relayerAddress": "evmos14wp74cy9ymmt204n4u43jsusy3l4xchdrxh5nh"
         },
         {
             "ticker": "INJ",
-            "relayerAddress": null
+            "relayerAddress": "inj19cxl8av38pjgn4mwv7f7rn59heh89vmvnlv2gu"
         },
         {
             "ticker": "JUNO",
-            "relayerAddress": null
+            "relayerAddress": "juno12mczzwe9jsgejx0vccjwa7gyl2zhjus664uqdy"
         },
         {
             "ticker": "KUJI",
-            "relayerAddress": null
+            "relayerAddress": "kujira1hf80p6qv0uc89d0wxn6p9ucy0kdd02k3q448rg"
         },
         {
             "ticker": "LUNA",
-            "relayerAddress": null
+            "relayerAddress": "terra1d5alddupekh5xucqqjsqapknncf76nwlvse3hc"
         },
         {
             "ticker": "OSMO",
-            "relayerAddress": null
+            "relayerAddress": "osmo1v6evmh0wdfvs56nrkq0dd66yvpuj3paq3gzksp"
         },
         {
             "ticker": "SCRT",
-            "relayerAddress": null
+            "relayerAddress": "secret1f07drt6s8jdjdc5gdmqss3zndwpdneaxvuntr3"
         },
         {
             "ticker": "STARS",
-            "relayerAddress": null
+            "relayerAddress": "stars1nsltpdnaz4julm0cen5teyc4hjpqmnr5wnj3fx"
         },
         {
             "ticker": "STRD",
-            "relayerAddress": null
+            "relayerAddress": "stride1asdzeurp6km7284xd23vuw4q3hsx3wlx4vjvcs"
         },
         {
             "ticker": "XPRT",
-            "relayerAddress": null
+            "relayerAddress": "persistence1zycp4k7wrslx7dc5vw4c2ufkss2pfgfexrlrxl"
         }
     ]
 }
