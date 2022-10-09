@@ -1,16 +1,19 @@
 {
     "keybaseIdentity": "6EAA935D0E26A462",
-    "name": "StakeRun",
+    "name": "StakeRun/Testnetrun",
     "website": "https://stake.testnet.run",
-    "twitter": null,
-    "telegram": null,
+    "twitter": "twitter.com/testnetrun",
+    "telegram": "t.me/testnetrun",
     "discord": null,
-    "email": null,
-    "supportRelayerBy": "delegating to validator",
+    "email": "info@testnet.run",
+    "supportRelayerBy": "Wanna support us? Well, Stake with StakeRun",
     "chainsRelayed": [
-        {
-            "ticker": "AXL",
-            "relayerAddress": null
-        }
+            {"ticker": "AXL", "relayerAddress": "axelar1fgkvrphcnwckj2pp5hdvy5zvrc25aa0de7f99f"},
+            {"ticker": "OSMO", "relayerAddress": "osmo1fgkvrphcnwckj2pp5hdvy5zvrc25aa0d4tvac6"},
+            {"ticker": "ATOM", "relayerAddress": "cosmos1fgkvrphcnwckj2pp5hdvy5zvrc25aa0dasldwg"},
+            {"ticker": "EVMOS", "relayerAddress": "evmos1q9snmdfrpxk2ma992333qhyp3ntxh02nuyqhz0"},
+            {"ticker": "KUJI", "relayerAddress": "kujira1fgkvrphcnwckj2pp5hdvy5zvrc25aa0dvca4rz"},
+            {"ticker": "STRD", "relayerAddress": "stride1fgkvrphcnwckj2pp5hdvy5zvrc25aa0d7ml36y"},
+            {"ticker": "SCRT", "relayerAddress": "secret1fgkvrphcnwckj2pp5hdvy5zvrc25aa0dl4tyn5"}
     ]
 }
