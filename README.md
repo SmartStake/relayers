@@ -10,7 +10,7 @@ If you run relayer on any of the IBC chains, your relayer will be shown on Inter
  1. If you dont have a keybase.io identity, make sure you set up one (ideally with a logo). Note down your 16 character keybase identity.
  2. Fork this repository
  3. In your own instance of the repository, locate your <identity>.json file in relayers folder
- 4. If &lt;identity&gt;.json file is present, review the information and update details. If file is not present, create the file (e.g. DD01D013A474ACA3.json) and add details. The JSON file has below given structure (see sample values & explanation). Please note that chains relayed attribute will support all IBC chains irrespective of whether Smart Stake is a validator or not for that chain (chains validated is pulled from on chain data and is not part of this template).
+ 4. If &lt;identity&gt;.json file is present, review the information and update details. If file is not present, create the file (e.g. DD01D013A474ACA3.json) and add details. The JSON file has below given structure (see sample values & explanation). Please note that chains relayed attribute will support all IBC chains irrespective of whether Smart Stake is a validator or not for that chain (chains validated is pulled from on chain data and is not part of this template). Please pay attention to the case of attributes (e.g. relayerAddress is the correct attribute name and relayeraddress is wrong)
  ```   
  {
     	"keybaseIdentity": "DD01D013A474ACA3",
