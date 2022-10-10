@@ -1,0 +1,48 @@
+{
+    "keybaseIdentity": "94EFE192B2C52424",
+    "name": "NodeStake",
+    "website": "https://nodestake.top",
+    "twitter": "https://twitter.com/NodeStake_top",
+    "telegram": "https://t.me/NodeStake",
+    "discord": "https://discord.gg/puGTkXvkE8",
+    "email": "info@nodestake.top",
+    "supportRelayerBy": "delegating to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "BLD",
+            "relayerAddress": "agoric1nms20r7jzaa4ms9exv90ckl2xfn0rd3rukf9c6"
+        },
+        {
+            "ticker": "CRE",
+            "relayerAddress": "cre1nms20r7jzaa4ms9exv90ckl2xfn0rd3r2rclap"
+        },
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": "evmos1adeu5xycnvc4dme94mjj7zkdfch0vj8yf5t6fl"
+        },
+        {
+            "ticker": "FLIX",
+            "relayerAddress": "omniflix1nms20r7jzaa4ms9exv90ckl2xfn0rd3rn46rlj"
+        }, 
+        {
+            "ticker": "GRAV",
+            "relayerAddress": "gravity1nms20r7jzaa4ms9exv90ckl2xfn0rd3r2mezdy"
+        },
+        {
+            "ticker": "MNTL",
+            "relayerAddress": "mantle16jhqz038fwyuurm898lr5v20shu0dpkd7tk7se"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1nms20r7jzaa4ms9exv90ckl2xfn0rd3rxsc277"
+        },
+        {
+            "ticker": "STARS",
+            "relayerAddress": "stars1nms20r7jzaa4ms9exv90ckl2xfn0rd3r6hu8ra"
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride1nms20r7jzaa4ms9exv90ckl2xfn0rd3rdqtxuq"
+        }
+    ]
+}
