@@ -1,11 +1,11 @@
 {
     "keybaseIdentity": "4D3303E20A4D2C32",
-    "name": "AutoStake ?? Slash Protected",
+    "name": "AutoStake.net",
     "website": "https://autostake.net",
-    "twitter": null,
-    "telegram": null,
-    "discord": null,
-    "email": null,
+    "twitter": "https://twitter.com/AutoStake_",
+    "telegram": "https://t.me/AutoStake_net",
+    "discord": "NGINE | AutoStake#7943",
+    "email": "support@autostake.net",
     "supportRelayerBy": "delegating to validator",
     "chainsRelayed": [
         {
@@ -14,6 +14,10 @@
         },
         {
             "ticker": "EVMOS",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "INJ",
             "relayerAddress": null
         },
         {
@@ -28,6 +32,10 @@
             "ticker": "OSMO",
             "relayerAddress": null
         },
+        {
+            "ticker": "SCRT",
+            "relayerAddress": null
+        }
         {
             "ticker": "STRD",
             "relayerAddress": null
