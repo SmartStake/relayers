@@ -1,20 +1,24 @@
 {
     "keybaseIdentity": "A47522A5527DB39F",
-    "name": "Please redelegate",
+    "name": "silent",
     "website": "https://silentvalidator.com/",
-    "twitter": null,
-    "telegram": null,
-    "discord": null,
-    "email": null,
+    "twitter": "https://twitter.com/EthExploring",
+    "telegram": "https://t.me/stakewithsilent",
+    "discord": "https://discord.gg/95hXhcAWeB",
+    "email": "silentvalidator@gmail.com",
     "supportRelayerBy": "delegating to validator",
     "chainsRelayed": [
         {
             "ticker": "EVMOS",
-            "relayerAddress": null
+            "relayerAddress": "evmos1sw0n85xj7lsuq6k5uhrc8q23vj3p4gc2td3ulx"
         },
         {
             "ticker": "STARS",
-            "relayerAddress": null
+            "relayerAddress": "stars1ntn96vkz77ky5kdnetyjtz2883fqwacly4jfvr"
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride1ntn96vkz77ky5kdnetyjtz2883fqwaclnz9gn7"
         }
     ]
 }
