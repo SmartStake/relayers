@@ -2,15 +2,19 @@
     "keybaseIdentity": "DA413860B22A8E07",
     "name": "LikeCoin by Liker Land",
     "website": "https://like.co",
-    "twitter": null,
+    "twitter": "likecoin",
     "telegram": null,
-    "discord": null,
+    "discord": "https://discord.gg/likecoin",
     "email": null,
     "supportRelayerBy": "delegating to validator",
     "chainsRelayed": [
         {
             "ticker": "OSMO",
-            "relayerAddress": null
+            "relayerAddress": "osmo19vpyrq9wt7hecx6czp7x8lkspnyy64v7zpkl6m"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1s698xmm0ff4mvhxynpenx7zlf04c3x0lrp5tyz"
         }
     ]
 }
