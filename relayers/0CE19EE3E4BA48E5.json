@@ -1,0 +1,24 @@
+{
+    "keybaseIdentity": "0CE19EE3E4BA48E5",
+    "name": "in3s.com",
+    "website": "https://in3s.com/",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegating to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1vldshr3rznnhrdm40p6d5qy2km3n799jt20ssx"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1vldshr3rznnhrdm40p6d5qy2km3n799jr3uqx5"
+        },
+        {
+            "ticker": "IOV",
+            "relayerAddress": "star1yf9wf545nrsyrx9ema9uavvargzkawjjw532pn"
+        }
+    ]
+}
