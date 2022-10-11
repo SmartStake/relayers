@@ -2,9 +2,9 @@
     "keybaseIdentity": "1326A75B9148A214",
     "name": "Silk Nodes",
     "website": "SilkNodes.io",
-    "twitter": "twitter.com/silk_nodes",
-    "telegram": "t.me/silknodes",
-    "discord": "discord.silknodes.io",
+    "twitter": "silk_nodes",
+    "telegram": "silknodes",
+    "discord": "https://discord.silknodes.io",
     "email": "info@silknodes.io",
     "supportRelayerBy": "delegating to validator",
     "chainsRelayed": [
