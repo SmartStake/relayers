@@ -1,0 +1,40 @@
+{
+    "keybaseIdentity": "1C5ACD2EEF363C3A",
+    "name": "kjnodes",
+    "website": "kjnodes.com",
+    "twitter": "kjnodes",
+    "telegram": "kjnodes",
+    "discord": "kjnodes#8455",
+    "email": "stake@kjnodes.com",
+    "supportRelayerBy": "delegating to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride1rah0cmrffyew5c5m94deqewmnrvl3vtkcucnfj"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1rah0cmrffyew5c5m94deqewmnrvl3vtknvtltv"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1rah0cmrffyew5c5m94deqewmnrvl3vtkmhc0a7"
+        },
+        {
+            "ticker": "KUJI",
+            "relayerAddress": "kujira1rah0cmrffyew5c5m94deqewmnrvl3vtk2l6hs5"
+        },
+        {
+            "ticker": "BLD",
+            "relayerAddress": "agoric1rah0cmrffyew5c5m94deqewmnrvl3vtkf26sdg"
+        },
+        {
+            "ticker": "GRAVITON",
+            "relayerAddress": "gravity1rah0cmrffyew5c5m94deqewmnrvl3vtkl82hck"
+        },
+        {
+            "ticker": "TORI",
+            "relayerAddress": "tori1rah0cmrffyew5c5m94deqewmnrvl3vtker0xxw"
+        }
+    ]
+}
