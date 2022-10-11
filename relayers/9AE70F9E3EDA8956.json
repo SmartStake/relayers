@@ -13,6 +13,10 @@
             "relayerAddress": null
         },
         {
+            "ticker": "INJ",
+            "relayerAddress": null
+        },
+        {
             "ticker": "JUNO",
             "relayerAddress": null
         },
