@@ -2,19 +2,143 @@
     "keybaseIdentity": "27FD74457A21B020",
     "name": "Inter Blockchain Services (former 3Tekos)",
     "website": "https://ibs.team",
-    "twitter": null,
+    "twitter": "https://twitter.com/IBSvalidator",
     "telegram": null,
     "discord": null,
-    "email": null,
+    "email": "contact@ibs.team",
     "supportRelayerBy": "delegating to validator",
     "chainsRelayed": [
         {
-            "ticker": "KUJI",
-            "relayerAddress": null
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1evdjzy3w9t2yu54w4dhc2cvrlc2fvnpts7qstc"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos14uyfxlv00lj0qhcwt7vms2rsf7kxuld75qcj6u"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1evdjzy3w9t2yu54w4dhc2cvrlc2fvnptc9nqa2"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo16vmp7sz28pnvgz6f3zm6q93y39jsd33auhkawj"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo14uyfxlv00lj0qhcwt7vms2rsf7kxuld7umtzvw"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar1evdjzy3w9t2yu54w4dhc2cvrlc2fvnpt5skcqe"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar14uyfxlv00lj0qhcwt7vms2rsf7kxuld7sww63a"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar16vmp7sz28pnvgz6f3zm6q93y39jsd33aszn9np"
+        },
+        {
+            "ticker": "JUNO",
+            "relayerAddress": "juno1evdjzy3w9t2yu54w4dhc2cvrlc2fvnptxvrtvy"
+        },
+        {
+            "ticker": "JUNO",
+            "relayerAddress": "juno16vmp7sz28pnvgz6f3zm6q93y39jsd33az7xklu"
+        },
+        {
+            "ticker": "JUNO",
+            "relayerAddress": "juno14uyfxlv00lj0qhcwt7vms2rsf7kxuld7zjmfaq"
         },
         {
             "ticker": "STARS",
-            "relayerAddress": null
+            "relayerAddress": "stars1evdjzy3w9t2yu54w4dhc2cvrlc2fvnptyzhdqf"
+        },
+        {
+            "ticker": "ROWAN",
+            "relayerAddress": "sif1evdjzy3w9t2yu54w4dhc2cvrlc2fvnpt4r0xyn"
+        },
+        {
+            "ticker": "ROWAN",
+            "relayerAddress": "sif16vmp7sz28pnvgz6f3zm6q93y39jsd33a332mht"
+        },
+        {
+            "ticker": "ROWAN",
+            "relayerAddress": "sif14uyfxlv00lj0qhcwt7vms2rsf7kxuld73ahy4h"
+        },
+        {
+            "ticker": "KUJI",
+            "relayerAddress": "kujira1evdjzy3w9t2yu54w4dhc2cvrlc2fvnptpkzgxj"
+        },
+        {
+            "ticker": "KUJI",
+            "relayerAddress": "kujira14uyfxlv00lj0qhcwt7vms2rsf7kxuld79g62hk"
+        },
+        {
+            "ticker": "KUJI",
+            "relayerAddress": "kujira16vmp7sz28pnvgz6f3zm6q93y39jsd33a9y8442"
+        },
+        {
+            "ticker": "BAND",
+            "relayerAddress": "band1evdjzy3w9t2yu54w4dhc2cvrlc2fvnptf3qjns"
+        },
+        {
+            "ticker": "BCNA",
+            "relayerAddress": "bcna1evdjzy3w9t2yu54w4dhc2cvrlc2fvnpt2ws3r2"
+        },
+        {
+            "ticker": "XKI",
+            "relayerAddress": "ki1evdjzy3w9t2yu54w4dhc2cvrlc2fvnptpn3l0v"
+        },
+        {
+            "ticker": "GRAV",
+            "relayerAddress": "gravity1evdjzy3w9t2yu54w4dhc2cvrlc2fvnpt5wjgws"
+        },
+        {
+            "ticker": "GRAV",
+            "relayerAddress": "gravity16vmp7sz28pnvgz6f3zm6q93y39jsd33asuh4ag"
+        },
+        {
+            "ticker": "DSM",
+            "relayerAddress": "desmos1evdjzy3w9t2yu54w4dhc2cvrlc2fvnptyxdquq"
+        },
+        {
+            "ticker": "KAVA",
+            "relayerAddress": "kava1evdjzy3w9t2yu54w4dhc2cvrlc2fvnptvt5dal"
+        },
+        {
+            "ticker": "GLX",
+            "relayerAddress": "galaxy16vmp7sz28pnvgz6f3zm6q93y39jsd33agnrdnj"
+        },
+        {
+            "ticker": "DEC",
+            "relayerAddress": "decentr1evdjzy3w9t2yu54w4dhc2cvrlc2fvnptmsxy2s"
+        },
+        {
+            "ticker": "IXO",
+            "relayerAddress": "ixo1evdjzy3w9t2yu54w4dhc2cvrlc2fvnpt0t7z0t"
+        },
+        {
+            "ticker": "FETCH",
+            "relayerAddress": "fetch1evdjzy3w9t2yu54w4dhc2cvrlc2fvnptrrf5f0"
+        },
+        {
+            "ticker": "NGM",
+            "relayerAddress": "emoney14uyfxlv00lj0qhcwt7vms2rsf7kxuld7mrzxdp"
+        },
+        {
+            "ticker": "ATOLO",
+            "relayerAddress": "rizon16vmp7sz28pnvgz6f3zm6q93y39jsd33ah3eu5c"
+        },
+        {
+            "ticker": "HASH",
+            "relayerAddress": "pb16vmp7sz28pnvgz6f3zm6q93y39jsd33aazwg4u"
+        },
+        {
+            "ticker": "LUM",
+            "relayerAddress": "lum14uyfxlv00lj0qhcwt7vms2rsf7kxuld7p29m0g"
         }
     ]
 }
