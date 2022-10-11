@@ -2,31 +2,31 @@
     "keybaseIdentity": "1326A75B9148A214",
     "name": "Silk Nodes",
     "website": "SilkNodes.io",
-    "twitter": null,
-    "telegram": null,
-    "discord": null,
-    "email": null,
+    "twitter": "twitter.com/silk_nodes",
+    "telegram": "t.me/silknodes",
+    "discord": "discord.silknodes.io",
+    "email": "info@silknodes.io",
     "supportRelayerBy": "delegating to validator",
     "chainsRelayed": [
         {
             "ticker": "ATOM",
-            "relayerAddress": null
+            "relayerAddress": "cosmos17ld6vnfumezwtw36pt37l0xyuknzxgha3desfz"
         },
         {
             "ticker": "EVMOS",
-            "relayerAddress": null
+            "relayerAddress": "evmos1760tpjzhn8372kgnqly4845zs0j6lr4zh7845l"
         },
         {
             "ticker": "JUNO",
-            "relayerAddress": null
+            "relayerAddress": "juno17ld6vnfumezwtw36pt37l0xyuknzxgha8l6tw7"
         },
         {
             "ticker": "OSMO",
-            "relayerAddress": null
+            "relayerAddress": "osmo17ld6vnfumezwtw36pt37l0xyuknzxghaek2qls"
         },
         {
             "ticker": "STRD",
-            "relayerAddress": null
+            "relayerAddress": "stride17ld6vnfumezwtw36pt37l0xyuknzxghajxevaw"
         }
     ]
 }
