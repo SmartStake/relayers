@@ -43,6 +43,10 @@
         {
             "ticker": "EVMOS",
             "relayerAddress": "evmos1yj7s5n7gy8acm84c5crkpn0cfuequ88jeeqg7n"
+        },
+        {
+            "ticker": "LUNA",
+            "relayerAddress": "terra1x6uad53ef8kw7l6uh2ah9drz27jjycdy5jrvls"
         }
     ]
 }
