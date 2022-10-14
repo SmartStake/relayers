@@ -2,15 +2,47 @@
     "keybaseIdentity": "D55266E648F3F70B",
     "name": "Staketab",
     "website": "https://staketab.com/",
-    "twitter": null,
+    "twitter": "https://twitter.com/staketab",
     "telegram": null,
-    "discord": null,
-    "email": null,
+    "discord": "https://discord.gg/UBQ85uSyAU",
+    "email": "support@staketab.com",
     "supportRelayerBy": "delegating to validator",
     "chainsRelayed": [
         {
             "ticker": "STARS",
-            "relayerAddress": null
+            "relayerAddress": "stars1p4l9938m3zrus9j56s85p7kevh7x6kckmuk62j"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1udcdc278lsaawuznfk7g00vn9n5cl6yz2tsxe2"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1udcdc278lsaawuznfk7g00vn9n5cl6yzzsrk0c"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar1udcdc278lsaawuznfk7g00vn9n5cl6yzx747ye"
+        },
+        {
+            "ticker": "GRAVITON",
+            "relayerAddress": "gravity1udcdc278lsaawuznfk7g00vn9n5cl6yzxq3w2s"
+        },
+        {
+            "ticker": "DSM",
+            "relayerAddress": "desmos1mnj8r2vyg357kc42apccrax77p5tel7flhw06s"
+        },
+        {
+            "ticker": "UMEE",
+            "relayerAddress": "umee1udcdc278lsaawuznfk7g00vn9n5cl6yzsx7ft2"
+        },
+        {
+            "ticker": "FLIX",
+            "relayerAddress": "omniflix1udcdc278lsaawuznfk7g00vn9n5cl6yzlwj0cx"
+        },
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": "evmos1yj7s5n7gy8acm84c5crkpn0cfuequ88jeeqg7n"
         }
     ]
 }
