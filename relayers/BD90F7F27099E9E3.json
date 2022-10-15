@@ -1,19 +1,43 @@
 {
     "keybaseIdentity": "BD90F7F27099E9E3",
-    "name": "Stake&Relax Validator ?",
-    "website": "https://twitter.com/StakeandRelax",
-    "twitter": null,
-    "telegram": null,
-    "discord": null,
+    "name": "Stake&Relax Validator",
+    "website": "https://linktr.ee/stakeandrelax",
+    "twitter": "https://twitter.com/StakeandRelax",
+    "telegram": "https://t.me/StakeandRelaxOfficial",
+    "discord": "https://discord.gg/n5ppkNEu",
     "email": null,
     "supportRelayerBy": "delegating to validator",
     "chainsRelayed": [
         {
-            "ticker": "JUNO",
+            "ticker": "AKT",
             "relayerAddress": null
         },
         {
+            "ticker": "JUNO",
+            "relayerAddress": null
+        }
+        {
             "ticker": "STRD",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "BTSG",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "SCRT",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "XPRT",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "NGM",
             "relayerAddress": null
         }
     ]
