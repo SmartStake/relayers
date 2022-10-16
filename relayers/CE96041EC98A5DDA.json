@@ -1,0 +1,24 @@
+{
+    "keybaseIdentity": "CE96041EC98A5DDA",
+    "name": "GalaxyStaking",
+    "website": "https://galaxystaking.space",
+    "twitter": null,
+    "telegram": "https://t.me/+CjNyaEDCtEY2YjRh",
+    "discord": "https://discord.gg/C4dhbW23WW",
+    "email": "admin@galaxystaking.space",
+    "supportRelayerBy": "delegating to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "CRO",
+            "relayerAddress": "cro1lwymrvh7vpwzqfkgpvjtz2y5gqelw4m7tq0w3e"
+        },
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": "evmos14jjwzpde80hx9m97pmm5z4c0eydyrn83ndlxrh"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1t76d0xn5r54v4s7n0w4t2kgpx9fce3axmz2cye"
+        }
+    ]
+}
