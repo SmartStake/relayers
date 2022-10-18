@@ -1,0 +1,20 @@
+{
+    "keybaseIdentity": "E072BD129BFECFB1",
+    "name": "IcyCRO",
+    "website": "https://www.icycro.org",
+    "twitter": "https://twitter.com/IcyCro",
+    "telegram": "https://t.me/IcyCROchat",
+    "discord": null,
+    "email": "team@icycro.org",
+    "supportRelayerBy": "delegating to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1p7d8mnjttcszv34pk2a5yyug3474mhffasa7tg"
+        },
+        {
+            "ticker": "JUNO",
+            "relayerAddress": "juno1nna7k5lywn99cd63elcfqm6p8c5c4qcu787zwg"
+        }
+    ]
+}
