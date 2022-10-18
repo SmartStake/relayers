@@ -15,6 +15,14 @@
         {
             "ticker": "JUNO",
             "relayerAddress": "juno1nna7k5lywn99cd63elcfqm6p8c5c4qcu787zwg"
+        },
+        {
+            "ticker": "STARS",
+            "relayerAddress": "stars1nna7k5lywn99cd63elcfqm6p8c5c4qcuuf2yz9"
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride1nna7k5lywn99cd63elcfqm6p8c5c4qcut7a9ac"
         }
     ]
 }
