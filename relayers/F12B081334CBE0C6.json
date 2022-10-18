@@ -2,35 +2,83 @@
     "keybaseIdentity": "F12B081334CBE0C6",
     "name": "StakeLab",
     "website": "https://www.stakelab.fr",
-    "twitter": null,
-    "telegram": null,
+    "twitter": "https://twitter.com/StakeLab",
+    "telegram": "https://t.me/stakelab_fr",
     "discord": null,
-    "email": null,
+    "email": "securite@stakelab.fr",
     "supportRelayerBy": "delegating to validator",
     "chainsRelayed": [
         {
+            "ticker": "AKASH",
+            "relayerAddress": "akash1mjq48r6435aewerpruwc8up3tz3rzan2pznsc0"
+        },
+        {
             "ticker": "ATOM",
-            "relayerAddress": null
+            "relayerAddress": "cosmos1mjq48r6435aewerpruwc8up3tz3rzan2ve7hp4"
         },
         {
             "ticker": "AXL",
-            "relayerAddress": null
+            "relayerAddress": "axelar1mjq48r6435aewerpruwc8up3tz3rzan2ghgl25"
+        },
+        {
+            "ticker": "CRE",
+            "relayerAddress": "cre1mjq48r6435aewerpruwc8up3tz3rzan2g3dj5c"
+        },
+        {
+            "ticker": "DVPN",
+            "relayerAddress": "sent1mjq48r6435aewerpruwc8up3tz3rzan2hzgw96"
+        },
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": "evmos1a42uyha4dxw279uypzwg3r6vth7k3uqnr50w4v"
+        },
+        {
+            "ticker": "GRAV",
+            "relayerAddress": "gravity1mjq48r6435aewerpruwc8up3tz3rzan2gfv0ya"
+        },
+        {
+            "ticker": "HUAHUA",
+            "relayerAddress": "chihuahua1mjq48r6435aewerpruwc8up3tz3rzan20vneqh"
         },
         {
             "ticker": "INJ",
-            "relayerAddress": null
+            "relayerAddress": "inj1a42uyha4dxw279uypzwg3r6vth7k3uqntufyau"
+        },
+        {
+            "ticker": "IRIS",
+            "relayerAddress": "iaa1mjq48r6435aewerpruwc8up3tz3rzan2em7xry"
         },
         {
             "ticker": "JUNO",
-            "relayerAddress": null
+            "relayerAddress": "juno1mjq48r6435aewerpruwc8up3tz3rzan26tavxf"
+        },
+        {
+            "ticker": "KAVA",
+            "relayerAddress": "kava1mjq48r6435aewerpruwc8up3tz3rzan2sv22hj"
+        },
+        {
+            "ticker": "KUJI",
+            "relayerAddress": "kujira1mjq48r6435aewerpruwc8up3tz3rzan2a3u0vl"
         },
         {
             "ticker": "OSMO",
-            "relayerAddress": null
+            "relayerAddress": "osmo1mjq48r6435aewerpruwc8up3tz3rzan2yzd8h8"
+        },
+        {
+            "ticker": "REGEN",
+            "relayerAddress": "regen1mjq48r6435aewerpruwc8up3tz3rzan2nm4th3"
         },
         {
             "ticker": "SCRT",
-            "relayerAddress": null
+            "relayerAddress": "secret1mjq48r6435aewerpruwc8up3tz3rzan2wu27uf"
+        },
+        {
+            "ticker": "STARS",
+            "relayerAddress": "stars1mjq48r6435aewerpruwc8up3tz3rzan2c9f22y"
+        },
+        {
+            "ticker": "TORI",
+            "relayerAddress": "tori1mjq48r6435aewerpruwc8up3tz3rzan2wdf769"
         }
     ]
 }
