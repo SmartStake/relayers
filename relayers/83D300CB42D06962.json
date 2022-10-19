@@ -1,0 +1,85 @@
+{
+    "keybaseIdentity": "0A6AF02D1557E5B4",
+    "name": "stakin.com",
+    "website": "https://stakin.com",
+    "twitter": "https://twitter.com/StakinOfficial",
+    "telegram": "https://t.me/stakinofficial",
+    "discord": "https://discord.gg/bhS7ZBhD",
+    "email": "null",
+    "supportRelayerBy": "delegating to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "BLD",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "AKT",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "CRO",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "NGM",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "GRAVITY",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "IXO",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "JUNO",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "LIKE",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "PERSISTENCE",
+            "relayerAddress": null
+        },
+
+        {
+            "ticker": "REGEN",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "SECRET",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "SENT",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "SIF",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "STAR",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "UMEE",
+            "relayerAddress": null
+        },
+    ]
+}
