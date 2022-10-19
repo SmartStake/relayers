@@ -1,0 +1,14 @@
+{
+    "keybaseIdentity": "16DFCF6AF28D699D",
+    "name": "Qubelabs",
+    "website": "https://qubelabs.io",
+    "twitter": "https://twitter.com/qubelabs",
+    "telegram": "null",
+    "discord": null,
+    "email": "hello@qubelabs.io",
+    "supportRelayerBy": "Delegation to Qubelabs.io",
+    "chainsRelayed": [
+            {"ticker": "AXL", "relayerAddress": "axelar14awanvwztk4rnspjqtukq4m5lv98umw6atjnw6"},
+            {"ticker": "EVMOS", "relayerAddress": "evmos1w4tereqw45m2lqa3aea764la4ycnqrvvcndf0j"}
+            ]
+}
