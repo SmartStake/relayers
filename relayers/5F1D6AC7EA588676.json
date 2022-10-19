@@ -10,7 +10,7 @@
     "chainsRelayed": [
         {
             "ticker": "ATOM",
-            "relayerAddress": null
+            "relayerAddress": "cosmos19pjtx7dah2fquf7udyxjv94h0eraha789k37ff"
         },
         {
             "ticker": "AXL",
@@ -18,7 +18,7 @@
         },
         {
             "ticker": "CRO",
-            "relayerAddress": null
+            "relayerAddress": "cro1jrqtzmv4sqcu37tq5fhps6c37a98s8axvq39sf"
         },
         {
             "ticker": "EVMOS",
@@ -30,7 +30,7 @@
         },
         {
             "ticker": "JUNO",
-            "relayerAddress": null
+            "relayerAddress": "juno19pjtx7dah2fquf7udyxjv94h0eraha78nyj9w4"
         },
         {
             "ticker": "KUJI",
@@ -38,11 +38,59 @@
         },
         {
             "ticker": "LUNA",
-            "relayerAddress": null
+            "relayerAddress": "terra19pjtx7dah2fquf7udyxjv94h0eraha78rjt7tf"
         },
         {
             "ticker": "OSMO",
+            "relayerAddress": "osmo19pjtx7dah2fquf7udyxjv94h0eraha78ddzwlm"
+        },
+        {
+            "ticker": "HUAHUA",
+            "relayerAddress": "chihuahua19pjtx7dah2fquf7udyxjv94h0eraha78xrusgt"
+        },
+        {
+            "ticker": "COMDEX",
             "relayerAddress": null
-        }
+        },
+        {
+            "ticker": "DARC",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "DIG",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "NGM",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "FET",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "GRAV",
+            "relayerAddress": "gravity19pjtx7dah2fquf7udyxjv94h0eraha78pxrxvp"
+        },
+        {
+            "ticker": "KAVA",
+            "relayerAddress": "kava19pjtx7dah2fquf7udyxjv94h0eraha78er9rlw"
+        },
+        {
+            "ticker": "XKI",
+            "relayerAddress": "chihuahua19pjtx7dah2fquf7udyxjv94h0eraha78xrusgt"
+        },
+        {
+            "ticker": "LUM",
+            "relayerAddress": ""
+        },
+        {
+            "ticker": "FLIX",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "CRBRUS",
+            "relayerAddress": null
+        },
     ]
 }
