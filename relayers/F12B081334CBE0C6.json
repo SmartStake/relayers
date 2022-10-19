@@ -9,7 +9,7 @@
     "supportRelayerBy": "delegating to validator",
     "chainsRelayed": [
         {
-            "ticker": "AKASH",
+            "ticker": "AKT",
             "relayerAddress": "akash1mjq48r6435aewerpruwc8up3tz3rzan2pznsc0"
         },
         {
