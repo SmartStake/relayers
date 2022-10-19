@@ -1,0 +1,14 @@
+{
+   	"keybaseIdentity": "EA61A46F31742B22",
+   	"name": "DragonStake",
+   	"website": "https://dragonstake.io",
+   	"twitter": "https://twitter.com/DragonStake",
+   	"telegram": "https://t.me/DragonStake_Community",
+   	"discord": "null",
+   	"email": "hello@dragonstake.io",
+   	"supportRelayerBy": "delegate to validator",
+   	"chainsRelayed": [
+   		{"ticker": "ATOM", "relayerAddress": "cosmos1smnryd4ee43x8xrxwxktd3vwmysm6tu45nnv0c"},
+   		{"ticker": "EVMOS", "relayerAddress": "evmos1zfexgsgflsn54yr6uyhlpzyduxx0rsqfyv23j8"}
+   	]
+}
