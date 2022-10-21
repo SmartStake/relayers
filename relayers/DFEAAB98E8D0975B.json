@@ -10,7 +10,35 @@
     "chainsRelayed": [
         {
             "ticker": "EVMOS",
-            "relayerAddress": null
+            "relayerAddress": "evmos1z8w53x3ka72ep2tfutggj9hg4m4a2knw6260ee"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos18x9l43z3h6dqdatlf05gp0nr5dtw3hw9yv697y"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1gde9xqg88zgcusngqf0fnvstvtkz3fmqqc207f"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar19uavz3w7p6h0ahlyw3wkhuwtynzl902048a6x5"
+        },
+        {
+            "ticker": "CMDX",
+            "relayerAddress": "comdex17m2zjkejut4v8d9w2zql2dp7a73078jk7nhda4"
+        },
+        {
+            "ticker": "DVPN",
+            "relayerAddress": "sent1cy05vw6aqf6t3el5r6g6a07429jrau9da7llc9"
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride1jpl23pdva0k4xka6rln7uzhm8mqz2equq7096j"
+        },
+        {
+            "ticker": "NGM",
+            "relayerAddress": "emoney17mhy2662y598awhsrln7apz00ye6v4r9dv7aw3"
         }
     ]
 }
