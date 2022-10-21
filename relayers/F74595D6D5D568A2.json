@@ -10,23 +10,19 @@
      "chainsRelayed": [
         {
             "ticker": "AKT",
-            "relayerAddress": null
+            "relayerAddress": "akash1sag4vntmja3x9dhgfzwayd6c2eqdft67lhpqjl"
         },
         {
             "ticker": "ATOM",
-            "relayerAddress": null
+            "relayerAddress": "cosmos1sag4vntmja3x9dhgfzwayd6c2eqdft67jvv8t9 "
         },
         {
             "ticker": "CRE",
-            "relayerAddress": null
+            "relayerAddress": "cre1sag4vntmja3x9dhgfzwayd6c2eqdft67kylz7g"
         },
         {
             "ticker": "OSMO",
-            "relayerAddress": null
-        },
-        {
-            "ticker": "REGEN",
-            "relayerAddress": null
+            "relayerAddress": "osmo1sag4vntmja3x9dhgfzwayd6c2eqdft676hlhah"
         },
         {
             "ticker": "FLIX",
