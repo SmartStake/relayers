@@ -2,14 +2,22 @@
     "keybaseIdentity": "F74595D6D5D568A2",
     "name": "Simply Staking",
     "website": "https://simply-vc.com.mt/",
-    "twitter": null,
-    "telegram": null,
-    "discord": null,
-    "email": null,
+    "twitter": "https://twitter.com/simplystaking",
+    "telegram": "https://t.me/SimplyVC",
+    "discord": "https://discord.gg/Kpzc58Gu9a",
+    "email": "staking@simply-vc.com.mt",
     "supportRelayerBy": "delegating to validator",
-    "chainsRelayed": [
+     "chainsRelayed": [
+        {
+            "ticker": "AKT",
+            "relayerAddress": null
+        },
         {
             "ticker": "ATOM",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "CRE",
             "relayerAddress": null
         },
         {
@@ -17,8 +25,12 @@
             "relayerAddress": null
         },
         {
-            "ticker": "STARS",
+            "ticker": "REGEN",
             "relayerAddress": null
-        }
+        },
+        {
+            "ticker": "FLIX",
+            "relayerAddress": null
+        },
     ]
 }
