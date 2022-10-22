@@ -3,12 +3,14 @@
     "name": "Qubelabs",
     "website": "https://qubelabs.io",
     "twitter": "https://twitter.com/qubelabs",
-    "telegram": "null",
+    "telegram": null,
     "discord": null,
     "email": "hello@qubelabs.io",
     "supportRelayerBy": "Delegation to Qubelabs.io",
     "chainsRelayed": [
             {"ticker": "AXL", "relayerAddress": "axelar14awanvwztk4rnspjqtukq4m5lv98umw6atjnw6"},
-            {"ticker": "EVMOS", "relayerAddress": "evmos1w4tereqw45m2lqa3aea764la4ycnqrvvcndf0j"}
+            {"ticker": "EVMOS", "relayerAddress": "evmos1w4tereqw45m2lqa3aea764la4ycnqrvvcndf0j"},
+            {"ticker": "AGORIC", "relayerAddress": "agoric1yjjvxayecreq4ds4ggm08jxnzlese7smhwakle"},
+            {"ticker": "UMEE", "relayerAddress": "umee1rqaetvk3mx2cnn6guectun8a9k22mmgthhp02h"}
             ]
 }
