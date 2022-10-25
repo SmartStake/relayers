@@ -10,7 +10,7 @@
     "chainsRelayed": [
         {"ticker": "ATOLO", "relayerAddress": "rizon1m7m26sr22thnlwwywfyf2tvu9vlqjdtrpsa8mj"},
         {"ticker": "ATOLO", "relayerAddress": "rizon18xkav82x6um8v4xpgy26ea7zqyyz0zv8e8zgj0"},
-		{"ticker": "ATOM", "relayerAddress": "cosmos1m7m26sr22thnlwwywfyf2tvu9vlqjdtrzdpkh2"},
+        {"ticker": "ATOM", "relayerAddress": "cosmos1m7m26sr22thnlwwywfyf2tvu9vlqjdtrzdpkh2"},
         {"ticker": "ATOM", "relayerAddress": "cosmos18xkav82x6um8v4xpgy26ea7zqyyz0zv8667e7h"},
         {"ticker": "AXL", "relayerAddress": "axelar1m7m26sr22thnlwwywfyf2tvu9vlqjdtrxrh7ut"},
         {"ticker": "AXL", "relayerAddress": "axelar1l267dmlmprhu4p5aqslf50f495vjqlg3e6uve2"},
