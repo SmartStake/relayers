@@ -15,6 +15,10 @@
         {
             "ticker": "ATOM",
             "relayerAddress": "cosmos1s698xmm0ff4mvhxynpenx7zlf04c3x0lrp5tyz"
+        },
+        {
+            "ticker": "DSM",
+            "relayerAddress": "desmos19vpyrq9wt7hecx6czp7x8lkspnyy64v77zglm3"
         }
     ]
 }
