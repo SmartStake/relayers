@@ -3,8 +3,8 @@
     "name": "Pro-Nodes75",
     "website": "https://node75.org/",
     "twitter": "theNode75",
-    "telegram": ["@sw_HbZ","@shurinov"],
-    "discord": ["SW33 | pro-nodes#0534", "shurinoff#5643"],
+    "telegram": "@sw_HbZ",
+    "discord": "SW33 | pro-nodes#0534",
     "email": "n75pro@pm.me",
     "supportRelayerBy": "delegating to validator",
     "chainsRelayed": [
@@ -14,23 +14,43 @@
         },
         {
             "ticker": "STRD",
-            "relayerAddress": ["stride1xg93g0tx0wnt5weg7x7xmnvlh6setx2mal9mn3","stride1ul8lklccagmnujye6r4zwmae3zpzc37359ws6k"]
+            "relayerAddress": "stride1xg93g0tx0wnt5weg7x7xmnvlh6setx2mal9mn3"
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride1ul8lklccagmnujye6r4zwmae3zpzc37359ws6k"
         },
         {
             "ticker": "ATOM",
-            "relayerAddress": ["cosmos1xg93g0tx0wnt5weg7x7xmnvlh6setx2m75988a","cosmos10y870un4j8ud4z593pf0rhgvyj6etzuxkmavv9"]
+            "relayerAddress": "cosmos1xg93g0tx0wnt5weg7x7xmnvlh6setx2m75988a"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos10y870un4j8ud4z593pf0rhgvyj6etzuxkmavv9"
         },
         {
             "ticker": "GRAV",
-            "relayerAddress": ["gravity1z8zdu7fu58qsmzpydmmrlf8wrma6nnepwe9y7y","gravity1qxr0vh6qxpnyk6nvdhfh8sv2wgaxp0wg7f7wne"]
+            "relayerAddress": "gravity1z8zdu7fu58qsmzpydmmrlf8wrma6nnepwe9y7y"
+        },
+        {
+            "ticker": "GRAV",
+            "relayerAddress": "gravity1qxr0vh6qxpnyk6nvdhfh8sv2wgaxp0wg7f7wne"
         },
         {
             "ticker": "EVMOS",
-            "relayerAddress": ["evmos1qw3qt0x9j7mcq5jyhdza82uns4u6ra7pwpv9fa","evmos133czv5w6cr7amkpdv5q5elaytytp6enjk3gny8"]
+            "relayerAddress": "evmos1qw3qt0x9j7mcq5jyhdza82uns4u6ra7pwpv9fa"
+        },
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": "evmos133czv5w6cr7amkpdv5q5elaytytp6enjk3gny8"
         },
         {
             "ticker": "CRE",
-            "relayerAddress": ["cre1vcadsqy5k8vd2g9ej8t0696gjwrla0txkvnhg4","cre1gtzmqwxawwgd7y73m0g2570nt5thjkxz6umeta"]
+            "relayerAddress": "cre1vcadsqy5k8vd2g9ej8t0696gjwrla0txkvnhg4"
+        },
+        {
+            "ticker": "CRE",
+            "relayerAddress": "cre1gtzmqwxawwgd7y73m0g2570nt5thjkxz6umeta"
         },
         {
             "ticker": "UMEE",
