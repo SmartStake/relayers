@@ -17,13 +17,14 @@ If you run relayer on any of the IBC chains, your relayer will be shown on Inter
     	"name": "Relayer/Validator Name",
     	"website": "enter your website",
     	"twitter": "yourprofilehandle",
-    	"telegram": "tguserorgrouphandle",
-    	"discord": "discordhandle",
+    	"telegram": "tguserorgrouphandle", #does not support multiple TG handles
+    	"discord": "discordhandle", #does not support multiple discord handles
     	"email": "support@validator.example,
     	"supportRelayerBy": "what can community do to support you? a response like 'delegate to validator' or 'donate to relayer' is good. max of 50 characters",
     	"chainsRelayed": [
     		{"ticker": "ATOM", "relayerAddress": "cosmos...."},
-    		{"ticker": "OSMO", "relayerAddress": "osmo...."},
+    		{"ticker": "OSMO", "relayerAddress": "osmoaddr1...."},
+    		{"ticker": "OSMO", "relayerAddress": "osmoaddr2...."}, #for multiple relaying addresses, make separate entry for network-address combination 
     		{"ticker": "INJ", "relayerAddress": "inj...."},
     	]
  }
