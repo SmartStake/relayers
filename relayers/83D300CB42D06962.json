@@ -10,76 +10,84 @@
     "chainsRelayed": [
         {
             "ticker": "BLD",
-            "relayerAddress": null
+            "relayerAddress": "agoric1ptm9dyyya6erqj9h9ydurtzvla2h6lv9mtlp4z"
         },
         {
             "ticker": "AKT",
-            "relayerAddress": null
+            "relayerAddress": "akash1ptm9dyyya6erqj9h9ydurtzvla2h6lv9ydseuw"
         },
         {
             "ticker": "ATOM",
-            "relayerAddress": null
+            "relayerAddress": "cosmos1q6cc9u0x5r3fkjcex0rgxee5qlu86w8rh2ypaj"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar1u4he0w85dlxf65t8pn3hwjsyz5p2dz694c42kp"
         },
         {
             "ticker": "CRO",
-            "relayerAddress": null
+            "relayerAddress": "cro1ptm9dyyya6erqj9h9ydurtzvla2h6lv93d48e9"
         },
         {
             "ticker": "NGM",
-            "relayerAddress": null
+            "relayerAddress": "emoney1ptm9dyyya6erqj9h9ydurtzvla2h6lv9x482jf"
         },
         {
             "ticker": "EVMOS",
-            "relayerAddress": null
+            "relayerAddress": "evmos1fk59eyecx7h0glgnn5wcuc0r43tj8h3x66zfyq"
         },
         {
             "ticker": "GRAV",
-            "relayerAddress": null
-        },
-        {
-            "ticker": "IXO",
-            "relayerAddress": null
-        },
-        {
-            "ticker": "JUNO",
-            "relayerAddress": null
-        },
-        {
-            "ticker": "LIKE",
-            "relayerAddress": null
-        },
-        {
-            "ticker": "OSMO",
-            "relayerAddress": null
-        },
-        {
-            "ticker": "XPRT",
-            "relayerAddress": null
+            "relayerAddress": "gravity1ptm9dyyya6erqj9h9ydurtzvla2h6lv9dx0xqu"
         },
 
         {
+            "ticker": "IRIS",
+            "relayerAddress": "iaa1ptm9dyyya6erqj9h9ydurtzvla2h6lv9u5a089"
+        },
+        {
+            "ticker": "IXO",
+            "relayerAddress": "ixo1ptm9dyyya6erqj9h9ydurtzvla2h6lv9krrvp8"
+        },
+        {
+            "ticker": "JUNO",
+            "relayerAddress": "juno1c9gh65lukf2n7r34003jg2x8pxxwyva0jlwp9x"
+        },
+        {
+            "ticker": "LIKE",
+            "relayerAddress": "like1ptm9dyyya6erqj9h9ydurtzvla2h6lv962pux0"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1ptm9dyyya6erqj9h9ydurtzvla2h6lv9pdwwnx"
+        },
+        {
+            "ticker": "XPRT",
+            "relayerAddress": "persistence1ptm9dyyya6erqj9h9ydurtzvla2h6lv986mdts"
+        },
+        {
             "ticker": "REGEN",
-            "relayerAddress": null
+            "relayerAddress": "regen1ptm9dyyya6erqj9h9ydurtzvla2h6lv9k5kzns"
         },
         {
             "ticker": "SCRT",
-            "relayerAddress": null
+            "relayerAddress": "secret1ptm9dyyya6erqj9h9ydurtzvla2h6lv9tnfhcg"
         },
         {
             "ticker": "DVPN",
-            "relayerAddress": null
+            "relayerAddress": "sent1ptm9dyyya6erqj9h9ydurtzvla2h6lv9jdt8pm"
         },
         {
             "ticker": "ROWAN",
-            "relayerAddress": null
+            "relayerAddress": "sif1ptm9dyyya6erqj9h9ydurtzvla2h6lv9vtjg2l"
         },
         {
-            "ticker": "STARS",
-            "relayerAddress": null
+            "ticker": "IOV",
+            "relayerAddress": "star1ptm9dyyya6erqj9h9ydurtzvla2h6lv9gvnhjc"
         },
         {
             "ticker": "UMEE",
-            "relayerAddress": null
+            "relayerAddress": "umee1ptm9dyyya6erqj9h9ydurtzvla2h6lv9mqqppx"
         }
     ]
 }
