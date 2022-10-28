@@ -1,0 +1,27 @@
+{
+    "keybaseIdentity": "C1A123F2723041F0",
+    "name": "Genesis Lab",
+    "website": "https://genesislab.net/",
+    "twitter": "https://twitter.com/GenesisLab_net",
+    "telegram": "https://t.me/GenesisLab_Chat_EN",
+    "discord": "null",
+    "email": "team@genesislab.net",
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {"ticker": "ATOM", "relayerAddress": "cosmos1v7awxag03eyup6as5mtajrnk53hvdtlmp6u9xt"},
+        {"ticker": "EVMOS", "relayerAddress": "evmos12r8jk9uapln8v2vxte4hak4wkkw2sd82q7kvzs"},
+        {"ticker": "OSMO", "relayerAddress": "osmo1x9uk8mkp58sfkvzswzztl97kf6k2mm4ps69qnu"},
+        {"ticker": "KAVA", "relayerAddress": "kava14gmmq6evns9zvgsjxw2jxhh0jlwdendustexep"},
+        {"ticker": "INJ", "relayerAddress": "inj1xnssw2vumsv9a4fj0g0pg7wmvyd7k58u6afahe"},
+        {"ticker": "CRE", "relayerAddress": "cre1nvfchqnhjxe93hqfcfs07s90lhlsjn5haknzvz"},
+        {"ticker": "LUNA","relayerAddress": "terra19nxeqdx0wxsdgjnc0lf2y6wnv9cu32z7070x84"},
+        {"ticker": "STRD", "relayerAddress": "stride1e77zj5dmqnfcnga6x2j8kfcczen7r07u3v0hw0"},
+        {"ticker": "IRIS","relayerAddress": "iaa10q6ex090ddcfuj5nq7pq83mjreerpvd8f84ca3"},
+        {"ticker": "JUNO","relayerAddress": "juno1490ep7wlp7zgla2ayerjkyw6u6aelnkqv9jtlh"},
+        {"ticker": "AXL", "relayerAddress": "axelar1fs8q7fngcsx7drr5f7zqm5w4xvtthcuf7p03pj"},
+        {"ticker": "UMEE","relayerAddress": "umee1k4l9gu4tx6gv0qcx036d09rau8ar2h3d99cphc"},
+        {"ticker": "OSMO", "relayerAddress": "osmo1lej07r5t8ltqvntpgfmgp5cxc7wytalsgczjzc"},
+        {"ticker": "UMEE","relayerAddress": "umee1pjds35psesrul7unplezzp649h35wna2725m3z"},
+        {"ticker": "CRE", "relayerAddress": "cre1uxdtz0cqcn7yhw9u3nn3tetlln5vz3frqzsvjh"}
+    ]
+}
