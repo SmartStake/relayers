@@ -1,0 +1,49 @@
+{
+    "keybaseIdentity": "5A8AB49CF5CAAF3C",
+    "name": "Oni ⛩",
+    "website": "https://www.onivalidator.com/",
+    "twitter": "https://twitter.com/onivalidator",
+    "telegram": null,
+    "discord": "https://discord.gg/HR94vf6fkP",
+    "email": "onivalidator@protonmail.com",
+    "supportRelayerBy": "Delegate to Oni at: https://www.yieldmos.com/v/oni",
+    "chainsRelayed": [
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1ajevnf3wa5y884ajnfk292mcqyth6qeexck03l"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1ajevnf3wa5y884ajnfk292mcqyth6qeewr9l8d"
+        },
+        {
+            "ticker": "JUNO",
+            "relayerAddress": "juno1ajevnf3wa5y884ajnfk292mcqyth6qees245kr"
+        },
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": "evmos10297g3yd2f3l8up4q4g8e7f0vfmpl2qgr6yt0c"
+        },
+        {
+            "ticker": "KUJI",
+            "relayerAddress": "kujira1ajevnf3wa5y884ajnfk292mcqyth6qeehs5hu4"
+        },
+        {
+            "ticker": "STARS",
+            "relayerAddress": "stars1ajevnf3wa5y884ajnfk292mcqyth6qeejypj6w"
+        },
+        {
+            "ticker": "TORI",
+            "relayerAddress": "tori1ajevnf3wa5y884ajnfk292mcqyth6qeeyvpx20"
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride1ajevnf3wa5y884ajnfk292mcqyth6qee9nkn9n"
+        },
+        {
+            "ticker": "CMDX",
+            "relayerAddress": "comdex1ajevnf3wa5y884ajnfk292mcqyth6qeeph5dgg"
+        },
+
+    ]
+}
