@@ -37,6 +37,10 @@
             "relayerAddress": "evmos14wp74cy9ymmt204n4u43jsusy3l4xchdrxh5nh"
         },
         {
+            "ticker": "FET",
+            "relayerAddress": "fetch1anzemlurs94zwvd5ypxyz6zu3v0c5jhp228ftp"
+        },
+        {
             "ticker": "INJ",
             "relayerAddress": "inj19cxl8av38pjgn4mwv7f7rn59heh89vmvnlv2gu"
         },
