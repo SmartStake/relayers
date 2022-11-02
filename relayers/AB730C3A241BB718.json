@@ -2,19 +2,35 @@
     "keybaseIdentity": "AB730C3A241BB718",
     "name": "Architect Nodes",
     "website": "https://www.architectnodes.com",
-    "twitter": null,
+    "twitter": "https://twitter.com/ArchitectNodes",
     "telegram": null,
-    "discord": null,
-    "email": null,
+    "discord": "https://discord.gg/33bdwFEhgZ",
+    "email": "architectnodes@gmail.com",
     "supportRelayerBy": "delegating to validator",
     "chainsRelayed": [
         {
             "ticker": "EVMOS",
-            "relayerAddress": null
+            "relayerAddress": "evmos1tusg5d35w03v0s2u5tefvf5yclguye09ctw6zu"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1cx82d7pm4dgffy7a93rl6ul5g84vjgxk0a4n97"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1cx82d7pm4dgffy7a93rl6ul5g84vjgxk8xxrnv"
+        },
+        {
+            "ticker": "JUNO",
+            "relayerAddress": "juno1cx82d7pm4dgffy7a93rl6ul5g84vjgxk359c5s"
+        },
+        {
+            "ticker": "FET",
+            "relayerAddress": "fetch1cx82d7pm4dgffy7a93rl6ul5g84vjgxk5m083m"
         },
         {
             "ticker": "STRD",
-            "relayerAddress": null
+            "relayerAddress": "stride1cx82d7pm4dgffy7a93rl6ul5g84vjgxkydxl8q"
         }
     ]
 }
