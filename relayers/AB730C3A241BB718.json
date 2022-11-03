@@ -21,8 +21,8 @@
             "relayerAddress": "cosmos1cx82d7pm4dgffy7a93rl6ul5g84vjgxk8xxrnv"
         },
         {
-            "ticker": "JUNO",
-            "relayerAddress": "juno1cx82d7pm4dgffy7a93rl6ul5g84vjgxk359c5s"
+            "ticker": "BTSG",
+            "relayerAddress": "bitsong16arskkjeeq9jnvwfe78n8m9y06jkj9kp2vc6vn"
         },
         {
             "ticker": "FET",
@@ -31,6 +31,10 @@
         {
             "ticker": "STRD",
             "relayerAddress": "stride1cx82d7pm4dgffy7a93rl6ul5g84vjgxkydxl8q"
+        },
+        {
+            "ticker": "JUNO",
+            "relayerAddress": "juno1cx82d7pm4dgffy7a93rl6ul5g84vjgxk359c5s"
         }
     ]
 }
