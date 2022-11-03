@@ -1,0 +1,56 @@
+{
+  "keybaseIdentity": "BEAC09B6FE7F908B",
+  "name": "BlockHunters \uD83C\uDFAF",
+  "website": "https://blockhunters.org",
+  "twitter": "blockhuntersOrg",
+  "telegram": "BlockhuntersAnnouncements",
+  "discord": "blockhunters#6591",
+  "email": "office@blockhunters.org",
+  "supportRelayerBy": "delegate to validator",
+  "chainsRelayed": [
+    {
+      "ticker": "ATOM",
+      "relayerAddress": "cosmos10drvw8x5x38a8afl7a86yh2d2kuqvm67jf5nj3"
+    },
+    {
+      "ticker": "AXL",
+      "relayerAddress": "axelar10drvw8x5x38a8afl7a86yh2d2kuqvm67k8zmes"
+    },
+    {
+      "ticker": "CRE",
+      "relayerAddress": "cre10drvw8x5x38a8afl7a86yh2d2kuqvm67kp8k8u"
+    },
+    {
+      "ticker": "EVMOS",
+      "relayerAddress": "evmos17rslmm76pvfqfyq4jeq3zaecna880tzy29v7qr"
+    },
+    {
+      "ticker": "GRAV",
+      "relayerAddress": "gravity10drvw8x5x38a8afl7a86yh2d2kuqvm67kexthe"
+    },
+    {
+      "ticker": "JUNO",
+      "relayerAddress": "juno10drvw8x5x38a8afl7a86yh2d2kuqvm67ymhg4d"
+    },
+    {
+      "ticker": "OSMO",
+      "relayerAddress": "osmo10drvw8x5x38a8afl7a86yh2d2kuqvm676j8ryr"
+    },
+    {
+      "ticker": "SOMM",
+      "relayerAddress": "somm10drvw8x5x38a8afl7a86yh2d2kuqvm6774mlrm"
+    },
+    {
+      "ticker": "STRD",
+      "relayerAddress": "stride10drvw8x5x38a8afl7a86yh2d2kuqvm673z50xa"
+    },
+    {
+      "ticker": "SWTH",
+      "relayerAddress": "swth10drvw8x5x38a8afl7a86yh2d2kuqvm67dh79pg"
+    },
+    {
+      "ticker": "TORI",
+      "relayerAddress": "tori10drvw8x5x38a8afl7a86yh2d2kuqvm67sar6fp"
+    }
+  ]
+}
