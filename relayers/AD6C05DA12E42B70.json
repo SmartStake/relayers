@@ -13,6 +13,6 @@
    		{"ticker": "ROWAN", "relayerAddress": "sif13sz87ha597nnseexmfwe3eq47ck3d02tsxglm6"},
    		{"ticker": "CRBRUS", "relayerAddress": "cerberus13sz87ha597nnseexmfwe3eq47ck3d02tfu8qp6"},
    		{"ticker": "HUAHUA", "relayerAddress": "chihuahua13sz87ha597nnseexmfwe3eq47ck3d02tkw284n"},
-   		{"ticker": "XPRT", "relayerAddress": "persistence13sz87ha597nnseexmfwe3eq47ck3d02tmhp664"},
+   		{"ticker": "XPRT", "relayerAddress": "persistence13sz87ha597nnseexmfwe3eq47ck3d02tmhp664"}
    	]
 }
