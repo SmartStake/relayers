@@ -2,19 +2,51 @@
     "keybaseIdentity": "2D4F5830BB62F73D",
     "name": "alkadeta",
     "website": "https://alkadeta.com",
-    "twitter": null,
-    "telegram": null,
-    "discord": null,
-    "email": null,
-    "supportRelayerBy": "delegating to validator",
+    "twitter": "https://twitter.com/alkadeta",
+    "telegram": "https://t.me/alkadeta_staking",
+    "discord": "https://discord.gg/tU9wwJYg36",
+    "email": "info@alkadeta.com",
+    "supportRelayerBy": "delegating to alkadeta",
     "chainsRelayed": [
         {
             "ticker": "EVMOS",
-            "relayerAddress": null
+            "relayerAddress": evmos1ytj96qgvcntfckz34aaszr6r73qnyuqex3s7ly
+        },
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": evmos1wve6c3xtlranxr8e3y4l82ph8237t07z498c02
         },
         {
             "ticker": "STARS",
             "relayerAddress": null
+        },
+        {
+            "ticker": "STARS",
+            "relayerAddress": stars1y4t6q5hg4896mz68kn2dfwv2jkcqhfzlkct8qt
+        },
+        {
+            "ticker": "GRAV",
+            "relayerAddress": gravity1y4t6q5hg4896mz68kn2dfwv2jkcqhfzlx5wzwj
+        },
+        {
+            "ticker": "REBUS",
+            "relayerAddress": rebus1ytj96qgvcntfckz34aaszr6r73qnyuqe46z936
+        },
+        {
+            "ticker": "BLD",
+            "relayerAddress": agoric1qfdw3825wd46vxysau74azdua2n2ynm3nl2hzs
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": osmo1y4t6q5hg4896mz68kn2dfwv2jkcqhfzl2l02ag
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": osmo1yf4yzl2tnffhfrjuwwevvh5xg9s6u6h322tt39
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": axelar1y4t6q5hg4896mz68kn2dfwv2jkcqhfzlx22jqm
         }
     ]
 }
