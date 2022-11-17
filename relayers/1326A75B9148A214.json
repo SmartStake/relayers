@@ -14,7 +14,7 @@
         },
         {
             "ticker": "EVMOS",
-            "relayerAddress": "evmos1760tpjzhn8372kgnqly4845zs0j6lr4zh7845l"
+            "relayerAddress": "evmos15gtkny33ewccl0xh3w63vlfn2senx594l98x3y"
         },
         {
             "ticker": "JUNO",
@@ -27,6 +27,10 @@
         {
             "ticker": "STRD",
             "relayerAddress": "stride17ld6vnfumezwtw36pt37l0xyuknzxghajxevaw"
+        },
+        {
+            "ticker": "TORI",
+            "relayerAddress": "tori17ld6vnfumezwtw36pt37l0xyuknzxghanewejj"
         }
     ]
 }
