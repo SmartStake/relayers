@@ -45,6 +45,10 @@
             "relayerAddress": "inj1ejmss7gqfefrzf26fsvnptxeqp9yqxmncgaxan"
         },
         {
+            "ticker": "INJ",
+            "relayerAddress": "inj14nhzw3lnsdkeq5clzqms586mxrf2x74y6skne0"
+        },
+        {
             "ticker": "XPRT",
             "relayerAddress": "persistence1yvejj22t78s2vfk7slty2d7fs5lkc8rna8hptc"
         },
@@ -59,6 +63,10 @@
         {
             "ticker": "BAND",
             "relayerAddress": "band16m48j88mlw2smhc8nyurznt4jl9nqgyq3dnr0c"
+        },
+        {
+            "ticker": "BAND",
+            "relayerAddress": "band1yvejj22t78s2vfk7slty2d7fs5lkc8rn2y3sa5"
         },
         {
             "ticker": "KUJI",
@@ -121,7 +129,7 @@
             "relayerAddress": "chihuahua15md2qvgma8lnvqv67w0umu2paqkqkheg6l5zfa"
         },
         {
-            "ticker": "TERRA",
+            "ticker": "LUNA",
             "relayerAddress": "terra15md2qvgma8lnvqv67w0umu2paqkqkheglwrv2l"
         }
     ]
