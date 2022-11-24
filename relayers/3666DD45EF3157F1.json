@@ -13,6 +13,10 @@
             "relayerAddress": "terra139xmun2suypgu8hpl2z3tsvdt8py7e2erlfpe8"
         },
         {
+            "ticker": "LUNC",
+            "relayerAddress": "terra1jyrrdr733fq7v5j8rr7d53cehwazgx0kw54gdq"
+        },
+        {
             "ticker": "STRD",
             "relayerAddress": "stride1xg93g0tx0wnt5weg7x7xmnvlh6setx2mal9mn3"
         },
