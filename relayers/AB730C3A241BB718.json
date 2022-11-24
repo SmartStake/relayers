@@ -35,6 +35,10 @@
         {
             "ticker": "JUNO",
             "relayerAddress": "juno1cx82d7pm4dgffy7a93rl6ul5g84vjgxk359c5s"
+        },
+        {
+            "ticker": "XPRT",
+            "relayerAddress": "persistence1cx82d7pm4dgffy7a93rl6ul5g84vjgxkf2qsag"
         }
     ]
 }
