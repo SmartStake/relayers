@@ -25,15 +25,15 @@
             "relayerAddress": "osmo1nnjy6nct405pzfaqjm3dsyw0pf0kyw72e3yuz2"
         },
         {
-            "ticker": "STARGAZE",
+            "ticker": "STARS",
             "relayerAddress": "stars1nnjy6nct405pzfaqjm3dsyw0pf0kyw729kq3lf"
         },
         {
-            "ticker": "STRIDE",
+            "ticker": "STRD",
             "relayerAddress": "stride1nnjy6nct405pzfaqjm3dsyw0pf0kyw72jphsq5"
         },
         {
-            "ticker": "TERITORI",
+            "ticker": "TORI",
             "relayerAddress": "tori1nnjy6nct405pzfaqjm3dsyw0pf0kyw72n7q90g"
         }
     ]
