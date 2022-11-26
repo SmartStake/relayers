@@ -2,27 +2,39 @@
     "keybaseIdentity": "1C32EF4035953E8B",
     "name": "Golden Ratio Staking",
     "website": "https://www.goldenstaking.com",
-    "twitter": null,
-    "telegram": null,
+    "twitter": "https://twitter.com/GoldenStaking",
+    "telegram": "https://t.me/+cCHyFq8_GV02MzAx",
     "discord": null,
-    "email": null,
-    "supportRelayerBy": "delegating to validator",
+    "email": "info@goldenstaking.com",
+    "supportRelayerBy": "Delegate With Golden Ratio Staking Here https://linktr.ee/GoldenRatioStaking",
     "chainsRelayed": [
         {
             "ticker": "ATOM",
-            "relayerAddress": null
+            "relayerAddress": "cosmos1n6j7gnld9yxfyh6tflxhjjmt404zruuaf73t08"
         },
         {
             "ticker": "EVMOS",
-            "relayerAddress": null
+            "relayerAddress": "evmos1trra443gtl4jg3dmv08x76m9gn0hue3jydpnm0"
         },
         {
             "ticker": "JUNO",
-            "relayerAddress": null
+            "relayerAddress": "juno1n6j7gnld9yxfyh6tflxhjjmt404zruualvjsgm"
         },
         {
             "ticker": "OSMO",
-            "relayerAddress": null
+            "relayerAddress": "osmo1nnjy6nct405pzfaqjm3dsyw0pf0kyw72e3yuz2"
+        },
+        {
+            "ticker": "STARGAZE",
+            "relayerAddress": "stars1nnjy6nct405pzfaqjm3dsyw0pf0kyw729kq3lf"
+        },
+        {
+            "ticker": "STRIDE",
+            "relayerAddress": "stride1nnjy6nct405pzfaqjm3dsyw0pf0kyw72jphsq5"
+        },
+        {
+            "ticker": "TERITORI",
+            "relayerAddress": "tori1nnjy6nct405pzfaqjm3dsyw0pf0kyw72n7q90g"
         }
     ]
 }
