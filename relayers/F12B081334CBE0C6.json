@@ -1,7 +1,7 @@
 {
     "keybaseIdentity": "F12B081334CBE0C6",
     "name": "StakeLab",
-    "website": "https://www.stakelab.fr",
+    "website": "https://github.com/StakeLab-Hub",
     "twitter": "https://twitter.com/StakeLab",
     "telegram": "https://t.me/stakelab_fr",
     "discord": null,
@@ -19,6 +19,10 @@
         {
             "ticker": "AXL",
             "relayerAddress": "axelar1mjq48r6435aewerpruwc8up3tz3rzan2ghgl25"
+        },
+        {
+            "ticker": "CMDX",
+            "relayerAddress": "comdex1mjq48r6435aewerpruwc8up3tz3rzan2tku4cz"
         },
         {
             "ticker": "CRE",
@@ -61,6 +65,10 @@
             "relayerAddress": "kujira1mjq48r6435aewerpruwc8up3tz3rzan2a3u0vl"
         },
         {
+            "ticker": "MNTL",
+            "relayerAddress": "mantle1mjq48r6435aewerpruwc8up3tz3rzan2ja9j7l"
+        },
+        {
             "ticker": "OSMO",
             "relayerAddress": "osmo1mjq48r6435aewerpruwc8up3tz3rzan2yzd8h8"
         },
@@ -73,12 +81,25 @@
             "relayerAddress": "secret1mjq48r6435aewerpruwc8up3tz3rzan2wu27uf"
         },
         {
+            "ticker": "SIF",
+            "relayerAddress": "sif1mjq48r6435aewerpruwc8up3tz3rzan2fy3pw7"
+        },
+        {
             "ticker": "STARS",
             "relayerAddress": "stars1mjq48r6435aewerpruwc8up3tz3rzan2c9f22y"
         },
         {
+            "ticker": "STRD",
+            "relayerAddress": "stride1mjq48r6435aewerpruwc8up3tz3rzan20j7t4e"
+        },
+        {
             "ticker": "TORI",
             "relayerAddress": "tori1mjq48r6435aewerpruwc8up3tz3rzan2wdf769"
+        },
+        {
+            "ticker": "XKI",
+            "relayerAddress": "ki1mjq48r6435aewerpruwc8up3tz3rzan2a50c9p"
         }
+        
     ]
 }
