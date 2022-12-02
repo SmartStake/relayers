@@ -1,28 +1,40 @@
 {
     "keybaseIdentity": "06B033BAC39DA21C",
-    "name": "Cosmos Spaces ?? ? ??",
+    "name": "Cosmos Spaces",
     "website": "https://linktr.ee/CosmosTwitterSpaces",
-    "twitter": null,
-    "telegram": null,
-    "discord": null,
-    "email": null,
-    "supportRelayerBy": "delegating to validator",
+    "twitter": "https://twitter.com/Cosmos_Spaces",
+    "telegram": "https://web.telegram.org/k/#@cosmostwitterspaces",
+    "discord": "https://discord.com/invite/J8u7VPFc3T",
+    "email": "Cosmostwitterspaces@gmail.com",
+    "supportRelayerBy": "Support us: https://www.yieldmos.com/v/cosmos-spaces ",
     "chainsRelayed": [
         {
             "ticker": "ATOM",
-            "relayerAddress": null
+            "relayerAddress": "cosmos1ks0qeq9vyt9l7vgasaajd49ff0k8klure6ez4n"
         },
         {
             "ticker": "EVMOS",
-            "relayerAddress": null
+            "relayerAddress": "evmos146sl9u5kgsa86mxk6zjhmwlnlxa7l7cwyvlhan"
         },
         {
             "ticker": "JUNO",
-            "relayerAddress": null
+            "relayerAddress": "juno1ks0qeq9vyt9l7vgasaajd49ff0k8klur0g6ej0"
         },
         {
             "ticker": "OSMO",
-            "relayerAddress": null
-        }
+            "relayerAddress": "osmo1ks0qeq9vyt9l7vgasaajd49ff0k8klur3p2jrp"
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride1ce2lk9xczhxj29n8v2mmmqyrz4haem5vp7eqgg"
+        },
+        {
+            "ticker": "KUJI",
+            "relayerAddress": "kujira1ks0qeq9vyt9l7vgasaajd49ff0k8klurgjm6ce"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar1ks0qeq9vyt9l7vgasaajd49ff0k8klura5027j"
+        },
     ]
 }
