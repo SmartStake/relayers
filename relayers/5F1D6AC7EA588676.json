@@ -183,6 +183,10 @@
         {
             "ticker": "TORI",
             "relayerAddress": "tori1l267dmlmprhu4p5aqslf50f495vjqlg3lqadfm"
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride1l267dmlmprhu4p5aqslf50f495vjqlg37l2cx8"
         }
     ]
 }
