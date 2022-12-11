@@ -1,0 +1,40 @@
+{
+    "keybaseIdentity": "A2E180C6914F7F87",
+    "name": "nodeist.net",
+    "website": "https://nodeist.net",
+    "twitter": null,
+    "telegram": null,
+    "discord": null,
+    "email": null,
+    "supportRelayerBy": "delegating to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "ATOM",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "KUJI",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "REBUS",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "TORI",
+            "relayerAddress": null
+        }
+    ]
+}
