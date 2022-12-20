@@ -1,0 +1,28 @@
+{
+    "keybaseIdentity": "55A5F88B4ED52D3E",
+    "name": "Stakely",
+    "website": "https://stakely.io/",
+    "twitter": "https://twitter.com/Stakely_io",
+    "telegram": "https://t.me/Stakely",
+    "discord": "Ignacio iicc | Stakely#4715",
+    "email": "nodes@stakely.io",
+    "supportRelayerBy": "Delegating with us :)",
+    "chainsRelayed": [
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1jm82dkkfngf9seajlaznxf3khg67tuudymtk2v"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1kz6qywrj9jyer9r5hkx5qe7mrm96xudqct5ge8"
+        },
+        {
+            "ticker": "XPRT",
+            "relayerAddress": "persistence1kz6qywrj9jyer9r5hkx5qe7mrm96xudq7uptp3"
+        },
+        {
+            "ticker": "BCNA",
+            "relayerAddress": "bcna1kz6qywrj9jyer9r5hkx5qe7mrm96xudq2qhe88"
+        }
+    ]
+}
