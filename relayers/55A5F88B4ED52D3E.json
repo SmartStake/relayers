@@ -23,6 +23,10 @@
         {
             "ticker": "BCNA",
             "relayerAddress": "bcna1kz6qywrj9jyer9r5hkx5qe7mrm96xudq2qhe88"
+        },
+        {
+            "ticker": "CRE",
+            "relayerAddress": "cre1kz6qywrj9jyer9r5hkx5qe7mrm96xudq5c5a6c"
         }
     ]
 }
