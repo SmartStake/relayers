@@ -33,6 +33,10 @@
             "relayerAddress": "juno1n6j7gnld9yxfyh6tflxhjjmt404zruualvjsgm"
         },
         {
+            "ticker": "KUJI",
+            "relayerAddress": "kujira1nnjy6nct405pzfaqjm3dsyw0pf0kyw72qz45ej"
+        },
+        {
             "ticker": "OSMO",
             "relayerAddress": "osmo1nnjy6nct405pzfaqjm3dsyw0pf0kyw72e3yuz2"
         },
