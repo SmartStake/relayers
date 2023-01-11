@@ -13,8 +13,16 @@
             "relayerAddress": "cosmos1p7d8mnjttcszv34pk2a5yyug3474mhffasa7tg"
         },
         {
+            "ticker": "CRO",
+            "relayerAddress": "cro1p7d8mnjttcszv34pk2a5yyug3474mhff9t48he"
+        },
+        {
             "ticker": "JUNO",
             "relayerAddress": "juno1nna7k5lywn99cd63elcfqm6p8c5c4qcu787zwg"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1p7d8mnjttcszv34pk2a5yyug3474mhff4twwa6"
         },
         {
             "ticker": "STARS",
