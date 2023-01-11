@@ -19,6 +19,10 @@
         {
             "ticker": "ATOM",
             "relayerAddress": "cosmos1cx82d7pm4dgffy7a93rl6ul5g84vjgxk8xxrnv"
+        },        
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1ln3l6waaqdjcskt3ztzqlzkpvmzp7zw4ky2xgp"
         },
         {
             "ticker": "BTSG",
@@ -39,6 +43,10 @@
         {
             "ticker": "XPRT",
             "relayerAddress": "persistence1cx82d7pm4dgffy7a93rl6ul5g84vjgxkf2qsag"
+        },
+        {
+            "ticker": "CMDX",
+            "relayerAddress": "comdex1cx82d7pm4dgffy7a93rl6ul5g84vjgxkqfyp2m"
         }
     ]
 }
