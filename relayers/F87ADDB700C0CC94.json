@@ -1,24 +1,25 @@
 {
     "keybaseIdentity": "F87ADDB700C0CC94",
-    "name": "Lavender.Five Nodes ?",
+    "name": "Lavender.Five Nodes",
     "website": "https://www.lavenderfive.com/",
-    "twitter": null,
-    "telegram": null,
-    "discord": null,
-    "email": null,
+    "twitter": "https://twitter.com/lavender_five",
+    "telegram": "https://t.me/LavenderFive",
+    "discord": "https://discord.gg/mZzNBhRanG",
+    "email": "Hello@lavenderfive.com"
+    "Github": "https://github.com/LavenderFive"
     "supportRelayerBy": "delegating to validator",
     "chainsRelayed": [
         {
             "ticker": "ATOM",
-            "relayerAddress": null
+            "relayerAddress": "cosmos18xrruhq5r246mwk0yj9elnn3mte8xa9uq4mdvu"
         },
         {
             "ticker": "EVMOS",
-            "relayerAddress": null
+            "relayerAddress": "evmos1mx070d26eu5trde862pfl6gaqmzlcj9959gw86"
         },
         {
             "ticker": "JUNO",
-            "relayerAddress": null
+            "relayerAddress": "juno18xrruhq5r246mwk0yj9elnn3mte8xa9uk8cktq"
         },
         {
             "ticker": "KUJI",
@@ -26,7 +27,52 @@
         },
         {
             "ticker": "OSMO",
-            "relayerAddress": null
-        }
+            "relayerAddress": "osmo18xrruhq5r246mwk0yj9elnn3mte8xa9ugwga6w"
+        },
+        {
+            "ticker": "SCRT",
+            "relayerAddress": "secret1czy3ak7s26sajcr99cyzfd2l75rprjxlkw4n6t"
+        },
+        {
+            "ticker": "AKT",
+            "relayerAddress": "akash18xrruhq5r246mwk0yj9elnn3mte8xa9udwk24x"
+        },
+        {
+            "ticker": "IXO",
+            "relayerAddress": "ixo18xrruhq5r246mwk0yj9elnn3mte8xa9ulq9lg0"
+        },
+        {
+            "ticker": "GRAV",
+            "relayerAddress": "gravity18xrruhq5r246mwk0yj9elnn3mte8xa9uy9f4f5"
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride18xrruhq5r246mwk0yj9elnn3mte8xa9ur7m3cs"
+        },        
+        {
+            "ticker": "CMDX",
+            "relayerAddress": "comdex18xrruhq5r246mwk0yj9elnn3mte8xa9u86e04t"
+        },        
+        {
+            "ticker": "HUAHUA",
+            "relayerAddress": "chihuahua18xrruhq5r246mwk0yj9elnn3mte8xa9urqkrd7"
+        },        
+        {
+            "ticker": "LUNA",
+            "relayerAddress": "terra1czy3ak7s26sajcr99cyzfd2l75rprjxlj0m69h"
+        },
+        {
+            "ticker": "TORI",
+            "relayerAddress": "tori18xrruhq5r246mwk0yj9elnn3mte8xa9uzpvyhv"
+        },
+        {
+            "ticker": "CHEQD",
+            "relayerAddress": "cheqd18xrruhq5r246mwk0yj9elnn3mte8xa9uwhhd8d"
+        },
+        {
+            "ticker": "JKL",
+            "relayerAddress": "jkl18xrruhq5r246mwk0yj9elnn3mte8xa9uet4u4r"
+        },
+
     ]
 }
