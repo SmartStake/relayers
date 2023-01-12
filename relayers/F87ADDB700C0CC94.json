@@ -23,7 +23,7 @@
         },
         {
             "ticker": "KUJI",
-            "relayerAddress": null
+            "relayerAddress": "kujira18xrruhq5r246mwk0yj9elnn3mte8xa9u3ae4pk"
         },
         {
             "ticker": "OSMO",
@@ -72,6 +72,14 @@
         {
             "ticker": "JKL",
             "relayerAddress": "jkl18xrruhq5r246mwk0yj9elnn3mte8xa9uet4u4r"
+        },
+        {
+            "ticker": "BLD",
+            "relayerAddress": "agoric18dswkgr8xlw3jjpunzsxqm5z9u5v8m70wwvep5"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar18xrruhq5r246mwk0yj9elnn3mte8xa9uymd98a"
         },
 
     ]
