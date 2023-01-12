@@ -13,12 +13,28 @@
             "relayerAddress": "cosmos1n6j7gnld9yxfyh6tflxhjjmt404zruuaf73t08"
         },
         {
+            "ticker": "CMDX",
+            "relayerAddress": "comdex1nnjy6nct405pzfaqjm3dsyw0pf0kyw72k94wd0"
+        },
+        {
+            "ticker": "CRO",
+            "relayerAddress": "cro1rwu2t20zmaluegwglkufpsrr9h24n00ksqy8s2"
+        },
+        {
             "ticker": "EVMOS",
             "relayerAddress": "evmos1trra443gtl4jg3dmv08x76m9gn0hue3jydpnm0"
         },
         {
+            "ticker": "HUAHUA",
+            "relayerAddress": "chihuahua1nnjy6nct405pzfaqjm3dsyw0pf0kyw72jl6z46"
+        },
+        {
             "ticker": "JUNO",
             "relayerAddress": "juno1n6j7gnld9yxfyh6tflxhjjmt404zruualvjsgm"
+        },
+        {
+            "ticker": "KUJI",
+            "relayerAddress": "kujira1nnjy6nct405pzfaqjm3dsyw0pf0kyw72qz45ej"
         },
         {
             "ticker": "OSMO",
