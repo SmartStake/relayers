@@ -42,7 +42,7 @@
         },
         {
             "ticker": "INJ",
-            "relayerAddress": "inj1ejmss7gqfefrzf26fsvnptxeqp9yqxmncgaxan"
+            "relayerAddress": "inj1nsd5f7vek8skzqhwxl6vfp07ee893aw3q50qrm"
         },
         {
             "ticker": "INJ",
@@ -54,11 +54,11 @@
         },
         {
             "ticker": "EVMOS",
-            "relayerAddress": "evmos1cpzk93sh6uw9zhdhkkdsr60xfu9qp2q9kp4zwz"
+            "relayerAddress": "evmos1je8d8g73zrmp79fugdm3gn0a326ar5php3ll8j"
         },
         {
             "ticker": "EVMOS",
-            "relayerAddress": "evmos1ejmss7gqfefrzf26fsvnptxeqp9yqxmnsqmv4r"
+            "relayerAddress": "evmos1nsd5f7vek8skzqhwxl6vfp07ee893aw3guf2tt"
         },
         {
             "ticker": "BAND",
@@ -67,6 +67,10 @@
         {
             "ticker": "BAND",
             "relayerAddress": "band1yvejj22t78s2vfk7slty2d7fs5lkc8rn2y3sa5"
+        },
+        {
+            "ticker": "BAND",
+            "relayerAddress": "band15md2qvgma8lnvqv67w0umu2paqkqkhegq9ewsh"
         },
         {
             "ticker": "KUJI",
@@ -86,7 +90,11 @@
         },
         {
             "ticker": "CMDX",
-            "relayerAddress": "comdex1yvejj22t78s2vfk7slty2d7fs5lkc8rn5ynsut"
+            "relayerAddress": "comdex16m48j88mlw2smhc8nyurznt4jl9nqgyq0d3rw8"
+        },
+        {
+            "ticker": "CMDX",
+            "relayerAddress": "comdex15md2qvgma8lnvqv67w0umu2paqkqkheg79mw3g"
         },
         {
             "ticker": "GRAV",
@@ -102,35 +110,39 @@
         },
         {
             "ticker": "SCRT",
-            "relayerAddress": "secret15md2qvgma8lnvqv67w0umu2paqkqkhegm0d94r"
+            "relayerAddress": "secret1yvejj22t78s2vfk7slty2d7fs5lkc8rn3w9mcq"
         },
         {
             "ticker": "BTSG",
-            "relayerAddress": "bitsong15md2qvgma8lnvqv67w0umu2paqkqkheg4rty2s"
+            "relayerAddress": "bitsong1yvejj22t78s2vfk7slty2d7fs5lkc8rnlzr68n"
         },
         {
             "ticker": "LUM",
-            "relayerAddress": "lum15md2qvgma8lnvqv67w0umu2paqkqkhegvqy9at"
+            "relayerAddress": "lum1yvejj22t78s2vfk7slty2d7fs5lkc8rnxpvmsg"
         },
         {
             "ticker": "VDL",
-            "relayerAddress": "vdl15md2qvgma8lnvqv67w0umu2paqkqkheguwft9e"
+            "relayerAddress": "vdl1yvejj22t78s2vfk7slty2d7fs5lkc8rnk0p4g6"
         },
         {
             "ticker": "ODIN",
-            "relayerAddress": "odin15md2qvgma8lnvqv67w0umu2paqkqkhega2l0y4"
+            "relayerAddress": "odin1yvejj22t78s2vfk7slty2d7fs5lkc8rnhth3fk"
         },
         {
             "ticker": "CRBRUS",
-            "relayerAddress": "cerberus15md2qvgma8lnvqv67w0umu2paqkqkheg9de9a5"
+            "relayerAddress": "cerberus1yvejj22t78s2vfk7slty2d7fs5lkc8rn0v3msh"
+        },
+        {
+            "ticker": "XPRT",
+            "relayerAddress": "persistence15md2qvgma8lnvqv67w0umu2paqkqkheghxllxm"
         },
         {
             "ticker": "HUAHUA",
-            "relayerAddress": "chihuahua15md2qvgma8lnvqv67w0umu2paqkqkheg6l5zfa"
+            "relayerAddress": "chihuahua1yvejj22t78s2vfk7slty2d7fs5lkc8rns7uuy7"
         },
         {
             "ticker": "LUNA",
-            "relayerAddress": "terra15md2qvgma8lnvqv67w0umu2paqkqkheglwrv2l"
+            "relayerAddress": "terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u"
         }
     ]
 }
