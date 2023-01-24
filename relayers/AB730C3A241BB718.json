@@ -17,6 +17,10 @@
             "relayerAddress": "osmo1cx82d7pm4dgffy7a93rl6ul5g84vjgxk0a4n97"
         },
         {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1ln3l6waaqdjcskt3ztzqlzkpvmzp7zw47lek7n"
+        },        
+        {
             "ticker": "ATOM",
             "relayerAddress": "cosmos1cx82d7pm4dgffy7a93rl6ul5g84vjgxk8xxrnv"
         },        
