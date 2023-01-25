@@ -29,6 +29,10 @@
             "relayerAddress": "chihuahua1nnjy6nct405pzfaqjm3dsyw0pf0kyw72jl6z46"
         },
         {
+            "ticker": "INJ",
+            "relayerAddress": "inj1nnjy6nct405pzfaqjm3dsyw0pf0kyw72mrqgxq"
+        },
+        {
             "ticker": "JUNO",
             "relayerAddress": "juno1n6j7gnld9yxfyh6tflxhjjmt404zruualvjsgm"
         },
