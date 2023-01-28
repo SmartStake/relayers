@@ -2,15 +2,63 @@
     "keybaseIdentity": "AF9D7EF7CC70CE24",
     "name": "Synergy Nodes",
     "website": "https://www.synergynodes.com",
-    "twitter": null,
-    "telegram": null,
-    "discord": null,
-    "email": null,
+    "twitter": "https://twitter.com/SynergyNodes",
+    "telegram": "https://t.me/SynergyNodes",
+    "discord": "https://discord.gg/UEppF4sBdM",
+    "email": "contact@synergynodes.com",
     "supportRelayerBy": "delegating to validator",
     "chainsRelayed": [
         {
             "ticker": "KUJI",
-            "relayerAddress": null
+            "relayerAddress": "kujira1hhzf9u376mg8zcuvx3jsls7t805kzcrssrvvk5"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar1hhzf9u376mg8zcuvx3jsls7t805kzcrs99cusl"
+        },
+        {
+            "ticker": "LUNA",
+            "relayerAddress": "terra1hhzf9u376mg8zcuvx3jsls7t805kzcrs8055e7"
+        },
+        {
+            "ticker": "LUNC",
+            "relayerAddress": "terra1v3n5rfl0ker0p3ukp0ucweql74695l4z5sltyz"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1hhzf9u376mg8zcuvx3jsls7t805kzcrsfsaydv"
+        },
+        {
+            "ticker": "JUNO",
+            "relayerAddress": "juno1hhzf9u376mg8zcuvx3jsls7t805kzcrshed0uz"
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride1hhzf9u376mg8zcuvx3jsls7t805kzcrszqwg0j"
+        },
+        {
+            "ticker": "ACRE",
+            "relayerAddress": "acre1q3054e3nrzlkp4act9236lwgl6hncftfdj30n2"
+        },
+        {
+            "ticker": "GRAV",
+            "relayerAddress": "gravity1hhzf9u376mg8zcuvx3jsls7t805kzcrs9muv7k"
+        },
+        {
+            "ticker": "ORAI",
+            "relayerAddress": "orai1hhzf9u376mg8zcuvx3jsls7t805kzcrsjcch6d"
+        },
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": "evmos1q3054e3nrzlkp4act9236lwgl6hncftf4sczk0"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1hhzf9u376mg8zcuvx3jsls7t805kzcrsptw5m7"
+        },
+        {
+            "ticker": "CANTO",
+            "relayerAddress": "canto1q3054e3nrzlkp4act9236lwgl6hncftf98guc0"
         }
     ]
 }
