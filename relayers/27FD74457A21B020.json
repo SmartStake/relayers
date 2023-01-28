@@ -139,6 +139,10 @@
         {
             "ticker": "LUM",
             "relayerAddress": "lum14uyfxlv00lj0qhcwt7vms2rsf7kxuld7p29m0g"
+        },
+        {
+            "ticker": "QCK",
+            "relayerAddress": null
         }
     ]
 }

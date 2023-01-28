@@ -43,6 +43,10 @@
         {
             "ticker": "STRD",
             "relayerAddress": null
+        },
+        {
+            "ticker": "QCK",
+            "relayerAddress": null
         }
     ]
 }

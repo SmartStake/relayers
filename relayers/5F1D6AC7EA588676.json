@@ -187,6 +187,10 @@
         {
             "ticker": "STRD",
             "relayerAddress": "stride1l267dmlmprhu4p5aqslf50f495vjqlg37l2cx8"
+        },
+        {
+            "ticker": "QCK",
+            "relayerAddress": null
         }
     ]
 }
