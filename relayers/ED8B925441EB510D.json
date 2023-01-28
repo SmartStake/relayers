@@ -1,0 +1,32 @@
+{
+   	"keybaseIdentity": "ED8B925441EB510D",
+   	"name": "Osmosis Support Lab",
+   	"website": "https://support.osmosis.zone",
+   	"twitter": "https://twitter.com/OsmoSupportLab",
+   	"telegram": "https://t.me/osmosis_chat",
+   	"discord": "",
+   	"email": "support@osmosisdao.zone",
+   	"supportRelayerBy": "Contact for info",
+   	"chainsRelayed": [
+   		{"ticker": "OSMO", "relayerAddress": "osmo190xxez5qh24rup9agnkekd4zrjr6acevfvvnhd"},
+   		{"ticker": "ATOM", "relayerAddress": "cosmos190xxez5qh24rup9agnkekd4zrjr6acevphlrpl"},
+   		{"ticker": "STRD", "relayerAddress": "stride190xxez5qh24rup9agnkekd4zrjr6acevzull4n"},
+   		{"ticker": "AKT", "relayerAddress": "akash190xxez5qh24rup9agnkekd4zrjr6acevvvjyc9"},
+   		{"ticker": "SCRT", "relayerAddress": "secret1k0z46kpn8kr8ypqq8lzthz5zd253xplgccswaf"},
+   		{"ticker": "NGM", "relayerAddress": "emoney190xxez5qh24rup9agnkekd4zrjr6acevw59hkz"},
+   		{"ticker": "REGEN", "relayerAddress": "regen190xxez5qh24rup9agnkekd4zrjr6acev745lhm"},
+   		{"ticker": "BLD", "relayerAddress": "agoric190xxez5qh24rup9agnkekd4zrjr6acevn2au3f"},
+   		{"ticker": "JUNO", "relayerAddress": "juno190xxez5qh24rup9agnkekd4zrjr6acevh9ucxr"},
+   		{"ticker": "EVMOS", "relayerAddress": "evmos1ktlf28c4lqmy8t7xn5emga68lvc57nfvqg58td"},
+   		{"ticker": "STARS", "relayerAddress": "stars190xxez5qh24rup9agnkekd4zrjr6acev4tg72w"},
+   		{"ticker": "CRO", "relayerAddress": "cro1qhhensqtwr5sv4rqsa4zgwjzjdahxyxr5gc0pz"},
+   		{"ticker": "TGRD", "relayerAddress": "tgrade190xxez5qh24rup9agnkekd4zrjr6acev2hha00"},
+   		{"ticker": "XPRT", "relayerAddress": "persistence190xxez5qh24rup9agnkekd4zrjr6acev0mes0m"},
+   		{"ticker": "SOMM", "relayerAddress": "somm190xxez5qh24rup9agnkekd4zrjr6acevdts0s4"},
+   		{"ticker": "UMEE", "relayerAddress": "umee190xxez5qh24rup9agnkekd4zrjr6acevnpzu9d"},
+   		{"ticker": "IRIS", "relayerAddress": "iaa190xxez5qh24rup9agnkekd4zrjr6acev54ljrw"},
+   		{"ticker": "BOOT", "relayerAddress": "bostrom190xxez5qh24rup9agnkekd4zrjr6acevzytslc"},
+   		{"ticker": "FET", "relayerAddress": "fetch190xxez5qh24rup9agnkekd4zrjr6acevj2k8rg"},
+   		{"ticker": "KAVA", "relayerAddress": "kava1fvce4am6y8nrrtg4ncvh8leddeyekhkzdk4van"}
+   	]
+}
