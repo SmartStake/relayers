@@ -10,15 +10,15 @@
     "chainsRelayed": [
         {
             "ticker": "STRD",
-            "relayerAddress": "stride15sr8plx65ylhszraxut43n3u544xnhgyuz2j53"
+            "relayerAddress": "stride1twmgaeug7ymjq8c53ttstpl7rny43q8zxrpsnt"
         },
         {
             "ticker": "OSMO",
-            "relayerAddress": "osmo1r077x6cetrvd4u7q4fas3mf0mrl6lrfm0plmsp"
+            "relayerAddress": "osmo1twmgaeug7ymjq8c53ttstpl7rny43q8zdnju34"
         },
         {
             "ticker": "ATOM",
-            "relayerAddress": "cosmos1kkkpm9zqrv4dh75vn765htz45666lymfpq2zyr"
+            "relayerAddress": "cosmos1twmgaeug7ymjq8c53ttstpl7rny43q8z9gpv88"
         },
         {
             "ticker": "KUJI",
@@ -26,15 +26,19 @@
         },
         {
             "ticker": "BLD",
-            "relayerAddress": "agoric15lnuvt9krtgkrfuld2vu6kwajx68ra6twgm3ky"
+            "relayerAddress": "agoric1twmgaeug7ymjq8c53ttstpl7rny43q8zh4rnh3"
         },
         {
             "ticker": "GRAV",
-            "relayerAddress": "gravity1y5aquyzxk3up90d7l7ww554n76zg9n3y0v08ch"
+            "relayerAddress": "gravity1twmgaeug7ymjq8c53ttstpl7rny43q8zpcn5z0"
         },
         {
             "ticker": "TORI",
-            "relayerAddress": "tori1z8naxhkygl29zdyvgu8u96xc5xk7ypfkfmkt4j"
+            "relayerAddress": "tori1twmgaeug7ymjq8c53ttstpl7rny43q8z8uk9uh"
+        },
+        {
+            "ticker": "JKL",
+            "relayerAddress": "jkl1twmgaeug7ymjq8c53ttstpl7rny43q8zuk0a7c"
         }
     ]
 }
