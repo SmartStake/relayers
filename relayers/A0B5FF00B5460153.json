@@ -1,0 +1,32 @@
+{
+    "keybaseIdentity": "A0B5FF00B5460153",
+    "name": "lesnik | UTSA",
+    "website": "https://teletype.in/@lesnik13utsa",
+    "twitter": "@lesnik13utsa",
+    "telegram": "@lesnik13utsa",
+    "discord": "lesnik_utsa#4480",
+    "email": "lesnik13utsa@yandex.ru",
+    "supportRelayerBy": "delegating to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "TORI",
+            "relayerAddress": "tori1k670rkzc45xmdgywe4vxwheslk3kxm3hfhtm0w"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1k670rkzc45xmdgywe4vxwheslk3kxm3hrc0zzv"
+        },
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": "evmos1an77xajfu6an6m4zxljx3jd9ppxhuf6czjwedn"
+        },        
+        {
+            "ticker": "QCK",
+            "relayerAddress": "quick1k670rkzc45xmdgywe4vxwheslk3kxm3hq8vqdv"
+        },        
+        {
+            "ticker": "JKL",
+            "relayerAddress": "jkl1k670rkzc45xmdgywe4vxwheslk3kxm3hjajrdp"
+        }
+    ]
+}
