@@ -20,7 +20,7 @@
    		{"ticker": "EVMOS", "relayerAddress": "evmos1ktlf28c4lqmy8t7xn5emga68lvc57nfvqg58td"},
    		{"ticker": "STARS", "relayerAddress": "stars190xxez5qh24rup9agnkekd4zrjr6acev4tg72w"},
    		{"ticker": "CRO", "relayerAddress": "cro1qhhensqtwr5sv4rqsa4zgwjzjdahxyxr5gc0pz"},
-   		{"ticker": "TGRD", "relayerAddress": "tgrade190xxez5qh24rup9agnkekd4zrjr6acev2hha00"},
+   		{"ticker": "TGD", "relayerAddress": "tgrade190xxez5qh24rup9agnkekd4zrjr6acev2hha00"},
    		{"ticker": "XPRT", "relayerAddress": "persistence190xxez5qh24rup9agnkekd4zrjr6acev0mes0m"},
    		{"ticker": "SOMM", "relayerAddress": "somm190xxez5qh24rup9agnkekd4zrjr6acevdts0s4"},
    		{"ticker": "UMEE", "relayerAddress": "umee190xxez5qh24rup9agnkekd4zrjr6acevnpzu9d"},
