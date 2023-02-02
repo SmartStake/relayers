@@ -51,6 +51,14 @@
     {
       "ticker": "TORI",
       "relayerAddress": "tori10drvw8x5x38a8afl7a86yh2d2kuqvm67sar6fp"
+    },
+    {
+      "ticker": "ODIN",
+      "relayerAddress": "odin10drvw8x5x38a8afl7a86yh2d2kuqvm67kfjs7m"
+    },
+    {
+      "ticker": "BCNA",
+      "relayerAddress": "bcna10drvw8x5x38a8afl7a86yh2d2kuqvm67geyj6r"
     }
   ]
 }
