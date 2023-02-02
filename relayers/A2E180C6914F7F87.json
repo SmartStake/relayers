@@ -8,16 +8,41 @@
     "email": null,
     "supportRelayerBy": "delegating to validator",
     "chainsRelayed": [
+         {
+            "ticker": "ACRE",
+            "relayerAddress": null
+        },
         {
             "ticker": "ATOM",
             "relayerAddress": null
         },
+       
         {
             "ticker": "EVMOS",
             "relayerAddress": null
         },
+          {
+            "ticker": "JKL",
+            "relayerAddress": null
+        },
         {
             "ticker": "KUJI",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "LYL",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "MARS",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "PLANQ",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "QCK",
             "relayerAddress": null
         },
         {
