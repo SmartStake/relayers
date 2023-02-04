@@ -41,6 +41,10 @@
             "relayerAddress": "kujira1nnjy6nct405pzfaqjm3dsyw0pf0kyw72qz45ej"
         },
         {
+            "ticker": "MARS",
+            "relayerAddress": "mars1nnjy6nct405pzfaqjm3dsyw0pf0kyw72vhw4pr"
+        },
+        {
             "ticker": "OSMO",
             "relayerAddress": "osmo1nnjy6nct405pzfaqjm3dsyw0pf0kyw72e3yuz2"
         },
