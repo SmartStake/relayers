@@ -39,6 +39,10 @@
         {
             "ticker": "JKL",
             "relayerAddress": "jkl1twmgaeug7ymjq8c53ttstpl7rny43q8zuk0a7c"
+        },
+        {
+            "ticker": "MARS",
+            "relayerAddress": "mars1twmgaeug7ymjq8c53ttstpl7rny43q8zc4c4ju"
         }
     ]
 }
