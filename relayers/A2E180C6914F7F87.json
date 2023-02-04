@@ -2,10 +2,10 @@
     "keybaseIdentity": "A2E180C6914F7F87",
     "name": "nodeist.net",
     "website": "https://nodeist.net",
-    "twitter": null,
-    "telegram": null,
-    "discord": null,
-    "email": null,
+    "twitter": "https://twitter.com/Nodeistt",
+    "telegram": "https://t.me/nodeistt",
+    "discord": "https://dc.nodeist.net",
+    "email": "hello@nodeist.net",
     "supportRelayerBy": "delegating to validator",
     "chainsRelayed": [
          {
