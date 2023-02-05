@@ -59,6 +59,10 @@
         {
             "ticker": "CANTO",
             "relayerAddress": "canto1q3054e3nrzlkp4act9236lwgl6hncftf98guc0"
+        },
+        {
+            "ticker": "MARS",
+            "relayerAddress": "mars1hhzf9u376mg8zcuvx3jsls7t805kzcrsukhdw9"
         }
     ]
 }
