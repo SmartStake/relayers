@@ -43,6 +43,14 @@
         {
             "ticker": "MARS",
             "relayerAddress": "mars1twmgaeug7ymjq8c53ttstpl7rny43q8zc4c4ju"
+        },
+        {
+            "ticker": "QCK",
+            "relayerAddress": "quick1twmgaeug7ymjq8c53ttstpl7rny43q8zwv3774"
+        },
+        {
+            "ticker": "REBUS",
+            "relayerAddress": "rebus1twmgaeug7ymjq8c53ttstpl7rny43q8z5zzen3"
         }
     ]
 }
