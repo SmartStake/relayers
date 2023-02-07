@@ -1,0 +1,36 @@
+{
+    "keybaseIdentity": "86D0A9427E51D239",
+    "name": "genznodes",
+    "website": "https://genznodes.dev",
+    "twitter": "https://twitter.com/genznodes",
+    "telegram": "https://t.me/Genzbit",
+    "discord": "Genz#9459",
+    "email": "genzbit@genznodes.dev",
+    "supportRelayerBy": "Delegate with us",
+    "chainsRelayed": [
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0xt6rxd"
+        },
+        {
+            "ticker": "MARS",
+            "relayerAddress": "mars1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0nds29y"
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0dmf0yn"
+        },
+        {
+            "ticker": "LUM",
+            "relayerAddress": "lum1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0m6569t"
+        },
+        {
+            "ticker": "TORI",
+            "relayerAddress": "tori1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0vy76t0"
+        },
+        {
+            "ticker": "PLANQ",
+            "relayerAddress": "plq1eag0g86hv5dlgmf5l3aflfalckqus6n6qumc5z"
+        }
+    ]
+}
