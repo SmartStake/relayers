@@ -1,0 +1,27 @@
+{
+   	"keybaseIdentity": "3D6E2861B47F2F9F",
+   	"name": "Kalia Network",
+   	"website": "https://kalia.network",
+   	"twitter": "https://twitter.com/KaliaNetwork",
+   	"telegram": "https://t.me/KaliaNetwork",
+   	"discord": null,
+   	"email": "info@kalia.network",
+   	"supportRelayerBy": "delegating to validator",
+   	"chainsRelayed": [
+   		{"ticker": "ACRE", "relayerAddress": null},
+      {"ticker": "AKT", "relayerAddress": null},
+      {"ticker": "BCNA", "relayerAddress": null},
+      {"ticker": "C4E", "relayerAddress": null},
+      {"ticker": "DSM", "relayerAddress": null},
+      {"ticker": "IXO", "relayerAddress": null},
+      {"ticker": "JKL", "relayerAddress": null},
+      {"ticker": "HUAHUA", "relayerAddress": null},
+      {"ticker": "MNTL", "relayerAddress": null},
+   		{"ticker": "OSMO", "relayerAddress": null},
+   		{"ticker": "REBUS", "relayerAddress": null},
+   		{"ticker": "STARS", "relayerAddress": null},
+   		{"ticker": "STRD", "relayerAddress": null},
+      {"ticker": "TORI", "relayerAddress": null},
+   		{"ticker": "QCK", "relayerAddress": null}
+   	]
+}
