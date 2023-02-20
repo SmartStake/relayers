@@ -17,10 +17,6 @@
             "relayerAddress": "cosmos1wwxeusrluapjewppth29mp0dn6d8kukpa0l4zx"
         },
         {
-            "ticker": "AXL",
-            "relayerAddress": "axelar1x32drz3d77r0ggk9xfmrrshjunljj6l0z8vtsc"
-        },
-        {
             "ticker": "BAND",
             "relayerAddress": "band1grgqpjavx7u2rda5glwwq682h3ukvltk2q3yr6"
         },
@@ -59,10 +55,6 @@
         {
             "ticker": "OSMO",
             "relayerAddress": "osmo1v6evmh0wdfvs56nrkq0dd66yvpuj3paq3gzksp"
-        },
-        {
-            "ticker": "SCRT",
-            "relayerAddress": "secret1f07drt6s8jdjdc5gdmqss3zndwpdneaxvuntr3"
         },
         {
             "ticker": "STARS",
