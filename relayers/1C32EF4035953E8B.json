@@ -59,6 +59,10 @@
         {
             "ticker": "TORI",
             "relayerAddress": "tori1nnjy6nct405pzfaqjm3dsyw0pf0kyw72n7q90g"
+        },
+        {
+            "ticker": "WHALE",
+            "relayerAddress": "migaloo1nnjy6nct405pzfaqjm3dsyw0pf0kyw72u77kpk"
         }
     ]
 }
