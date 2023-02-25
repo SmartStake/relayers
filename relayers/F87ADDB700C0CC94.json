@@ -7,7 +7,7 @@
     "discord": "https://discord.gg/mZzNBhRanG",
     "email": "Hello@lavenderfive.com",
     "github": "https://github.com/LavenderFive",
-    "supportRelayerBy": "delegating to validator",
+    "supportRelayerBy": "Delegate to us on your favourite chain! - [Link](https://www.stakingrewards.com/savings/lavenderfive-nodes/)",
     "chainsRelayed": [
         {
             "ticker": "ATOM",
@@ -80,6 +80,26 @@
         {
             "ticker": "AXL",
             "relayerAddress": "axelar18xrruhq5r246mwk0yj9elnn3mte8xa9uymd98a"
-        }
+        },
+        {
+            "ticker": "INJ",
+            "relayerAddress": "inj1mx070d26eu5trde862pfl6gaqmzlcj99udwy02"
+        },
+                {
+            "ticker": "MARS",
+            "relayerAddress": "mars18xrruhq5r246mwk0yj9elnn3mte8xa9uagz5e8"
+        },
+                {
+            "ticker": "KI",
+            "relayerAddress": "ki18xrruhq5r246mwk0yj9elnn3mte8xa9u3c2zgg"
+        },
+        {
+            "ticker": "WHALE",
+            "relayerAddress": "migaloo18xrruhq5r246mwk0yj9elnn3mte8xa9udpjhej"
+        }, 
+        {
+            "ticker": "BCNA",
+            "relayerAddress": "bcna18xrruhq5r246mwk0yj9elnn3mte8xa9u69tvyw"
+        },
     ]
 }
