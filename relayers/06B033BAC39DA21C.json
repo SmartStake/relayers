@@ -29,6 +29,30 @@
             "relayerAddress": "stride1ks0qeq9vyt9l7vgasaajd49ff0k8klur63e7pl"
         },
         {
+            "ticker": "CMDX",
+            "relayerAddress": "comdex1ks0qeq9vyt9l7vgasaajd49ff0k8klur74mqvy"
+        },
+        {
+            "ticker": "MARS",
+            "relayerAddress": "mars1ks0qeq9vyt9l7vgasaajd49ff0k8klury8qmqg"
+        },
+        {
+            "ticker": "WHALE",
+            "relayerAddress": "migaloo1ks0qeq9vyt9l7vgasaajd49ff0k8klur5wscqa"
+        },
+        {
+            "ticker": "SWTH",
+            "relayerAddress": "swth1ks0qeq9vyt9l7vgasaajd49ff0k8klurxyn5x2"
+        },
+        {
+            "ticker": "STARS",
+            "relayerAddress": "stars1ks0qeq9vyt9l7vgasaajd49ff0k8klurdxwl7z"
+        },
+        {
+            "ticker": "QCK",
+            "relayerAddress": "quick1ks0qeq9vyt9l7vgasaajd49ff0k8klurj7fsvp"
+        },
+        {
             "ticker": "KUJI",
             "relayerAddress": "kujira1ks0qeq9vyt9l7vgasaajd49ff0k8klurgjm6ce"
         },
