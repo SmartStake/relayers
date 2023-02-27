@@ -1,0 +1,24 @@
+{
+    "keybaseIdentity": "CD80FCB702D70807",
+    "name": "S16 Research Ventures",
+    "website": "https://www.s16.ventures/",
+    "twitter": "https://twitter.com/S16RV",
+    "telegram": null,
+    "discord": null,
+    "email": "team@s16.ventures",
+    "supportRelayerBy": "delegating to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1rpzrwy5tpzqmfxhx5t0z3pf7fj2ma3vwudhyh6"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1rpzrwy5tpzqmfxhx5t0z3pf7fj2ma3vw5ky5pg"
+        },
+        {
+            "ticker": "JUNO",
+            "relayerAddress": "juno1rpzrwy5tpzqmfxhx5t0z3pf7fj2ma3vw2l5lsx"
+        }
+    ]
+}
