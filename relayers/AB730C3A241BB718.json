@@ -51,6 +51,14 @@
         {
             "ticker": "CMDX",
             "relayerAddress": "comdex1cx82d7pm4dgffy7a93rl6ul5g84vjgxkqfyp2m"
+        },
+        {
+            "ticker": "BAND",
+            "relayerAddress": "band1u3ysyzsfll2x74l3rfxsyw3yxmunuwrdjmfd3n"
+        },
+        {
+            "ticker": "INJ",
+            "relayerAddress": "inj1tusg5d35w03v0s2u5tefvf5yclguye09srgs2v"
         }
     ]
 }
