@@ -12,7 +12,7 @@
    		{"ticker": "ATOM", "relayerAddress": "cosmos190xxez5qh24rup9agnkekd4zrjr6acevphlrpl"},
    		{"ticker": "STRD", "relayerAddress": "stride190xxez5qh24rup9agnkekd4zrjr6acevzull4n"},
    		{"ticker": "AKT", "relayerAddress": "akash190xxez5qh24rup9agnkekd4zrjr6acevvvjyc9"},
-   		{"ticker": "SCRT", "relayerAddress": "secret1k0z46kpn8kr8ypqq8lzthz5zd253xplgccswaf"},
+   		{"ticker": "SCRT", "relayerAddress": "secret190xxez5qh24rup9agnkekd4zrjr6acevrjt2ur"},
    		{"ticker": "NGM", "relayerAddress": "emoney190xxez5qh24rup9agnkekd4zrjr6acevw59hkz"},
    		{"ticker": "REGEN", "relayerAddress": "regen190xxez5qh24rup9agnkekd4zrjr6acev745lhm"},
    		{"ticker": "BLD", "relayerAddress": "agoric190xxez5qh24rup9agnkekd4zrjr6acevn2au3f"},
