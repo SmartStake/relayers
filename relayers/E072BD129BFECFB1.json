@@ -13,6 +13,10 @@
             "relayerAddress": "cosmos1p7d8mnjttcszv34pk2a5yyug3474mhffasa7tg"
         },
         {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1nna7k5lywn99cd63elcfqm6p8c5c4qcug4aef5"
+        },
+        {
             "ticker": "AXL",
             "relayerAddress": "axelar1nna7k5lywn99cd63elcfqm6p8c5c4qcuvmt3z4"
         },
@@ -29,12 +33,24 @@
             "relayerAddress": "juno1nna7k5lywn99cd63elcfqm6p8c5c4qcu787zwg"
         },
         {
+            "ticker": "JUNO",
+            "relayerAddress": "juno1p7d8mnjttcszv34pk2a5yyug3474mhfftz79v5"
+        },
+        {
+            "ticker": "KUJI",
+            "relayerAddress": "kujira1nna7k5lywn99cd63elcfqm6p8c5c4qcuealpy7"
+        },
+        {
             "ticker": "OSMO",
             "relayerAddress": "osmo1p7d8mnjttcszv34pk2a5yyug3474mhff4twwa6"
         },
         {
             "ticker": "OSMO",
             "relayerAddress": "osmo1nna7k5lywn99cd63elcfqm6p8c5c4qcuqwwflx"
+        },
+        {
+            "ticker": "SOMM",
+            "relayerAddress": "somm1nna7k5lywn99cd63elcfqm6p8c5c4qcuyfj4c7"
         },
         {
             "ticker": "STARS",
