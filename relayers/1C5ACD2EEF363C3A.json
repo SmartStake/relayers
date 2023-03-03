@@ -55,6 +55,10 @@
         {
             "ticker": "WHALE",
             "relayerAddress": "migaloo1twmgaeug7ymjq8c53ttstpl7rny43q8zgugkjf"
+        },
+        {
+            "ticker": "BCNA",
+            "relayerAddress": "bcna1twmgaeug7ymjq8c53ttstpl7rny43q8zlc3d04"
         }
     ]
 }
