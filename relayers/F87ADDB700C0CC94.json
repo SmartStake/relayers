@@ -10,6 +10,30 @@
     "supportRelayerBy": "Delegate to us on your favourite chain!",
     "chainsRelayed": [
         {
+            "ticker": "AKT",
+            "relayerAddress": "akash18xrruhq5r246mwk0yj9elnn3mte8xa9udwk24x"
+        },
+        {
+            "ticker": "BLD",
+            "relayerAddress": "agoric18xrruhq5r246mwk0yj9elnn3mte8xa9ujgeju2"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar18xrruhq5r246mwk0yj9elnn3mte8xa9uymd98a"
+        },
+        {
+            "ticker": "BCNA",
+            "relayerAddress": "bcna18xrruhq5r246mwk0yj9elnn3mte8xa9u69tvyw"
+        },
+        {
+            "ticker": "CHEQ",
+            "relayerAddress": "cheqd18xrruhq5r246mwk0yj9elnn3mte8xa9uwhhd8d"
+        },
+        {
+            "ticker": "CMDX",
+            "relayerAddress": "comdex18xrruhq5r246mwk0yj9elnn3mte8xa9u86e04t"
+        },
+        {
             "ticker": "ATOM",
             "relayerAddress": "cosmos18xrruhq5r246mwk0yj9elnn3mte8xa9uq4mdvu"
         },
@@ -18,12 +42,48 @@
             "relayerAddress": "evmos1mx070d26eu5trde862pfl6gaqmzlcj9959gw86"
         },
         {
+            "ticker": "GRAV",
+            "relayerAddress": "gravity18xrruhq5r246mwk0yj9elnn3mte8xa9uy9f4f5"
+        },
+        {
+            "ticker": "HUAHUA",
+            "relayerAddress": "chihuahua18xrruhq5r246mwk0yj9elnn3mte8xa9urqkrd7"
+        },
+        {
+            "ticker": "INJ",
+            "relayerAddress": "inj1mx070d26eu5trde862pfl6gaqmzlcj99udwy02"
+        },
+        {
+            "ticker": "IXO",
+            "relayerAddress": "ixo18xrruhq5r246mwk0yj9elnn3mte8xa9ulq9lg0"
+        },
+        {
+            "ticker": "JKL",
+            "relayerAddress": "jkl18xrruhq5r246mwk0yj9elnn3mte8xa9uet4u4r"
+        },
+        {
             "ticker": "JUNO",
             "relayerAddress": "juno18xrruhq5r246mwk0yj9elnn3mte8xa9uk8cktq"
         },
         {
+            "ticker": "KI",
+            "relayerAddress": "ki18xrruhq5r246mwk0yj9elnn3mte8xa9u3c2zgg"
+        },
+        {
             "ticker": "KUJI",
             "relayerAddress": "kujira18xrruhq5r246mwk0yj9elnn3mte8xa9u3ae4pk"
+        },
+        {
+            "ticker": "MARS",
+            "relayerAddress": "mars18xrruhq5r246mwk0yj9elnn3mte8xa9uagz5e8"
+        },
+        {
+            "ticker": "WHALE",
+            "relayerAddress": "migaloo18xrruhq5r246mwk0yj9elnn3mte8xa9udpjhej"
+        }, 
+        {
+            "ticker": "FLIX",
+            "relayerAddress": "omniflix18xrruhq5r246mwk0yj9elnn3mte8xa9uat25mz"
         },
         {
             "ticker": "OSMO",
@@ -34,72 +94,16 @@
             "relayerAddress": "secret1czy3ak7s26sajcr99cyzfd2l75rprjxlkw4n6t"
         },
         {
-            "ticker": "AKT",
-            "relayerAddress": "akash18xrruhq5r246mwk0yj9elnn3mte8xa9udwk24x"
-        },
-        {
-            "ticker": "IXO",
-            "relayerAddress": "ixo18xrruhq5r246mwk0yj9elnn3mte8xa9ulq9lg0"
-        },
-        {
-            "ticker": "GRAV",
-            "relayerAddress": "gravity18xrruhq5r246mwk0yj9elnn3mte8xa9uy9f4f5"
-        },
-        {
             "ticker": "STRD",
             "relayerAddress": "stride18xrruhq5r246mwk0yj9elnn3mte8xa9ur7m3cs"
-        },        
-        {
-            "ticker": "CMDX",
-            "relayerAddress": "comdex18xrruhq5r246mwk0yj9elnn3mte8xa9u86e04t"
-        },        
-        {
-            "ticker": "HUAHUA",
-            "relayerAddress": "chihuahua18xrruhq5r246mwk0yj9elnn3mte8xa9urqkrd7"
-        },        
+        },     
         {
             "ticker": "LUNA",
             "relayerAddress": "terra1czy3ak7s26sajcr99cyzfd2l75rprjxlj0m69h"
-        },
+        },        
         {
             "ticker": "TORI",
             "relayerAddress": "tori18xrruhq5r246mwk0yj9elnn3mte8xa9uzpvyhv"
-        },
-        {
-            "ticker": "CHEQ",
-            "relayerAddress": "cheqd18xrruhq5r246mwk0yj9elnn3mte8xa9uwhhd8d"
-        },
-        {
-            "ticker": "JKL",
-            "relayerAddress": "jkl18xrruhq5r246mwk0yj9elnn3mte8xa9uet4u4r"
-        },
-        {
-            "ticker": "BLD",
-            "relayerAddress": "agoric18dswkgr8xlw3jjpunzsxqm5z9u5v8m70wwvep5"
-        },
-        {
-            "ticker": "AXL",
-            "relayerAddress": "axelar18xrruhq5r246mwk0yj9elnn3mte8xa9uymd98a"
-        },
-        {
-            "ticker": "INJ",
-            "relayerAddress": "inj1mx070d26eu5trde862pfl6gaqmzlcj99udwy02"
-        },
-                {
-            "ticker": "MARS",
-            "relayerAddress": "mars18xrruhq5r246mwk0yj9elnn3mte8xa9uagz5e8"
-        },
-                {
-            "ticker": "KI",
-            "relayerAddress": "ki18xrruhq5r246mwk0yj9elnn3mte8xa9u3c2zgg"
-        },
-        {
-            "ticker": "WHALE",
-            "relayerAddress": "migaloo18xrruhq5r246mwk0yj9elnn3mte8xa9udpjhej"
-        }, 
-        {
-            "ticker": "BCNA",
-            "relayerAddress": "bcna18xrruhq5r246mwk0yj9elnn3mte8xa9u69tvyw"
         }
     ]
 }
