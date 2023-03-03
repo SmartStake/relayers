@@ -25,7 +25,7 @@ If you run relayer on any of the IBC chains, your relayer will be shown on Inter
     		{"ticker": "ATOM", "relayerAddress": "cosmos...."},
     		{"ticker": "OSMO", "relayerAddress": "osmoaddr1...."},
     		{"ticker": "OSMO", "relayerAddress": "osmoaddr2...."}, #for multiple relaying addresses, make separate entry for network-address combination 
-    		{"ticker": "INJ", "relayerAddress": "inj...."},
+    		{"ticker": "INJ", "relayerAddress": "inj...."} #please make sure the last item doesnt end with a comma (it makes the json an invalid object)
     	]
  }
  ```

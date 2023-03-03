@@ -1,0 +1,17 @@
+{
+   	"keybaseIdentity": "55B2C411EE64C03A",
+   	"name": "Made in Block",
+   	"website": "https://mib.tech",
+   	"twitter": "made_in_block",
+   	"telegram": "Esse0404",
+   	"discord": "Esse0404 | 👽 Made in Block#9887",
+   	"email": "info@mib.tech",
+   	"supportRelayerBy": "Stake with us and access the secrets of Cosmos",
+   	"chainsRelayed": [
+         {"ticker": "JUNO", "relayerAddress": "juno1fxqa7e2s5cgyxgahcnkq5cxwckjdpfgr0nxxmk"},
+         {"ticker": "MARS", "relayerAddress": "mars1fxqa7e2s5cgyxgahcnkq5cxwckjdpfgryuuyf3"},
+         {"ticker": "OKT", "relayerAddress": "ex1fxqa7e2s5cgyxgahcnkq5cxwckjdpfgr3gnc4a"}, 
+         {"ticker": "OSMO", "relayerAddress": "osmo1fxqa7e2s5cgyxgahcnkq5cxwckjdpfgr36kd2c"},
+         {"ticker": "ATOM", "relayerAddress": "cosmos1fxqa7e2s5cgyxgahcnkq5cxwckjdpfgrep9au2"}
+   	]
+}

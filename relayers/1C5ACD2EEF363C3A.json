@@ -51,6 +51,10 @@
         {
             "ticker": "REBUS",
             "relayerAddress": "rebus1twmgaeug7ymjq8c53ttstpl7rny43q8z5zzen3"
+        },
+        {
+            "ticker": "WHALE",
+            "relayerAddress": "migaloo1twmgaeug7ymjq8c53ttstpl7rny43q8zgugkjf"
         }
     ]
 }

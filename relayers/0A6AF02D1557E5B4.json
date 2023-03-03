@@ -1,52 +1,132 @@
 {
-    "keybaseIdentity": "0A6AF02D1557E5B4",
-    "name": "polkachu.com",
-    "website": "https://polkachu.com",
-    "twitter": null,
-    "telegram": null,
-    "discord": null,
-    "email": null,
-    "supportRelayerBy": "delegating to validator",
-    "chainsRelayed": [
-        {
-            "ticker": "AKT",
-            "relayerAddress": null
-        },
-        {
-            "ticker": "AXL",
-            "relayerAddress": null
-        },
-        {
-            "ticker": "CRE",
-            "relayerAddress": null
-        },
-        {
-            "ticker": "EVMOS",
-            "relayerAddress": null
-        },
-        {
-            "ticker": "INJ",
-            "relayerAddress": null
-        },
-        {
-            "ticker": "JUNO",
-            "relayerAddress": null
-        },
-        {
-            "ticker": "KUJI",
-            "relayerAddress": null
-        },
-        {
-            "ticker": "STARS",
-            "relayerAddress": null
-        },
-        {
-            "ticker": "STRD",
-            "relayerAddress": null
-        },
-        {
-            "ticker": "QCK",
-            "relayerAddress": null
-        }
-    ]
+  "keybaseIdentity": "0A6AF02D1557E5B4",
+  "name": "polkachu.com",
+  "website": "https://polkachu.com",
+  "twitter": "https://twitter.com/polka_chu",
+  "telegram": "https://t.me/polkachu",
+  "discord": "https://discord.gg/b5nXFAsex2",
+  "email": "hello@polkachu.com",
+  "supportRelayerBy": "Polkachu is the trusted staking service provider for blockchain projects. 100% refund for downtime slash. Contact us at hello@polkachu.com",
+  "chainsRelayed": [
+    {
+      "ticker": "BLD",
+      "relayerAddress": "agoric1fegapd4jc3ejqeg0eu3jk4hvr74hg660v82m5m"
+    },
+    {
+      "ticker": "AKT",
+      "relayerAddress": "akash1fegapd4jc3ejqeg0eu3jk4hvr74hg660np9rah"
+    },
+    {
+      "ticker": "AXL",
+      "relayerAddress": "axelar1fegapd4jc3ejqeg0eu3jk4hvr74hg660657v0v"
+    },
+    {
+      "ticker": "BCNA",
+      "relayerAddress": "bcna1fegapd4jc3ejqeg0eu3jk4hvr74hg660y2c9vl"
+    },
+    {
+      "ticker": "CANTO",
+      "relayerAddress": "canto1fgdn737xmvvsvjnjghxpjcrw02ux970556kcxs"
+    },
+    {
+      "ticker": "HUAHUA",
+      "relayerAddress": "chihuahua1fegapd4jc3ejqeg0eu3jk4hvr74hg660a09290"
+    },
+    {
+      "ticker": "CMDX",
+      "relayerAddress": "comdex1fegapd4jc3ejqeg0eu3jk4hvr74hg660e42xa6"
+    },
+    {
+      "ticker": "ATOM",
+      "relayerAddress": "cosmos1fegapd4jc3ejqeg0eu3jk4hvr74hg66076gyyd"
+    },
+    {
+      "ticker": "CRE",
+      "relayerAddress": "cre1fegapd4jc3ejqeg0eu3jk4hvr74hg6606jmp3q"
+    },
+    {
+      "ticker": "CRO",
+      "relayerAddress": "cro1w6cum6t9grjwj2aj2fqp3gmqyfh0lp57cnmxvq"
+    },
+    {
+      "ticker": "EVMOS",
+      "relayerAddress": "evmos1fgdn737xmvvsvjnjghxpjcrw02ux9705ydxxgs"
+    },
+    {
+      "ticker": "GRAV",
+      "relayerAddress": "gravity1fegapd4jc3ejqeg0eu3jk4hvr74hg660626up9"
+    },
+    {
+      "ticker": "INJ",
+      "relayerAddress": "inj1fgdn737xmvvsvjnjghxpjcrw02ux9705v9qvqq"
+    },
+    {
+      "ticker": "JKL",
+      "relayerAddress": "jkl1fegapd4jc3ejqeg0eu3jk4hvr74hg6608yx4aj"
+    },
+    {
+      "ticker": "JUNO",
+      "relayerAddress": "juno1fegapd4jc3ejqeg0eu3jk4hvr74hg660ggtlr3"
+    },
+    {
+      "ticker": "KAVA",
+      "relayerAddress": "kava1fegapd4jc3ejqeg0eu3jk4hvr74hg660z0uej2"
+    },
+    {
+      "ticker": "XKI",
+      "relayerAddress": "ki1fegapd4jc3ejqeg0eu3jk4hvr74hg6600hetqe"
+    },
+    {
+      "ticker": "KUJI",
+      "relayerAddress": "kujira1fegapd4jc3ejqeg0eu3jk4hvr74hg6600j2uf8"
+    },
+    {
+      "ticker": "MARS",
+      "relayerAddress": "mars1fegapd4jc3ejqeg0eu3jk4hvr74hg660r83a3k"
+    },
+    {
+      "ticker": "WHALE",
+      "relayerAddress": "migaloo1fegapd4jc3ejqeg0eu3jk4hvr74hg660nwp73r"
+    },
+    {
+      "ticker": "OSMO",
+      "relayerAddress": "osmo1fegapd4jc3ejqeg0eu3jk4hvr74hg660kpm5jl"
+    },
+    {
+      "ticker": "XPRT",
+      "relayerAddress": "persistence1fegapd4jc3ejqeg0eu3jk4hvr74hg660skwh2f"
+    },
+    {
+      "ticker": "QCK",
+      "relayerAddress": "quick1fegapd4jc3ejqeg0eu3jk4hvr74hg66047ckal"
+    },
+    {
+      "ticker": "ROWAN",
+      "relayerAddress": "sif1fegapd4jc3ejqeg0eu3jk4hvr74hg660m88jtx"
+    },
+    {
+      "ticker": "SOMM",
+      "relayerAddress": "somm1fegapd4jc3ejqeg0eu3jk4hvr74hg660jx8g48"
+    },
+    {
+      "ticker": "STARS",
+      "relayerAddress": "stars1fegapd4jc3ejqeg0eu3jk4hvr74hg6602xle0u"
+    },
+    {
+      "ticker": "STRD",
+      "relayerAddress": "stride1fegapd4jc3ejqeg0eu3jk4hvr74hg660a3gcsp"
+    },
+    {
+      "ticker": "TORI",
+      "relayerAddress": "tori1fegapd4jc3ejqeg0eu3jk4hvr74hg660uwldla"
+    },
+    {
+      "ticker": "LUNA",
+      "relayerAddress": "terra1fegapd4jc3ejqeg0eu3jk4hvr74hg660c7jyxd"
+    },
+    {
+      "ticker": "UMEE",
+      "relayerAddress": "umee1fegapd4jc3ejqeg0eu3jk4hvr74hg660vv4mql"
+    }
+  ]
 }

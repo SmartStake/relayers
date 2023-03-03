@@ -10,35 +10,31 @@
     "chainsRelayed": [
         {
             "ticker": "AKT",
-            "relayerAddress": null
+            "relayerAddress": "akash1gdc9xf8p775zq5pc7su347dzk9jnskfayqwn2j"
         },
         {
             "ticker": "JUNO",
-            "relayerAddress": null
+            "relayerAddress": "juno1qx6nnykvn390su7hrtunvdj509khadeh0q92w6"
         },
         {
             "ticker": "STRD",
-            "relayerAddress": null
+            "relayerAddress": "stride14hevmde4gft3jjhaxwnf0uky7dph0a4pkkh2gu"
         },
         {
             "ticker": "BTSG",
-            "relayerAddress": null
+            "relayerAddress": "bitsong1vlu8mt4uac7av6wq8haly3ay7y2lkdpdt7phc5"
         },
         {
             "ticker": "SCRT",
-            "relayerAddress": null
+            "relayerAddress": "secret1lhuxaulfjxaf7002eulxhgluxdf6352mfphf52"
         },
         {
             "ticker": "XPRT",
-            "relayerAddress": null
+            "relayerAddress": "persistence1fu30nzku2z7c0mmwp3x5qxahc7l3ts68fuwjhs"
         },
         {
             "ticker": "OSMO",
-            "relayerAddress": null
-        },
-        {
-            "ticker": "NGM",
-            "relayerAddress": null
+            "relayerAddress": "osmo1056sshv4vvyzu3ylrp5wd5r9we7cppl33vy2kv"
         }
     ]
 }
