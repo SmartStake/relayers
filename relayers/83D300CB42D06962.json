@@ -5,7 +5,7 @@
     "twitter": "https://twitter.com/StakinOfficial",
     "telegram": "https://t.me/stakinofficial",
     "discord": "https://discord.gg/bhS7ZBhD",
-    "email": "null",
+    "email": null,
     "supportRelayerBy": "delegating to validator",
     "chainsRelayed": [
         {
@@ -92,7 +92,7 @@
         {
             "ticker": "STRD",
             "relayerAddress": "stride1ptm9dyyya6erqj9h9ydurtzvla2h6lv92aaz3c"
-        }
+        },
         {
             "ticker": "CRE",
             "relayerAddress": "cre1ptm9dyyya6erqj9h9ydurtzvla2h6lv9d7wmse"
