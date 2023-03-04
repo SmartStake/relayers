@@ -21,12 +21,20 @@
             "relayerAddress": "osmo1ln3l6waaqdjcskt3ztzqlzkpvmzp7zw47lek7n"
         },        
         {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1w8kzcqk25vr0fx0k7yxn2vjw49qerut2rjlh2n"
+        },        
+        {
             "ticker": "ATOM",
             "relayerAddress": "cosmos1cx82d7pm4dgffy7a93rl6ul5g84vjgxk8xxrnv"
         },        
         {
             "ticker": "ATOM",
             "relayerAddress": "cosmos1ln3l6waaqdjcskt3ztzqlzkpvmzp7zw4ky2xgp"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1w8kzcqk25vr0fx0k7yxn2vjw49qerut2tfv8up"
         },
         {
             "ticker": "BTSG",
@@ -43,6 +51,10 @@
         {
             "ticker": "JUNO",
             "relayerAddress": "juno1cx82d7pm4dgffy7a93rl6ul5g84vjgxk359c5s"
+        },
+        {
+            "ticker": "JUNO",
+            "relayerAddress": "juno1w8kzcqk25vr0fx0k7yxn2vjw49qerut2am0uma"
         },
         {
             "ticker": "XPRT",
