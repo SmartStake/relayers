@@ -1,0 +1,22 @@
+{
+   	"keybaseIdentity": "FA260EE7A0113432",
+   	"name": "jabbey",
+   	"website": "https://jabbey.io",
+   	"twitter": "https://twitter.com/joeabbey",
+   	"telegram": "https://t.me/joeabbey", 
+   	"discord": "jabbey#2389",
+   	"email": "jabbey@jabbey.io",
+   	"supportRelayerBy": "delegate to jabbey for dad jokes and puns",
+   	"chainsRelayed": [
+   		{"ticker": "ATOM", "relayerAddress": "cosmos1j6a0cxzhk8jqcyr9m94hv5r8nqle5yrtfn7hrx"},
+   		{"ticker": "EVMOS", "relayerAddress": "evmos1jwtuac7wrmfyq7vfkjx68x0vath0yvckg8yc0r"},
+   		{"ticker": "HUAHUA", "relayerAddress": "chihuahua1j6a0cxzhk8jqcyr9m94hv5r8nqle5yrt2xnezy"},
+   		{"ticker": "INJ", "relayerAddress": "inj1jwtuac7wrmfyq7vfkjx68x0vath0yvckq0zj8n"},
+   		{"ticker": "JUNO", "relayerAddress": "juno1j6a0cxzhk8jqcyr9m94hv5r8nqle5yrtlpavy6"},
+   		{"ticker": "MARS", "relayerAddress": "mars1j6a0cxzhk8jqcyr9m94hv5r8nqle5yrt5w8wka"},
+   		{"ticker": "NGM", "relayerAddress": "emoney1j6a0cxzhk8jqcyr9m94hv5r8nqle5yrtxsyr5m"},
+   		{"ticker": "OSMO", "relayerAddress": "osmo1j6a0cxzhk8jqcyr9m94hv5r8nqle5yrtpgd845"},
+   		{"ticker": "STRIDE", "relayerAddress": "stride1j6a0cxzhk8jqcyr9m94hv5r8nqle5yrt2c7th2"},
+   		{"ticker": "WHALE", "relayerAddress": "migaloo1j6a0cxzhk8jqcyr9m94hv5r8nqle5yrty8hdkg"}
+   	]
+}
