@@ -16,7 +16,7 @@
    		{"ticker": "MARS", "relayerAddress": "mars1j6a0cxzhk8jqcyr9m94hv5r8nqle5yrt5w8wka"},
    		{"ticker": "NGM", "relayerAddress": "emoney1j6a0cxzhk8jqcyr9m94hv5r8nqle5yrtxsyr5m"},
    		{"ticker": "OSMO", "relayerAddress": "osmo1j6a0cxzhk8jqcyr9m94hv5r8nqle5yrtpgd845"},
-   		{"ticker": "STRIDE", "relayerAddress": "stride1j6a0cxzhk8jqcyr9m94hv5r8nqle5yrt2c7th2"},
+   		{"ticker": "STRD", "relayerAddress": "stride1j6a0cxzhk8jqcyr9m94hv5r8nqle5yrt2c7th2"},
    		{"ticker": "WHALE", "relayerAddress": "migaloo1j6a0cxzhk8jqcyr9m94hv5r8nqle5yrty8hdkg"}
    	]
 }
