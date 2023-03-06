@@ -27,6 +27,10 @@
         {
             "ticker": "CRE",
             "relayerAddress": "cre1kz6qywrj9jyer9r5hkx5qe7mrm96xudq5c5a6c"
+        },
+        {
+            "ticker": "INJ",
+            "relayerAddress": "inj1kz6qywrj9jyer9r5hkx5qe7mrm96xudq6esuad"  
         }
     ]
 }
