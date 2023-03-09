@@ -22,7 +22,7 @@
         },
         {
             "ticker": "LUNC",
-            "relayerAddress": "terra1v3n5rfl0ker0p3ukp0ucweql74695l4z5sltyz"
+            "relayerAddress": "terra1lznn08qlmpfsp5amxdshq7vc4gr5ceyeqz9sde"
         },
         {
             "ticker": "OSMO",
@@ -58,11 +58,31 @@
         },
         {
             "ticker": "CANTO",
-            "relayerAddress": "canto1q3054e3nrzlkp4act9236lwgl6hncftf98guc0"
+            "relayerAddress": "canto1mn3q3t3l62kpxfuyldmatly63yf7m9a83hflsc"
         },
         {
             "ticker": "MARS",
             "relayerAddress": "mars1hhzf9u376mg8zcuvx3jsls7t805kzcrsukhdw9"
-        }
+        },
+        {
+            "ticker": "WHALE",
+            "relayerAddress": "migaloo1hhzf9u376mg8zcuvx3jsls7t805kzcrsvl8wws"
+        },
+        {
+            "ticker": "PLQ",
+            "relayerAddress": "plq1mn3q3t3l62kpxfuyldmatly63yf7m9a82ecnzr"
+        },
+        {
+            "ticker": "XPRT",
+            "relayerAddress": "persistence1hhzf9u376mg8zcuvx3jsls7t805kzcrs08g846"
+        },
+        {
+            "ticker": "HUAHUA",
+            "relayerAddress": "chihuahua1hhzf9u376mg8zcuvx3jsls7t805kzcrsz7r66u"
+        },
+        {
+            "ticker": "MEME",
+            "relayerAddress": "meme1hhzf9u376mg8zcuvx3jsls7t805kzcrsl5cru5"
+        }      
     ]
 }
