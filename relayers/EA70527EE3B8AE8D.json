@@ -15,7 +15,7 @@
         {"ticker": "BCNA", "relayerAddress": "bcna1769cucyky8xhmhqv9aue5zlfhadasqhd49xpnx"},
         {"ticker": "BTSG", "relayerAddress": "bitsong1my60x4wr2k9trdp63efn50vqnk9nsjgrk4t7ls"},
         {"ticker": "BZE", "relayerAddress": "bze16xf086r2stl984qfz6xsauqa95f08sjc3tqpjc"},
-        {"ticker": "CHEQD", "relayerAddress": "cheqd1zeu7vgtrqnmt57p4qqdr9r6svphqxw54jcy68m"},
+        {"ticker": "CHEQ", "relayerAddress": "cheqd1zeu7vgtrqnmt57p4qqdr9r6svphqxw54jcy68m"},
         {"ticker": "CRO", "relayerAddress": "cro12lsgvnldk9enk9rpghng4kdppkrpdjqh754nwd"},
         {"ticker": "CTK", "relayerAddress": "certik1vaqtdc24zq28adhnyrx7w9sfyfj4czrpz0yljv"},
         {"ticker": "DEC", "relayerAddress": "decentr1s9f7509zd6suz5lzhrpujp9c396ygw3kdhm3kv"},
