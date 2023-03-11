@@ -1,16 +1,32 @@
 {
-    "keybaseIdentity": "5CCA4F526B9F85DA",
-    "name": "Cypher Core",
-    "website": "https://cyphercore.io",
-    "twitter": null,
-    "telegram": null,
-    "discord": null,
-    "email": null,
-    "supportRelayerBy": "delegating to validator",
-    "chainsRelayed": [
-        {
-            "ticker": "OSMO",
-            "relayerAddress": null
-        }
-    ]
+  "keybaseIdentity": "5CCA4F526B9F85DA",
+  "name": "Cypher Core",
+  "website": "https://cyphercore.io",
+  "twitter": "https://twitter.com/cypher_core",
+  "telegram": null,
+  "discord": null,
+  "email": "admin@cyphercore.io",
+  "supportRelayerBy": "Show your support by delegating",
+  "chainsRelayed": [
+    {
+      "ticker": "OSMO",
+      "relayerAddress": "osmo1clpawdm0dkyjsz5ed48ch3cv5z7d40gu09jta3"
+    },
+    {
+      "ticker": "UMEE",
+      "relayerAddress": "umee1kx7ykyuxfh6qcw73c0xfd39v0m3sfrsdm6es7z"
+    },
+    {
+      "ticker": "ATOM",
+      "relayerAddress": "cosmos12alkl0egcpjnacj7kcx7svuy4u9nvf0s5sx8nf"
+    },
+    {
+      "ticker": "JUNO",
+      "relayerAddress": "juno1yv2myphganx8evm3z6s8rstwnd468c8cf36mg4"
+    },
+    {
+      "ticker": "STARS",
+      "relayerAddress": "stars1gf3djf6tnx8fcla4q75730vcllxdm40tj4c09f"
+    }
+  ]
 }
