@@ -1,0 +1,31 @@
+{
+  "keybaseIdentity": "44937E3DA9AA699A",
+  "name": "GATA DAO",
+  "website": "https://gatadao.zone",
+  "twitter": "https://twitter.com/GataDaoZone",
+  "discord": "https://discord.gg/m6YDFq6Wgy",
+  "email": "support@gatadao.zone",
+  "supportRelayerBy": "Decentralization and security focused community-owned PoS infrastructure with in-house sentry node architecture. Join GATA family",
+  "chainsRelayed": [
+    
+    
+    {
+      "ticker": "JUNO",
+      "relayerAddress": "juno1kqmzy5gph45f57hqdlchqsktk82ntmsxlen2j6"
+    },
+    
+    {
+      "ticker": "OSMO",
+      "relayerAddress": "osmo129k9pj8yk58278q8l6j00azdxfjvz93kp37pak"
+    },
+    
+    {
+      "ticker": "TORI",
+      "relayerAddress": "tori1hghqe5k6jj5ll0fl3wg3prandw07q2h2r30xnk"
+    },
+    {
+      "ticker": "ATOM",
+      "relayerAddress": "cosmos1zy7xyypdwje7w56rdz67pjxtjyk2t4ms5ak23c"
+    }
+  ]
+}
