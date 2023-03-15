@@ -3,14 +3,18 @@
     "name": "genznodes",
     "website": "https://genznodes.dev",
     "twitter": "https://twitter.com/genznodes",
-    "telegram": "https://t.me/Genzbit",
-    "discord": "Genz#9459",
+    "telegram": "https://t.me/GenzDrops",
+    "discord": "https://discord.gg/fNhH4Umcq6",
     "email": "genzbit@genznodes.dev",
     "supportRelayerBy": "Delegate with us",
     "chainsRelayed": [
         {
             "ticker": "OSMO",
             "relayerAddress": "osmo1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0xt6rxd"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0wsfnsl"
         },
         {
             "ticker": "MARS",
@@ -30,7 +34,19 @@
         },
         {
             "ticker": "PLANQ",
-            "relayerAddress": "plq1eag0g86hv5dlgmf5l3aflfalckqus6n6qumc5z"
+            "relayerAddress": "plq1sty42e2lzdytwv8yewh53fxl4k2ah9szfvcnr2"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar1ek7y9jex32ljxz7sgsjkrwrhsa4evyn027lmm7"
+        },
+        {
+            "ticker": "ACRE",
+            "relayerAddress": "acre1sty42e2lzdytwv8yewh53fxl4k2ah9sz6hsv65"
+        },
+        {
+            "ticker": "GRAVITON",
+            "relayerAddress": "gravity1ek7y9jex32ljxz7sgsjkrwrhsa4evyn02qmt4h"
         }
     ]
 }
