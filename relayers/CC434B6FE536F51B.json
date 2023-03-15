@@ -1,0 +1,52 @@
+{
+  "keybaseIdentity": "CC434B6FE536F51B",
+  "name": "DSRV",
+  "website": "https://dsrvlabs.com",
+  "twitter": "https://twitter.com/dsrvlabs",
+  "telegram": "https://t.me/hwangjae_dsrvlabs",
+  "discord": "hwangjae | DSRV#5868",
+  "email": "validator@dsrvlabs.com",
+  "supportRelayerBy": "",
+  "chainsRelayed": [
+    {
+      "ticker": "MNTL",
+      "relayerAddress": "mantle1vzlpt59eqgdrge49mmhl7wztzq3t0jjaz385g6"
+    },
+    {
+      "ticker": "AXL",
+      "relayerAddress": "axelar1t9hksrk0xw9u3nrnrptkah8ckrf3cw0u8gmp6k"
+    },
+    {
+      "ticker": "ATOM",
+      "relayerAddress": "cosmos14vq95csckcqcas7p2vcpt33rfaza4kfzlsszty"
+    },
+    {
+      "ticker": "CTK",
+      "relayerAddress": "certik1vzlpt59eqgdrge49mmhl7wztzq3t0jjamaqxkm"
+    },
+    {
+      "ticker": "CRE",
+      "relayerAddress": "cre14vq95csckcqcas7p2vcpt33rfaza4kfzmcr87f"
+    },
+    {
+      "ticker": "INJ",
+      "relayerAddress": "inj14vq95csckcqcas7p2vcpt33rfaza4kfz4e8xeu"
+    },
+    {
+      "ticker": "OSMO",
+      "relayerAddress": "osmo10ehq249f2k77hk6wuzzhfq6jfu9zpvksl8fgad"
+    },
+    {
+      "ticker": "TGD",
+      "relayerAddress": "tgrade10ehq249f2k77hk6wuzzhfq6jfu9zpvksuujx90"
+    },
+    {
+      "ticker": "XPRT",
+      "relayerAddress": "persistence14vq95csckcqcas7p2vcpt33rfaza4kfz3uk39q"
+    },
+    {
+      "ticker": "UMEE",
+      "relayerAddress": "umee14vq95csckcqcas7p2vcpt33rfaza4kfzdxda0k"
+    }
+  ]
+}
