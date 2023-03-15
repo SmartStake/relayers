@@ -4,7 +4,7 @@
     "website": "https://explorer.sopko.net",
     "twitter": "jasonsopko42",
     "telegram": "jasonsopko",
-    "discord": "Redhaze#6404",
+    "discord": "https://discord.gg/JhjKsrJVam",
     "email": "jason@sopko.net",
     "supportRelayerBy": "Delegate to 🐔 The Chicken Coop 🦝 to support true decentralization",
     "chainsRelayed": [
@@ -27,6 +27,7 @@
         {"ticker": "IOV", "relayerAddress": "star1f0ncdp260j8r7vp3mxl0y47xvq2t6g7kh38j2p"},
         {"ticker": "JKL", "relayerAddress": "jkl17swc3xq9rxsa2d3g36x4a5l9s4wg0cfv0u33dl"},
         {"ticker": "JUNO", "relayerAddress": "juno180u2fsxhjxydv0td05m6gsdsacxrpx772f5r55"},
+        {"ticker": "LIKE", "relayerAddress": "like1xqwn0v2tkcwznr4vsuksr0aafwm0ehyhe4ly62"},
         {"ticker": "OSMO", "relayerAddress": "osmo1qy4fuemvdze82rq0xnysqn50q760em04xlgjmq"},
         {"ticker": "REGEN", "relayerAddress": "regen1kwssgtpf0jz6uzg8dhfvteefld8z3at2s0cm32"},
         {"ticker": "ROWAN", "relayerAddress": "sif1ws5f9gwcxfakj8m7t9rygcdlene6s0fn60jled"},
