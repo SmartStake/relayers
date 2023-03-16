@@ -61,6 +61,10 @@
             "relayerAddress": "umee14ym67y5zwq6qzkek9rlh58zugqrp6hhj8q3qc5"
         },
         {
+            "ticker": "UMEE",
+            "relayerAddress": "umee1xg93g0tx0wnt5weg7x7xmnvlh6setx2mvzccr0"
+        },
+        {
             "ticker": "DARC",
             "relayerAddress": "darc16pn6zk5q7ksw4n64qutct445dkm2wyf25z8g38"
         }
