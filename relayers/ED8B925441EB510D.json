@@ -29,6 +29,7 @@
    		{"ticker": "FET", "relayerAddress": "fetch190xxez5qh24rup9agnkekd4zrjr6acevj2k8rg"},
    		{"ticker": "KAVA", "relayerAddress": "kava1fvce4am6y8nrrtg4ncvh8leddeyekhkzdk4van"},
          {"ticker": "MARS", "relayerAddress": "mars190xxez5qh24rup9agnkekd4zrjr6acevu2x65y"},
-         {"ticker": "AXL", "relayerAddress": "axelar190xxez5qh24rup9agnkekd4zrjr6acev9eft27"}
+         {"ticker": "AXL", "relayerAddress": "axelar190xxez5qh24rup9agnkekd4zrjr6acev9eft27"},
+         {"ticker": "BAND", "relayerAddress": "band1atkw6vmwd2h597xxgvx239djcyhfpem7kf59yg"}
    	]
 }
