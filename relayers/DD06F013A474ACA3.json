@@ -37,6 +37,10 @@
             "relayerAddress": "fetch1anzemlurs94zwvd5ypxyz6zu3v0c5jhp228ftp"
         },
         {
+            "ticker": "FLIX",
+            "relayerAddress": "omniflix1jt43h96txjlt7lndruj7zvm2j4zlg2xpk08h5d"
+        },
+        {
             "ticker": "INJ",
             "relayerAddress": "inj19cxl8av38pjgn4mwv7f7rn59heh89vmvnlv2gu"
         },
