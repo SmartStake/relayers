@@ -1,7 +1,7 @@
 {
     "keybaseIdentity": "5F1D6AC7EA588676",
     "name": "cros-nest",
-    "website": "http://www.cros-nest.com",
+    "website": "https://www.cros-nest.com",
     "twitter": "https://twitter.com/crosnest_com",
     "telegram": null,
     "discord": "https://discord.gg/psDap3ed7C",
@@ -29,6 +29,10 @@
             "relayerAddress": "axelar1l267dmlmprhu4p5aqslf50f495vjqlg3e6uve2"
         },
         {
+            "ticker": "CANTO",
+            "relayerAddress": "canto1lagtgtck8627009uw39rlmsa6ty5dhwwyry5ht"
+        },
+        {
             "ticker": "CRO",
             "relayerAddress": "cro1jrqtzmv4sqcu37tq5fhps6c37a98s8axvq39sf"
         },
@@ -51,6 +55,10 @@
         {
             "ticker": "INJ",
             "relayerAddress": "inj1l267dmlmprhu4p5aqslf50f495vjqlg3haaqqn"
+        },
+        {
+            "ticker": "INJ",
+            "relayerAddress": "inj1lagtgtck8627009uw39rlmsa6ty5dhwwuujq3m"
         },
         {
             "ticker": "JUNO",
@@ -93,6 +101,10 @@
             "relayerAddress": "osmo1l267dmlmprhu4p5aqslf50f495vjqlg340e5ye"
         },
         {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1n82mm2xptrm903h49dcy5mjvhaxcm6mjckm7wy"
+        },
+        {
             "ticker": "HUAHUA",
             "relayerAddress": "chihuahua19pjtx7dah2fquf7udyxjv94h0eraha78xrusgt"
         },
@@ -103,6 +115,10 @@
         {
             "ticker": "CMDX",
             "relayerAddress": "comdex19kzuzfmmy9wjr3cl0ss8wjzjup9g49hqp88mnn"
+        },
+        {
+            "ticker": "CMDX",
+            "relayerAddress": "comdex1l267dmlmprhu4p5aqslf50f495vjqlg36mgxtu"
         },
         {
             "ticker": "DARC",
@@ -123,6 +139,10 @@
         {
             "ticker": "FET",
             "relayerAddress": "fetch19kzuzfmmy9wjr3cl0ss8wjzjup9g49hq44vagn"
+        },
+        {
+            "ticker": "FET",
+            "relayerAddress": "fetch1l267dmlmprhu4p5aqslf50f495vjqlg3wfrqsu"
         },
         {
             "ticker": "GRAV",
@@ -169,6 +189,10 @@
             "relayerAddress": "secret19kzuzfmmy9wjr3cl0ss8wjzjup9g49hqyd3shc"
         },
         {
+            "ticker": "STARS",
+            "relayerAddress": "stars1l267dmlmprhu4p5aqslf50f495vjqlg3fgaee6"
+        },
+        {
             "ticker": "ATOLO",
             "relayerAddress": "rizon19kzuzfmmy9wjr3cl0ss8wjzjup9g49hq94egxu"
         },
@@ -190,7 +214,11 @@
         },
         {
             "ticker": "QCK",
-            "relayerAddress": null
+            "relayerAddress": "quick1l267dmlmprhu4p5aqslf50f495vjqlg3ks6kte"
+        },
+        {
+            "ticker": "WHALE",
+            "relayerAddress": "migaloo1l267dmlmprhu4p5aqslf50f495vjqlg3sqr789"
         }
     ]
 }
