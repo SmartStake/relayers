@@ -1,16 +1,32 @@
 {
     "keybaseIdentity": "4D0D40021BDCECB7",
-    "name": "?ramuchi.tech?",
+    "name": "ramuchi.tech",
     "website": "https://ramuchi.tech/",
-    "twitter": null,
-    "telegram": null,
-    "discord": null,
-    "email": null,
-    "supportRelayerBy": "delegating to validator",
+    "twitter": "https://twitter.com/ramu4i",
+    "telegram": "https://t.me/ramu4i",
+    "discord": "Ramuchi#3020",
+    "email": "validator@ramuchi.tech",
+    "supportRelayerBy": "♾Staking Validator from 2020. Operate IBC Relayers in various chains. We use professional infrastructure for stable and safe operation of the chains. Place staking on trusted validators♾",
     "chainsRelayed": [
         {
             "ticker": "STARS",
-            "relayerAddress": null
-        }
+            "relayerAddress": "stars1tzchfqaztwcekmr2jh6mvfhdt5ncdpnpahffmr"
+        },
+        {
+            "ticker": "GRAV",
+            "relayerAddress": "gravity1tzchfqaztwcekmr2jh6mvfhdt5ncdpnpdmvv46"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1tzchfqaztwcekmr2jh6mvfhdt5ncdpnppsdyxq"
+        },
+        {
+            "ticker": "CTK",
+            "relayerAddress": "certik1tzchfqaztwcekmr2jh6mvfhdt5ncdpnpwrzr3e"
+        },
+        {
+            "ticker": "ACRE",
+            "relayerAddress": "acre1vkrsr0ys9gpw2qx7r38e3hjtnusdftrzkxdscq"
+        }      
     ]
 }
