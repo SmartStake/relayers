@@ -1,0 +1,24 @@
+{
+    "keybaseIdentity": "63575EE3F0F9FAFC",
+    "name": "FreshSTAKING.com",
+    "website": "https://FreshSTAKING.com/",
+    "twitter": "https://twitter.com/freshstaking",
+    "telegram": null,
+    "discord": "https://discord.gg/hdH5YdFk",
+    "email": "info@FreshSTAKING.com",
+    "supportRelayerBy": "Staking with us or at least with another validator outside of the top 33% in voting power!",
+    "chainsRelayed": [
+        {
+            "ticker": "ATOM",
+            "relayerAddress": cosmos14gra89zm8753pfuhvujjulmtkf2qq70feykca5
+        },
+        {
+            "ticker": "JUNO",
+            "relayerAddress": juno15tu9srh3kwsjx0pf48u59kh8tujfpgh6fpzyzk
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": osmo1qakhchc554jttsnv2m2xql9ypad27qp0w0y849
+        }
+    ]
+}
