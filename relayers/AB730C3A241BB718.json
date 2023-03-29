@@ -71,6 +71,26 @@
         {
             "ticker": "INJ",
             "relayerAddress": "inj1tusg5d35w03v0s2u5tefvf5yclguye09srgs2v"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar1cx82d7pm4dgffy7a93rl6ul5g84vjgxkrgstcd"
+        },
+        {
+            "ticker": "GRAV",
+            "relayerAddress": "gravity1cx82d7pm4dgffy7a93rl6ul5g84vjgxkrk5mky"
+        },
+        {
+            "ticker": "QCK",
+            "relayerAddress": "quick1cx82d7pm4dgffy7a93rl6ul5g84vjgxkvzk327"
+        },
+        {
+            "ticker": "CRE",
+            "relayerAddress": "cre1cx82d7pm4dgffy7a93rl6ul5g84vjgxkrw4xxp"
+        },
+        {
+            "ticker": "KUJI",
+            "relayerAddress": "kujira1cx82d7pm4dgffy7a93rl6ul5g84vjgxkkwym7x"
         }
     ]
 }
