@@ -104,6 +104,18 @@
         {
             "ticker": "TORI",
             "relayerAddress": "tori18xrruhq5r246mwk0yj9elnn3mte8xa9uzpvyhv"
+        },
+                {
+            "ticker": "QSR",
+            "relayerAddress": "quasar18xrruhq5r246mwk0yj9elnn3mte8xa9uwkpspe"
+        },
+                {
+            "ticker": "KYVE",
+            "relayerAddress": "kyve18xrruhq5r246mwk0yj9elnn3mte8xa9uhmkm8c"
+        },
+                {
+            "ticker": "SWTH",
+            "relayerAddress": "swth18xrruhq5r246mwk0yj9elnn3mte8xa9ult3ml9"
         }
     ]
 }
