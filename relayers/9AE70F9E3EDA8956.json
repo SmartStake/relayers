@@ -121,10 +121,6 @@
             "relayerAddress": "bitsong1yvejj22t78s2vfk7slty2d7fs5lkc8rnlzr68n"
         },
         {
-            "ticker": "BTSG",
-            "relayerAddress": "bitsong1yvejj22t78s2vfk7slty2d7fs5lkc8rnlzr68n"
-        },
-        {
             "ticker": "LUM",
             "relayerAddress": "lum1yvejj22t78s2vfk7slty2d7fs5lkc8rnxpvmsg"
         },
@@ -154,7 +150,7 @@
         },
         {
             "ticker": "HUAHUA",
-            "relayerAddress": "chihuahua1yvejj22t78s2vfk7slty2d7fs5lkc8rns7uuy7"
+            "relayerAddress": "chihuahua15md2qvgma8lnvqv67w0umu2paqkqkheg6l5zfa"
         },
         {
             "ticker": "LUNA",
@@ -170,10 +166,6 @@
         },
         {
             "ticker": "CMDX",
-            "relayerAddress": "comdex15md2qvgma8lnvqv67w0umu2paqkqkheg79mw3g"
-        },
-        {
-            "ticker": "CMDX",
             "relayerAddress": "comdex16m48j88mlw2smhc8nyurznt4jl9nqgyq0d3rw8"
         },
         {
@@ -183,10 +175,6 @@
         {
             "ticker": "CRE",
             "relayerAddress": "cre12aeyaxq699k3f4d3733dl5pstw0ulplk7a6srp"
-        },
-        {
-            "ticker": "LUM",
-            "relayerAddress": "lum1yvejj22t78s2vfk7slty2d7fs5lkc8rnxpvmsg"
         },
         {
             "ticker": "MARS",
