@@ -1,0 +1,22 @@
+{
+   	"keybaseIdentity": "D27EE330254D4F6A",
+   	"name": "Huginn",
+   	"website": "https://huginn.tech",
+   	"twitter": "https://twitter.com/HuginnStake",
+   	"telegram": "https://t.me/HuginnStake", 
+   	"discord": "gökay#5690",
+   	"email": "stake@huginn.tech",
+   	"supportRelayerBy": "Delegate to Huginn",
+   	"chainsRelayed": [
+   		{"ticker": "ATOM", "relayerAddress": "cosmos1059rn0ksgn4e7rp2yq48vp6s8zqy5tl97qvkf7"},
+   		{"ticker": "EVMOS", "relayerAddress": "evmos1z6ge7r8j96stpjv8mhfxfhws3x0ehrt2jqjmx4"},
+   		{"ticker": "QCK", "relayerAddress": "quick1059rn0ksgn4e7rp2yq48vp6s8zqy5tl94yuysv"},
+   		{"ticker": "STARS", "relayerAddress": "stars1059rn0ksgn4e7rp2yq48vp6s8zqy5tl92umtz0"},
+   		{"ticker": "JUNO", "relayerAddress": "juno1059rn0ksgn4e7rp2yq48vp6s8zqy5tl9gj0dwz"},
+   		{"ticker": "UMEE", "relayerAddress": "umee1059rn0ksgn4e7rp2yq48vp6s8zqy5tl9vk3fdv"},
+   		{"ticker": "FLIX", "relayerAddress": "omniflix1059rn0ksgn4e7rp2yq48vp6s8zqy5tl9r7a07q"},
+   		{"ticker": "OSMO", "relayerAddress": "osmo1059rn0ksgn4e7rp2yq48vp6s8zqy5tl9kmlxlv"},
+   		{"ticker": "AXL", "relayerAddress": "axelar1059rn0ksgn4e7rp2yq48vp6s8zqy5tl96w67zl"},
+   		{"ticker": "JKL", "relayerAddress": "jkl1059rn0ksgn4e7rp2yq48vp6s8zqy5tl987z8sp"}
+   	]
+}
