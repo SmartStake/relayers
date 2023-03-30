@@ -231,6 +231,10 @@
         {
             "ticker": "EVMOS",
             "relayerAddress": "evmos1nsd5f7vek8skzqhwxl6vfp07ee893aw3guf2tt"
+        },
+        {
+            "ticker": "CRO",
+            "relayerAddress": "cro16m48j88mlw2smhc8nyurznt4jl9nqgyqsemctp"
         }
     ]
 }
