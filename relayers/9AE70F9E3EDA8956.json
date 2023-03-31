@@ -33,6 +33,10 @@
             "relayerAddress": "osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz"
         },
         {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7"
+        },
+        {
             "ticker": "JUNO",
             "relayerAddress": "juno1yvejj22t78s2vfk7slty2d7fs5lkc8rn9ejfzq"
         },
@@ -137,12 +141,80 @@
             "relayerAddress": "persistence15md2qvgma8lnvqv67w0umu2paqkqkheghxllxm"
         },
         {
+            "ticker": "CRBRUS",
+            "relayerAddress": "cerberus1yvejj22t78s2vfk7slty2d7fs5lkc8rn0v3msh"
+        },
+        {
             "ticker": "HUAHUA",
             "relayerAddress": "chihuahua1yvejj22t78s2vfk7slty2d7fs5lkc8rns7uuy7"
         },
         {
+            "ticker": "HUAHUA",
+            "relayerAddress": "chihuahua15md2qvgma8lnvqv67w0umu2paqkqkheg6l5zfa"
+        },
+        {
             "ticker": "LUNA",
             "relayerAddress": "terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u"
+        },
+        {
+            "ticker": "AKT",
+            "relayerAddress": "akash12aeyaxq699k3f4d3733dl5pstw0ulplkhwyj0k"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar16m48j88mlw2smhc8nyurznt4jl9nqgyqvv9fu3"
+        },
+        {
+            "ticker": "CMDX",
+            "relayerAddress": "comdex16m48j88mlw2smhc8nyurznt4jl9nqgyq0d3rw8"
+        },
+        {
+            "ticker": "CMDX",
+            "relayerAddress": "comdex1yvejj22t78s2vfk7slty2d7fs5lkc8rn5ynsut"
+        },
+        {
+            "ticker": "CRE",
+            "relayerAddress": "cre12aeyaxq699k3f4d3733dl5pstw0ulplk7a6srp"
+        },
+        {
+            "ticker": "MARS",
+            "relayerAddress": "mars12aeyaxq699k3f4d3733dl5pstw0ulplk8gsvrh"
+        },
+        {
+            "ticker": "QSR",
+            "relayerAddress": "quasar12aeyaxq699k3f4d3733dl5pstw0ulplk5kngmf"
+        },
+        {
+            "ticker": "QCK",
+            "relayerAddress": "quick12aeyaxq699k3f4d3733dl5pstw0ulplk33e807"
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride12aeyaxq699k3f4d3733dl5pstw0ulplke7ffzq"
+        },
+        {
+            "ticker": "TORI",
+            "relayerAddress": "tori12aeyaxq699k3f4d3733dl5pstw0ulplkcp7udu"
+        },
+        {
+            "ticker": "VDL",
+            "relayerAddress": "vdl1yvejj22t78s2vfk7slty2d7fs5lkc8rnk0p4g6"
+        },
+        {
+            "ticker": "CANTO",
+            "relayerAddress": "canto10ndlvn6h7rtz8kfy626vzanyc8xely75ryajw9"
+        },
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": "evmos1je8d8g73zrmp79fugdm3gn0a326ar5php3ll8j"
+        },
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": "evmos1nsd5f7vek8skzqhwxl6vfp07ee893aw3guf2tt"
+        },
+        {
+            "ticker": "CRO",
+            "relayerAddress": "cro16m48j88mlw2smhc8nyurznt4jl9nqgyqsemctp"
         }
     ]
 }
