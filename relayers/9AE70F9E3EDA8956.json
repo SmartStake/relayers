@@ -53,6 +53,10 @@
             "relayerAddress": "inj14nhzw3lnsdkeq5clzqms586mxrf2x74y6skne0"
         },
         {
+            "ticker": "INJ",
+            "relayerAddress": "inj1ejmss7gqfefrzf26fsvnptxeqp9yqxmncgaxan"
+        },
+        {
             "ticker": "XPRT",
             "relayerAddress": "persistence1yvejj22t78s2vfk7slty2d7fs5lkc8rna8hptc"
         },
@@ -63,6 +67,14 @@
         {
             "ticker": "EVMOS",
             "relayerAddress": "evmos1nsd5f7vek8skzqhwxl6vfp07ee893aw3guf2tt"
+        },
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": "evmos1cpzk93sh6uw9zhdhkkdsr60xfu9qp2q9kp4zwz"
+        },
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": "evmos1ejmss7gqfefrzf26fsvnptxeqp9yqxmnsqmv4r"
         },
         {
             "ticker": "BAND",
@@ -117,6 +129,10 @@
             "relayerAddress": "secret1yvejj22t78s2vfk7slty2d7fs5lkc8rn3w9mcq"
         },
         {
+            "ticker": "SCRT",
+            "relayerAddress": "secret15md2qvgma8lnvqv67w0umu2paqkqkhegm0d94r"
+        },
+        {
             "ticker": "BTSG",
             "relayerAddress": "bitsong1yvejj22t78s2vfk7slty2d7fs5lkc8rnlzr68n"
         },
@@ -155,6 +171,10 @@
         {
             "ticker": "LUNA",
             "relayerAddress": "terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u"
+        },
+        {
+            "ticker": "LUNA",
+            "relayerAddress": "terra15md2qvgma8lnvqv67w0umu2paqkqkheglwrv2l"
         },
         {
             "ticker": "AKT",
@@ -197,20 +217,8 @@
             "relayerAddress": "tori12aeyaxq699k3f4d3733dl5pstw0ulplkcp7udu"
         },
         {
-            "ticker": "VDL",
-            "relayerAddress": "vdl1yvejj22t78s2vfk7slty2d7fs5lkc8rnk0p4g6"
-        },
-        {
             "ticker": "CANTO",
             "relayerAddress": "canto10ndlvn6h7rtz8kfy626vzanyc8xely75ryajw9"
-        },
-        {
-            "ticker": "EVMOS",
-            "relayerAddress": "evmos1je8d8g73zrmp79fugdm3gn0a326ar5php3ll8j"
-        },
-        {
-            "ticker": "EVMOS",
-            "relayerAddress": "evmos1nsd5f7vek8skzqhwxl6vfp07ee893aw3guf2tt"
         },
         {
             "ticker": "CRO",
