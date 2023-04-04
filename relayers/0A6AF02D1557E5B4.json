@@ -85,6 +85,10 @@
       "relayerAddress": "mars1fegapd4jc3ejqeg0eu3jk4hvr74hg660r83a3k"
     },
     {
+      "ticker": "NOIS",
+      "relayerAddress": "nois1fegapd4jc3ejqeg0eu3jk4hvr74hg6600j4wg4"
+    },
+    {
       "ticker": "WHALE",
       "relayerAddress": "migaloo1fegapd4jc3ejqeg0eu3jk4hvr74hg660nwp73r"
     },
