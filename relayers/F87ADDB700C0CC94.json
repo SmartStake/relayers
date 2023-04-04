@@ -116,6 +116,18 @@
                 {
             "ticker": "SWTH",
             "relayerAddress": "swth18xrruhq5r246mwk0yj9elnn3mte8xa9ult3ml9"
+        },
+                {
+            "ticker": "NOIS",
+            "relayerAddress": "nois18xrruhq5r246mwk0yj9elnn3mte8xa9u3ax8qy"
+        },
+                {
+            "ticker": "AURA",
+            "relayerAddress": "aura18xrruhq5r246mwk0yj9elnn3mte8xa9umrv0w9"
+        },
+                {
+            "ticker": "CUDOS",
+            "relayerAddress": "cudos18xrruhq5r246mwk0yj9elnn3mte8xa9upyjjjf"
         }
     ]
 }
