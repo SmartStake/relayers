@@ -9,6 +9,10 @@
     "supportRelayerBy": "delegating to validator",
     "chainsRelayed": [
         {
+            "ticker": "OSMOSIS",
+            "relayerAddress": "osmo1ntn96vkz77ky5kdnetyjtz2883fqwaclcjky3q"
+        },
+        {
             "ticker": "EVMOS",
             "relayerAddress": "evmos1sw0n85xj7lsuq6k5uhrc8q23vj3p4gc2td3ulx"
         },
@@ -19,6 +23,22 @@
         {
             "ticker": "STRD",
             "relayerAddress": "stride1ntn96vkz77ky5kdnetyjtz2883fqwaclnz9gn7"
+        },
+        {
+            "ticker": "FLIX",
+            "relayerAddress": "omniflix1ntn96vkz77ky5kdnetyjtz2883fqwacldh5dsv"
+        },
+        {
+            "ticker": "TORI",
+            "relayerAddress": "tori1ntn96vkz77ky5kdnetyjtz2883fqwacljajauz"
+        },
+        {
+            "ticker": "JKL",
+            "relayerAddress": "jkl1ntn96vkz77ky5kdnetyjtz2883fqwaclfht97d"
+        },
+        {
+            "ticker": "ACRE",
+            "relayerAddress": "acre1sw0n85xj7lsuq6k5uhrc8q23vj3p4gc2n0c36r"
         }
     ]
 }
