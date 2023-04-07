@@ -9,7 +9,7 @@
     "supportRelayerBy": "delegating to validator",
     "chainsRelayed": [
         {
-            "ticker": "OSMOSIS",
+            "ticker": "OSMO",
             "relayerAddress": "osmo1ntn96vkz77ky5kdnetyjtz2883fqwaclcjky3q"
         },
         {
