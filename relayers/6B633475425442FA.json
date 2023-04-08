@@ -10,31 +10,31 @@
   "chainsRelayed": [
     {
       "ticker": "HUAHUA",
-      "relayerAddress": ""
+      "relayerAddress": "chihuahua1exy5hsk7ue0ra8k5jtn3x3herxemtpex6rk0th"
     },
     {
       "ticker": "EVMOS",
-      "relayerAddress": ""
+      "relayerAddress": "evmos12nkgdtwwsn5ptpr6zltw0d8ww7nvk5edadcn3z"
     },
     {
       "ticker": "JKL",
-      "relayerAddress": ""
+      "relayerAddress": "jkl1exy5hsk7ue0ra8k5jtn3x3herxemtpexqg4sn2"
     },
     {
       "ticker": "JUNO",
-      "relayerAddress": ""
+      "relayerAddress": "juno1exy5hsk7ue0ra8k5jtn3x3herxemtpex0yc6df"
     },
     {
       "ticker": "WHALE",
-      "relayerAddress": ""
+      "relayerAddress": "migaloo1exy5hsk7ue0ra8k5jtn3x3herxemtpex5zjmlm"
     },
     {
       "ticker": "OSMO",
-      "relayerAddress": ""
+      "relayerAddress": "osmo1exy5hsk7ue0ra8k5jtn3x3herxemtpex3dg3u8"
     },
     {
       "ticker": "TORI",
-      "relayerAddress": ""
+      "relayerAddress": "tori1exy5hsk7ue0ra8k5jtn3x3herxemtpexmzvg39"
     }
   ]
 }
