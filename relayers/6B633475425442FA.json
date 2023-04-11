@@ -1,0 +1,40 @@
+{
+  "keybaseIdentity": "6B633475425442FA",
+  "name": "windpowerstake",
+  "website": "http://windpowerstake.com",
+  "twitter": "https://twitter.com/windpowerstake",
+  "telegram": "",
+  "discord": "",
+  "email": "windpowerstake@protonmail.com",
+  "supportRelayerBy": "Windpowerstake owns all their equipment, runs on renewable electric contracts and measures electricity",
+  "chainsRelayed": [
+    {
+      "ticker": "HUAHUA",
+      "relayerAddress": "chihuahua1exy5hsk7ue0ra8k5jtn3x3herxemtpex6rk0th"
+    },
+    {
+      "ticker": "EVMOS",
+      "relayerAddress": "evmos12nkgdtwwsn5ptpr6zltw0d8ww7nvk5edadcn3z"
+    },
+    {
+      "ticker": "JKL",
+      "relayerAddress": "jkl1exy5hsk7ue0ra8k5jtn3x3herxemtpexqg4sn2"
+    },
+    {
+      "ticker": "JUNO",
+      "relayerAddress": "juno1exy5hsk7ue0ra8k5jtn3x3herxemtpex0yc6df"
+    },
+    {
+      "ticker": "WHALE",
+      "relayerAddress": "migaloo1exy5hsk7ue0ra8k5jtn3x3herxemtpex5zjmlm"
+    },
+    {
+      "ticker": "OSMO",
+      "relayerAddress": "osmo1exy5hsk7ue0ra8k5jtn3x3herxemtpex3dg3u8"
+    },
+    {
+      "ticker": "TORI",
+      "relayerAddress": "tori1exy5hsk7ue0ra8k5jtn3x3herxemtpexmzvg39"
+    }
+  ]
+}
