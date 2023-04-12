@@ -1,0 +1,26 @@
+{
+    "keybaseIdentity": "5C1159DB8957B5AA",
+    "name": "Cosmonaut Stakes",
+    "twitter": "https://twitter.com/CosmonautStakes",
+    "telegram": "https://t.me/CosmonautStakes",
+    "email": "dan@blocklift.net",
+    "supportRelayerBy": "Delegate to Cosmonaut Stakes",
+    "chainsRelayed": [
+        {
+            "ticker": "XPRT",
+            "relayerAddress": "persistence1m3hsmmf633nl5dl8sm58dypu4fthppe7ej463y"
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride10pjlfffruyzg2l6f6xqmtncyzvfez5wd0g5f0l"
+        },
+        {
+            "ticker": "QCK",
+            "relayerAddress": "quick15rwjpdn2cjunek9g0sqmehwd4ht3nz0fkzx673"
+        },
+        {
+            "ticker": "GRAV",
+            "relayerAddress": "gravity1was23c4eyvym4f4aqfaq8gra28sp0ge98ynpr0"
+        }
+    ]
+}
