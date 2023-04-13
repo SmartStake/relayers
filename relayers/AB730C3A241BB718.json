@@ -91,6 +91,14 @@
         {
             "ticker": "KUJI",
             "relayerAddress": "kujira1cx82d7pm4dgffy7a93rl6ul5g84vjgxkkwym7x"
+        },
+        {
+            "ticker": "UMEE",
+            "relayerAddress": "umee1cx82d7pm4dgffy7a93rl6ul5g84vjgxk4smuh7"
+        },
+        {
+            "ticker": "STARS",
+            "relayerAddress": "stars1cx82d7pm4dgffy7a93rl6ul5g84vjgxkn637ca"
         }
     ]
 }
