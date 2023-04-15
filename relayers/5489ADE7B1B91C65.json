@@ -35,6 +35,10 @@
     {
       "ticker": "LUNA",
       "relayerAddress": "terra1zr5a4asqa7l0994lypjrf8zrzafdxtv6ev9v9l"
+    },
+    {
+      "ticker": "WHALE",
+      "relayerAddress": "migaloo1p4557mdpc2qk8vcemeqgrcg55gs2uyznfz7hjw"
     }
   ]
 }
