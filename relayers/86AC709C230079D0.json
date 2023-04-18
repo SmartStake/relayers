@@ -19,7 +19,7 @@
         {"ticker":"LUNC","relayerAddress":"terra14cpqjy6tfryrqlwyycyy7hca5uzrdyqh0leked"},
         {"ticker":"ATOM","relayerAddress":"cosmos1wqp8yslqh2mdvxzgljsde8wu6nyjp4qyk5ccwh"},
         {"ticker":"EVMOS","relayerAddress":"evmos13mjl2wha3887np37e7gklrv5zv6ytmfh9k27vr"},
-        {"ticker":"LUNA","relayerAddress":"terra14cpqjy6tfryrqlwyycyy7hca5uzrdyqh0leked"},
+        {"ticker":"LUNA","relayerAddress":"terra1j32kujppc2xekktlnrgqepnmjhpg44jwf5045t"},
         {"ticker":"SCRT","relayerAddress":"secret1q5uvvkg0wp94hpnc8argyjr9ldgqyuty86r68v"},
         {"ticker":"STRD","relayerAddress":"stride169aklus45swma32lwhjdpw8jaawsfk9ga2tm84"}
     ]
