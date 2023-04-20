@@ -6,7 +6,7 @@
    	"telegram": "https://t.me/PantheaEU",
    	"discord": "https://discordapp.com/users/469507772887728129",
    	"email": "validator@panthea.eu",
-   	"supportRelayerBy": "Please support us by delegating to one of our validators",
+   	"supportRelayerBy": "Please support us by delegating to one of our validators.",
    	"chainsRelayed": [
    		{"ticker": "BCNA", "relayerAddress": "bcna1sgsqsktsku3w5q34np2e7v603l2jn2uw70vvtg"},
    		{"ticker": "BTSG", "relayerAddress": "bitsong1r7uqwyuenmve76tvu6vyxrfec64qw93h5uay9a"},
