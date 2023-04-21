@@ -100,6 +100,14 @@
         {
             "ticker": "INJ",
             "relayerAddress": "inj1ptm9dyyya6erqj9h9ydurtzvla2h6lv9rl26hv"
+        },
+        {
+            "ticker": "CANTO",
+            "relayerAddress": "canto1fk59eyecx7h0glgnn5wcuc0r43tj8h3x2djh2q"
+        },
+        {
+            "ticker": "CMDX",
+            "relayerAddress": "comdex1ptm9dyyya6erqj9h9ydurtzvla2h6lv9weluur"
         }
     ]
 }
