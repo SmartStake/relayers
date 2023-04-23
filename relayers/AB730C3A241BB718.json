@@ -99,6 +99,10 @@
         {
             "ticker": "STARS",
             "relayerAddress": "stars1cx82d7pm4dgffy7a93rl6ul5g84vjgxkn637ca"
+        },
+        {
+            "ticker": "FLIX",
+            "relayerAddress": "omniflix1cx82d7pm4dgffy7a93rl6ul5g84vjgxk6ch6yj"
         }
     ]
 }
