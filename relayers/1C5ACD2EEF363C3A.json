@@ -29,10 +29,6 @@
             "relayerAddress": "agoric1twmgaeug7ymjq8c53ttstpl7rny43q8zh4rnh3"
         },
         {
-            "ticker": "GRAV",
-            "relayerAddress": "gravity1twmgaeug7ymjq8c53ttstpl7rny43q8zpcn5z0"
-        },
-        {
             "ticker": "TORI",
             "relayerAddress": "tori1twmgaeug7ymjq8c53ttstpl7rny43q8z8uk9uh"
         },
@@ -47,10 +43,6 @@
         {
             "ticker": "QCK",
             "relayerAddress": "quick1twmgaeug7ymjq8c53ttstpl7rny43q8zwv3774"
-        },
-        {
-            "ticker": "REBUS",
-            "relayerAddress": "rebus1twmgaeug7ymjq8c53ttstpl7rny43q8z5zzen3"
         },
         {
             "ticker": "WHALE",
