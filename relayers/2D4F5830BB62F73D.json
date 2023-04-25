@@ -47,6 +47,10 @@
         {
             "ticker": "JUNO",
             "relayerAddress": "juno1y4t6q5hg4896mz68kn2dfwv2jkcqhfzl5klpvx"
-        }
+        },
+        {
+            "ticker": "NOIS",
+            "relayerAddress": "nois1y4t6q5hg4896mz68kn2dfwv2jkcqhfzlnvps8z"
+        }        
     ]
 }
