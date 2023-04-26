@@ -59,6 +59,10 @@
         {
             "ticker": "STARS",
             "relayerAddress": "stars1twmgaeug7ymjq8c53ttstpl7rny43q8z35k3vk"
+        },
+        {
+            "ticker": "NOIS",
+            "relayerAddress": "nois1twmgaeug7ymjq8c53ttstpl7rny43q8z5quxtl"
         }
     ]
 }
