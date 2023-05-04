@@ -4,7 +4,7 @@
     "website": "https://indonode.net",
     "twitter": "https://twitter.com/indonodev",
     "telegram": "https://t.me/elangrr",
-    "discord": " ",
+    "discord": "",
     "email": "contact@indonode.net",
     "supportRelayerBy": "delegate to validator",
     "chainsRelayed": [
@@ -27,6 +27,6 @@
         {
             "ticker": "PLQ",
             "relayerAddress": "plq18camwq8eltxwrrv3vsus6xsvm3n87rhdvegcn7"
-        },
+        }
     ]
 }
