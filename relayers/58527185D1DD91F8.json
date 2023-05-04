@@ -1,0 +1,32 @@
+{
+    "keybaseIdentity": "58527185D1DD91F8",
+    "name": "Indonode",
+    "website": "https://indonode.net",
+    "twitter": "https://twitter.com/indonodev",
+    "telegram": "https://t.me/elangrr",
+    "discord": " ",
+    "email": "contact@indonode.net",
+    "supportRelayerBy": "delegate to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride1mrfy757h80xgh0uxmt3c420scmsvqqm4lkpqcs"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1mrfy757h80xgh0uxmt3c420scmsvqqm45xjv6w"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1mrfy757h80xgh0uxmt3c420scmsvqqm4uapuvu"
+        },
+        {
+            "ticker": "GRAV",
+            "relayerAddress": "gravity1mrfy757h80xgh0uxmt3c420scmsvqqm4cdnyf5"
+        },
+        {
+            "ticker": "PLQ",
+            "relayerAddress": "plq18camwq8eltxwrrv3vsus6xsvm3n87rhdvegcn7"
+        },
+    ]
+}
