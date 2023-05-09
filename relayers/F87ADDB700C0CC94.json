@@ -135,7 +135,11 @@
         },
                 {
             "ticker": "QCK",
-            "relayerAddress": "quick18xrruhq5r246mwk0yj9elnn3mte8xa9ut3tl4w"
+            "relayerAddress": "quick18xrruhq5r246mwk0yj9elnn3mte8xa9ut3tl4w"    
+        },
+                        {
+            "ticker": "KYVE",
+            "relayerAddress": "kyve18xrruhq5r246mwk0yj9elnn3mte8xa9uhmkm8c"
         }
     ]
 }
