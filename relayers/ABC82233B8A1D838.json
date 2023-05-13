@@ -9,10 +9,7 @@
    	"supportRelayerBy": "Please support us by delegating to one of our validators.",
    	"chainsRelayed": [
    		{"ticker": "BCNA", "relayerAddress": "bcna1sgsqsktsku3w5q34np2e7v603l2jn2uw70vvtg"},
-   		{"ticker": "BTSG", "relayerAddress": "bitsong1r7uqwyuenmve76tvu6vyxrfec64qw93h5uay9a"},
    		{"ticker": "ATOM", "relayerAddress": "cosmos1sgsqsktsku3w5q34np2e7v603l2jn2uwyludr6"},
-   		{"ticker": "DSM", "relayerAddress": "desmos1j0g8z8mllzrd9hvsdfp4d22tn5yqu7n6hzk4ud"},
-   		{"ticker": "XKI", "relayerAddress": "ki1sgsqsktsku3w5q34np2e7v603l2jn2uw4jdz8w"},
    		{"ticker": "LUM", "relayerAddress": "lum1sgsqsktsku3w5q34np2e7v603l2jn2uw34pykw"},
    		{"ticker": "OSMO", "relayerAddress": "osmo1sgsqsktsku3w5q34np2e7v603l2jn2uwvy0a4g"},
    		{"ticker": "CTK", "relayerAddress": "certik1sgsqsktsku3w5q34np2e7v603l2jn2uwrhq6z3"}
