@@ -108,6 +108,10 @@
         {
             "ticker": "CMDX",
             "relayerAddress": "comdex1ptm9dyyya6erqj9h9ydurtzvla2h6lv9weluur"
+        },
+        {
+            "ticker": "KYVE",
+            "relayerAddress": "kyve1jgcx6gkqcfee692kcqtkm3vswm6aj97mx7s30m"
         }
     ]
 }
