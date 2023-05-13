@@ -23,6 +23,10 @@
     {
       "ticker": "BCNA",
       "relayerAddress": "bcna14vqf3m628st3plx25s2mrm8mmfg0swga2345hp"
+    },
+    {
+      "ticker": "JKL",
+      "relayerAddress": "jkl14vqf3m628st3plx25s2mrm8mmfg0swgafltyxv"
     }
   ]
 }
