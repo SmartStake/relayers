@@ -47,6 +47,14 @@
         {
             "ticker": "GRAV",
             "relayerAddress": "gravity1ek7y9jex32ljxz7sgsjkrwrhsa4evyn02qmt4h"
+        },
+        {
+            "ticker": "BCNA",
+            "relayerAddress": "bcna1ek7y9jex32ljxz7sgsjkrwrhsa4evyn05qejcd"
+        },
+        {
+            "ticker": "DEC",
+            "relayerAddress": "decentr1ek7y9jex32ljxz7sgsjkrwrhsa4evyn097083h"
         }
     ]
 }
