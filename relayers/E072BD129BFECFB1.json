@@ -41,6 +41,10 @@
             "relayerAddress": "kujira1nna7k5lywn99cd63elcfqm6p8c5c4qcuealpy7"
         },
         {
+            "ticker": "NTRN",
+            "relayerAddress": "neutron1nna7k5lywn99cd63elcfqm6p8c5c4qcuv25mnn"
+        },
+        {
             "ticker": "OSMO",
             "relayerAddress": "osmo1p7d8mnjttcszv34pk2a5yyug3474mhff4twwa6"
         },
