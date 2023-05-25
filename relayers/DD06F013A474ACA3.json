@@ -57,6 +57,10 @@
             "relayerAddress": "osmo1v6evmh0wdfvs56nrkq0dd66yvpuj3paq3gzksp"
         },
         {
+            "ticker": "QCK",
+            "relayerAddress": "quick12qkshheaw2mrpr8asfj6jr9q2e5ms7qtydr5fy"
+        },
+        {
             "ticker": "STARS",
             "relayerAddress": "stars1nsltpdnaz4julm0cen5teyc4hjpqmnr5wnj3fx"
         },
