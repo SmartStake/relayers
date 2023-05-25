@@ -135,6 +135,10 @@
     {
       "ticker": "UMEE",
       "relayerAddress": "umee1fegapd4jc3ejqeg0eu3jk4hvr74hg660vv4mql"
+    },
+    {
+      "ticker": "NTRN",
+      "relayerAddress": "neutron1fegapd4jc3ejqeg0eu3jk4hvr74hg66069px72"
     }
   ]
 }
