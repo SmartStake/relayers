@@ -49,6 +49,14 @@
             "relayerAddress": "stride1cx82d7pm4dgffy7a93rl6ul5g84vjgxkydxl8q"
         },
         {
+            "ticker": "STRD",
+            "relayerAddress": "stride1ln3l6waaqdjcskt3ztzqlzkpvmzp7zw44026ud"
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride1w8kzcqk25vr0fx0k7yxn2vjw49qerut2gzvmgd"
+        },
+        {
             "ticker": "JUNO",
             "relayerAddress": "juno1cx82d7pm4dgffy7a93rl6ul5g84vjgxk359c5s"
         },
