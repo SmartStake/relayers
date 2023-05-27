@@ -219,6 +219,10 @@
         {
             "ticker": "WHALE",
             "relayerAddress": "migaloo1l267dmlmprhu4p5aqslf50f495vjqlg3sqr789"
+        },
+        {
+            "ticker": "NTRN",
+            "relayerAddress": "neutron1l267dmlmprhu4p5aqslf50f495vjqlg3etrxgv"
         }
     ]
 }
