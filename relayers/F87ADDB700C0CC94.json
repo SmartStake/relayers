@@ -144,6 +144,18 @@
                 {
             "ticker": "NTRN",
             "relayerAddress": "neutron18xrruhq5r246mwk0yj9elnn3mte8xa9uy2j0km"
+        },
+                {
+            "ticker": "LORE",
+            "relayerAddress": "gitopia18xrruhq5r246mwk0yj9elnn3mte8xa9u7du6rl"
+        },
+                {
+            "ticker": "XPLA",
+            "relayerAddress": "xpla1mx070d26eu5trde862pfl6gaqmzlcj99grpukp"
+        },
+                {
+            "ticker": "NLS",
+            "relayerAddress": "nolus18xrruhq5r246mwk0yj9elnn3mte8xa9uk9tjwe"
         }
     ]
 }
