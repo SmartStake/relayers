@@ -45,6 +45,10 @@
             "relayerAddress": "mars1nnjy6nct405pzfaqjm3dsyw0pf0kyw72vhw4pr"
         },
         {
+            "ticker": "NTRN",
+            "relayerAddress": "neutron1nnjy6nct405pzfaqjm3dsyw0pf0kyw72447wwl"
+        },
+        {
             "ticker": "OSMO",
             "relayerAddress": "osmo1nnjy6nct405pzfaqjm3dsyw0pf0kyw72e3yuz2"
         },
