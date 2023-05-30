@@ -63,6 +63,10 @@
         {
             "ticker": "NOIS",
             "relayerAddress": "nois1twmgaeug7ymjq8c53ttstpl7rny43q8z5quxtl"
+        },
+        {
+            "ticker": "NLS",
+            "relayerAddress": "nolus1twmgaeug7ymjq8c53ttstpl7rny43q8znc3n9z"
         }
     ]
 }
