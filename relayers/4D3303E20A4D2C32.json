@@ -1,12 +1,12 @@
 {
     "keybaseIdentity": "4D3303E20A4D2C32",
-    "name": "AutoStake.net",
-    "website": "https://autostake.net",
+    "name": "AutoStake.com",
+    "website": "https://autostake.com",
     "twitter": "https://twitter.com/AutoStake_",
-    "telegram": "https://t.me/AutoStake_net",
-    "discord": "NGINE | AutoStake#7943",
-    "email": "support@autostake.net",
-    "supportRelayerBy": "delegating to validator",
+    "telegram": "https://t.me/AutoStake_com",
+    "discord": "NGINE | AutoStake.com#7943",
+    "email": "support@autostake.com",
+    "supportRelayerBy": "Delegating to AutoStake.com",
     "chainsRelayed": [
         {
             "ticker": "ATOM",
