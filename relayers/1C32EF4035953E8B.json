@@ -33,6 +33,10 @@
             "relayerAddress": "inj1nnjy6nct405pzfaqjm3dsyw0pf0kyw72mrqgxq"
         },
         {
+            "ticker": "INJ",
+            "relayerAddress": "inj1trra443gtl4jg3dmv08x76m9gn0hue3jv98enl"
+        },
+        {
             "ticker": "JUNO",
             "relayerAddress": "juno1n6j7gnld9yxfyh6tflxhjjmt404zruualvjsgm"
         },
