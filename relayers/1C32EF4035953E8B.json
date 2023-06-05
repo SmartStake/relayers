@@ -13,6 +13,10 @@
             "relayerAddress": "cosmos1n6j7gnld9yxfyh6tflxhjjmt404zruuaf73t08"
         },
         {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1nnjy6nct405pzfaqjm3dsyw0pf0kyw7232hv5c"
+        },
+        {
             "ticker": "CMDX",
             "relayerAddress": "comdex1nnjy6nct405pzfaqjm3dsyw0pf0kyw72k94wd0"
         },
@@ -57,12 +61,20 @@
             "relayerAddress": "osmo1nnjy6nct405pzfaqjm3dsyw0pf0kyw72e3yuz2"
         },
         {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1n6j7gnld9yxfyh6tflxhjjmt404zruuap9zme4"
+        },
+        {
             "ticker": "STARS",
             "relayerAddress": "stars1nnjy6nct405pzfaqjm3dsyw0pf0kyw729kq3lf"
         },
         {
             "ticker": "STRD",
             "relayerAddress": "stride1nnjy6nct405pzfaqjm3dsyw0pf0kyw72jphsq5"
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride1n6j7gnld9yxfyh6tflxhjjmt404zruua243hmt"
         },
         {
             "ticker": "TORI",
