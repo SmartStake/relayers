@@ -29,10 +29,6 @@
             "relayerAddress": "lum1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0m6569t"
         },
         {
-            "ticker": "TORI",
-            "relayerAddress": "tori1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0vy76t0"
-        },
-        {
             "ticker": "PLQ",
             "relayerAddress": "plq1sty42e2lzdytwv8yewh53fxl4k2ah9szfvcnr2"
         },
@@ -55,6 +51,22 @@
         {
             "ticker": "DEC",
             "relayerAddress": "decentr1ek7y9jex32ljxz7sgsjkrwrhsa4evyn097083h"
+        },
+        {
+            "ticker": "JUNO",
+            "relayerAddress": "juno1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0cz2ghr"
+        },
+        {
+            "ticker": "NLS",
+            "relayerAddress": "nolus1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0cqevj6"
+        },
+        {
+            "ticker": "MEME",
+            "relayerAddress": "meme1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0s0lyh4"
+        },
+        {
+            "ticker": "EBL",
+            "relayerAddress": "8ball1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0x9f7nq"
         }
     ]
 }
