@@ -67,6 +67,10 @@
         {
             "ticker": "NLS",
             "relayerAddress": "nolus1twmgaeug7ymjq8c53ttstpl7rny43q8znc3n9z"
+        },
+        {
+            "ticker": "UMEE",
+            "relayerAddress": "umee1twmgaeug7ymjq8c53ttstpl7rny43q8zh7unr4"
         }
     ]
 }
