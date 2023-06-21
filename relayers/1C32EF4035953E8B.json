@@ -41,12 +41,20 @@
             "relayerAddress": "inj1trra443gtl4jg3dmv08x76m9gn0hue3jv98enl"
         },
         {
+            "ticker": "INJ",
+            "relayerAddress": "inj15wvxn0lvg7zf942h8rt3zqw2qgm3h3g0lm9rnp"
+        },
+        {
             "ticker": "JUNO",
             "relayerAddress": "juno1n6j7gnld9yxfyh6tflxhjjmt404zruualvjsgm"
         },
         {
             "ticker": "KUJI",
             "relayerAddress": "kujira1nnjy6nct405pzfaqjm3dsyw0pf0kyw72qz45ej"
+        },
+        {
+            "ticker": "KUJI",
+            "relayerAddress": "kujira1n6j7gnld9yxfyh6tflxhjjmt404zruuacknnzd"
         },
         {
             "ticker": "MARS",
