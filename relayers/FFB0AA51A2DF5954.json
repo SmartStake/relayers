@@ -27,6 +27,18 @@
     {
       "ticker": "JKL",
       "relayerAddress": "jkl14vqf3m628st3plx25s2mrm8mmfg0swgafltyxv"
+    },
+    {
+      "ticker": "FIS",
+      "relayerAddress": "stafi14vqf3m628st3plx25s2mrm8mmfg0swgat24ltt"
+    },
+    {
+      "ticker": "NOIS",
+      "relayerAddress": "nois14vqf3m628st3plx25s2mrm8mmfg0swgapfclnt"
+    },
+    {
+      "ticker": "AURA",
+      "relayerAddress": "aura14vqf3m628st3plx25s2mrm8mmfg0swgathjha2"
     }
   ]
 }
