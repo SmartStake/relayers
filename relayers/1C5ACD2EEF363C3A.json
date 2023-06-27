@@ -59,6 +59,10 @@
         {
             "ticker": "UMEE",
             "relayerAddress": "umee1twmgaeug7ymjq8c53ttstpl7rny43q8zh7unr4"
+        },
+        {
+            "ticker": "AURA",
+            "relayerAddress": "aura1twmgaeug7ymjq8c53ttstpl7rny43q8z77kw97"
         }
     ]
 }
