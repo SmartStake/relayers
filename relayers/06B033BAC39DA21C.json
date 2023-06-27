@@ -21,6 +21,10 @@
             "relayerAddress": "terra1ks0qeq9vyt9l7vgasaajd49ff0k8klurl7rzhn"
         },
         {
+            "ticker": "CRE",
+            "relayerAddress": "cre1ks0qeq9vyt9l7vgasaajd49ff0k8kluraj28q7"
+        },
+        {
             "ticker": "BAND",
             "relayerAddress": "band1l8j496qjkj4nmqskmzhwnnm0dqsk6u6qtm3t9k"
         },
