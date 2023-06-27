@@ -37,10 +37,6 @@
             "relayerAddress": "jkl1twmgaeug7ymjq8c53ttstpl7rny43q8zuk0a7c"
         },
         {
-            "ticker": "MARS",
-            "relayerAddress": "mars1twmgaeug7ymjq8c53ttstpl7rny43q8zc4c4ju"
-        },
-        {
             "ticker": "QCK",
             "relayerAddress": "quick1twmgaeug7ymjq8c53ttstpl7rny43q8zwv3774"
         },
@@ -51,14 +47,6 @@
         {
             "ticker": "BCNA",
             "relayerAddress": "bcna1twmgaeug7ymjq8c53ttstpl7rny43q8zlc3d04"
-        },
-        {
-            "ticker": "JUNO",
-            "relayerAddress": "juno1twmgaeug7ymjq8c53ttstpl7rny43q8zn6zhqm"
-        },
-        {
-            "ticker": "STARS",
-            "relayerAddress": "stars1twmgaeug7ymjq8c53ttstpl7rny43q8z35k3vk"
         },
         {
             "ticker": "NOIS",
