@@ -9,6 +9,14 @@
     "supportRelayerBy": "Delegate With Golden Ratio Staking",
     "chainsRelayed": [
         {
+            "ticker": "ARCH",
+            "relayerAddress": "archway1n6j7gnld9yxfyh6tflxhjjmt404zruuau4d09s"
+        },
+        {
+            "ticker": "ARCH",
+            "relayerAddress": "archway1nnjy6nct405pzfaqjm3dsyw0pf0kyw72yptg70"
+        },
+        {
             "ticker": "ATOM",
             "relayerAddress": "cosmos1n6j7gnld9yxfyh6tflxhjjmt404zruuaf73t08"
         },
