@@ -1,20 +1,21 @@
 {
     "keybaseIdentity": "A57DAB9B09C7215D",
-    "name": "bro_n_bro",
-    "website": "monitor.bronbro.io/d/akt-stats",
-    "twitter": null,
-    "telegram": null,
-    "discord": null,
-    "email": null,
-    "supportRelayerBy": "delegating to validator",
+    "name": "Bro_n_Bro",
+    "website": "bronbro.io",
+    "twitter": "Bro_n_Bro", 
+    "telegram": "bro_n_bro_community",
+    "supportRelayerBy": "support our relayer by delegating to Bro",
     "chainsRelayed": [
-        {
-            "ticker": "JUNO",
-            "relayerAddress": null
-        },
-        {
-            "ticker": "OSMO",
-            "relayerAddress": null
-        }
+     {"ticker": "BOOT", "relayerAddress": "bostrom1y7hgwdjfn2hk0m9nwclav63apv8g42rmc6puqu"},
+     {"ticker": "BOOT", "relayerAddress": "bostrom1fejerulsacktdyfmaxk4lnw7nwnmpm0d7lumx0"},
+     {"ticker": "OSMO", "relayerAddress": "osmo12e8crhzuh4ea0tmr5m8ytx6l3nqer4vxkq8h2c"},
+     {"ticker": "ATOM", "relayerAddress": "cosmos1yevlp8pu8c5jq75kjyvryjjtylpa7m0rtux7h6"},
+     {"ticker": "AXL", "relayerAddress": "axelar1yevlp8pu8c5jq75kjyvryjjtylpa7m0r0jskum"},
+     {"ticker": "CRE", "relayerAddress": "cre1fejerulsacktdyfmaxk4lnw7nwnmpm0deymdd9"},
+     {"ticker": "DSM", "relayerAddress": "desmos1fejerulsacktdyfmaxk4lnw7nwnmpm0df59c0s"},
+     {"ticker": "JUNO", "relayerAddress": "juno1fejerulsacktdyfmaxk4lnw7nwnmpm0dt7tnl5"},
+     {"ticker": "EVMOS", "relayerAddress": "evmos1lm7f8eqe77e9rkk6w3rqw7newqv8gsgtam04we"},
+     {"ticker": "GRAV", "relayerAddress": "gravity1fejerulsacktdyfmaxk4lnw7nwnmpm0deu6saq"},
+     {"ticker": "PUSSY", "relayerAddress": "pussy1fejerulsacktdyfmaxk4lnw7nwnmpm0d5nzk9x"} 
     ]
 }
