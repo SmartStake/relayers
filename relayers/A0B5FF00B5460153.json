@@ -23,11 +23,15 @@
         {
             "ticker": "AURA",
             "relayerAddress": "aura1k670rkzc45xmdgywe4vxwheslk3kxm3hs4tsk8"
-        },  
+        },
         {
             "ticker": "NOIS",
             "relayerAddress": "nois1k670rkzc45xmdgywe4vxwheslk3kxm3h6tpccx"
-        },  
+        },
+        {
+            "ticker": "HASH",
+            "relayerAddress": "pb14eerlhhvaplhswe74caceup79l9uzfy8649td8"
+        },
         {
             "ticker": "JKL",
             "relayerAddress": "jkl1k670rkzc45xmdgywe4vxwheslk3kxm3hjajrdp"
