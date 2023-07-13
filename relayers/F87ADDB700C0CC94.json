@@ -94,6 +94,10 @@
             "relayerAddress": "secret1czy3ak7s26sajcr99cyzfd2l75rprjxlkw4n6t"
         },
         {
+            "ticker": "SOMM",
+            "relayerAddress": "somm18xrruhq5r246mwk0yj9elnn3mte8xa9uvf5pak"
+        },
+        {
             "ticker": "STRD",
             "relayerAddress": "stride18xrruhq5r246mwk0yj9elnn3mte8xa9ur7m3cs"
         },     
@@ -156,6 +160,26 @@
                 {
             "ticker": "NLS",
             "relayerAddress": "nolus18xrruhq5r246mwk0yj9elnn3mte8xa9uk9tjwe"
+        },
+        {
+            "ticker": "PICA",
+            "relayerAddress": "centauri18xrruhq5r246mwk0yj9elnn3mte8xa9uylk3g0"
+        },
+        {
+            "ticker": "ARCH",
+            "relayerAddress": "archway18xrruhq5r246mwk0yj9elnn3mte8xa9u478fxt"
+        },
+        {
+            "ticker": "QWOYN",
+            "relayerAddress": "qwoyn18xrruhq5r246mwk0yj9elnn3mte8xa9ua46nta"
+        },
+        {
+            "ticker": "BTSG",
+            "relayerAddress": "bitsong18xrruhq5r246mwk0yj9elnn3mte8xa9uvuf9wn"
+        },
+        {
+            "ticker": "LUM",
+            "relayerAddress": "lum1unj6qxtavxd4rcrmhxu40q78at8uck53kjupmv"
         }
     ]
 }
