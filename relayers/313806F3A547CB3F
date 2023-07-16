@@ -1,0 +1,11 @@
+{
+   	"keybaseIdentity": "313806F3A547CB3F",
+   	"name": "Tessellated",
+   	"website": "https://tessellated.io",
+   	"twitter": "tessellated_io",
+   	"email": "hello@tessellated.io",
+   	"supportRelayerBy": "Say nice things about us and tell your friends. Delegate to our validators.",
+   	"chainsRelayed": [
+   		{"ticker": "OSMO", "relayerAddress": "osmo18km3aldszshqa2e7kkm7nv5dqknnyyrc5msaxc"}
+   	]
+}
