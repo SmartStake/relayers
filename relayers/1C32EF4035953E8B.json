@@ -74,6 +74,10 @@
         },
         {
             "ticker": "NTRN",
+            "relayerAddress": "neutron1n6j7gnld9yxfyh6tflxhjjmt404zruuadpcf4q"
+        },
+        {
+            "ticker": "NTRN",
             "relayerAddress": "neutron1nnjy6nct405pzfaqjm3dsyw0pf0kyw72447wwl"
         },
         {
