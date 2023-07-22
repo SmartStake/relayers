@@ -6,6 +6,11 @@
    	"email": "hello@tessellated.io",
    	"supportRelayerBy": "Say nice things about us and tell your friends. Delegate to our validators.",
    	"chainsRelayed": [
-   		{"ticker": "OSMO", "relayerAddress": "osmo18km3aldszshqa2e7kkm7nv5dqknnyyrc5msaxc"}
-   	]
+   		{"ticker": "ATOM", "relayerAddress": "cosmos1wul6j40vghx4t4766t4vagkwwatnsxm4lcgmcj"}
+   		{"ticker": "ATOM", "relayerAddress": "cosmos15qth07rmamcue638q4fvzfrg9ra6eykngvzzd2"}
+   		{"ticker": "ATOM", "relayerAddress": "cosmos18km3aldszshqa2e7kkm7nv5dqknnyyrcuqrds2"}
+         {"ticker": "OSMO", "relayerAddress": "osmo18km3aldszshqa2e7kkm7nv5dqknnyyrc5msaxc"},
+   		{"ticker": "NTRN", "relayerAddress": "neutron15qth07rmamcue638q4fvzfrg9ra6eyknvntqhd"}
+   		{"ticker": "STRD", "relayerAddress": "stride1wul6j40vghx4t4766t4vagkwwatnsxm4ung8v7"}
+]
 }
