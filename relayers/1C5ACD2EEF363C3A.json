@@ -67,6 +67,10 @@
         {
             "ticker": "ARCH",
             "relayerAddress": "archway1twmgaeug7ymjq8c53ttstpl7rny43q8zsragds"
+        },
+        {
+            "ticker": "QSR",
+            "relayerAddress": "quasar1twmgaeug7ymjq8c53ttstpl7rny43q8zttm32z"
         }
     ]
 }
