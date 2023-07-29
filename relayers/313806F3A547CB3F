@@ -5,6 +5,7 @@
    	"twitter": "tessellated_io",
    	"email": "hello@tessellated.io",
    	"supportRelayerBy": "Say nice things about us and tell your friends. Delegate to our validators.",
+      "chainsRelayed": [
    		{"ticker": "AXL", "relayerAddress": "axelar15qth07rmamcue638q4fvzfrg9ra6eyknvz52xt"},
    		{"ticker": "ATOM", "relayerAddress": "cosmos1wul6j40vghx4t4766t4vagkwwatnsxm4lcgmcj"},
    		{"ticker": "ATOM", "relayerAddress": "cosmos15qth07rmamcue638q4fvzfrg9ra6eykngvzzd2"},
