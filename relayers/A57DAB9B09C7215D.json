@@ -17,7 +17,6 @@
      {"ticker": "DSM", "relayerAddress": "desmos1fejerulsacktdyfmaxk4lnw7nwnmpm0df59c0s"},
      {"ticker": "JUNO", "relayerAddress": "juno1fejerulsacktdyfmaxk4lnw7nwnmpm0dt7tnl5"},
      {"ticker": "EVMOS", "relayerAddress": "evmos1lm7f8eqe77e9rkk6w3rqw7newqv8gsgtam04we"},
-     {"ticker": "GRAV", "relayerAddress": "gravity1fejerulsacktdyfmaxk4lnw7nwnmpm0deu6saq"},
-     {"ticker": "PUSSY", "relayerAddress": "pussy1fejerulsacktdyfmaxk4lnw7nwnmpm0d5nzk9x"} 
+     {"ticker": "GRAV", "relayerAddress": "gravity1fejerulsacktdyfmaxk4lnw7nwnmpm0deu6saq"}
     ]
 }
