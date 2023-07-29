@@ -1,12 +1,12 @@
 {
     "keybaseIdentity": "1C5ACD2EEF363C3A",
-    "name": "kjnodes",
+    "name": "kjnodes.com 🦄",
     "website": "https://kjnodes.com",
     "twitter": "https://twitter.com/kjnodes",
     "telegram": "https://t.me/kjnodes",
     "discord": "https://discord.gg/JqQNcwff2e",
     "email": "stake@kjnodes.com",
-    "supportRelayerBy": "delegating to validator",
+    "supportRelayerBy": "Trusted Proof of Stake validator across Cosmos universe. Active ecosystem contributor, IBC relayer and chain service provider since 2021. We deliver top-notch secure and reliable infrastructure for Cosmos projects.",
     "chainsRelayed": [
         {
             "ticker": "STRD",
@@ -65,8 +65,8 @@
             "relayerAddress": "aura1twmgaeug7ymjq8c53ttstpl7rny43q8z77kw97"
         },
         {
-            "ticker": "ARCH",
-            "relayerAddress": "archway1twmgaeug7ymjq8c53ttstpl7rny43q8zsragds"
+            "ticker": "QSR",
+            "relayerAddress": "quasar1twmgaeug7ymjq8c53ttstpl7rny43q8zttm32z"
         }
     ]
 }

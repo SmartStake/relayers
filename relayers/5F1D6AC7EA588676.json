@@ -223,6 +223,34 @@
         {
             "ticker": "NTRN",
             "relayerAddress": "neutron1l267dmlmprhu4p5aqslf50f495vjqlg3etrxgv"
+        },
+        {
+            "ticker": "ARCH",
+            "relayerAddress": "archway1l267dmlmprhu4p5aqslf50f495vjqlg3glkqcu"
+        },
+        {
+            "ticker": "LORE",
+            "relayerAddress": "gitopia1l267dmlmprhu4p5aqslf50f495vjqlg3rvdnag"
+        },
+        {
+            "ticker": "NLS",
+            "relayerAddress": "nolus1l267dmlmprhu4p5aqslf50f495vjqlg3ty6msw"
+        },
+        {
+            "ticker": "BLZ",
+            "relayerAddress": "bluzelle1l267dmlmprhu4p5aqslf50f495vjqlg3gvfx56"
+        },
+        {
+            "ticker": "NOIS",
+            "relayerAddress": "nois1l267dmlmprhu4p5aqslf50f495vjqlg3vuhw7n"
+        },
+        {
+            "ticker": "AURA",
+            "relayerAddress": "aura19kzuzfmmy9wjr3cl0ss8wjzjup9g49hqa7jmga"
+        },
+        {
+            "ticker": "KYVE",
+            "relayerAddress": "kyve19kzuzfmmy9wjr3cl0ss8wjzjup9g49hq3xg0pq"
         }
     ]
 }
