@@ -85,8 +85,12 @@
             "relayerAddress": "nolus1ks0qeq9vyt9l7vgasaajd49ff0k8klur02fahk"
         },
         {
-            "ticker": "AKASH",
+            "ticker": "AKT",
             "relayerAddress": "akash1ks0qeq9vyt9l7vgasaajd49ff0k8klur5p59vf"
+        },
+        {
+            "ticker": "NTRN",
+            "relayerAddress": "neutron1ks0qeq9vyt9l7vgasaajd49ff0k8klura9sq05"
         },
         {
             "ticker": "AXL",
