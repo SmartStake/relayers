@@ -180,6 +180,10 @@
         {
             "ticker": "LUM",
             "relayerAddress": "lum1unj6qxtavxd4rcrmhxu40q78at8uck53kjupmv"
+        },
+        {
+            "ticker": "KAVA",
+            "relayerAddress": "kava1hmljfv54xa5xxhdfld0zfpd0f0cwmykm4nj68u"
         }
     ]
 }
