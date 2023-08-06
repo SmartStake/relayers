@@ -1,18 +1,46 @@
 {
-   	"keybaseIdentity": "313806F3A547CB3F",
-   	"name": "Tessellated",
-   	"website": "https://tessellated.io",
-   	"twitter": "tessellated_io",
-   	"email": "hello@tessellated.io",
-   	"supportRelayerBy": "Say nice things about us and tell your friends. Delegate to our validators.",
-      "chainsRelayed": [
-   		{"ticker": "AXL", "relayerAddress": "axelar15qth07rmamcue638q4fvzfrg9ra6eyknvz52xt"},
-   		{"ticker": "ATOM", "relayerAddress": "cosmos1wul6j40vghx4t4766t4vagkwwatnsxm4lcgmcj"},
-   		{"ticker": "ATOM", "relayerAddress": "cosmos15qth07rmamcue638q4fvzfrg9ra6eykngvzzd2"},
-   		{"ticker": "ATOM", "relayerAddress": "cosmos18km3aldszshqa2e7kkm7nv5dqknnyyrcuqrds2"},
-         {"ticker": "OSMO", "relayerAddress": "osmo18km3aldszshqa2e7kkm7nv5dqknnyyrc5msaxc"},
-   		{"ticker": "OSMO", "relayerAddress": "osmo15qth07rmamcue638q4fvzfrg9ra6eyknqh3jmc"},
-   		{"ticker": "NTRN", "relayerAddress": "neutron15qth07rmamcue638q4fvzfrg9ra6eyknvntqhd"},
-   		{"ticker": "STRD", "relayerAddress": "stride1wul6j40vghx4t4766t4vagkwwatnsxm4ung8v7"}
-      ]
+  "keybaseIdentity": "313806F3A547CB3F",
+  "name": "Tessellated",
+  "website": "https://tessellated.io",
+  "twitter": "tessellated_io",
+  "email": "hello@tessellated.io",
+  "supportRelayerBy": "Say nice things about us and tell your friends. Delegate to our validators.",
+  "chainsRelayed": [
+    {
+      "ticker": "AXL",
+      "relayerAddress": "axelar15qth07rmamcue638q4fvzfrg9ra6eyknvz52xt"
+    },
+    {
+      "ticker": "ATOM",
+      "relayerAddress": "cosmos1wul6j40vghx4t4766t4vagkwwatnsxm4lcgmcj"
+    },
+    {
+      "ticker": "GRAV",
+      "relayerAddress": "gravity15qth07rmamcue638q4fvzfrg9ra6eyknvus6gz"
+    },
+    {
+      "ticker": "JUNO",
+      "relayerAddress": "juno15qth07rmamcue638q4fvzfrg9ra6eykn77pe2k"
+    },
+    {
+      "ticker": "MARS",
+      "relayerAddress": "mars15qth07rmamcue638q4fvzfrg9ra6eykn43mmc3"
+    },
+    {
+      "ticker": "NTRN",
+      "relayerAddress": "neutron15qth07rmamcue638q4fvzfrg9ra6eyknvntqhd"
+    },
+    {
+      "ticker": "OSMO",
+      "relayerAddress": "osmo15qth07rmamcue638q4fvzfrg9ra6eyknqh3jmc"
+    },
+    {
+      "ticker": "SOMM",
+      "relayerAddress": "somm15qth07rmamcue638q4fvzfrg9ra6eyknysdwuq"
+    },
+    {
+      "ticker": "STRD",
+      "relayerAddress": "stride15qth07rmamcue638q4fvzfrg9ra6eyknt8z7ex"
+    }
+  ]
 }
