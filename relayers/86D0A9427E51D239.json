@@ -71,6 +71,18 @@
         {
             "ticker": "PICA",
             "relayerAddress": "centauri1ek7y9jex32ljxz7sgsjkrwrhsa4evyn026y05v"
+        },
+        {
+            "ticker": "LORE",
+            "relayerAddress": "gitopia1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0sgwylu"
+        },
+        {
+            "ticker": "RIO",
+            "relayerAddress": "realio1sty42e2lzdytwv8yewh53fxl4k2ah9szfpv9er"
+        },
+        {
+            "ticker": "GUU",
+            "relayerAddress": "ununifi1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0cj6p23"
         }
     ]
 }
