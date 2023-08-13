@@ -21,11 +21,11 @@
             "relayerAddress": "osmo122sr7ukcdr580nt0jmyyd0cwnudd73kvnee5ux"
         },
         {
-            "ticker": "INJECTIVE",
+            "ticker": "INJ",
             "relayerAddress": "inj122sr7ukcdr580nt0jmyyd0cwnudd73kv3taqcv"
         },
         {
-            "ticker": "SHENTU",
+            "ticker": "CTK",
             "relayerAddress": "certik122sr7ukcdr580nt0jmyyd0cwnudd73kvu2kntl"
         }
     ]
