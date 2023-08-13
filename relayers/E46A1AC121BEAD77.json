@@ -15,6 +15,18 @@
         {
             "ticker": "UMEE",
             "relayerAddress": "umee122sr7ukcdr580nt0jmyyd0cwnudd73kvf5hmwx"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo122sr7ukcdr580nt0jmyyd0cwnudd73kvnee5ux"
+        },
+        {
+            "ticker": "INJECTIVE",
+            "relayerAddress": "inj122sr7ukcdr580nt0jmyyd0cwnudd73kv3taqcv"
+        },
+        {
+            "ticker": "SHENTU",
+            "relayerAddress": "certik122sr7ukcdr580nt0jmyyd0cwnudd73kvu2kntl"
         }
     ]
 }
