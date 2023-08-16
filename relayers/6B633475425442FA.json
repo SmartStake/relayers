@@ -13,6 +13,10 @@
       "relayerAddress": "chihuahua1exy5hsk7ue0ra8k5jtn3x3herxemtpex6rk0th"
     },
     {
+      "ticker": "MPWR",
+      "relayerAddress": "empower1exy5hsk7ue0ra8k5jtn3x3herxemtpex96l2st"
+    },
+    {
       "ticker": "EVMOS",
       "relayerAddress": "evmos12nkgdtwwsn5ptpr6zltw0d8ww7nvk5edadcn3z"
     },
