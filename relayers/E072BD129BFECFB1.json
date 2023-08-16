@@ -69,6 +69,10 @@
             "relayerAddress": "stride1nna7k5lywn99cd63elcfqm6p8c5c4qcut7a9ac"
         },
         {
+            "ticker": "STRD",
+            "relayerAddress": "stride1p7d8mnjttcszv34pk2a5yyug3474mhff7mazly"
+        },
+        {
             "ticker": "UMEE",
             "relayerAddress": "umee1nna7k5lywn99cd63elcfqm6p8c5c4qcu6rqxdx"
         }
