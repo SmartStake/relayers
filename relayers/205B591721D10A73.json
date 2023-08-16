@@ -22,6 +22,7 @@
         {"ticker": "UMEE", "relayerAddress": "umee1k4l9gu4tx6gv0qcx036d09rau8ar2h3d99cphc"},
         {"ticker": "GRAV", "relayerAddress": "gravity1g62px8exekq48ku96zf4mrn46d49m886v6cf7n"},
         {"ticker": "AKT", "relayerAddress": "akash1xst4xmq3e5yg4w8r586mw4yzdeq4p89vne7d4d"},
-        {"ticker": "XPRT", "relayerAddress": "persistence1u27a068amc22day8jfzmtnkps4xhp75xv72hc7"}
+        {"ticker": "XPRT", "relayerAddress": "persistence1u27a068amc22day8jfzmtnkps4xhp75xv72hc7"},
+        {"ticker": "CMDX", "relayerAddress": "comdex12d4cgyttavgn9xphfwdv6n98ppgr4g25hv8s92"}
     ]
 }
