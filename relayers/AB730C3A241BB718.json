@@ -77,6 +77,10 @@
             "relayerAddress": "band1u3ysyzsfll2x74l3rfxsyw3yxmunuwrdjmfd3n"
         },
         {
+            "ticker": "BAND",
+            "relayerAddress": "band1nffxurmv8yvhts7dj2rzhnhpxcsteez3tgd8lh"
+        },
+        {
             "ticker": "INJ",
             "relayerAddress": "inj1tusg5d35w03v0s2u5tefvf5yclguye09srgs2v"
         },
