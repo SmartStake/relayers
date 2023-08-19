@@ -23,10 +23,6 @@
         {
             "ticker": "STRD",
             "relayerAddress": "stride1advdlvxlguv9fl3un29tsd9m0up5q99z5t0zvm"
-        },
-        {
-            "ticker": "ACRE",
-            "relayerAddress": "acre1ewn5hpfqlum63msxfp9pt22lyw2nmh4dz5pge4"
         }
     ]
 }
