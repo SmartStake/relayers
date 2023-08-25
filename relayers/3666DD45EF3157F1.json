@@ -65,6 +65,10 @@
             "relayerAddress": "umee1xg93g0tx0wnt5weg7x7xmnvlh6setx2mvzccr0"
         },
         {
+            "ticker": "ARCH",
+            "relayerAddress": "archway1j694ux46ughsp7rd20ghzxhtc2dd53v9m0ckya"
+        },
+        {
             "ticker": "DARC",
             "relayerAddress": "darc16pn6zk5q7ksw4n64qutct445dkm2wyf25z8g38"
         }
