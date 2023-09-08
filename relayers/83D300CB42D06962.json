@@ -116,6 +116,10 @@
         {
             "ticker": "QCK",
             "relayerAddress": "quick1ptm9dyyya6erqj9h9ydurtzvla2h6lv9zjdvux"
+        },
+        {
+            "ticker": "ARCH",
+            "relayerAddress": "archway1ptm9dyyya6erqj9h9ydurtzvla2h6lv9uap60r"
         }
     ]
 }
