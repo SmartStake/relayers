@@ -120,6 +120,10 @@
         {
             "ticker": "ARCH",
             "relayerAddress": "archway1ptm9dyyya6erqj9h9ydurtzvla2h6lv9uap60r"
+        },
+        {
+            "ticker": "STARS",
+            "relayerAddress": "stars1q6cc9u0x5r3fkjcex0rgxee5qlu86w8rrknukr"
         }
     ]
 }
