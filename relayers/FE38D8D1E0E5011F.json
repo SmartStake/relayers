@@ -1,0 +1,14 @@
+{
+  "keybaseIdentity": "FE38D8D1E0E5011F",
+  "name": "StakeTown",
+  "website": "",
+  "twitter": "https://twitter.com/staketown_ua",
+  "telegram": "https://t.me/mogoll92",
+  "discord": "hottochelli",
+  "email": "staketown@gmail.com",
+  "supportRelayerBy": "Delegate to StakeTown validator to support us.",
+  "chainsRelayed": [
+    {"ticker": "JUNO", "relayerAddress": "juno18eee2859hfpmfz0qfcv2gvlkh832fyvtee87q0"},
+    {"ticker": "OSMO", "relayerAddress": "osmo1jvzym275w6ajufpa8khadtkmugw68e2wg3f6hu"}
+  ]
+}
