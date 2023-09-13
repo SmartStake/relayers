@@ -9,8 +9,20 @@
     "supportRelayerBy": "Delegate With Golden Ratio Staking",
     "chainsRelayed": [
         {
+            "ticker": "ARCH",
+            "relayerAddress": "archway1n6j7gnld9yxfyh6tflxhjjmt404zruuau4d09s"
+        },
+        {
+            "ticker": "ARCH",
+            "relayerAddress": "archway1nnjy6nct405pzfaqjm3dsyw0pf0kyw72yptg70"
+        },
+        {
             "ticker": "ATOM",
             "relayerAddress": "cosmos1n6j7gnld9yxfyh6tflxhjjmt404zruuaf73t08"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1nnjy6nct405pzfaqjm3dsyw0pf0kyw7232hv5c"
         },
         {
             "ticker": "CMDX",
@@ -25,12 +37,24 @@
             "relayerAddress": "evmos1trra443gtl4jg3dmv08x76m9gn0hue3jydpnm0"
         },
         {
+            "ticker": "EVMOS",
+            "relayerAddress": "evmos15wvxn0lvg7zf942h8rt3zqw2qgm3h3g0hnrfm3"
+        },
+        {
             "ticker": "HUAHUA",
             "relayerAddress": "chihuahua1nnjy6nct405pzfaqjm3dsyw0pf0kyw72jl6z46"
         },
         {
             "ticker": "INJ",
             "relayerAddress": "inj1nnjy6nct405pzfaqjm3dsyw0pf0kyw72mrqgxq"
+        },
+        {
+            "ticker": "INJ",
+            "relayerAddress": "inj1trra443gtl4jg3dmv08x76m9gn0hue3jv98enl"
+        },
+        {
+            "ticker": "INJ",
+            "relayerAddress": "inj15wvxn0lvg7zf942h8rt3zqw2qgm3h3g0lm9rnp"
         },
         {
             "ticker": "JUNO",
@@ -41,12 +65,36 @@
             "relayerAddress": "kujira1nnjy6nct405pzfaqjm3dsyw0pf0kyw72qz45ej"
         },
         {
+            "ticker": "KUJI",
+            "relayerAddress": "kujira1n6j7gnld9yxfyh6tflxhjjmt404zruuacknnzd"
+        },
+        {
             "ticker": "MARS",
             "relayerAddress": "mars1nnjy6nct405pzfaqjm3dsyw0pf0kyw72vhw4pr"
         },
         {
+            "ticker": "NTRN",
+            "relayerAddress": "neutron1n6j7gnld9yxfyh6tflxhjjmt404zruuadpcf4q"
+        },
+        {
+            "ticker": "NTRN",
+            "relayerAddress": "neutron1nnjy6nct405pzfaqjm3dsyw0pf0kyw72447wwl"
+        },
+        {
             "ticker": "OSMO",
             "relayerAddress": "osmo1nnjy6nct405pzfaqjm3dsyw0pf0kyw72e3yuz2"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1n6j7gnld9yxfyh6tflxhjjmt404zruuap9zme4"
+        },
+        {
+            "ticker": "SOMM",
+            "relayerAddress": "somm1n6j7gnld9yxfyh6tflxhjjmt404zruua9z787d"
+        },
+        {
+            "ticker": "SOMM",
+            "relayerAddress": "somm1nnjy6nct405pzfaqjm3dsyw0pf0kyw72akcq9j"
         },
         {
             "ticker": "STARS",
@@ -55,6 +103,10 @@
         {
             "ticker": "STRD",
             "relayerAddress": "stride1nnjy6nct405pzfaqjm3dsyw0pf0kyw72jphsq5"
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride1n6j7gnld9yxfyh6tflxhjjmt404zruua243hmt"
         },
         {
             "ticker": "TORI",

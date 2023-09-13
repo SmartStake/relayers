@@ -1,11 +1,11 @@
 {
-    "keybaseIdentity": "C1A123F2723041F0",
-    "name": "Genesis Lab",
-    "website": "https://genesislab.net/",
-    "twitter": "https://twitter.com/GenesisLab_net",
-    "telegram": "https://t.me/GenesisLab_Chat_EN",
+    "keybaseIdentity": "205B591721D10A73",
+    "name": "Stakeflow",
+    "website": "https://validator.stakeflow.io",
+    "twitter": "https://twitter.com/sf_validator",
+    "telegram": "https://t.me/stakeflow_validator_chat",
     "discord": "null",
-    "email": "team@genesislab.net",
+    "email": "team@stakeflow.io",
     "supportRelayerBy": "delegate to validator",
     "chainsRelayed": [
         {"ticker": "ATOM", "relayerAddress": "cosmos1v7awxag03eyup6as5mtajrnk53hvdtlmp6u9xt"},
@@ -20,8 +20,10 @@
         {"ticker": "JUNO", "relayerAddress": "juno1490ep7wlp7zgla2ayerjkyw6u6aelnkqv9jtlh"},
         {"ticker": "AXL", "relayerAddress": "axelar1fs8q7fngcsx7drr5f7zqm5w4xvtthcuf7p03pj"},
         {"ticker": "UMEE", "relayerAddress": "umee1k4l9gu4tx6gv0qcx036d09rau8ar2h3d99cphc"},
-        {"ticker": "OSMO", "relayerAddress": "osmo1lej07r5t8ltqvntpgfmgp5cxc7wytalsgczjzc"},
-        {"ticker": "UMEE", "relayerAddress": "umee1pjds35psesrul7unplezzp649h35wna2725m3z"},
-        {"ticker": "CRE", "relayerAddress": "cre1uxdtz0cqcn7yhw9u3nn3tetlln5vz3frqzsvjh"}
+        {"ticker": "GRAV", "relayerAddress": "gravity1g62px8exekq48ku96zf4mrn46d49m886v6cf7n"},
+        {"ticker": "AKT", "relayerAddress": "akash1xst4xmq3e5yg4w8r586mw4yzdeq4p89vne7d4d"},
+        {"ticker": "XPRT", "relayerAddress": "persistence1u27a068amc22day8jfzmtnkps4xhp75xv72hc7"},
+        {"ticker": "CMDX", "relayerAddress": "comdex12d4cgyttavgn9xphfwdv6n98ppgr4g25hv8s92"},
+        {"ticker": "BAND", "relayerAddress": "band1pe8ujal4jmw2u8t50qqmrrt5n6my0argqeh6ln"}
     ]
 }

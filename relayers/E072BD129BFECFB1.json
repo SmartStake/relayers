@@ -9,6 +9,10 @@
     "supportRelayerBy": "delegating to validator",
     "chainsRelayed": [
         {
+            "ticker": "ARCH",
+            "relayerAddress": "archway1nna7k5lywn99cd63elcfqm6p8c5c4qcua7parr"
+        },
+        {
             "ticker": "ATOM",
             "relayerAddress": "cosmos1p7d8mnjttcszv34pk2a5yyug3474mhffasa7tg"
         },
@@ -41,6 +45,10 @@
             "relayerAddress": "kujira1nna7k5lywn99cd63elcfqm6p8c5c4qcuealpy7"
         },
         {
+            "ticker": "NTRN",
+            "relayerAddress": "neutron1nna7k5lywn99cd63elcfqm6p8c5c4qcuv25mnn"
+        },
+        {
             "ticker": "OSMO",
             "relayerAddress": "osmo1p7d8mnjttcszv34pk2a5yyug3474mhff4twwa6"
         },
@@ -59,6 +67,14 @@
         {
             "ticker": "STRD",
             "relayerAddress": "stride1nna7k5lywn99cd63elcfqm6p8c5c4qcut7a9ac"
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride1p7d8mnjttcszv34pk2a5yyug3474mhff7mazly"
+        },
+        {
+            "ticker": "UMEE",
+            "relayerAddress": "umee1nna7k5lywn99cd63elcfqm6p8c5c4qcu6rqxdx"
         }
     ]
 }

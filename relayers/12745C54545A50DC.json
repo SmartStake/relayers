@@ -1,0 +1,104 @@
+{
+  "keybaseIdentity": "63C62007AB5345E3",
+  "name": "w3coins",
+  "website": "https://www.w3coins.io",
+  "twitter": "https://twitter.com/polka_chu",
+  "telegram": "https://t.me/w3coins_Official_Group",
+  "discord": null,
+  "email": "info@w3coins.io",
+  "supportRelayerBy": "w3coins is a Professional Validator and web3 Venture Capital. Stake Your Cryptocurrency with us to Maximize Your Earnings.",
+  "chainsRelayed": [
+    {
+      "ticker": "BLD",
+      "relayerAddress": "agoric1ghevxuudymrw8axun4aglz5wxqcn4uk3gm8klj"
+    },
+    {
+      "ticker": "AKT",
+      "relayerAddress": "akash1ghevxuudymrw8axun4aglz5wxqcn4uk3hagwk7"
+    },
+    {
+      "ticker": "AXL",
+      "relayerAddress": "axelar1ghevxuudymrw8axun4aglz5wxqcn4uk37gnpy9"
+    },
+    {
+      "ticker": "BAND",
+      "relayerAddress": "band1ghevxuudymrw8axun4aglz5wxqcn4uk3rf9thv"
+    },
+    {
+      "ticker": "FET",
+      "relayerAddress": "fetch1ghevxuudymrw8axun4aglz5wxqcn4uk3fmvddn"
+    },
+    {
+      "ticker": "IRIS",
+      "relayerAddress": "iaa1ghevxuudymrw8axun4aglz5wxqcn4uk30y9cd4"
+    },
+    {
+      "ticker": "CMDX",
+      "relayerAddress": "comdex1ghevxuudymrw8axun4aglz5wxqcn4uk3af8tkn"
+    },
+    {
+      "ticker": "ATOM",
+      "relayerAddress": "cosmos1ghevxuudymrw8axun4aglz5wxqcn4uk36x9f0y"
+    },
+    {
+      "ticker": "CRE",
+      "relayerAddress": "cre1ghevxuudymrw8axun4aglz5wxqcn4uk37wkv6f"
+    },
+    {
+      "ticker": "CRO",
+      "relayerAddress": "cro1ghevxuudymrw8axun4aglz5wxqcn4uk3zadsn4"
+    },
+    {
+      "ticker": "EVMOS",
+      "relayerAddress": "evmos13w0y7hsy2ln7sjf3lvncs23e8wez4qegprs2df"
+    },
+    {
+      "ticker": "GRAV",
+      "relayerAddress": "gravity1ghevxuudymrw8axun4aglz5wxqcn4uk37kh32v"
+    },
+    {
+      "ticker": "INJ",
+      "relayerAddress": "inj13w0y7hsy2ln7sjf3lvncs23e8wez4qegftkq9e"
+    },
+    {
+      "ticker": "REGEN",
+      "relayerAddress": "regen1ghevxuudymrw8axun4aglz5wxqcn4uk39yw4eq"
+    },
+    {
+      "ticker": "JUNO",
+      "relayerAddress": "juno1ghevxuudymrw8axun4aglz5wxqcn4uk3v5xjgc"
+    },
+    {
+      "ticker": "KUJI",
+      "relayerAddress": "kujira1ghevxuudymrw8axun4aglz5wxqcn4uk3tw83zw"
+    },
+    {
+      "ticker": "OSMO",
+      "relayerAddress": "osmo1ghevxuudymrw8axun4aglz5wxqcn4uk3jakeek"
+    },
+    {
+      "ticker": "XPRT",
+      "relayerAddress": "persistence1ghevxuudymrw8axun4aglz5wxqcn4uk352r6pq"
+    },
+    {
+      "ticker": "QCK",
+      "relayerAddress": "quick1ghevxuudymrw8axun4aglz5wxqcn4uk33z4mkk"
+    },
+    {
+      "ticker": "SOMM",
+      "relayerAddress": "somm1ghevxuudymrw8axun4aglz5wxqcn4uk3k6297w"
+    },
+    {
+      "ticker": "STARS",
+      "relayerAddress": "stars1ghevxuudymrw8axun4aglz5wxqcn4uk3w6j5y4"
+    },
+    {
+      "ticker": "STRD",
+      "relayerAddress": "stride1ghevxuudymrw8axun4aglz5wxqcn4uk3ed94mg"
+    },
+    {
+      "ticker": "UMEE",
+      "relayerAddress": "umee1ghevxuudymrw8axun4aglz5wxqcn4uk3gscktk"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "keybaseIdentity": "FFB0AA51A2DF5954",
+  "name": "NODEJUMPER",
+  "website": "https://nodejumper.io/",
+  "twitter": "https://twitter.com/nodejumper",
+  "telegram": "https://t.me/nodejumper",
+  "discord": "https://discord.gg/7WcRaYHDXe",
+  "email": "validator@nodejumper.io",
+  "supportRelayerBy": "delegating to NODEJUMPER validator",
+  "chainsRelayed": [
+    {
+      "ticker": "BLD",
+      "relayerAddress": "agoric15ykytxdx66t5m3z63kjkvp8g8a5pc8lpm255pn"
+    },
+    {
+      "ticker": "ATOM",
+      "relayerAddress": "cosmos14vqf3m628st3plx25s2mrm8mmfg0swgasp94ln"
+    },
+    {
+      "ticker": "OSMO",
+      "relayerAddress": "osmo14vqf3m628st3plx25s2mrm8mmfg0swgac6k9fp"
+    },
+    {
+      "ticker": "FLIX",
+      "relayerAddress": "omniflix14vqf3m628st3plx25s2mrm8mmfg0swgadl5vgd"
+    },
+    {
+      "ticker": "BCNA",
+      "relayerAddress": "bcna14vqf3m628st3plx25s2mrm8mmfg0swga2345hp"
+    },
+    {
+      "ticker": "JKL",
+      "relayerAddress": "jkl14vqf3m628st3plx25s2mrm8mmfg0swgafltyxv"
+    },
+    {
+      "ticker": "FIS",
+      "relayerAddress": "stafi14vqf3m628st3plx25s2mrm8mmfg0swgat24ltt"
+    },
+    {
+      "ticker": "NOIS",
+      "relayerAddress": "nois14vqf3m628st3plx25s2mrm8mmfg0swgapfclnt"
+    },
+    {
+      "ticker": "AURA",
+      "relayerAddress": "aura14vqf3m628st3plx25s2mrm8mmfg0swgathjha2"
+    }
+  ]
+}

@@ -4,10 +4,14 @@
    	"website": "https://restake.WhisperNode.com",
    	"twitter": "WhisperNode",
    	"telegram": "gh0stdotexe",
-   	"discord": "gh0st | WhisperNode#2112",
+   	"discord": "whispernode",
    	"email": "hello@WhisperNode.com",
    	"supportRelayerBy": "WhisperNode is a community validator & infrastructure provider. Consider supporting our IBC relaying efforts by delegating!",
    	"chainsRelayed": [
+		{
+			"ticker": "ARCH",
+			"relayerAddress": "archway1ryq6zncdxpdnnwhn9h24ar48ap9zkqglvkswqm"
+		},
 		{
 			"ticker": "ATOM",
 			"relayerAddress": "cosmos1ryq6zncdxpdnnwhn9h24ar48ap9zkqgleav22v"
@@ -61,6 +65,10 @@
 			"relayerAddress": "kujira1ryq6zncdxpdnnwhn9h24ar48ap9zkqglg4wj8x"
 		},
 		{
+			"ticker": "LORE",
+			"relayerAddress": "gitopia1ryq6zncdxpdnnwhn9h24ar48ap9zkqgl89ta90"
+		},
+		{
 			"ticker": "LUNA",
 			"relayerAddress": "terra13yydk3uqc8nn73wtlqkgyamnzk3avnxxap6c23"
 		},
@@ -73,12 +81,24 @@
 			"relayerAddress": "mantle1ryq6zncdxpdnnwhn9h24ar48ap9zkqgl8eh04x"
 		},
 		{
+			"ticker": "MPWR",
+			"relayerAddress": "empower1ryq6zncdxpdnnwhn9h24ar48ap9zkqgl93gpsj"
+		},
+		{
+			"ticker": "NTRN",
+			"relayerAddress": "neutron1ryq6zncdxpdnnwhn9h24ar48ap9zkqglaz9gst"
+		},
+		{
 			"ticker": "OSMO",
 			"relayerAddress": "osmo1ryq6zncdxpdnnwhn9h24ar48ap9zkqgl3xl6u7"
 		},
 		{
 			"ticker": "PASG",
 			"relayerAddress": "pasg1ryq6zncdxpdnnwhn9h24ar48ap9zkqgl694s8n"
+		},
+		{
+			"ticker": "PICA",
+			"relayerAddress": "centauri1ryq6zncdxpdnnwhn9h24ar48ap9zkqglahpkwl"
 		},
 		{
 			"ticker": "QSR",

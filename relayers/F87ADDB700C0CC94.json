@@ -94,6 +94,10 @@
             "relayerAddress": "secret1czy3ak7s26sajcr99cyzfd2l75rprjxlkw4n6t"
         },
         {
+            "ticker": "SOMM",
+            "relayerAddress": "somm18xrruhq5r246mwk0yj9elnn3mte8xa9uvf5pak"
+        },
+        {
             "ticker": "STRD",
             "relayerAddress": "stride18xrruhq5r246mwk0yj9elnn3mte8xa9ur7m3cs"
         },     
@@ -135,7 +139,51 @@
         },
                 {
             "ticker": "QCK",
-            "relayerAddress": "quick18xrruhq5r246mwk0yj9elnn3mte8xa9ut3tl4w"
+            "relayerAddress": "quick18xrruhq5r246mwk0yj9elnn3mte8xa9ut3tl4w"    
+        },
+                {
+            "ticker": "KYVE",
+            "relayerAddress": "kyve18xrruhq5r246mwk0yj9elnn3mte8xa9uhmkm8c"
+        },
+                {
+            "ticker": "NTRN",
+            "relayerAddress": "neutron18xrruhq5r246mwk0yj9elnn3mte8xa9uy2j0km"
+        },
+                {
+            "ticker": "LORE",
+            "relayerAddress": "gitopia18xrruhq5r246mwk0yj9elnn3mte8xa9u7du6rl"
+        },
+                {
+            "ticker": "XPLA",
+            "relayerAddress": "xpla1mx070d26eu5trde862pfl6gaqmzlcj99grpukp"
+        },
+                {
+            "ticker": "NLS",
+            "relayerAddress": "nolus18xrruhq5r246mwk0yj9elnn3mte8xa9uk9tjwe"
+        },
+        {
+            "ticker": "PICA",
+            "relayerAddress": "centauri18xrruhq5r246mwk0yj9elnn3mte8xa9uylk3g0"
+        },
+        {
+            "ticker": "ARCH",
+            "relayerAddress": "archway18xrruhq5r246mwk0yj9elnn3mte8xa9u478fxt"
+        },
+        {
+            "ticker": "QWOYN",
+            "relayerAddress": "qwoyn18xrruhq5r246mwk0yj9elnn3mte8xa9ua46nta"
+        },
+        {
+            "ticker": "BTSG",
+            "relayerAddress": "bitsong18xrruhq5r246mwk0yj9elnn3mte8xa9uvuf9wn"
+        },
+        {
+            "ticker": "LUM",
+            "relayerAddress": "lum1unj6qxtavxd4rcrmhxu40q78at8uck53kjupmv"
+        },
+        {
+            "ticker": "KAVA",
+            "relayerAddress": "kava1hmljfv54xa5xxhdfld0zfpd0f0cwmykm4nj68u"
         }
     ]
 }

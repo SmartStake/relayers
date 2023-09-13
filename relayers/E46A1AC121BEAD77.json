@@ -1,0 +1,36 @@
+{
+    "keybaseIdentity": "E46A1AC121BEAD77",
+    "name": "TienThuatToan",
+    "website": "https://tienthuattoan.ventures",
+    "twitter": "https://twitter.com/TTTcapital",
+    "telegram": "https://t.me/tienthuattoanchat",
+    "discord": null,
+    "email": "hello@tienthuattoan.ventures",
+    "supportRelayerBy": "Delegate With TienThuatToan",
+    "chainsRelayed": [        
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos122sr7ukcdr580nt0jmyyd0cwnudd73kvmz2y25"
+        },
+        {
+            "ticker": "UMEE",
+            "relayerAddress": "umee122sr7ukcdr580nt0jmyyd0cwnudd73kvf5hmwx"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo122sr7ukcdr580nt0jmyyd0cwnudd73kvnee5ux"
+        },
+        {
+            "ticker": "INJ",
+            "relayerAddress": "inj122sr7ukcdr580nt0jmyyd0cwnudd73kv3taqcv"
+        },
+        {
+            "ticker": "CTK",
+            "relayerAddress": "certik122sr7ukcdr580nt0jmyyd0cwnudd73kvu2kntl"
+        },
+        {
+            "ticker": "AURA",
+            "relayerAddress": "aura122sr7ukcdr580nt0jmyyd0cwnudd73kvq5axgd"
+        }       
+    ]
+}

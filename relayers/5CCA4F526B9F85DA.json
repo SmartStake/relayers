@@ -27,6 +27,10 @@
     {
       "ticker": "STARS",
       "relayerAddress": "stars1gf3djf6tnx8fcla4q75730vcllxdm40tj4c09f"
+    },
+    {
+      "ticker": "STRD",
+      "relayerAddress": "stride1yv2myphganx8evm3z6s8rstwnd468c8cugeum9"
     }
   ]
 }

@@ -9,6 +9,26 @@
     "supportRelayerBy": "Support us",
     "chainsRelayed": [
         {
+            "ticker": "INJ",
+            "relayerAddress": "inj146sl9u5kgsa86mxk6zjhmwlnlxa7l7cwvyea4r"
+        },
+        {
+            "ticker": "SOMM",
+            "relayerAddress": "somm1ks0qeq9vyt9l7vgasaajd49ff0k8klur4xkwye"
+        },
+        {
+            "ticker": "LUNA",
+            "relayerAddress": "terra1ks0qeq9vyt9l7vgasaajd49ff0k8klurl7rzhn"
+        },
+        {
+            "ticker": "CRE",
+            "relayerAddress": "cre1ks0qeq9vyt9l7vgasaajd49ff0k8kluraj28q7"
+        },
+        {
+            "ticker": "BAND",
+            "relayerAddress": "band1l8j496qjkj4nmqskmzhwnnm0dqsk6u6qtm3t9k"
+        },
+        {
             "ticker": "ATOM",
             "relayerAddress": "cosmos1ks0qeq9vyt9l7vgasaajd49ff0k8klure6ez4n"
         },
@@ -55,6 +75,22 @@
         {
             "ticker": "KUJI",
             "relayerAddress": "kujira1ks0qeq9vyt9l7vgasaajd49ff0k8klurgjm6ce"
+        },
+        {
+            "ticker": "PICA",
+            "relayerAddress": "centauri1ks0qeq9vyt9l7vgasaajd49ff0k8kluras573q"
+        },
+        {
+            "ticker": "NLS",
+            "relayerAddress": "nolus1ks0qeq9vyt9l7vgasaajd49ff0k8klur02fahk"
+        },
+        {
+            "ticker": "AKT",
+            "relayerAddress": "akash1ks0qeq9vyt9l7vgasaajd49ff0k8klur5p59vf"
+        },
+        {
+            "ticker": "NTRN",
+            "relayerAddress": "neutron1ks0qeq9vyt9l7vgasaajd49ff0k8klura9sq05"
         },
         {
             "ticker": "AXL",

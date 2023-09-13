@@ -2,23 +2,17 @@
     "keybaseIdentity": "0AB0957AA5A01AD1",
     "name": "MMS",
     "website": "https://mms.team",
-    "twitter": null,
-    "telegram": null,
+    "twitter": "https://twitter.com/0xMMS_Team",
+    "telegram": "https://t.me/cosmochannel_mms",
     "discord": null,
     "email": null,
-    "supportRelayerBy": "delegating to validator",
+    "supportRelayerBy": "Join to our community and staking with us!",
     "chainsRelayed": [
-        {
-            "ticker": "EVMOS",
-            "relayerAddress": null
-        },
-        {
-            "ticker": "KUJI",
-            "relayerAddress": null
-        },
-        {
-            "ticker": "STRD",
-            "relayerAddress": null
-        }
-    ]
+   		{"ticker": "OSMO", "relayerAddress": "osmo1huyzpeanetae3ny52jdx62gj9e3464ks4lxasj"},
+   		{"ticker": "UMEE", "relayerAddress": "umee1sn7mlsq37ed7r85gcdxdtlzpshwuc0p93ntqmq"},
+   		{"ticker": "QCK", "relayerAddress": "quick1huyzpeanetae3ny52jdx62gj9e3464kskq9llj"},
+		{"ticker": "BCNA", "relayerAddress": "bcna1huyzpeanetae3ny52jdx62gj9e3464ks859vwj"},  
+   		{"ticker": "ARCH", "relayerAddress": "archway1sn7mlsq37ed7r85gcdxdtlzpshwuc0p9kw2m49"},
+		{"ticker": "KUJI", "relayerAddress": "kujira1sn7mlsq37ed7r85gcdxdtlzpshwuc0p9jd58jc"}
+   	]
 }

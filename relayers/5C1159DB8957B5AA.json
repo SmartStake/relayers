@@ -23,6 +23,26 @@
         {
             "ticker": "GRAV",
             "relayerAddress": "gravity1was23c4eyvym4f4aqfaq8gra28sp0ge98ynpr0"
+        },
+        {
+            "ticker": "AKT",
+            "relayerAddress": "akash12396w3rxfpe349h7vdhs4e35y4xqq7rxjfnznt"
+        },
+        {
+            "ticker": "SCRT",
+            "relayerAddress": "secret1gh290twjrdxtd6ygkak8eefy8fwacn3zv5lp9h"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo12gpahqlqx5h45uk0f86wwcey29ncf3urjg4am9"
+        },
+        {
+            "ticker": "CTK",
+            "relayerAddress": "certik1kaq4t2uj5qkgd6jakgvrkgxvxr60jrd3dgyaz5"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1ujwsewqwndsyyzt0ujevhr4uxrsd574m8f7l78"
         }
     ]
 }

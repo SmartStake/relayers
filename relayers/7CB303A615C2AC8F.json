@@ -12,6 +12,7 @@
    		{"ticker": "OSMO", "relayerAddress": "osmo1yfu8lpqy0e95yln2nwykznp9rcshqmvtvje4vh"},
    		{"ticker": "QCK", "relayerAddress": "quick1yfu8lpqy0e95yln2nwykznp9rcshqmvt0d6hrh"},
 		{"ticker": "REGEN", "relayerAddress": "regen1yfu8lpqy0e95yln2nwykznp9rcshqmvtmtpevp"},  
-   		{"ticker": "STARS", "relayerAddress": "stars1yfu8lpqy0e95yln2nwykznp9rcshqmvts4ac35"} 
+   		{"ticker": "STARS", "relayerAddress": "stars1yfu8lpqy0e95yln2nwykznp9rcshqmvts4ac35"},
+		{"ticker": "UMEE", "relayerAddress": "umee1yfu8lpqy0e95yln2nwykznp9rcshqmvtklh67h"}
    	]
 }

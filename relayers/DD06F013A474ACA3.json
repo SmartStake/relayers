@@ -53,12 +53,12 @@
             "relayerAddress": "kujira1hf80p6qv0uc89d0wxn6p9ucy0kdd02k3q448rg"
         },
         {
-            "ticker": "LUNA",
-            "relayerAddress": "terra1d5alddupekh5xucqqjsqapknncf76nwlvse3hc"
-        },
-        {
             "ticker": "OSMO",
             "relayerAddress": "osmo1v6evmh0wdfvs56nrkq0dd66yvpuj3paq3gzksp"
+        },
+        {
+            "ticker": "QCK",
+            "relayerAddress": "quick12qkshheaw2mrpr8asfj6jr9q2e5ms7qtydr5fy"
         },
         {
             "ticker": "STARS",

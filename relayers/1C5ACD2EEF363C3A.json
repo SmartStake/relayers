@@ -1,12 +1,12 @@
 {
     "keybaseIdentity": "1C5ACD2EEF363C3A",
-    "name": "kjnodes",
+    "name": "kjnodes.com 🦄",
     "website": "https://kjnodes.com",
     "twitter": "https://twitter.com/kjnodes",
     "telegram": "https://t.me/kjnodes",
     "discord": "https://discord.gg/JqQNcwff2e",
     "email": "stake@kjnodes.com",
-    "supportRelayerBy": "delegating to validator",
+    "supportRelayerBy": "Trusted Proof of Stake validator across Cosmos universe. Active ecosystem contributor, IBC relayer and chain service provider since 2021. We deliver top-notch secure and reliable infrastructure for Cosmos projects.",
     "chainsRelayed": [
         {
             "ticker": "STRD",
@@ -37,10 +37,6 @@
             "relayerAddress": "jkl1twmgaeug7ymjq8c53ttstpl7rny43q8zuk0a7c"
         },
         {
-            "ticker": "MARS",
-            "relayerAddress": "mars1twmgaeug7ymjq8c53ttstpl7rny43q8zc4c4ju"
-        },
-        {
             "ticker": "QCK",
             "relayerAddress": "quick1twmgaeug7ymjq8c53ttstpl7rny43q8zwv3774"
         },
@@ -53,16 +49,32 @@
             "relayerAddress": "bcna1twmgaeug7ymjq8c53ttstpl7rny43q8zlc3d04"
         },
         {
-            "ticker": "JUNO",
-            "relayerAddress": "juno1twmgaeug7ymjq8c53ttstpl7rny43q8zn6zhqm"
-        },
-        {
-            "ticker": "STARS",
-            "relayerAddress": "stars1twmgaeug7ymjq8c53ttstpl7rny43q8z35k3vk"
-        },
-        {
             "ticker": "NOIS",
             "relayerAddress": "nois1twmgaeug7ymjq8c53ttstpl7rny43q8z5quxtl"
+        },
+        {
+            "ticker": "NLS",
+            "relayerAddress": "nolus1twmgaeug7ymjq8c53ttstpl7rny43q8znc3n9z"
+        },
+        {
+            "ticker": "UMEE",
+            "relayerAddress": "umee1twmgaeug7ymjq8c53ttstpl7rny43q8zh7unr4"
+        },
+        {
+            "ticker": "AURA",
+            "relayerAddress": "aura1twmgaeug7ymjq8c53ttstpl7rny43q8z77kw97"
+        },
+        {
+            "ticker": "QSR",
+            "relayerAddress": "quasar1twmgaeug7ymjq8c53ttstpl7rny43q8zttm32z"
+        },
+        {
+            "ticker": "ARCH",
+            "relayerAddress": "archway1twmgaeug7ymjq8c53ttstpl7rny43q8zsragds"
+        },
+        {
+            "ticker": "QWOYN",
+            "relayerAddress": "qwoyn1twmgaeug7ymjq8c53ttstpl7rny43q8zcgqjqx"
         }
     ]
 }

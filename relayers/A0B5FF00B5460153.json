@@ -1,6 +1,6 @@
 {
     "keybaseIdentity": "A0B5FF00B5460153",
-    "name": "lesnik | UTSA",
+    "name": "𝐥𝐞𝐬𝐧𝐢𝐤 | 𝐔𝐓𝐒𝐀",
     "website": "https://teletype.in/@lesnik13utsa",
     "twitter": "@lesnik13utsa",
     "telegram": "@lesnik13utsa",
@@ -17,13 +17,21 @@
             "relayerAddress": "osmo1k670rkzc45xmdgywe4vxwheslk3kxm3hrc0zzv"
         },
         {
-            "ticker": "EVMOS",
-            "relayerAddress": "evmos1an77xajfu6an6m4zxljx3jd9ppxhuf6czjwedn"
-        },        
-        {
             "ticker": "QCK",
             "relayerAddress": "quick1k670rkzc45xmdgywe4vxwheslk3kxm3hq8vqdv"
-        },        
+        },
+        {
+            "ticker": "AURA",
+            "relayerAddress": "aura1k670rkzc45xmdgywe4vxwheslk3kxm3hs4tsk8"
+        },
+        {
+            "ticker": "NOIS",
+            "relayerAddress": "nois1k670rkzc45xmdgywe4vxwheslk3kxm3h6tpccx"
+        },
+        {
+            "ticker": "HASH",
+            "relayerAddress": "pb14eerlhhvaplhswe74caceup79l9uzfy8649td8"
+        },
         {
             "ticker": "JKL",
             "relayerAddress": "jkl1k670rkzc45xmdgywe4vxwheslk3kxm3hjajrdp"
