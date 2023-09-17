@@ -93,6 +93,18 @@
             "relayerAddress": "neutron1ks0qeq9vyt9l7vgasaajd49ff0k8klura9sq05"
         },
         {
+            "ticker": "PASG",
+            "relayerAddress": "pasg1ks0qeq9vyt9l7vgasaajd49ff0k8klur6zqccv"
+        },
+        {
+            "ticker": "QSR",
+            "relayerAddress": "quasar1ks0qeq9vyt9l7vgasaajd49ff0k8klurherlck"
+        },
+        {
+            "ticker": "KYVE",
+            "relayerAddress": "kyve1ks0qeq9vyt9l7vgasaajd49ff0k8klurw5557h"
+        },
+        {
             "ticker": "AXL",
             "relayerAddress": "axelar1ks0qeq9vyt9l7vgasaajd49ff0k8klura5027j"
         }
