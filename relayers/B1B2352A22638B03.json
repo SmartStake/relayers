@@ -1,0 +1,16 @@
+{
+   	"keybaseIdentity": "B1B2352A22638B03",
+   	"name": "Caelus",
+   	"website": "https://caelus.space",
+   	"twitter": "@caeluslabs",
+   	"telegram": "null",
+   	"discord": "caelus.space",
+   	"email": "contact@caelus.space",
+   	"supportRelayerBy": "Follow us on X: @caeluslabs",
+   	"chainsRelayed": [
+   		{"ticker": "ATOM", "relayerAddress": "cosmos19kxetn06vydc76hztg5tmda7hfjv2y9vn5r3pn"},
+   		{"ticker": "OSMO", "relayerAddress": "osmo19kxetn06vydc76hztg5tmda7hfjv2y9vm0sphp"},
+   		{"ticker": "AKT", "relayerAddress": "akash19kxetn06vydc76hztg5tmda7hfjv2y9v70wkcf"},
+   		{"ticker": "INJ", "relayerAddress": "inj1mrgpvqv47l5pvcw8geppra8jy7jghks2q68eaz"}
+   	]
+}
