@@ -2,7 +2,7 @@
   "keybaseIdentity": "63C62007AB5345E3",
   "name": "w3coins",
   "website": "https://www.w3coins.io",
-  "twitter": "https://twitter.com/polka_chu",
+  "twitter": "https://twitter.com/w3coins_io",
   "telegram": "https://t.me/w3coins_Official_Group",
   "discord": null,
   "email": "info@w3coins.io",
@@ -11,6 +11,10 @@
     {
       "ticker": "BLD",
       "relayerAddress": "agoric1ghevxuudymrw8axun4aglz5wxqcn4uk3gm8klj"
+    },
+    {
+      "ticker": "ARCH",
+      "relayerAddress": "archway1ghevxuudymrw8axun4aglz5wxqcn4uk30ded9n"
     },
     {
       "ticker": "AKT",
