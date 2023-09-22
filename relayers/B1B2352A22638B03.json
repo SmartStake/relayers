@@ -11,6 +11,8 @@
    		{"ticker": "ATOM", "relayerAddress": "cosmos19kxetn06vydc76hztg5tmda7hfjv2y9vn5r3pn"},
    		{"ticker": "OSMO", "relayerAddress": "osmo19kxetn06vydc76hztg5tmda7hfjv2y9vm0sphp"},
    		{"ticker": "AKT", "relayerAddress": "akash19kxetn06vydc76hztg5tmda7hfjv2y9v70wkcf"},
-   		{"ticker": "INJ", "relayerAddress": "inj1mrgpvqv47l5pvcw8geppra8jy7jghks2q68eaz"}
+   		{"ticker": "INJ", "relayerAddress": "inj1mrgpvqv47l5pvcw8geppra8jy7jghks2q68eaz"},
+         {"ticker": "KAVA", "relayerAddress": "kava1at9mx9uctg07y62ggxj0ex7sq8my2jrpym5x96"},
+         {"ticker": "AXL", "relayerAddress": "axelar19kxetn06vydc76hztg5tmda7hfjv2y9vh64e2j"}
    	]
 }
