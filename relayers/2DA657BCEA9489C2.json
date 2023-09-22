@@ -1,0 +1,20 @@
+{
+    "keybaseIdentity": "2DA657BCEA9489C2",
+    "name": "KonsorTech",
+    "website": "https://konsortech.xyz",
+    "twitter": "https://twitter.com/konsor_tech",
+    "telegram": "https://t.me/konsortechxyz",
+    "discord": "https://discordapp.com/users/1016752596633002104",
+    "email": "konsortech@gmail.com",
+    "supportRelayerBy": "Delegate to KonsorTech",
+    "chainsRelayed": [
+            {"ticker": "OSMO", "relayerAddress": "osmo15tfdu996z0v0z8mfmnpdmdzv52nhc4ra8sgu09"},
+            {"ticker": "ATOM", "relayerAddress": "cosmos15tfdu996z0v0z8mfmnpdmdzv52nhc4ra0tmveh"},
+            {"ticker": "AXL", "relayerAddress": "axelar15tfdu996z0v0z8mfmnpdmdzv52nhc4rat9dyjk"},
+            {"ticker": "PLQ", "relayerAddress": "plq1ehmz4zw7upl9x7djeh3gv4qwp89q6vwq2q9pqp"},
+            {"ticker": "AURA", "relayerAddress": "aura15tfdu996z0v0z8mfmnpdmdzv52nhc4ra5avwmw"},
+            {"ticker": "LORE", "relayerAddress": "gitopia15tfdu996z0v0z8mfmnpdmdzv52nhc4ra3numk5"},
+            {"ticker": "IRIS", "relayerAddress": "iaa1uhlc7980pwtxfytu7g6urw30qqf2zza0rfm7ez"},
+            {"ticker": "BCNA", "relayerAddress": "bcna1k9dj6akpswzye5048galcgwzqz0ylcwzdrfws0"}
+    ]
+}
