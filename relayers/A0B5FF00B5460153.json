@@ -25,6 +25,10 @@
             "relayerAddress": "aura1k670rkzc45xmdgywe4vxwheslk3kxm3hs4tsk8"
         },
         {
+            "ticker": "ARCHWAY",
+            "relayerAddress": "archway1k670rkzc45xmdgywe4vxwheslk3kxm3h7gqk7f"
+        },
+        {
             "ticker": "NOIS",
             "relayerAddress": "nois1k670rkzc45xmdgywe4vxwheslk3kxm3h6tpccx"
         },
