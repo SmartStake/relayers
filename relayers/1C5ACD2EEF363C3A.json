@@ -75,6 +75,10 @@
         {
             "ticker": "QWOYN",
             "relayerAddress": "qwoyn1twmgaeug7ymjq8c53ttstpl7rny43q8zcgqjqx"
+        },
+        {
+            "ticker": "IRIS",
+            "relayerAddress": "iaa1twmgaeug7ymjq8c53ttstpl7rny43q8zs2pa9k"
         }
     ]
 }
