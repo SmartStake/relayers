@@ -25,12 +25,24 @@
             "relayerAddress": "axelar1nna7k5lywn99cd63elcfqm6p8c5c4qcuvmt3z4"
         },
         {
+            "ticker": "CHEQ",
+            "relayerAddress": "cheqd1nna7k5lywn99cd63elcfqm6p8c5c4qcuxh3ez9"
+        },
+        {
             "ticker": "CRE",
             "relayerAddress": "cre1nna7k5lywn99cd63elcfqm6p8c5c4qcuvawuue"
         },
         {
             "ticker": "CRO",
             "relayerAddress": "cro1p7d8mnjttcszv34pk2a5yyug3474mhff9t48he"
+        },
+        {
+            "ticker": "FLIX",
+            "relayerAddress": "omniflix1nna7k5lywn99cd63elcfqm6p8c5c4qcu4tvq72"
+        },
+        {
+            "ticker": "IOV",
+            "relayerAddress": "star1nna7k5lywn99cd63elcfqm6p8c5c4qcuf0ns7c"
         },
         {
             "ticker": "JUNO",
@@ -41,8 +53,16 @@
             "relayerAddress": "juno1p7d8mnjttcszv34pk2a5yyug3474mhfftz79v5"
         },
         {
+            "ticker": "JUNO",
+            "relayerAddress": "juno14n0k0cxa5p2ky53przfxapaessmu63y6p3n0kz"
+        },
+        {
             "ticker": "KUJI",
             "relayerAddress": "kujira1nna7k5lywn99cd63elcfqm6p8c5c4qcuealpy7"
+        },
+        {
+            "ticker": "NOBLE",
+            "relayerAddress": "noble1nna7k5lywn99cd63elcfqm6p8c5c4qcuqkg336"
         },
         {
             "ticker": "NTRN",
@@ -55,6 +75,10 @@
         {
             "ticker": "OSMO",
             "relayerAddress": "osmo1nna7k5lywn99cd63elcfqm6p8c5c4qcuqwwflx"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo14n0k0cxa5p2ky53przfxapaessmu63y6lcry8v"
         },
         {
             "ticker": "SOMM",
@@ -71,6 +95,10 @@
         {
             "ticker": "STRD",
             "relayerAddress": "stride1p7d8mnjttcszv34pk2a5yyug3474mhff7mazly"
+        },
+        {
+            "ticker": "TGRD",
+            "relayerAddress": "tgrade1nna7k5lywn99cd63elcfqm6p8c5c4qcur4488y"
         },
         {
             "ticker": "UMEE",
