@@ -33,10 +33,6 @@
             "relayerAddress": "axelar1ek7y9jex32ljxz7sgsjkrwrhsa4evyn027lmm7"
         },
         {
-            "ticker": "ACRE",
-            "relayerAddress": "acre1sty42e2lzdytwv8yewh53fxl4k2ah9sz6hsv65"
-        },
-        {
             "ticker": "BCNA",
             "relayerAddress": "bcna1ek7y9jex32ljxz7sgsjkrwrhsa4evyn05qejcd"
         },
@@ -45,20 +41,12 @@
             "relayerAddress": "bluzelle1p9wypphdmtawcp9whv3eef05q2lksgvl5ghvwg"
         },
         {
-            "ticker": "DEC",
-            "relayerAddress": "decentr1ek7y9jex32ljxz7sgsjkrwrhsa4evyn097083h"
-        },
-        {
             "ticker": "JUNO",
             "relayerAddress": "juno1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0cz2ghr"
         },
         {
             "ticker": "KUJI",
             "relayerAddress": "kujira1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0lctta4"
-        },
-        {
-            "ticker": "NLS",
-            "relayerAddress": "nolus1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0cqevj6"
         },
         {
             "ticker": "MEME",
