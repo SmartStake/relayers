@@ -61,7 +61,7 @@
             "relayerAddress": "kujira1nna7k5lywn99cd63elcfqm6p8c5c4qcuealpy7"
         },
         {
-            "ticker": "NOBLE",
+            "ticker": "USDC",
             "relayerAddress": "noble1nna7k5lywn99cd63elcfqm6p8c5c4qcuqkg336"
         },
         {
@@ -97,7 +97,7 @@
             "relayerAddress": "stride1p7d8mnjttcszv34pk2a5yyug3474mhff7mazly"
         },
         {
-            "ticker": "TGRD",
+            "ticker": "TGD",
             "relayerAddress": "tgrade1nna7k5lywn99cd63elcfqm6p8c5c4qcur4488y"
         },
         {
