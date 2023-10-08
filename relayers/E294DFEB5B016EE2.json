@@ -1,0 +1,32 @@
+{
+  "keybaseIdentity": "E294DFEB5B016EE2",
+  "name": "KJINC.io",
+  "website": "https://linktr.ee/kjinc.io",
+  "twitter": "https://twitter.com/KJincio",
+  "telegram": "https://t.me/kjincio",
+  "discord": "https://discord.com/invite/PMVqWBDzUZ",
+  "email": "info@kjinc.io",
+  "supportRelayerBy": "BLOCKCHAIN INFRASTRUCTURE AND STAKING PARTNER, BRING YOUR IDEA TO HIGHER LEVELS WITH KJINC.io",
+  "chainsRelayed": [
+    {
+      "ticker": "BCNA",
+      "relayerAddress": "bcna1hslxk7km5z6srvmr993hsgcdxnezg8a595spk7"
+    },
+    {
+      "ticker": "JKL",
+      "relayerAddress": "jkl1hslxk7km5z6srvmr993hsgcdxnezg8a5x6w38n"
+    },
+    {
+      "ticker": "XKI",
+      "relayerAddress": "ki1hslxk7km5z6srvmr993hsgcdxnezg8a5wf306c"
+    },
+    {
+      "ticker": "OSMO",
+      "relayerAddress": "osmo1hslxk7km5z6srvmr993hsgcdxnezg8a5hlnsg7"
+    },
+    {
+      "ticker": "GRAV",
+      "relayerAddress": "gravity1hslxk7km5z6srvmr993hsgcdxnezg8a5m5jcmy"
+    }
+  ]
+}
