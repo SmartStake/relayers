@@ -26,11 +26,51 @@
         },
         {
             "ticker": "CTK",
-            "relayerAddress": "certik122sr7ukcdr580nt0jmyyd0cwnudd73kvu2kntl"
+            "relayerAddress": "shentu122sr7ukcdr580nt0jmyyd0cwnudd73kvnkwacf"
         },
         {
             "ticker": "AURA",
             "relayerAddress": "aura122sr7ukcdr580nt0jmyyd0cwnudd73kvq5axgd"
-        }       
+        },
+        {
+            "ticker": "BAND",
+            "relayerAddress": "band16qsuk9srs88jwx8jnrmruycjf5qfwf8d6d2cmz"
+        },
+        {
+            "ticker": "BLD",
+            "relayerAddress": "agoric10zhvgugtldnu04eth3q95t2t4dz2a3hkz3mefj"
+        },
+        {
+            "ticker": "XPRT",
+            "relayerAddress": "persistence122sr7ukcdr580nt0jmyyd0cwnudd73kv4wvhys"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar122sr7ukcdr580nt0jmyyd0cwnudd73kvlvuvp4"
+        },    
+        {
+            "ticker": "CRO",
+            "relayerAddress": "cro1pjz8h7xgq4q6e55sd0aheat2uq6hzhkl8he9py"
+        },
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": "evmos1x7ng4vyuvpdce7rhhr5vv8ydrzeq5p8tqygqxx"
+        },
+        {
+            "ticker": "QCK",
+            "relayerAddress": "quick122sr7ukcdr580nt0jmyyd0cwnudd73kvsx6knx"
+        },  
+        {
+            "ticker": "ARCH",
+            "relayerAddress": "archway122sr7ukcdr580nt0jmyyd0cwnudd73kvwfkqqr"
+        },
+        {
+            "ticker": "AKASH",
+            "relayerAddress": "akash122sr7ukcdr580nt0jmyyd0cwnudd73kvke8rnw"
+        },    
+        {
+            "ticker": "FETCH",
+            "relayerAddress": "fetch122sr7ukcdr580nt0jmyyd0cwnudd73kvglrqgr"
+        },         
     ]
 }
