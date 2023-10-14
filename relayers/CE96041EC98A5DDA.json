@@ -19,10 +19,6 @@
         {
             "ticker": "OSMO",
             "relayerAddress": "osmo1t76d0xn5r54v4s7n0w4t2kgpx9fce3axmz2cye"
-        },
-        {
-            "ticker": "STRD",
-            "relayerAddress": "stride1advdlvxlguv9fl3un29tsd9m0up5q99z5t0zvm"
         }
     ]
 }
