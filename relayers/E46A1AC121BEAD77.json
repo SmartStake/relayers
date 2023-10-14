@@ -67,10 +67,10 @@
         {
             "ticker": "AKASH",
             "relayerAddress": "akash122sr7ukcdr580nt0jmyyd0cwnudd73kvke8rnw"
-        },    
+        },
         {
             "ticker": "FETCH",
             "relayerAddress": "fetch122sr7ukcdr580nt0jmyyd0cwnudd73kvglrqgr"
-        },         
+        }
     ]
 }
