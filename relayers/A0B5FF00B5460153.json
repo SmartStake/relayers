@@ -17,6 +17,10 @@
             "relayerAddress": "osmo1k670rkzc45xmdgywe4vxwheslk3kxm3hrc0zzv"
         },
         {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1xupzwxdunxaac5ht6yww5xa2vxkktr8rmvtvad"
+        },
+        {
             "ticker": "QCK",
             "relayerAddress": "quick1k670rkzc45xmdgywe4vxwheslk3kxm3hq8vqdv"
         },
@@ -35,6 +39,10 @@
         {
             "ticker": "HASH",
             "relayerAddress": "pb14eerlhhvaplhswe74caceup79l9uzfy8649td8"
+        },
+        {
+            "ticker": "QWOYN",
+            "relayerAddress": "qwoyn1xupzwxdunxaac5ht6yww5xa2vxkktr8rwhezv7"
         },
         {
             "ticker": "JKL",
