@@ -65,11 +65,11 @@
             "relayerAddress": "archway122sr7ukcdr580nt0jmyyd0cwnudd73kvwfkqqr"
         },
         {
-            "ticker": "AKASH",
+            "ticker": "AKT",
             "relayerAddress": "akash122sr7ukcdr580nt0jmyyd0cwnudd73kvke8rnw"
         },
         {
-            "ticker": "FETCH",
+            "ticker": "FET",
             "relayerAddress": "fetch122sr7ukcdr580nt0jmyyd0cwnudd73kvglrqgr"
         }
     ]
