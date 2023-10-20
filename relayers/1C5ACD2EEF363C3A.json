@@ -79,6 +79,10 @@
         {
             "ticker": "IRIS",
             "relayerAddress": "iaa1twmgaeug7ymjq8c53ttstpl7rny43q8zs2pa9k"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar1twmgaeug7ymjq8c53ttstpl7rny43q8zpxhyvx"
         }
     ]
 }
