@@ -83,6 +83,10 @@
         {
             "ticker": "AXL",
             "relayerAddress": "axelar1twmgaeug7ymjq8c53ttstpl7rny43q8zpxhyvx"
+        },
+        {
+            "ticker": "BAND",
+            "relayerAddress": "band1twmgaeug7ymjq8c53ttstpl7rny43q8zu8pwl0"
         }
     ]
 }
