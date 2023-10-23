@@ -2,10 +2,10 @@
    	"keybaseIdentity": "28B672FCE6BBD562",
    	"name": "Nodes.Guru",
    	"website": "https://stake.nodes.guru",
-   	"twitter": "NodesGuru", # @ not needed. full website address is not needed
-   	"telegram": "NodesGuruStake", #does not support multiple TG handles. full website address is not needed
-   	"discord": "", #does not support multiple discord handles. full website address is needed
-   	"email": "support@nodes.guru,
+   	"twitter": "NodesGuru",
+   	"telegram": "NodesGuruStake",
+   	"discord": "",
+   	"email": "support@nodes.guru",
    	"supportRelayerBy": "delegate to validator",
    	"chainsRelayed": [
    		{"ticker": "ARCH", "relayerAddress": "archway18p5jxxtsgdcn2un0jarase89a2cgtetyaf8qce"},
