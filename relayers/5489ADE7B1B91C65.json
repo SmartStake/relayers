@@ -47,6 +47,14 @@
     {
       "ticker": "FET",
       "relayerAddress": "fetch1p4557mdpc2qk8vcemeqgrcg55gs2uyznht7f9h"
+    },
+    {
+      "ticker": "KAVA",
+      "relayerAddress": "kava1k9jg0f6rtp6vengjjnzd27plvygsr9r0wuu0qt"
+    },
+    {
+      "ticker": "USDC",
+      "relayerAddress": "noble1p4557mdpc2qk8vcemeqgrcg55gs2uyznv4z9lw"
     }
   ]
 }
