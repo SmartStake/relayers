@@ -1,0 +1,18 @@
+{
+    "keybaseIdentity": "FC37DE18FDBDE306",
+    "name": "NLZ",
+    "telegram": "@Nata040",
+    "discord": "nataladazlata",
+    "email": "nataladazlata@yandex.ru",
+    "supportRelayerBy": "Favorite relayer",
+    "chainsRelayed": [
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1apvqqgqfrx87f6yytnm0q7dqxtuee3nvqfaqm2"
+        },
+        {
+            "ticker": "HASH",
+            "relayerAddress": "pb1cnzly8fuxhkuq5rfhlfga0xlljjhdyexwuqe8z"
+        }
+    ]
+}
