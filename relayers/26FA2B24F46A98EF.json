@@ -1,0 +1,18 @@
+{
+   	"keybaseIdentity": "26FA2B24F46A98EF",
+   	"name": "Wetez",
+   	"website": "https://www.wetez.io",
+   	"twitter": "Wetez_stake",
+   	"telegram": "",
+   	"discord": "",
+   	"email": "contact@wetez.io",
+   	"supportRelayerBy": "",
+   	"chainsRelayed": [
+   		{"ticker": "ATOM", "relayerAddress": "cosmos1heqd7rldczxj037mnpneyj6e0pe3j93lkc8wmq"},
+   		{"ticker": "AXL", "relayerAddress": "axelar1heqd7rldczxj037mnpneyj6e0pe3j93ljk3xsp"},
+   		{"ticker": "OSMO", "relayerAddress": "osmo1heqd7rldczxj037mnpneyj6e0pe3j93l7r57dj"},
+   		{"ticker": "STRD", "relayerAddress": "stride1heqd7rldczxj037mnpneyj6e0pe3j93l4n8j0v"},
+   		{"ticker": "XPRT", "relayerAddress": "persistence1heqd7rldczxj037mnpneyj6e0pe3j93lc5pa4y"},
+   		{"ticker": "EVMOS", "relayerAddress": "evmos1qunwcrk3fhk5hwr5xlyaqdfpnn9fhzrgagwr7w"}
+   	]
+}
