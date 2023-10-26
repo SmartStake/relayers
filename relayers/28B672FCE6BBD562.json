@@ -13,7 +13,7 @@
    		{"ticker": "AXL", "relayerAddress": "axelar18p5jxxtsgdcn2un0jarase89a2cgtetyvvdve0"},
    		{"ticker": "ATOM", "relayerAddress": "cosmos18p5jxxtsgdcn2un0jarase89a2cgtetygzmyjw"},
       {"ticker": "CRE", "relayerAddress": "cre18p5jxxtsgdcn2un0jarase89a2cgtetyv2gp8r"},
-      {"ticker": "GRAVITON", "relayerAddress": "gravity18p5jxxtsgdcn2un0jarase89a2cgtetyvjfuhx"},
+      {"ticker": "GRAV", "relayerAddress": "gravity18p5jxxtsgdcn2un0jarase89a2cgtetyvjfuhx"},
       {"ticker": "OSMO", "relayerAddress": "osmo18p5jxxtsgdcn2un0jarase89a2cgtetyqeg5yu"},
       {"ticker": "UMEE", "relayerAddress": "umee18p5jxxtsgdcn2un0jarase89a2cgtety65xmku"},
       {"ticker": "WHALE", "relayerAddress": "migaloo18p5jxxtsgdcn2un0jarase89a2cgtety9kj78q"},
