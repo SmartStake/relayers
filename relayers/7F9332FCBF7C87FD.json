@@ -1,0 +1,24 @@
+{
+    "keybaseIdentity": "7F9332FCBF7C87FD",
+    "name": "makimaprjkt°",
+    "website": "https://github.com/sxlmnwb",
+    "twitter": "https://twitter.com/SalmanWahib",
+    "telegram": "https://t.me/sxlmnwb",
+    "discord": "https://discord.com/users/890611401301835827",
+    "email": "makima@sxlmnwb.xyz",
+    "supportRelayerBy": "A project part by @sxlmnwb for @cosmos hub ecosystems",
+    "chainsRelayed": [
+        {
+            "ticker": "BCNA",
+            "relayerAddress": "bcna1awtwwrcwsmsx7zakhz52kf9qawh4cs6yfs60j7"
+        },
+        {
+            "ticker": "JUNO",
+            "relayerAddress": "juno1awtwwrcwsmsx7zakhz52kf9qawh4cs6y9jf4as"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1awtwwrcwsmsx7zakhz52kf9qawh4cs6ymme7v7"
+        }
+    ]
+}
