@@ -15,6 +15,14 @@
         {
             "ticker": "OSMO",
             "relayerAddress": "osmo14gra89zm8753pfuhvujjulmtkf2qq70f3l9gtx"
+        },
+        {
+            "ticker": "DYDX",
+            "relayerAddress": "dydx14gra89zm8753pfuhvujjulmtkf2qq70fsacuar"
+        },
+        {
+            "ticker": "TIA",
+            "relayerAddress": "celestia14gra89zm8753pfuhvujjulmtkf2qq70fgw8g8e"
         }
     ]
 }
