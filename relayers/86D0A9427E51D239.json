@@ -71,6 +71,10 @@
         {
             "ticker": "GUU",
             "relayerAddress": "ununifi1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0cj6p23"
+        },
+        {
+            "ticker": "QSR",
+            "relayerAddress": "quasar1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0qnnwa6"
         }
     ]
 }
