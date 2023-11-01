@@ -11,6 +11,7 @@
             {"ticker": "AXL", "relayerAddress": "axelar14awanvwztk4rnspjqtukq4m5lv98umw6atjnw6"},
             {"ticker": "EVMOS", "relayerAddress": "evmos1w4tereqw45m2lqa3aea764la4ycnqrvvcndf0j"},
             {"ticker": "BLD", "relayerAddress": "agoric1yjjvxayecreq4ds4ggm08jxnzlese7smhwakle"},
-            {"ticker": "UMEE", "relayerAddress": "umee1rqaetvk3mx2cnn6guectun8a9k22mmgthhp02h"}
+            {"ticker": "UMEE", "relayerAddress": "umee1rqaetvk3mx2cnn6guectun8a9k22mmgthhp02h"},
+            {"ticker": "OSMO", "relayerAddress": "osmo1n3pmvc5pvnat5ugaytu8jh6q28zc2qdctxhgww"}
             ]
 }
