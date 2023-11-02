@@ -1,0 +1,60 @@
+{
+    "keybaseIdentity": "D47444F2EF3D9308",
+    "name": "relayer // nodex.one",
+    "website": "https://docs.nodex.one",
+    "twitter": "https://twitter.com/NodeXEmperor",
+    "telegram": "https://t.me/nodexemperor",
+    "discord": "https://discord.com/users/928575843641479198",
+    "email": "hello@nodex.one",
+    "supportRelayerBy": "Support and delegate @NodeXEmperor",
+    "chainsRelayed": [
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1eg9w337d55fhfaald34pwlns4yrfamuwrfryp4"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1eg9w337d55fhfaald34pwlns4yrfamuwtjs5h8"
+        },
+        {
+            "ticker": "JUNO",
+            "relayerAddress": "juno1eg9w337d55fhfaald34pwlns4yrfamuw4mqlxf"
+        },
+        {
+            "ticker": "BCNA",
+            "relayerAddress": "bcna1eg9w337d55fhfaald34pwlns4yrfamuween9f8"
+        },
+        {
+            "ticker": "PICA",
+            "relayerAddress": "centauri1eg9w337d55fhfaald34pwlns4yrfamuw8rwc9x"
+        },
+        {
+            "ticker": "DEC",
+            "relayerAddress": "decentr1eg9w337d55fhfaald34pwlns4yrfamuwg89sqa"
+        },
+        {
+            "ticker": "LORE",
+            "relayerAddress": "gitopia1eg9w337d55fhfaald34pwlns4yrfamuwa3ynwk"
+        },
+        {
+            "ticker": "NLS",
+            "relayerAddress": "nolus1eg9w337d55fhfaald34pwlns4yrfamuw4enmrs"
+        },
+        {
+            "ticker": "ORAI",
+            "relayerAddress": "orai1eg9w337d55fhfaald34pwlns4yrfamuws648qx"
+        },
+        {
+            "ticker": "PLQ",
+            "relayerAddress": "plq14ce5lplwwtdv557ca3glmtu8ufjhzgw7yp3337"
+        },
+        {
+            "ticker": "QSR",
+            "relayerAddress": "quasar1eg9w337d55fhfaald34pwlns4yrfamuwd2eevs"
+        },
+        {
+            "ticker": "SOMM",
+            "relayerAddress": "somm1eg9w337d55fhfaald34pwlns4yrfamuw04vgsl"
+        }
+    ]
+}
