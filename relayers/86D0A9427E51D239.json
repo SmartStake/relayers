@@ -21,10 +21,6 @@
             "relayerAddress": "mars1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0nds29y"
         },
         {
-            "ticker": "STRD",
-            "relayerAddress": "stride1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0dmf0yn"
-        },
-        {
             "ticker": "PLQ",
             "relayerAddress": "plq1sty42e2lzdytwv8yewh53fxl4k2ah9szfvcnr2"
         },
@@ -49,10 +45,6 @@
             "relayerAddress": "kujira1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0lctta4"
         },
         {
-            "ticker": "MEME",
-            "relayerAddress": "meme1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0s0lyh4"
-        },
-        {
             "ticker": "EBL",
             "relayerAddress": "8ball1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0x9f7nq"
         },
@@ -75,6 +67,10 @@
         {
             "ticker": "QSR",
             "relayerAddress": "quasar1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0qnnwa6"
+        },
+        {
+            "ticker": "DYDX",
+            "relayerAddress": "dydx1ek7y9jex32ljxz7sgsjkrwrhsa4evyn08f8hsg"
         }
     ]
 }
