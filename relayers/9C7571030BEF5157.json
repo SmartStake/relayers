@@ -2,7 +2,7 @@
    	"keybaseIdentity": "9C7571030BEF5157",
    	"name": "WhisperNode🤐",
    	"website": "https://restake.WhisperNode.com",
-   	"twitter": "WhisperNode",
+   	"twitter": "@WhisperNode",
    	"telegram": "gh0stdotexe",
    	"discord": "whispernode",
    	"email": "hello@WhisperNode.com",
@@ -17,10 +17,6 @@
 			"relayerAddress": "cosmos1ryq6zncdxpdnnwhn9h24ar48ap9zkqgleav22v"
 		},
 		{
-			"ticker": "AURA",
-			"relayerAddress": "aura1ryq6zncdxpdnnwhn9h24ar48ap9zkqglztmgg4"
-		},
-		{
 			"ticker": "AXL",
 			"relayerAddress": "axelar1ryq6zncdxpdnnwhn9h24ar48ap9zkqglan6zpd"
 		},
@@ -33,20 +29,8 @@
 			"relayerAddress": "comdex1ryq6zncdxpdnnwhn9h24ar48ap9zkqgl7jwgnm"
 		},
 		{
-			"ticker": "DSM",
-			"relayerAddress": "desmos1rnlm96taj80qxsndhv9wk7vczjry9t725z4lkc"
-		},
-		{
 			"ticker": "DVPN",
 			"relayerAddress": "sent1ryq6zncdxpdnnwhn9h24ar48ap9zkqglzx6nwr"
-		},
-		{
-			"ticker": "EVMOS",
-			"relayerAddress": "evmos1jszj9xyh2eh8lx25u88rsv7hmsytvwsvtj7e3l"
-		},
-		{
-			"ticker": "HUAHUA",
-			"relayerAddress": "chihuahua1ryq6zncdxpdnnwhn9h24ar48ap9zkqgl6gpytw"
 		},
 		{
 			"ticker": "INJ",
@@ -67,14 +51,6 @@
 		{
 			"ticker": "LORE",
 			"relayerAddress": "gitopia1ryq6zncdxpdnnwhn9h24ar48ap9zkqgl89ta90"
-		},
-		{
-			"ticker": "LUNA",
-			"relayerAddress": "terra13yydk3uqc8nn73wtlqkgyamnzk3avnxxap6c23"
-		},
-		{
-			"ticker": "MARS",
-			"relayerAddress": "mars1ryq6zncdxpdnnwhn9h24ar48ap9zkqglyq4nlh"
 		},
 		{
 			"ticker": "MNTL",
@@ -109,20 +85,16 @@
 			"relayerAddress": "secret1xpgjd2akpc8gmwez25keftpmlgs4aa3un463s7"
 		},
 		{
+			"ticker": "SEI",
+			"relayerAddress": "sei1ryq6zncdxpdnnwhn9h24ar48ap9zkqgl53auvd"
+		},
+		{
 			"ticker": "STARS",
 			"relayerAddress": "stars1ryq6zncdxpdnnwhn9h24ar48ap9zkqgldpmhpa"
 		},
 		{
 			"ticker": "STRD",
 			"relayerAddress": "stride1ryq6zncdxpdnnwhn9h24ar48ap9zkqgl6kvk7q"
-		},
-		{
-			"ticker": "TORI",
-			"relayerAddress": "tori1ryq6zncdxpdnnwhn9h24ar48ap9zkqglmfmr3u"
-		},
-		{
-			"ticker": "WHALE",
-			"relayerAddress": "migaloo1ryq6zncdxpdnnwhn9h24ar48ap9zkqgl5f9slz"
 		}
    	]
 }

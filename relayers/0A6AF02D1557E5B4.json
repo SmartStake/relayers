@@ -33,6 +33,10 @@
       "relayerAddress": "chihuahua1fegapd4jc3ejqeg0eu3jk4hvr74hg660a09290"
     },
     {
+      "ticker": "PICA",
+      "relayerAddress": "centauri1fegapd4jc3ejqeg0eu3jk4hvr74hg6606s9cq7"
+    },
+    {
       "ticker": "ATOM",
       "relayerAddress": "cosmos1fegapd4jc3ejqeg0eu3jk4hvr74hg66076gyyd"
     },
@@ -47,6 +51,10 @@
     {
       "ticker": "EVMOS",
       "relayerAddress": "evmos1fgdn737xmvvsvjnjghxpjcrw02ux9705ydxxgs"
+    },
+    {
+      "ticker": "LORE",
+      "relayerAddress": "gitopia1fegapd4jc3ejqeg0eu3jk4hvr74hg660qz0ntw"
     },
     {
       "ticker": "GRAV",
@@ -83,6 +91,10 @@
     {
       "ticker": "WHALE",
       "relayerAddress": "migaloo1fegapd4jc3ejqeg0eu3jk4hvr74hg660nwp73r"
+    },
+    {
+      "ticker": "USDC",
+      "relayerAddress": "noble1fegapd4jc3ejqeg0eu3jk4hvr74hg660keavur"
     },
     {
       "ticker": "NOIS",

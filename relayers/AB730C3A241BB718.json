@@ -97,6 +97,10 @@
             "relayerAddress": "quick1cx82d7pm4dgffy7a93rl6ul5g84vjgxkvzk327"
         },
         {
+            "ticker": "QCK",
+            "relayerAddress": "quick1ln3l6waaqdjcskt3ztzqlzkpvmzp7zw4aq653n"
+        },
+        {
             "ticker": "CRE",
             "relayerAddress": "cre1cx82d7pm4dgffy7a93rl6ul5g84vjgxkrw4xxp"
         },

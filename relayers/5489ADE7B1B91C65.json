@@ -5,7 +5,7 @@
   "twitter": "https://twitter.com/cosmosrescue",
   "telegram": "https://t.me/cosmosrescue",
   "discord": "https://discord.com/invite/3XmPK3dk6T",
-  "email": "cosmosrescue@gmail.com",
+  "email": "contact@cosmosrescue.com",
   "supportRelayerBy": "👾 Stake with us, do the social thing with us on twitter, tell your barber about our recovery service",
   "chainsRelayed": [
     {
@@ -47,6 +47,22 @@
     {
       "ticker": "FET",
       "relayerAddress": "fetch1p4557mdpc2qk8vcemeqgrcg55gs2uyznht7f9h"
+    },
+    {
+      "ticker": "KAVA",
+      "relayerAddress": "kava1k9jg0f6rtp6vengjjnzd27plvygsr9r0wuu0qt"
+    },
+    {
+      "ticker": "USDC",
+      "relayerAddress": "noble1p4557mdpc2qk8vcemeqgrcg55gs2uyznv4z9lw"
+    },
+    {
+      "ticker": "INJ",
+      "relayerAddress": "inj1w29rwsjjpcmen347qdugjfusun4xshq6zfc6gj"
+    },
+    {
+      "ticker": "TIA",
+      "relayerAddress": "celestia1p4557mdpc2qk8vcemeqgrcg55gs2uyzn4uxaad"
     }
   ]
 }

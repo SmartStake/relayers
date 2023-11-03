@@ -184,6 +184,18 @@
         {
             "ticker": "KAVA",
             "relayerAddress": "kava1hmljfv54xa5xxhdfld0zfpd0f0cwmykm4nj68u"
+        },
+        {
+            "ticker": "NOBLE",
+            "relayerAddress": "noble18xrruhq5r246mwk0yj9elnn3mte8xa9ugkw95j"
+        },
+        {
+            "ticker": "DYDX",
+            "relayerAddress": "dydx18xrruhq5r246mwk0yj9elnn3mte8xa9ufv4fvt"
+        },
+        {
+            "ticker": "SGE",
+            "relayerAddress": "sge18xrruhq5r246mwk0yj9elnn3mte8xa9u749nmk"
         }
     ]
 }

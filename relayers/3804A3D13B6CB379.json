@@ -3,8 +3,8 @@
     "name": "Notional",
     "website": "https://notional.ventures/",
     "twitter": "https://twitter.com/notionaldao",
-    "telegram": null,
-    "discord": null,
+    "telegram": "mgl2150",
+    "discord": "mgl2150",
     "email": "contact@notional.ventures",
     "supportRelayerBy": "delegating to validator",
     "chainsRelayed": [
@@ -39,22 +39,6 @@
         {
             "ticker": "FLIX",
             "relayerAddress": "omniflix1p4zdymjq0jna478v96kjwn8glcuvkmtqh0yj42"
-        },
-        {
-            "ticker": "ROWAN",
-            "relayerAddress": "sif1p4zdymjq0jna478v96kjwn8glcuvkmtq0v6adl"
-        },
-        {
-            "ticker": "ROWAN",
-            "relayerAddress": "sif1u32rplawz90fp4llsgd2puafg67m874lvxwm6v"
-        },
-        {
-            "ticker": "ROWAN",
-            "relayerAddress": "sif18xvpj53vaupyfejpws5sktv5lnas5xj2mglmpx"
-        },
-        {
-            "ticker": "ROWAN",
-            "relayerAddress": "sif16dc379m0qj64g4pr4nkl7ewak52qy2srv8ffq6"
         },
         {
             "ticker": "EVMOS",

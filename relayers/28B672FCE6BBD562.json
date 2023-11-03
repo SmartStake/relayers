@@ -1,0 +1,22 @@
+{
+   	"keybaseIdentity": "28B672FCE6BBD562",
+   	"name": "Nodes.Guru",
+   	"website": "https://stake.nodes.guru",
+   	"twitter": "NodesGuru",
+   	"telegram": "NodesGuruStake",
+   	"discord": "",
+   	"email": "support@nodes.guru",
+   	"supportRelayerBy": "delegate to validator",
+   	"chainsRelayed": [
+   		{"ticker": "ARCH", "relayerAddress": "archway18p5jxxtsgdcn2un0jarase89a2cgtetyaf8qce"},
+   		{"ticker": "MNTL", "relayerAddress": "mantle18p5jxxtsgdcn2un0jarase89a2cgtetykxqpdy"},
+   		{"ticker": "AXL", "relayerAddress": "axelar18p5jxxtsgdcn2un0jarase89a2cgtetyvvdve0"},
+   		{"ticker": "ATOM", "relayerAddress": "cosmos18p5jxxtsgdcn2un0jarase89a2cgtetygzmyjw"},
+      {"ticker": "CRE", "relayerAddress": "cre18p5jxxtsgdcn2un0jarase89a2cgtetyv2gp8r"},
+      {"ticker": "GRAV", "relayerAddress": "gravity18p5jxxtsgdcn2un0jarase89a2cgtetyvjfuhx"},
+      {"ticker": "OSMO", "relayerAddress": "osmo18p5jxxtsgdcn2un0jarase89a2cgtetyqeg5yu"},
+      {"ticker": "UMEE", "relayerAddress": "umee18p5jxxtsgdcn2un0jarase89a2cgtety65xmku"},
+      {"ticker": "WHALE", "relayerAddress": "migaloo18p5jxxtsgdcn2un0jarase89a2cgtety9kj78q"},
+      {"ticker": "NYX", "relayerAddress": "n18p5jxxtsgdcn2un0jarase89a2cgtety6xvxdt"}
+   	]
+}

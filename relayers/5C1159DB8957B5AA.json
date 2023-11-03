@@ -43,6 +43,10 @@
         {
             "ticker": "ATOM",
             "relayerAddress": "cosmos1ujwsewqwndsyyzt0ujevhr4uxrsd574m8f7l78"
+        },
+        {
+            "ticker": "KAVA",
+            "relayerAddress": "kava13n3hkt8ptl7hl08dq6658urw8uknve3mhgmych"
         }
     ]
 }

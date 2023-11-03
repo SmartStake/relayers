@@ -17,6 +17,10 @@
             "relayerAddress": "osmo1k670rkzc45xmdgywe4vxwheslk3kxm3hrc0zzv"
         },
         {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1xupzwxdunxaac5ht6yww5xa2vxkktr8rmvtvad"
+        },
+        {
             "ticker": "QCK",
             "relayerAddress": "quick1k670rkzc45xmdgywe4vxwheslk3kxm3hq8vqdv"
         },
@@ -25,12 +29,20 @@
             "relayerAddress": "aura1k670rkzc45xmdgywe4vxwheslk3kxm3hs4tsk8"
         },
         {
+            "ticker": "ARCH",
+            "relayerAddress": "archway1k670rkzc45xmdgywe4vxwheslk3kxm3h7gqk7f"
+        },
+        {
             "ticker": "NOIS",
             "relayerAddress": "nois1k670rkzc45xmdgywe4vxwheslk3kxm3h6tpccx"
         },
         {
             "ticker": "HASH",
-            "relayerAddress": "pb14eerlhhvaplhswe74caceup79l9uzfy8649td8"
+            "relayerAddress": "pb1g5pejp3z4r0dptfv3zdemwnrs79e0lx95g5u9n"
+        },
+        {
+            "ticker": "QWOYN",
+            "relayerAddress": "qwoyn1xupzwxdunxaac5ht6yww5xa2vxkktr8rwhezv7"
         },
         {
             "ticker": "JKL",
