@@ -110,6 +110,10 @@
             "relayerAddress": "comdex1ptm9dyyya6erqj9h9ydurtzvla2h6lv9weluur"
         },
         {
+            "ticker": "TIA",
+            "relayerAddress": "celestia1q6cc9u0x5r3fkjcex0rgxee5qlu86w8rxq438l"
+        },
+        {
             "ticker": "KYVE",
             "relayerAddress": "kyve1jgcx6gkqcfee692kcqtkm3vswm6aj97mx7s30m"
         },
