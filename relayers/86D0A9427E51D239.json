@@ -71,6 +71,10 @@
         {
             "ticker": "DYDX",
             "relayerAddress": "dydx1ek7y9jex32ljxz7sgsjkrwrhsa4evyn08f8hsg"
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0dmf0yn"
         }
     ]
 }
