@@ -43,6 +43,82 @@
         {
             "ticker": "STRD",
             "relayerAddress": "stride1nms20r7jzaa4ms9exv90ckl2xfn0rd3rdqtxuq"
+        },
+        {
+            "ticker": "SGE",
+            "relayerAddress": "sge1nms20r7jzaa4ms9exv90ckl2xfn0rd3rst4ylx"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos16jhqz038fwyuurm898lr5v20shu0dpkdq0dm0n"
+        },
+        {
+            "ticker": "PLANQ",
+            "relayerAddress": "plq1adeu5xycnvc4dme94mjj7zkdfch0vj8yzd2g4y"
+        },
+        {
+            "ticker": "REBUS",
+            "relayerAddress": "rebus1cwlp2ra24ll05fdaz9r9mumset94z4czrenelj"
+        },
+        {
+            "ticker": "LAMB",
+            "relayerAddress": "lamb1adeu5xycnvc4dme94mjj7zkdfch0vj8ysjm6j6"
+        },
+        {
+            "ticker": "ACRE",
+            "relayerAddress": "acre1adeu5xycnvc4dme94mjj7zkdfch0vj8y3kzhv6"
+        },
+        {
+            "ticker": "TORI",
+            "relayerAddress": "tori1nms20r7jzaa4ms9exv90ckl2xfn0rd3rvlunnu"
+        },
+        {
+            "ticker": "KYVE",
+            "relayerAddress": "kyve1nms20r7jzaa4ms9exv90ckl2xfn0rd3re9xvrg"
+        },
+        {
+            "ticker": "WHALE",
+            "relayerAddress": "migaloo1nms20r7jzaa4ms9exv90ckl2xfn0rd3rrlzqaz"
+        },
+        {
+            "ticker": "ARKH",
+            "relayerAddress": "arkh1nms20r7jzaa4ms9exv90ckl2xfn0rd3rz9hxxs"
+        },
+        {
+            "ticker": "EBL",
+            "relayerAddress": "8ball16jhqz038fwyuurm898lr5v20shu0dpkdg6dkvv"
+        },
+        {
+            "ticker": "ARCH",
+            "relayerAddress": "archway1nms20r7jzaa4ms9exv90ckl2xfn0rd3rmqh7zm"
+        },
+        {
+            "ticker": "LORE",
+            "relayerAddress": "gitopia1nms20r7jzaa4ms9exv90ckl2xfn0rd3rsnvd80"
+        },
+        {
+            "ticker": "DEC",
+            "relayerAddress": "decentr1nms20r7jzaa4ms9exv90ckl2xfn0rd3r99dwfy"
+        },
+        {
+            "ticker": "GUU",
+            "relayerAddress": "ununifi1nms20r7jzaa4ms9exv90ckl2xfn0rd3rcfcgjz"
+        },
+        {
+            "ticker": "NTRN",
+            "relayerAddress": "neutron1nms20r7jzaa4ms9exv90ckl2xfn0rd3r25zcjt"
+        },
+        {
+            "ticker": "JKL",
+            "relayerAddress": "jkl1nms20r7jzaa4ms9exv90ckl2xfn0rd3rh49t3n"
+        },
+        {
+            "ticker": "AURA",
+            "relayerAddress": "aura1nms20r7jzaa4ms9exv90ckl2xfn0rd3r4auc24"
+        },
+        {
+            "ticker": "NOIS",
+            "relayerAddress": "nois1nms20r7jzaa4ms9exv90ckl2xfn0rd3rlrksy5"
         }
     ]
 }
