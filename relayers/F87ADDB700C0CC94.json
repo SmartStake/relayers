@@ -196,6 +196,10 @@
         {
             "ticker": "SGE",
             "relayerAddress": "sge18xrruhq5r246mwk0yj9elnn3mte8xa9u749nmk"
+        },
+        {
+            "ticker": "TIA",
+            "relayerAddress": "celestia18xrruhq5r246mwk0yj9elnn3mte8xa9u3l2ak3"
         }
     ]
 }
