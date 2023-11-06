@@ -1,28 +1,52 @@
 {
     "keybaseIdentity": "5A1DB2A1F7B6A66F",
-    "name": "AM Solutions ?",
+    "name": "AM Solutions",
     "website": "https://www.theamsolutions.info",
     "twitter": null,
     "telegram": null,
-    "discord": null,
+    "discord": "AlexeyM#5409",
     "email": null,
     "supportRelayerBy": "delegating to validator",
     "chainsRelayed": [
         {
             "ticker": "EVMOS",
-            "relayerAddress": null
+            "relayerAddress": "evmos1ae6j3c8verf2l9urqz2evxq35lf397ea64wena"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo134a4es94hjqqej732cymf0w3988zh3c44ea2x2"
         },
         {
             "ticker": "KUJI",
-            "relayerAddress": null
+            "relayerAddress": "kujira1rkn5p4y9yy2tsqwpfdqd47qy9v792jejcfq3jt"
         },
         {
-            "ticker": "STRD",
-            "relayerAddress": null
+            "ticker": "AXL",
+            "relayerAddress": "axelar1ygyjcz9pwr36qmnqkh9jullxcq6nh7tcdwxrlt"
+        },
+        {
+            "ticker": "REGEN",
+            "relayerAddress": "regen1mu36r87sgu6kd2rr57zr77gsch939pk30mjlv6"
+        },
+        {
+            "ticker": "JKL",
+            "relayerAddress": "jkl134a4es94hjqqej732cymf0w3988zh3c4yuqtf8"
+        },
+        {
+            "ticker": "CRO",
+            "relayerAddress": "cro1agzyctejmm8jndmna5uafz70e9580vcxq5ncew"
+        },
+        {
+            "ticker": "ARCH",
+            "relayerAddress": "archway16l5ls4ajah6hethh374tpgn42r5q4sqeuw8udj"
+        },
+        {
+            "ticker": "UMEE",
+            "relayerAddress": "umee1m2kv586nc7e2e6t6lfqjqsstp967wjc56s5ljv"
         },
         {
             "ticker": "QCK",
-            "relayerAddress": null
+            "relayerAddress": "quick18l659zmqmfp5qh7msq78vfz8afg6u8qcvaxwju"
         }
     ]
 }
