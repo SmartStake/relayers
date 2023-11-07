@@ -1,0 +1,29 @@
+{
+   	"keybaseIdentity": "9E31CFA37DA22B31",
+   	"name": "Validatrium.com",
+   	"website": "https://validatrium.com",
+   	"twitter": "validatrium",
+   	"telegram": "@validatrium_info", 
+   	"discord": "https://discord.gg/Zkqr2bAy", 
+   	"email": "info@validatrium.com",
+   	"supportRelayerBy": "Stake with us!",
+   	"chainsRelayed": [
+   		{"ticker": "JUNO", "relayerAddress": "juno1muakfr26e3gg25kxgd80ejhpayupqw0xyyd4t4"},
+   		{"ticker": "OSMO", "relayerAddress": "osmo1kqan6njymshfem9srxea09v3wzhly83ws64dxw"},
+   		{"ticker": "AXL", "relayerAddress": "axelar1muakfr26e3gg25kxgd80ejhpayupqw0xkccx8g"},
+   		{"ticker": "EVMOS", "relayerAddress": "evmos1m689wc7w02e6lyl47pmgs4cxccytlfr87qpdhz"},
+   		{"ticker": "BDL", "relayerAddress": "agoric1muakfr26e3gg25kxgd80ejhpayupqw0xqtv3ul"},
+   		{"ticker": "ARCH", "relayerAddress": "archway1muakfr26e3gg25kxgd80ejhpayupqw0x8aj2x7"},
+   		{"ticker": "CUDOS", "relayerAddress": "cudos1muakfr26e3gg25kxgd80ejhpayupqw0xn883ju"},
+   		{"ticker": "ATMO", "relayerAddress": "cosmos1muakfr26e3gg25kxgd80ejhpayupqw0xjkwwvf"},
+   		{"ticker": "UMEE", "relayerAddress": "umee1muakfr26e3gg25kxgd80ejhpayupqw0xqqn3gm"},
+   		{"ticker": "FLIX", "relayerAddress": "omniflix1muakfr26e3gg25kxgd80ejhpayupqw0x0glhmh"},
+   		{"ticker": "QWOYN", "relayerAddress": "qwoyn1muakfr26e3gg25kxgd80ejhpayupqw0x0k0stg"},
+   		{"ticker": "BTSG", "relayerAddress": "bitsong1ku7u5axp3rpyk6kky02j9v5rp0j98v8ymzku35"},
+   		{"ticker": "CMDX", "relayerAddress": "comdex1muakfr26e3gg25kxgd80ejhpayupqw0x4evv47"},
+   		{"ticker": "KYVE", "relayerAddress": "kyve1muakfr26e3gg25kxgd80ejhpayupqw0x9crc8d"},
+   		{"ticker": "KAVA", "relayerAddress": "kava1muakfr26e3gg25kxgd80ejhpayupqw0xwr6n6w"},
+   		{"ticker": "REBUS", "relayerAddress": "rebus1muakfr26e3gg25kxgd80ejhpayupqw0xrudmcl"},
+   		{"ticker": "AURA", "relayerAddress": "aura1muakfr26e3gg25kxgd80ejhpayupqw0xfqevws"}
+   	]
+}
