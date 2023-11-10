@@ -47,6 +47,10 @@
         {
             "ticker": "KAVA",
             "relayerAddress": "kava13n3hkt8ptl7hl08dq6658urw8uknve3mhgmych"
+        },
+        {
+            "ticker": "USDC",
+            "relayerAddress": "noble1hulkamkqy8jvgylye3hsdpc67c0ktkmm2cpenp"
         }
     ]
 }
