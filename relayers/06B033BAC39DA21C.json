@@ -33,6 +33,10 @@
             "relayerAddress": "cosmos1ks0qeq9vyt9l7vgasaajd49ff0k8klure6ez4n"
         },
         {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1558hpgzv2jt6rkuccaklxhgtj8mcleq0s2zcsl"
+        },
+        {
             "ticker": "EVMOS",
             "relayerAddress": "evmos146sl9u5kgsa86mxk6zjhmwlnlxa7l7cwyvlhan"
         },
@@ -45,8 +49,16 @@
             "relayerAddress": "osmo1ks0qeq9vyt9l7vgasaajd49ff0k8klur3p2jrp"
         },
         {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1558hpgzv2jt6rkuccaklxhgtj8mcleq0c33gxd"
+        },
+        {
             "ticker": "STRD",
             "relayerAddress": "stride1ks0qeq9vyt9l7vgasaajd49ff0k8klur63e7pl"
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride1558hpgzv2jt6rkuccaklxhgtj8mcleq0npzyyn"
         },
         {
             "ticker": "CMDX",
@@ -105,12 +117,20 @@
             "relayerAddress": "noble1ks0qeq9vyt9l7vgasaajd49ff0k8klur3ev2da"
         },
         {
+            "ticker": "USDC",
+            "relayerAddress": "noble1558hpgzv2jt6rkuccaklxhgtj8mcleq0cfhsg3"
+        },
+        {
             "ticker": "DYDX",
             "relayerAddress": "dydx1ks0qeq9vyt9l7vgasaajd49ff0k8klursrhx4y"
         },
         {
             "ticker": "TIA",
             "relayerAddress": "celestia1ks0qeq9vyt9l7vgasaajd49ff0k8klurgsgj07"
+        },
+        {
+            "ticker": "NOIS",
+            "relayerAddress": "nois1ks0qeq9vyt9l7vgasaajd49ff0k8klurgjyget"
         },
         {
             "ticker": "AXL",
