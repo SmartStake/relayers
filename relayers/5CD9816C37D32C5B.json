@@ -1,0 +1,20 @@
+{
+    "keybaseIdentity": "5CD9816C37D32C5B",
+    "name": "Hexnodes",
+    "website": "https://github.com/hexskrt",
+    "twitter": "https://twitter.com/hexnodes",
+    "telegram": "https://t.me/hexskrt",
+    "discord": "https://discord.com/users/1020506953799180350",
+    "email": "contact@hexnodes.co",
+    "supportRelayerBy": "By delegating to Hexnodes",
+    "chainsRelayed": [
+        {
+            "ticker": "BCNA",
+            "relayerAddress": "bcna14ty5h7dhnses6smx5zwck5kh4j27rrgw9nyq65"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo14ty5h7dhnses6smx5zwck5kh4j27rrgwhc83y5"
+        }
+    ]
+}
