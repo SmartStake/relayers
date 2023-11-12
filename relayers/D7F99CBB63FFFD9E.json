@@ -1,0 +1,26 @@
+{
+    "keybaseIdentity": "D7F99CBB63FFFD9E",
+    "name": "HoodRun",
+    "website": "https://hoodrun.io",
+    "twitter": "twitter.com/hoodrunio",
+    "telegram": "t.me/hoodrunio",
+    "discord": "discord.gg/hoodiescommunity",
+    "email": "contact@hoodrun.io",
+    "supportRelayerBy": "Wanna support us? Well, Stake with HoodRun",
+    "chainsRelayed": [
+            {"ticker": "AXL", "relayerAddress": "axelar1fgkvrphcnwckj2pp5hdvy5zvrc25aa0de7f99f"},
+            {"ticker": "OSMO", "relayerAddress": "osmo1fgkvrphcnwckj2pp5hdvy5zvrc25aa0d4tvac6"},
+            {"ticker": "ATOM", "relayerAddress": "cosmos1fgkvrphcnwckj2pp5hdvy5zvrc25aa0dasldwg"},
+            {"ticker": "KUJI", "relayerAddress": "kujira1fgkvrphcnwckj2pp5hdvy5zvrc25aa0dvca4rz"},
+            {"ticker": "STRD", "relayerAddress": "stride1fgkvrphcnwckj2pp5hdvy5zvrc25aa0d7ml36y"},
+            {"ticker": "SCRT", "relayerAddress": "secret1fgkvrphcnwckj2pp5hdvy5zvrc25aa0dl4tyn5"},
+            {"ticker": "ARCH", "relayerAddress": "archway1fgkvrphcnwckj2pp5hdvy5zvrc25aa0dgmrfyl"},
+            {"ticker": "UMEE", "relayerAddress": "umee1fgkvrphcnwckj2pp5hdvy5zvrc25aa0d0xzj26"},
+            {"ticker": "LUNA", "relayerAddress": "terra1fgkvrphcnwckj2pp5hdvy5zvrc25aa0dm59dvg"},
+            {"ticker": "EVMOS", "relayerAddress": "evmos1cqay3p5ey3uwzwg4x50l2m0z5jw5h3rcl9glry"},
+            {"ticker": "NTRN", "relayerAddress": "neutron1fgkvrphcnwckj2pp5hdvy5zvrc25aa0de0k050"},
+            {"ticker": "INJ", "relayerAddress": "neutron1fgkvrphcnwckj2pp5hdvy5zvrc25aa0de0k050"},
+            {"ticker": "KAVA", "relayerAddress": "kava1fgkvrphcnwckj2pp5hdvy5zvrc25aa0dp9tsc0"},
+            {"ticker": "FETCH", "relayerAddress": "fetch1fgkvrphcnwckj2pp5hdvy5zvrc25aa0dwdkfvl"}
+    ]
+}
