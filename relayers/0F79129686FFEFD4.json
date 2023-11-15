@@ -11,6 +11,6 @@
    		{"ticker": "ATOM", "relayerAddress": "cosmos1dhdkcmljj8c9j6h0ppkt4z8796spnscnz2duup"},
    		{"ticker": "OSMO", "relayerAddress": "osmo1dhdkcmljj8c9j6h0ppkt4z8796spnscn237v2n"},
    		{"ticker": "EVMOS", "relayerAddress": "evmos166uhptqq74fscjdxwyp2duuvq9nj2j904kmdak"}, 
-   		{"ticker": "SOMMELIER", "relayerAddress": "somm1dhdkcmljj8c9j6h0ppkt4z8796spnscnwkzsdt"}
+   		{"ticker": "SOMM", "relayerAddress": "somm1dhdkcmljj8c9j6h0ppkt4z8796spnscnwkzsdt"}
     ]
 }
