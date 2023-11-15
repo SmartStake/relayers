@@ -25,10 +25,6 @@
             "relayerAddress": "plq1sty42e2lzdytwv8yewh53fxl4k2ah9szfvcnr2"
         },
         {
-            "ticker": "AXL",
-            "relayerAddress": "axelar1ek7y9jex32ljxz7sgsjkrwrhsa4evyn027lmm7"
-        },
-        {
             "ticker": "BCNA",
             "relayerAddress": "bcna1ek7y9jex32ljxz7sgsjkrwrhsa4evyn05qejcd"
         },
@@ -69,12 +65,8 @@
             "relayerAddress": "quasar1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0qnnwa6"
         },
         {
-            "ticker": "DYDX",
-            "relayerAddress": "dydx1ek7y9jex32ljxz7sgsjkrwrhsa4evyn08f8hsg"
-        },
-        {
-            "ticker": "STRD",
-            "relayerAddress": "stride1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0dmf0yn"
+            "ticker": "USDC",
+            "relayerAddress": "noble1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0xnumg3"
         }
     ]
 }
