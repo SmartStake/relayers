@@ -1,0 +1,19 @@
+{
+   	"keybaseIdentity": "421C6FA7FA848282",
+   	"name": "L0vd",
+   	"website": "https://l0vd.com/",
+   	"twitter": "L0vdstaking",
+   	"telegram": "L0vd_staking",
+   	"discord": "https://discord.com/users/l0vd2",
+   	"email": "info@l0vd.com",
+   	"supportRelayerBy": "Professional validating and staking services provider. More than 50 networks contributed. With L0ve.",
+   	"chainsRelayed": [
+   		{"ticker": "ATOM", "relayerAddress": "cosmos1wgcvae4qhum3rxrmxwxljjup2y20xhh8n08cf6"},
+   		{"ticker": "OSMO", "relayerAddress": "osmo1dhqrhkfvdgtgnfg6d806w46tqsj0kg6v6vtty8"},
+   		{"ticker": "ARCH", "relayerAddress": "archway1wmzvyml04pzza6ddr0tvxga64q5q55z0mrg5gx"},
+		  {"ticker": "UMEE", "relayerAddress": "umee16d97yuhn56z3fwqa3zz60vgqfqsqux52akkmjw"},
+		  {"ticker": "STRD", "relayerAddress": "stride19qlf7nqpuhhn96pvqqd094wqwa8ez82ydjt2st"},
+		  {"ticker": "AXL", "relayerAddress": "axelar19y92n99fmmcw24rhw25yw7m0sg6k4ga8per50k"},
+		  {"ticker": "BCNA", "relayerAddress": "bcna1q9rerlkmrd9y9yty4ch3pd005u4w6gn75deskf"}
+   	]
+}
