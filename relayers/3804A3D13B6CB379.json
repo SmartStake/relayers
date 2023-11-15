@@ -17,8 +17,40 @@
             "relayerAddress": "terra18h5x0yqmtvp5q8fy7rnawnh6qac33m5d83k095"
         },
         {
-            "ticker": "OSMO",
-            "relayerAddress": "osmo16dc379m0qj64g4pr4nkl7ewak52qy2srpp40er"
+             "ticker": "BLD",
+             "relayerAddress": "agoric1eqrwe0r98gpnn0halyscsvjpye8jrgdyy48yl4"
+        },
+        {
+             "ticker": "CMDX",
+             "relayerAddress": "comdex16dc379m0qj64g4pr4nkl7ewak52qy2srw4yakx"
+        },
+        {
+             "ticker": "CRE",
+             "relayerAddress": "cre16dc379m0qj64g4pr4nkl7ewak52qy2srdj466u"
+        },
+        {
+             "ticker": "WHALE",
+             "relayerAddress": "migaloo16dc379m0qj64g4pr4nkl7ewak52qy2sryw096l"
+        },
+        {
+             "ticker": "CANTO",
+             "relayerAddress": "canto1f3v5jpy0g8pa6lev92lp3yy8pfjye0e5hw9l57"
+        },
+        {
+             "ticker": "OSMO",
+             "relayerAddress": "osmo16dc379m0qj64g4pr4nkl7ewak52qy2srpp40er"
+        },
+        {
+              "ticker": "AXL",
+              "relayerAddress": "axelar16dc379m0qj64g4pr4nkl7ewak52qy2srd5shys"
+        },
+        {
+              "ticker": "SOMM",
+              "relayerAddress": "somm16dc379m0qj64g4pr4nkl7ewak52qy2sr9xfn7m"
+        },
+        {
+            "ticker": "SCRT",
+            "relayerAddress": "secret165k5h0tg4px2f5sdq8k2vw3mucj0ffq409wqg3"
         },
         {
              "ticker": "QCK",
@@ -33,12 +65,24 @@
              "relayerAddress": "quick12lslhmmrrcfyy8jfh2lfllgz3kx5lnpl6mgtry"
         },
         {
+             "ticker": "MARS",
+             "relayerAddress": "mars16dc379m0qj64g4pr4nkl7ewak52qy2sr58lx62"
+        },
+        {
             "ticker": "TIA",
             "relayerAddress": "osmo16dc379m0qj64g4pr4nkl7ewak52qy2srpp40er"
         },
         {
+             "ticker": "XPRT",
+             "relayerAddress": "persistence1uj3pr0z77lpevw75zftqsqfeea5ae4htd56spx"
+        },
+        {
              "ticker": "HUAHUA",
              "relayerAddress": "chihuahua16dc379m0qj64g4pr4nkl7ewak52qy2sr20t3wn"
+        },
+        {
+             "ticker": "BTSG",
+             "relayerAddress": "bitsong1e7vcrq3cynkup7vxt3rjwxs8zhellhtg20ee6t"
         },
         {
             "ticker": "EVMOS",
@@ -51,6 +95,10 @@
         {
             "ticker": "EEUR",
             "relayerAddress": "emoney16dc379m0qj64g4pr4nkl7ewak52qy2srxeutcv"
+        },
+        {
+             "ticker": "FLIX",
+             "relayerAddress": "omniflix16dc379m0qj64g4pr4nkl7ewak52qy2sr5yhxc0"
         },
         {
              "ticker": "STARS",
@@ -79,6 +127,10 @@
         {
             "ticker": "NTRN",
             "relayerAddress": "neutron1mlsc7jn40lr7dzmezeh5r6p6wk3ne9g2vuqcgp"
+        },
+        {
+             "ticker": "UMEE",
+             "relayerAddress": "umee16dc379m0qj64g4pr4nkl7ewak52qy2srmvmqtr"
         }
     ]
 }
