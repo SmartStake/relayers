@@ -15,7 +15,7 @@
    		{"ticker": "BDL", "relayerAddress": "agoric1muakfr26e3gg25kxgd80ejhpayupqw0xqtv3ul"},
    		{"ticker": "ARCH", "relayerAddress": "archway1muakfr26e3gg25kxgd80ejhpayupqw0x8aj2x7"},
    		{"ticker": "CUDOS", "relayerAddress": "cudos1muakfr26e3gg25kxgd80ejhpayupqw0xn883ju"},
-   		{"ticker": "ATMO", "relayerAddress": "cosmos1muakfr26e3gg25kxgd80ejhpayupqw0xjkwwvf"},
+   		{"ticker": "ATOM", "relayerAddress": "cosmos1muakfr26e3gg25kxgd80ejhpayupqw0xjkwwvf"},
    		{"ticker": "UMEE", "relayerAddress": "umee1muakfr26e3gg25kxgd80ejhpayupqw0xqqn3gm"},
    		{"ticker": "FLIX", "relayerAddress": "omniflix1muakfr26e3gg25kxgd80ejhpayupqw0x0glhmh"},
    		{"ticker": "QWOYN", "relayerAddress": "qwoyn1muakfr26e3gg25kxgd80ejhpayupqw0x0k0stg"},

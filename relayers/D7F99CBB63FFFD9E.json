@@ -20,6 +20,6 @@
             {"ticker": "EVMOS", "relayerAddress": "evmos1cqay3p5ey3uwzwg4x50l2m0z5jw5h3rcl9glry"},
             {"ticker": "NTRN", "relayerAddress": "neutron1fgkvrphcnwckj2pp5hdvy5zvrc25aa0de0k050"},
             {"ticker": "KAVA", "relayerAddress": "kava1fgkvrphcnwckj2pp5hdvy5zvrc25aa0dp9tsc0"},
-            {"ticker": "FETCH", "relayerAddress": "fetch1fgkvrphcnwckj2pp5hdvy5zvrc25aa0dwdkfvl"}
+            {"ticker": "FET", "relayerAddress": "fetch1fgkvrphcnwckj2pp5hdvy5zvrc25aa0dwdkfvl"}
     ]
 }
