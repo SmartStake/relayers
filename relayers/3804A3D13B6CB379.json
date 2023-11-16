@@ -69,10 +69,6 @@
              "relayerAddress": "mars16dc379m0qj64g4pr4nkl7ewak52qy2sr58lx62"
         },
         {
-            "ticker": "TIA",
-            "relayerAddress": "osmo16dc379m0qj64g4pr4nkl7ewak52qy2srpp40er"
-        },
-        {
              "ticker": "XPRT",
              "relayerAddress": "persistence1uj3pr0z77lpevw75zftqsqfeea5ae4htd56spx"
         },
