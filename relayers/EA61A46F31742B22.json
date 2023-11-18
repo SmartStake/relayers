@@ -10,7 +10,7 @@
    	"chainsRelayed": [
    		{"ticker": "ATOM", "relayerAddress": "cosmos1smnryd4ee43x8xrxwxktd3vwmysm6tu45nnv0c"},
    		{"ticker": "EVMOS", "relayerAddress": "evmos1zfexgsgflsn54yr6uyhlpzyduxx0rsqfyv23j8"},
-         {"ticker": "KAVA", "relayerAddress": "kava16spwl4qvs7veqlywa2vmd5watjmk9czx2lqg5s"},
-         {"ticker": "SENTINEL", "relayerAddress": "sent1smnryd4ee43x8xrxwxktd3vwmysm6tu40g94th"}
+   		{"ticker": "KAVA", "relayerAddress": "kava16spwl4qvs7veqlywa2vmd5watjmk9czx2lqg5s"},
+   		{"ticker": "SENTINEL", "relayerAddress": "sent1smnryd4ee43x8xrxwxktd3vwmysm6tu40g94th"}
    	]
 }
