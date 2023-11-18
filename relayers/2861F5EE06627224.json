@@ -2,15 +2,75 @@
     "keybaseIdentity": "2861F5EE06627224",
     "name": "Forbole",
     "website": "https://forbole.com",
-    "twitter": null,
-    "telegram": null,
-    "discord": null,
-    "email": null,
+    "twitter": "forbole",
+    "telegram": "forbole",
+    "discord": "kwunyeung",
+    "email": "validator@forbole.com",
     "supportRelayerBy": "delegating to validator",
     "chainsRelayed": [
         {
             "ticker": "INJ",
-            "relayerAddress": null
+            "relayerAddress": "inj1ztm768yv8judmz6zfhkanzfna9954zqn4lwfj0"
+        },
+        {
+            "ticker": "HOLE",
+            "relayerAddress": "wormhole19j3y0hjt42ktw7p3sf7ejheuwl698dvuxq2ngl"
+        },
+        {
+            "ticker": "STARS",
+            "relayerAddress": "stars18xvyrfsxj5e5y726jhp6k5pccpec6k6tu2eel2"
+        },
+        {
+            "ticker": "ARCH",
+            "relayerAddress": "archway1d48ad5nxnxepntp9wrhc8p3967xjhpxdhsf39k"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar1m6q33zzpetpycl6nq87xp7uyd0a5zzh6r7wfh0"
+        },
+        {
+            "ticker": "CORE",
+            "relayerAddress": "core1rgscpwrcmclz5nzkcchwk4fw63u90kygcjcxme"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1snje9lffcnxg08dfvztza7vnmx700pcxw79nj9"
+        },
+        {
+            "ticker": "DSM",
+            "relayerAddress": "desmos13ekqyytggavkj897m98ksak9mrygguv5pqakl0"
+        },
+        {
+            "ticker": "DSM",
+            "relayerAddress": "desmos1k5mcj3umdqw3qfpc97z8za8hwdkxct4jns7wwe"
+        },
+        {
+            "ticker": "NGM",
+            "relayerAddress": "emoney1tnr54qft39t0f9z8cztvwrw404c8usdjs5kncu"
+        },
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": "evmos1uh2pl44u9e0qlnhyt4zjqy8ys5guxskl78vlap"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1ff326qefrzw0u77zan7ht4s2te72yc3agflm5k"
+        },
+        {
+            "ticker": "STR",
+            "relayerAddress": "stride1n6vt70r2hka7cfnwtgusfkysakylh5evg6gnnc"
+        },
+        {
+            "ticker": "BAND",
+            "relayerAddress": "band1yprdgstyj5sac7yls098csge03m4e42mnl7zdt"
+        },
+        {
+            "ticker": "NTRN",
+            "relayerAddress": "neutron1hnrfhzzy26mhl55w22q0sutrfn7kxh780kf394"
+        },
+        {
+            "ticker": "GRAV",
+            "relayerAddress": "gravity1z8qyjxwq6v07gtdp05al50a6acpsz5kj95twwm"
         }
     ]
 }
