@@ -1,16 +1,64 @@
 {
     "keybaseIdentity": "931A47B46A0D32AA",
     "name": "MZONDER",
-    "website": "",
-    "twitter": null,
-    "telegram": null,
+    "website": "https://mzonder.com",
+    "twitter": "https://twitter.com/mzonder",
+    "telegram": "https://t.me/mzonder",
     "discord": null,
-    "email": null,
+    "email": "maxzonder@gmail.com",
     "supportRelayerBy": "delegating to validator",
     "chainsRelayed": [
         {
+            "ticker": "AXL",
+            "relayerAddress": "axelar1e7k29yvxqmgrekznv9537gdtfxkqt69q7khktj"
+        },
+        {
             "ticker": "EVMOS",
-            "relayerAddress": null
+            "relayerAddress": "evmos16kcu538u04r8l37tf2thkfyhrpxctfm2kf3jus"
+        },
+        {
+            "ticker": "FLIX",
+            "relayerAddress": "omniflix1nusnne6zlx3ymfdzcllsdsepu7wctxrp5r23zj"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1nusnne6zlx3ymfdzcllsdsepu7wctxrpfamg4v"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1p0x73j998sncjd0jqgvznun0p7xtf8macx3rsx"
+        },
+        {
+            "ticker": "UMEE",
+            "relayerAddress": "umee1p0x73j998sncjd0jqgvznun0p7xtf8maztlvzx"
+        },
+        {
+            "ticker": "GRAVITON",
+            "relayerAddress": "gravity16gnzj4euukmpgetrg2fjpd7zkzcm4zlwml624w"
+        },
+        {
+            "ticker": "XKI",
+            "relayerAddress": "ki1g705249p7cz56tvhmxx42hkg06lnw3lp7h4wwf"
+        },
+        {
+            "ticker": "CANTO",
+            "relayerAddress": "canto16jkc7tvlnctn44khmcptah6ppy0h68txza2ez4"
+        },
+        {
+            "ticker": "STRIDE",
+            "relayerAddress": "stride10f8g9ahz3nnt2h8ceyrw30suzpc2sc0xwycg2m"
+        },
+        {
+            "ticker": "ARCH",
+            "relayerAddress": "archway1y8k9a33967dm9n7a8u2d2l6q9m7teecvnxy0t0"
+        },
+        {
+            "ticker": "LORE",
+            "relayerAddress": "gitopia10f8g9ahz3nnt2h8ceyrw30suzpc2sc0xnhlr35"
+        },
+        {
+            "ticker": "NASH",
+            "relayerAddress": "pb12qefgnyhdv3wzxn4dhf3lhunwdw87ymza9rtu5"
         }
     ]
 }
