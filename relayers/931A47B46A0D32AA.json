@@ -33,7 +33,7 @@
             "relayerAddress": "umee1p0x73j998sncjd0jqgvznun0p7xtf8maztlvzx"
         },
         {
-            "ticker": "GRAVITON",
+            "ticker": "GRAV",
             "relayerAddress": "gravity16gnzj4euukmpgetrg2fjpd7zkzcm4zlwml624w"
         },
         {
@@ -45,7 +45,7 @@
             "relayerAddress": "canto16jkc7tvlnctn44khmcptah6ppy0h68txza2ez4"
         },
         {
-            "ticker": "STRIDE",
+            "ticker": "STRD",
             "relayerAddress": "stride10f8g9ahz3nnt2h8ceyrw30suzpc2sc0xwycg2m"
         },
         {
@@ -57,7 +57,7 @@
             "relayerAddress": "gitopia10f8g9ahz3nnt2h8ceyrw30suzpc2sc0xnhlr35"
         },
         {
-            "ticker": "NASH",
+            "ticker": "HASH",
             "relayerAddress": "pb12qefgnyhdv3wzxn4dhf3lhunwdw87ymza9rtu5"
         }
     ]

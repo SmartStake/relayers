@@ -12,7 +12,7 @@
    		{"ticker": "OSMO", "relayerAddress": "osmo1kqan6njymshfem9srxea09v3wzhly83ws64dxw"},
    		{"ticker": "AXL", "relayerAddress": "axelar1muakfr26e3gg25kxgd80ejhpayupqw0xkccx8g"},
    		{"ticker": "EVMOS", "relayerAddress": "evmos1m689wc7w02e6lyl47pmgs4cxccytlfr87qpdhz"},
-   		{"ticker": "BDL", "relayerAddress": "agoric1muakfr26e3gg25kxgd80ejhpayupqw0xqtv3ul"},
+   		{"ticker": "BLD", "relayerAddress": "agoric1muakfr26e3gg25kxgd80ejhpayupqw0xqtv3ul"},
    		{"ticker": "ARCH", "relayerAddress": "archway1muakfr26e3gg25kxgd80ejhpayupqw0x8aj2x7"},
    		{"ticker": "CUDOS", "relayerAddress": "cudos1muakfr26e3gg25kxgd80ejhpayupqw0xn883ju"},
    		{"ticker": "ATOM", "relayerAddress": "cosmos1muakfr26e3gg25kxgd80ejhpayupqw0xjkwwvf"},
