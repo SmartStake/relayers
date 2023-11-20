@@ -29,6 +29,10 @@
       "relayerAddress": "bcna1fegapd4jc3ejqeg0eu3jk4hvr74hg660y2c9vl"
     },
     {
+      "ticker": "TIA",
+      "relayerAddress": "celestia1xrrfek3qpz4ja8ccrjklfy064asyqq9kzc8lwz"
+    },
+    {
       "ticker": "HUAHUA",
       "relayerAddress": "chihuahua1fegapd4jc3ejqeg0eu3jk4hvr74hg660a09290"
     },
