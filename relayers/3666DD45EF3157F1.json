@@ -4,7 +4,7 @@
     "website": "https://node75.org/",
     "twitter": "theNode75",
     "telegram": "@sw_HbZ",
-    "discord": "SW33 | pro-nodes#0534",
+    "discord": "sw33pronodes",
     "email": "n75pro@pm.me",
     "supportRelayerBy": "delegating to validator",
     "chainsRelayed": [
@@ -69,8 +69,8 @@
             "relayerAddress": "archway1j694ux46ughsp7rd20ghzxhtc2dd53v9m0ckya"
         },
         {
-            "ticker": "DARC",
-            "relayerAddress": "darc16pn6zk5q7ksw4n64qutct445dkm2wyf25z8g38"
+            "ticker": "PICA",
+            "relayerAddress": "centauri18hnewzgssyx2448mwwylpryz220ccs8a0g77rr"
         }
     ]
 }
