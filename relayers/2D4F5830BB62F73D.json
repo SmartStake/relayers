@@ -51,6 +51,10 @@
         {
             "ticker": "NOIS",
             "relayerAddress": "nois1y4t6q5hg4896mz68kn2dfwv2jkcqhfzlnvps8z"
+        },
+        {
+            "ticker": "KAVA",
+            "relayerAddress": "kava16mqjd9g0m5yce8jwnlu8hvdxu5pqnp0ldktknq"
         }        
     ]
 }
