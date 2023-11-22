@@ -67,6 +67,14 @@
         {
             "ticker": "USDC",
             "relayerAddress": "noble1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0xnumg3"
+        },
+        {
+            "ticker": "CORE",
+            "relayerAddress": "core1tmj3v09rvk9a0natgkfn3r8272et5rpzl39sgd"
+        },
+        {
+            "ticker": "SGE",
+            "relayerAddress": "sge1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0sshd84"
         }
     ]
 }
