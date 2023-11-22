@@ -119,6 +119,10 @@
         {
             "ticker": "NOIS",
             "relayerAddress": "nois1nms20r7jzaa4ms9exv90ckl2xfn0rd3rlrksy5"
+        },
+        {
+            "ticker": "TIA",
+            "relayerAddress": "celestia1nms20r7jzaa4ms9exv90ckl2xfn0rd3rlp62jp"
         }
     ]
 }
