@@ -14,6 +14,7 @@
     {"ticker": "LORE", "relayerAddress": "gitopia1he2xxjh3l9p8c6xgd9c84qxgqv0860xpvus0x5"},
     {"ticker": "EVMOS", "relayerAddress": "evmos1lacl8rfxjuu3mj50szhc7szvnjgyrxmkaywgv6"},
     {"ticker": "UMEE", "relayerAddress": "umee1hu66qqhnwclr0tmh8uft5kwl97z5qgt7pf8596"},
-    {"ticker": "AXL", "relayerAddress": "axelar1nuz5f2eeq8sqwz6lf2qef2lvh08u7g9gax53sv"}
+    {"ticker": "AXL", "relayerAddress": "axelar1nuz5f2eeq8sqwz6lf2qef2lvh08u7g9gax53sv"},
+    {"ticker": "QSR", "relayerAddress": "quasar1gshuv5kyrz9gl3s98pxj9mh72y44zdenkh3g8f"}
   ]
 }
