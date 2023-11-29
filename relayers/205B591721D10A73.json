@@ -24,6 +24,7 @@
         {"ticker": "AKT", "relayerAddress": "akash1xst4xmq3e5yg4w8r586mw4yzdeq4p89vne7d4d"},
         {"ticker": "XPRT", "relayerAddress": "persistence1u27a068amc22day8jfzmtnkps4xhp75xv72hc7"},
         {"ticker": "CMDX", "relayerAddress": "comdex12d4cgyttavgn9xphfwdv6n98ppgr4g25hv8s92"},
-        {"ticker": "BAND", "relayerAddress": "band1pe8ujal4jmw2u8t50qqmrrt5n6my0argqeh6ln"}
+        {"ticker": "BAND", "relayerAddress": "band1pe8ujal4jmw2u8t50qqmrrt5n6my0argqeh6ln"},
+        {"ticker": "TIA", "relayerAddress": "celestia10wz0ef4gzgzz7a00r5z3v0k7tqy02802kefv22"}
     ]
 }
