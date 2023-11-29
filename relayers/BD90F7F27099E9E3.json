@@ -6,7 +6,7 @@
     "telegram": "https://t.me/StakeandRelaxOfficial",
     "discord": "https://discord.gg/n5ppkNEu",
     "email": null,
-    "supportRelayerBy": "delegating to validator",
+    "supportRelayerBy": "relax with our validator",
     "chainsRelayed": [
         {
             "ticker": "AKT",
@@ -35,6 +35,31 @@
         {
             "ticker": "OSMO",
             "relayerAddress": "osmo1056sshv4vvyzu3ylrp5wd5r9we7cppl33vy2kv"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos16e8yeg06vql4xq58745vhw8yrzwayf3vzzyy5j"
+        },
+        {
+            "ticker": "QSR",
+            "relayerAddress": "cosmos16e8yeg06vql4xq58745vhw8yrzwayf3vzzyy5j"
+        },
+        {
+            "ticker": "ARCH",
+            "relayerAddress": "archway1a3w66f24ct3kft4gx5vezghqnegvxvjsfqeakt"
+        },
+        {
+            "ticker": "BLD",
+            "relayerAddress": "agoric1awj48dlxvyul5k3y2a7r0lj2djghgym32967sk"
+        },
+        {
+            "ticker": "NOIS",
+            "relayerAddress": "nois1sumcthlsztmgck3279vxvpq2jk2yn3pvhj55aj"
+        },
+        {
+            "ticker": "PICA",
+            "relayerAddress": "centauri1dr0lam8gl8srm47zma42m0lner6w9wxac7ttat"
         }
+        
     ]
 }
