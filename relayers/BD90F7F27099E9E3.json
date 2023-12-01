@@ -41,6 +41,10 @@
             "relayerAddress": "cosmos16e8yeg06vql4xq58745vhw8yrzwayf3vzzyy5j"
         },
         {
+            "ticker": "QSR",
+            "relayerAddress": "quasar1s5z75xtqhn0p9azm80r6s06ndj76cqzwxdw0jm"
+        },
+        {
             "ticker": "ARCH",
             "relayerAddress": "archway1a3w66f24ct3kft4gx5vezghqnegvxvjsfqeakt"
         },
