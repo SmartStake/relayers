@@ -1,0 +1,14 @@
+{
+   	"keybaseIdentity": "ACA71A4439AD4B00",
+   	"name": "jasbanza",
+   	"website": "https://linktr.ee/jasbanza",
+   	"twitter": "jasbanza",
+   	"telegram": "jasbanza",
+   	"discord": "https://discord.gg/jasbanza",
+   	"email": "osmojason@gmail.com",
+   	"supportRelayerBy": "DM linktr.ee/jasbanza to discuss",
+   	"chainsRelayed": [
+   		{"ticker": "ATOM", "relayerAddress": "cosmos1trgypevlqf7hn7xnfmu26h49wgk6hglgeewmzm"},
+   		{"ticker": "OSMO", "relayerAddress": "osmo1trgypevlqf7hn7xnfmu26h49wgk6hglg3zat5f"}
+   	]
+}
