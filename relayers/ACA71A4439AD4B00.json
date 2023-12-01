@@ -12,6 +12,7 @@
    		{"ticker": "ATOM", "relayerAddress": "cosmos1trgypevlqf7hn7xnfmu26h49wgk6hglgeewmzm"},
    		{"ticker": "DVPN", "relayerAddress": "sent1trgypevlqf7hn7xnfmu26h49wgk6hglgzzczx5"},
    		{"ticker": "DYDX", "relayerAddress": "dydx1trgypevlqf7hn7xnfmu26h49wgk6hglgsqqlzv"},
+   		{"ticker": "FET", "relayerAddress": "fetch1trgypevlqf7hn7xnfmu26h49wgk6hglg2y8lqv"},
    		{"ticker": "JUNO", "relayerAddress": "juno1trgypevlqf7hn7xnfmu26h49wgk6hglg0tdq98"},
    		{"ticker": "NTRN", "relayerAddress": "neutron1trgypevlqf7hn7xnfmu26h49wgk6hglgax8ecu"},
    		{"ticker": "OSMO", "relayerAddress": "osmo1trgypevlqf7hn7xnfmu26h49wgk6hglg3zat5f"},
