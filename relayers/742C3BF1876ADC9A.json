@@ -1,0 +1,24 @@
+{
+    "keybaseIdentity": "742C3BF1876ADC9A",
+    "name": "Decentrio",
+    "website": null,
+    "twitter": "decentriolabs",
+    "telegram": null,
+    "discord": null,
+    "email": "contact@decentrio.ventures",
+    "supportRelayerBy": "delegating to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1w0f29w3hst8hzhr2cv30cfjvqp70yyp9wgr3pv"
+        },
+        {
+            "ticker": "JUNO",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1w0f29w3hst8hzhr2cv30cfjvqp70yyp9xnsph7"
+        }
+    ]
+}
