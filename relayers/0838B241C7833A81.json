@@ -10,6 +10,7 @@
    	"chainsRelayed": [
 		{ "ticker": "JKL", "relayerAddress": "jkl174j5wcq0uqdv9e46566j03wk95zrsse9vw5pcp"},
 		{ "ticker": "OSMO", "relayerAddress": "osmo174j5wcq0uqdv9e46566j03wk95zrsse9atfqhv"},
-		{"ticker": "STARS", "relayerAddress": "stars174j5wcq0uqdv9e46566j03wk95zrsse9pvdd20"}
+		{"ticker": "STARS", "relayerAddress": "stars174j5wcq0uqdv9e46566j03wk95zrsse9pvdd20"},
+		{"ticker": "SGE", "relayerAddress": "sge174j5wcq0uqdv9e46566j03wk95zrsse9tsywk5"}
 	]
 }
