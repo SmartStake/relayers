@@ -1,0 +1,13 @@
+{
+   	"keybaseIdentity": "DD01D013A474ACA3",
+   	"name": "spidey",
+   	"website": "https://github.com/spidey-169",
+   	"telegram": "@groot169", 
+   	"discord": "https://discord.gg/Uv2ycEys",
+   	"email": "andyroddick6600@gmail.com",
+   	"supportRelayerBy": "Please delegate to our validator on celestia mainnet to support this tendermint community relayer.",
+   	"chainsRelayed": [
+   		{"ticker": "TIA", "relayerAddress": "celestia1cwuwcuthz5z66lq74qr6jfw5f7tp8qv3hxfqvr"},
+   		{"ticker": "OSMO", "relayerAddress": "osmo1cwuwcuthz5z66lq74qr6jfw5f7tp8qv3whtqqu"}
+   	]
+}
