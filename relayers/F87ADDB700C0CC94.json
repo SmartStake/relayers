@@ -166,6 +166,26 @@
             "relayerAddress": "terra1czy3ak7s26sajcr99cyzfd2l75rprjxlj0m69h"
         },
         {
+            "ticker": "LUNA",
+            "relayerAddress": "terra15ng6waeu932h7sa284hqzkg3kmkhvtp64vtt07"
+        },
+        {
+            "ticker": "LUNA",
+            "relayerAddress": "terra1feuxsrdfry4yrfrccyv7n9wd9mwtn703ujchep"
+        },
+        {
+            "ticker": "LUNA",
+            "relayerAddress": "terra17f9rau7wn4j9c6umvryyv0tt5mntq6nvs88hn3"
+        },
+        {
+            "ticker": "LUNA",
+            "relayerAddress": "terra1rx5fa0yplmanf3u0xhvfvg5t00uugttrfh3lyf"
+        },
+        {
+            "ticker": "LUNA",
+            "relayerAddress": "terra1d5mazhclrl8v2d6hzy99r2unhw3wwhl6f3g7mz"
+        },
+        {
             "ticker": "TORI",
             "relayerAddress": "tori18xrruhq5r246mwk0yj9elnn3mte8xa9uzpvyhv"
         },
