@@ -14,6 +14,30 @@
             "relayerAddress": "akash18xrruhq5r246mwk0yj9elnn3mte8xa9udwk24x"
         },
         {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos18xrruhq5r246mwk0yj9elnn3mte8xa9uq4mdvu"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1ure9g8re7h3qpk7d976e6t8yf4l9lz2etv3dh2"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos159rufrfkf5g8qld5zqlsejesr4mlnfx0jkhj2f"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1j6swju2q7zywxmpcttcw4k98j7fphx5n5wrgyk"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1aypuqvaaq54jn3zleqd6lamnxruun5neplwq20"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1nzjcsulyfxh0evmajk3ruawh407h5x8fse7tcy"
+        },
+        {
             "ticker": "BLD",
             "relayerAddress": "agoric18xrruhq5r246mwk0yj9elnn3mte8xa9ujgeju2"
         },
@@ -52,10 +76,6 @@
         {
             "ticker": "CMDX",
             "relayerAddress": "comdex18xrruhq5r246mwk0yj9elnn3mte8xa9u86e04t"
-        },
-        {
-            "ticker": "ATOM",
-            "relayerAddress": "cosmos18xrruhq5r246mwk0yj9elnn3mte8xa9uq4mdvu"
         },
         {
             "ticker": "EVMOS",
