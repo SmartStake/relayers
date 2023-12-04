@@ -19,6 +19,10 @@
         {
             "ticker": "OSMO",
             "relayerAddress": "osmo1w0f29w3hst8hzhr2cv30cfjvqp70yyp9xnsph7"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar1w0f29w3hst8hzhr2cv30cfjvqp70yyp92x4e2d"
         }
     ]
 }
