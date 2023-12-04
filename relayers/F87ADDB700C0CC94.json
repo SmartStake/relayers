@@ -30,6 +30,26 @@
             "relayerAddress": "cheqd18xrruhq5r246mwk0yj9elnn3mte8xa9uwhhd8d"
         },
         {
+            "ticker": "CHEQ",
+            "relayerAddress": "cheqd1ure9g8re7h3qpk7d976e6t8yf4l9lz2e9wadum"
+        },
+        {
+            "ticker": "CHEQ",
+            "relayerAddress": "cheqd159rufrfkf5g8qld5zqlsejesr4mlnfx0u5mjpc"
+        },
+        {
+            "ticker": "CHEQ",
+            "relayerAddress": "cheqd1j6swju2q7zywxmpcttcw4k98j7fphx5n6v0g08"
+        },
+        {
+            "ticker": "CHEQ",
+            "relayerAddress": "cheqd1aypuqvaaq54jn3zleqd6lamnxruun5ne0azqp7"
+        },
+        {
+            "ticker": "CHEQ",
+            "relayerAddress": "cheqd1nzjcsulyfxh0evmajk3ruawh407h5x8f7mjtn4"
+        },
+        {
             "ticker": "CMDX",
             "relayerAddress": "comdex18xrruhq5r246mwk0yj9elnn3mte8xa9u86e04t"
         },
@@ -92,6 +112,26 @@
         {
             "ticker": "SCRT",
             "relayerAddress": "secret1czy3ak7s26sajcr99cyzfd2l75rprjxlkw4n6t"
+        },
+        {
+            "ticker": "SCRT",
+            "relayerAddress": "secret14gvk589gj3du07d3n48ghvp8p86sfj62jkkv0v"
+        },
+        {
+            "ticker": "SCRT",
+            "relayerAddress": "secret1e9azp0erk0lkyjctjfg5057k0y0r5zg7vk6qj7"
+        },
+        {
+            "ticker": "SCRT",
+            "relayerAddress": "secret1tdunv8wepzs3j4aztwtxwe2vf5ay0c62gzjhjh"
+        },
+        {
+            "ticker": "SCRT",
+            "relayerAddress": "secret1emsk8wmlshd8lvcppprdfzm8acld0tf08uk552"
+        },
+        {
+            "ticker": "SCRT",
+            "relayerAddress": "secret1mqhe4xztskmnnh32xey0fkh0ryfzqm4us7ur6w"
         },
         {
             "ticker": "SOMM",
