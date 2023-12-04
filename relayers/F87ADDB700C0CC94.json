@@ -330,6 +330,26 @@
             "relayerAddress": "noble18xrruhq5r246mwk0yj9elnn3mte8xa9ugkw95j"
         },
         {
+            "ticker": "USDC",
+            "relayerAddress": "noble1ure9g8re7h3qpk7d976e6t8yf4l9lz2er0y90y"
+        },
+        {
+            "ticker": "USDC",
+            "relayerAddress": "noble159rufrfkf5g8qld5zqlsejesr4mlnfx064z6j8"
+        },
+        {
+            "ticker": "USDC",
+            "relayerAddress": "noble1j6swju2q7zywxmpcttcw4k98j7fphx5nudkquc"
+        },
+        {
+            "ticker": "USDC",
+            "relayerAddress": "noble1aypuqvaaq54jn3zleqd6lamnxruun5nefumgjp"
+        },
+        {
+            "ticker": "USDC",
+            "relayerAddress": "noble1nzjcsulyfxh0evmajk3ruawh407h5x8fc6trq2"
+        },
+        {
             "ticker": "DYDX",
             "relayerAddress": "dydx18xrruhq5r246mwk0yj9elnn3mte8xa9ufv4fvt"
         },
