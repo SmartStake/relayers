@@ -26,6 +26,6 @@
    		{"ticker": "JKL", "relayerAddress": "jkl1jqz2205er0d8657ugll98c462cyplkcqxnvyp5"},
          {"ticker": "TIA", "relayerAddress": "celestia1jqz2205er0d8657ugll98c462cyplkcqw8n9zx"},
          {"ticker": "KAVA", "relayerAddress": "kava1jqz2205er0d8657ugll98c462cyplkcqrckgwv"},
-         {"ticker": "AURA", "relayerAddress": "aura1jqz2205er0d8657ugll98c462cyplkcqym4h6j"},
+         {"ticker": "AURA", "relayerAddress": "aura1jqz2205er0d8657ugll98c462cyplkcqym4h6j"}
    	]
 }
