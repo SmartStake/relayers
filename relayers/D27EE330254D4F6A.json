@@ -23,6 +23,9 @@
    		{"ticker": "FLIX", "relayerAddress": "omniflix1jqz2205er0d8657ugll98c462cyplkcqznnv04"},
    		{"ticker": "OSMO", "relayerAddress": "osmo1jqz2205er0d8657ugll98c462cyplkcqhk39we"},
    		{"ticker": "AXL", "relayerAddress": "axelar1jqz2205er0d8657ugll98c462cyplkcqmr5an2"},
-   		{"ticker": "JKL", "relayerAddress": "jkl1jqz2205er0d8657ugll98c462cyplkcqxnvyp5"}
+   		{"ticker": "JKL", "relayerAddress": "jkl1jqz2205er0d8657ugll98c462cyplkcqxnvyp5"},
+         {"ticker": "TIA", "relayerAddress": "celestia1jqz2205er0d8657ugll98c462cyplkcqw8n9zx"},
+         {"ticker": "KAVA", "relayerAddress": "kava1jqz2205er0d8657ugll98c462cyplkcqrckgwv"},
+         {"ticker": "AURA", "relayerAddress": "aura1jqz2205er0d8657ugll98c462cyplkcqym4h6j"},
    	]
 }
