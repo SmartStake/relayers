@@ -1,0 +1,32 @@
+{
+  "keybaseIdentity": "C3480D0FD85F60B9",
+  "name": "BITCANNA.io",
+  "website": "https://wwww.bitcanna.io",
+  "twitter": "https://twitter.com/BitCannaGlobal",
+  "telegram": "https://t.me/bitcannaglobal",
+  "discord": "https://discord.gg/4x7FxmTS4k",
+  "email": "info@bitcanna.io",
+  "supportRelayerBy": "420 BitCanna own relayer",
+  "chainsRelayed": [
+    {
+      "ticker": "BCNA",
+      "relayerAddress": "bcna16mlphe2g43ur0kmnegnnmp74wmdjsg7g8sdm49"
+    },
+    {
+      "ticker": "JUNO",
+      "relayerAddress": "juno143relmr4p82t7rcrtsj9akc0g7ffc7ek9pe8jd"
+    },
+    {
+      "ticker": "ATOM",
+      "relayerAddress": "cosmos1jhagxek9ehytnlzz6fjruj6vrrs2jjtdl36the"
+    },
+    {
+      "ticker": "OSMO",
+      "relayerAddress": "osmo1gklkrctfjst5hcw98ejpcsk2c0d4ps89ujff62"
+    },
+    {
+      "ticker": "AXL",
+      "relayerAddress": "axelar17hkrwvxmfm8mc9xuzl2l3ap4uec3gc7zn52l6m"
+    }
+  ]
+}
