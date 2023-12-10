@@ -23,6 +23,14 @@
         {
             "ticker": "AXL",
             "relayerAddress": "axelar1w0f29w3hst8hzhr2cv30cfjvqp70yyp92x4e2d"
+        },
+        {
+            "ticker": "INJ",
+            "relayerAddress": "inj1n2wzhz0zvrpzjvwfjva6shq0lxyy0d8atf4f5f"
+        },
+        {
+             "ticker": "STRD",
+             "relayerAddress": "stride1w0f29w3hst8hzhr2cv30cfjvqp70yyp9drrd4q"
         }
     ]
 }
