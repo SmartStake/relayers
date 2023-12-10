@@ -13,12 +13,24 @@
             "relayerAddress": "bcna1awtwwrcwsmsx7zakhz52kf9qawh4cs6yfs60j7"
         },
         {
+            "ticker": "DEC",
+            "relayerAddress": "decentr1awtwwrcwsmsx7zakhz52kf9qawh4cs6ycwv6my"
+        },
+        {
             "ticker": "JUNO",
             "relayerAddress": "juno1awtwwrcwsmsx7zakhz52kf9qawh4cs6y9jf4as"
         },
         {
             "ticker": "OSMO",
             "relayerAddress": "osmo1awtwwrcwsmsx7zakhz52kf9qawh4cs6ymme7v7"
+        },
+        {
+            "ticker": "PLQ",
+            "relayerAddress": "plq1dcv3xatd8tkruld37cqruj7dauma4dxnc6qkgr"
+        },
+        {
+            "ticker": "SGE",
+            "relayerAddress": "sge1awtwwrcwsmsx7zakhz52kf9qawh4cs6ydq5sdx"
         }
     ]
 }
