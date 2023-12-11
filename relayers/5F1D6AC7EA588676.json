@@ -251,6 +251,10 @@
         {
             "ticker": "KYVE",
             "relayerAddress": "kyve19kzuzfmmy9wjr3cl0ss8wjzjup9g49hq3xg0pq"
+        },
+        {
+            "ticker": "DYDX",
+            "relayerAddress": "dydx1r76yptl9klxv0q4r067vc899sfhzcz9sesxnea"
         }
     ]
 }
