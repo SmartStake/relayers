@@ -105,6 +105,10 @@
             "relayerAddress": "osmo1n82mm2xptrm903h49dcy5mjvhaxcm6mjckm7wy"
         },
         {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1558hpgzv2jt6rkuccaklxhgtj8mcleq0c33gxd"
+        },
+        {
             "ticker": "HUAHUA",
             "relayerAddress": "chihuahua19pjtx7dah2fquf7udyxjv94h0eraha78xrusgt"
         },
