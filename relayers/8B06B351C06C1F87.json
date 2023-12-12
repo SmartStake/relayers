@@ -20,7 +20,7 @@
             "relayerAddress": "axelar1ydgj7csawc0k4f7qguy6zd5vs7q5cqx5daxu94"
         },
         {
-            "ticker": "FETCH",
+            "ticker": "FET",
             "relayerAddress": "fetch1ydgj7csawc0k4f7qguy6zd5vs7q5cqx56wesvr"
         },
         {
@@ -48,7 +48,7 @@
             "relayerAddress": "stride1ydgj7csawc0k4f7qguy6zd5vs7q5cqx52csg6c"
         },
         {
-            "ticker": "TERRA",
+            "ticker": "LUNA",
             "relayerAddress": "terra176k7mege0p4fz43hnkhqvq4gv00gvkrf07q69e"
         },
         {
