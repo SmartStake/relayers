@@ -15,6 +15,8 @@
             {"ticker": "AURA", "relayerAddress": "aura15tfdu996z0v0z8mfmnpdmdzv52nhc4ra5avwmw"},
             {"ticker": "LORE", "relayerAddress": "gitopia15tfdu996z0v0z8mfmnpdmdzv52nhc4ra3numk5"},
             {"ticker": "IRIS", "relayerAddress": "iaa1uhlc7980pwtxfytu7g6urw30qqf2zza0rfm7ez"},
-            {"ticker": "BCNA", "relayerAddress": "bcna1k9dj6akpswzye5048galcgwzqz0ylcwzdrfws0"}
+            {"ticker": "BCNA", "relayerAddress": "bcna1k9dj6akpswzye5048galcgwzqz0ylcwzdrfws0"},
+            {"ticker": "SGE", "relayerAddress": "sge15tfdu996z0v0z8mfmnpdmdzv52nhc4ra3t9jwa"},
+            {"ticker": "QCK", "relayerAddress": "quick15tfdu996z0v0z8mfmnpdmdzv52nhc4ray0t7q9"}
     ]
 }
