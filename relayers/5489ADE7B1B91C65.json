@@ -71,6 +71,10 @@
     {
       "ticker": "ATOM",
       "relayerAddress": "cosmos1p4557mdpc2qk8vcemeqgrcg55gs2uyznykhd8q"
+    },
+    {
+      "ticker": "SCRT",
+      "relayerAddress": "secret1u4rm5gqswjyqhtyatu56q42avnzlg0gxklj3v9"
     }
   ]
 }
