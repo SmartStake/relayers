@@ -63,6 +63,14 @@
     {
       "ticker": "TIA",
       "relayerAddress": "celestia1p4557mdpc2qk8vcemeqgrcg55gs2uyzn4uxaad"
+    },
+    {
+      "ticker": "AKT",
+      "relayerAddress": "akash1p4557mdpc2qk8vcemeqgrcg55gs2uyznfd6276"
+    },
+    {
+      "ticker": "ATOM",
+      "relayerAddress": "cosmos1p4557mdpc2qk8vcemeqgrcg55gs2uyznykhd8q"
     }
   ]
 }
