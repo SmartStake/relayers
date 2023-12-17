@@ -13,7 +13,6 @@
         {"ticker": "ATOM", "relayerAddress": "cosmos1m7m26sr22thnlwwywfyf2tvu9vlqjdtrzdpkh2"},
         {"ticker": "ATOM", "relayerAddress": "cosmos18xkav82x6um8v4xpgy26ea7zqyyz0zv8667e7h"},
         {"ticker": "AXL", "relayerAddress": "axelar1m7m26sr22thnlwwywfyf2tvu9vlqjdtrxrh7ut"},
-        {"ticker": "AXL", "relayerAddress": "axelar1l267dmlmprhu4p5aqslf50f495vjqlg3e6uve2"},
         {"ticker": "BAND", "relayerAddress": "band1m7m26sr22thnlwwywfyf2tvu9vlqjdtrmzp50z"},
         {"ticker": "BAND", "relayerAddress": "band18xkav82x6um8v4xpgy26ea7zqyyz0zv8r47mxl"},
         {"ticker": "BLD", "relayerAddress": "agoric12m22mzpuqnr6064zzkvkznqc0mktpahyvwwjx2"},
