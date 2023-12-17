@@ -31,6 +31,14 @@
         {
              "ticker": "STRD",
              "relayerAddress": "stride1w0f29w3hst8hzhr2cv30cfjvqp70yyp9drrd4q"
+        },
+                {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1sk76c20mkypkm8mmrza09nnkq9vkqn4atn60qj"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1sk76c20mkypkm8mmrza09nnkq9vkqn4argflkq"
         }
     ]
 }
