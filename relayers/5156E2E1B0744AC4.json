@@ -1,0 +1,24 @@
+{
+  "keybaseIdentity": "5156E2E1B0744AC4",
+  "name": "Nolus Team - Hermes Relayer",
+  "website": "https://nolus.io",
+  "twitter": "https://twitter.com/nolusprotocol",
+  "telegram": "https://t.me/NolusProtocol",
+  "discord": "https://discord.com/invite/nolus-protocol",
+  "email": "",
+  "supportRelayerBy": "Contributors of Nolus Protocol - a cross-chain lending market appchain",
+  "chainsRelayed": [
+    {
+      "ticker": "NLS",
+      "relayerAddress": "nolus1t83k9x2cysj7g5lns7j382lhgtzaplpm3c654r"
+    },
+    {
+      "ticker": "OSMO",
+      "relayerAddress": "osmo1t83k9x2cysj7g5lns7j382lhgtzaplpm0nemp5"
+    },
+    {
+      "ticker": "NTRN",
+      "relayerAddress": "neutron1t83k9x2cysj7g5lns7j382lhgtzaplpmrhrfdp"
+    }
+  ]
+}
