@@ -1,30 +1,57 @@
 {
-    "keybaseIdentity": "86AC709C230079D0",
-    "name": "PFC",
-    "website": "https://pfc-validator.github.io/",
-    "twitter": "PFC_Validator",
-    "telegram": null,
-    "discord": "https://discord.gg/TfagT39TdQ",
-    "email": null,
-    "supportRelayerBy": "delegating to validator",
-    "chainsRelayed": [
-        {
-            "ticker": "INJ",
-            "relayerAddress": "inj12qsz2ks3c88knmdg70naeu8xap6reeex9vyjg6"
-        },
-        {
-            "ticker": "KUJI",
-            "relayerAddress": "kujira169aklus45swma32lwhjdpw8jaawsfk9g0ffl7n"
-        },
-        {"ticker":"LUNC","relayerAddress":"terra14cpqjy6tfryrqlwyycyy7hca5uzrdyqh0leked"},
-        {"ticker":"ATOM","relayerAddress":"cosmos1wqp8yslqh2mdvxzgljsde8wu6nyjp4qyk5ccwh"},
-        {"ticker":"EVMOS","relayerAddress":"evmos13mjl2wha3887np37e7gklrv5zv6ytmfh9k27vr"},
-        {"ticker":"LUNA","relayerAddress":"terra1j32kujppc2xekktlnrgqepnmjhpg44jwf5045t"},
-        {"ticker":"SCRT","relayerAddress":"secret1q5uvvkg0wp94hpnc8argyjr9ldgqyuty86r68v"},
-        {"ticker":"STRD","relayerAddress":"stride169aklus45swma32lwhjdpw8jaawsfk9ga2tm84"},
-        {"ticker":"CANTO","relayerAddress":"canto13mjl2wha3887np37e7gklrv5zv6ytmfh4p6qzr"},
-        {"ticker":"WHALE","relayerAddress":"migaloo1wqp8yslqh2mdvxzgljsde8wu6nyjp4qymq3zme"},
-        {"ticker":"ACRE","relayerAddress":"acre13mjl2wha3887np37e7gklrv5zv6ytmfha5rnfx"},
-        {"ticker":"HUAHUA","relayerAddress":"chihuahua1wqp8yslqh2mdvxzgljsde8wu6nyjp4qy4p4k04"}          
-    ]
+  "keybaseIdentity": "86AC709C230079D0",
+  "name": "PFC",
+  "website": "https://pfc.zone/",
+  "twitter": "PFC_Validator",
+  "telegram": null,
+  "discord": "https://discord.gg/TfagT39TdQ",
+  "email": null,
+  "supportRelayerBy": "delegating to validator",
+  "chainsRelayed": [
+    {
+      "ticker": "LUNC",
+      "relayerAddress": "terra1j32kujppc2xekktlnrgqepnmjhpg44jwf5045t"
+    },
+    {
+      "ticker": "LUNA",
+      "relayerAddress": "terra1j32kujppc2xekktlnrgqepnmjhpg44jwf5045t"
+    },
+    {
+      "ticker": "SCRT",
+      "relayerAddress": "secret1q5uvvkg0wp94hpnc8argyjr9ldgqyuty86r68v"
+    },
+    {
+      "ticker": "INJ",
+      "relayerAddress": "inj12qsz2ks3c88knmdg70naeu8xap6reeex9vyjg6"
+    },
+
+    {
+      "ticker": "KUJI",
+      "relayerAddress": "kujira169aklus45swma32lwhjdpw8jaawsfk9g0ffl7n"
+    },
+    {
+      "ticker": "STRD",
+      "relayerAddress": "stride169aklus45swma32lwhjdpw8jaawsfk9ga2tm84"
+    },
+    {
+      "ticker": "CANTO",
+      "relayerAddress": "canto13mjl2wha3887np37e7gklrv5zv6ytmfh4p6qzr"
+    },
+    {
+      "ticker": "WHALE",
+      "relayerAddress": "migaloo1wqp8yslqh2mdvxzgljsde8wu6nyjp4qymq3zme"
+    },
+    {
+      "ticker": "HUAHUA",
+      "relayerAddress": "chihuahua1wqp8yslqh2mdvxzgljsde8wu6nyjp4qy4p4k04"
+    },
+    {
+      "ticker": "ATOM",
+      "relayerAddress": "cosmos1wqp8yslqh2mdvxzgljsde8wu6nyjp4qyk5ccwh"
+    },
+    {
+      "ticker": "NOBLE",
+      "relayerAddress": "noble1wqp8yslqh2mdvxzgljsde8wu6nyjp4qy7hdske"
+    }
+  ]
 }
