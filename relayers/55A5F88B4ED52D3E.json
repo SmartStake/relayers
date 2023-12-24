@@ -31,6 +31,14 @@
         {
             "ticker": "INJ",
             "relayerAddress": "inj1kz6qywrj9jyer9r5hkx5qe7mrm96xudq6esuad"  
+        },
+        {
+            "ticker": "ARCH",
+            "relayerAddress": "archway1kz6qywrj9jyer9r5hkx5qe7mrm96xudq9mmu9z"  
+        },
+        {
+            "ticker": "TIA",
+            "relayerAddress": "celestia1kz6qywrj9jyer9r5hkx5qe7mrm96xudqp6kg4c"  
         }
     ]
 }
