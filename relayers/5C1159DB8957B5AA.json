@@ -51,6 +51,14 @@
         {
             "ticker": "USDC",
             "relayerAddress": "noble1hulkamkqy8jvgylye3hsdpc67c0ktkmm2cpenp"
+        },
+        {
+            "ticker": "HASH",
+            "relayerAddress": "pb10z5a6mn5f952snnd54xgd5vmun73m2jyhvlrul"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar1qvf2yflf7jyldwfcdyrkz2nc0c2uhn9py3waly"
         }
     ]
 }
