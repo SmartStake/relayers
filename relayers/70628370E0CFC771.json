@@ -1,0 +1,32 @@
+{
+    "keybaseIdentity": "70628370E0CFC771",
+    "name": "Kynraze°",
+    "website": "https://kynraze.com",
+    "twitter": "https://twitter.com/Kynraze",
+    "telegram": "https://t.me/Ryuken1",
+    "discord": "https://discord.com/users/613329835254743040",
+    "email": "kyn@kynraze.com",
+    "supportRelayerBy": "stake with kynraze. Staking Service Provider | Stake Earn Repeat.",
+    "chainsRelayed": [
+        {
+            "ticker": "QCK",
+            "relayerAddress": "quick1saf8gwlajkc2hhvsug6hkn80jad30saze8f957"
+        },
+        {
+            "ticker": "RIO",
+            "relayerAddress": "realio1w6ks9vusffn8w6ksnrfz0zjznmsu7ds977v86e"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1saf8gwlajkc2hhvsug6hkn80jad30saz6c28m7"
+        },
+        {
+            "ticker": "PLQ",
+            "relayerAddress": "plq1w6ks9vusffn8w6ksnrfz0zjznmsu7ds97nc3qs"
+        },
+        {
+            "ticker": "SGE",
+            "relayerAddress": "sge1saf8gwlajkc2hhvsug6hkn80jad30sazvr8f6x"
+        }
+    ]
+}
