@@ -27,6 +27,18 @@
         {
             "ticker": "SGE",
             "relayerAddress": "sge1saf8gwlajkc2hhvsug6hkn80jad30sazvr8f6x"
+        },
+        {
+            "ticker": "REGEN",
+            "relayerAddress": "regen1saf8gwlajkc2hhvsug6hkn80jad30sazdpjtmg"
+        },
+        {
+            "ticker": "DEC",
+            "relayerAddress": "decentr1saf8gwlajkc2hhvsug6hkn80jad30sazedlrvy"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1saf8gwlajkc2hhvsug6hkn80jad30sazjrehdv"
         }
     ]
 }
