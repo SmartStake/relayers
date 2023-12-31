@@ -52,6 +52,10 @@
     {
       "ticker": "USDC",
       "relayerAddress": "noble1wqp8yslqh2mdvxzgljsde8wu6nyjp4qy7hdske"
+    },
+    {
+      "ticker": "ANDR",
+      "relayerAddress": "andr1wqp8yslqh2mdvxzgljsde8wu6nyjp4qywls6j6"
     }
   ]
 }
