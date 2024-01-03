@@ -1,0 +1,13 @@
+Please add the following missing Cybernodes validators:
+
+1) assetmantle (https://www.mintscan.io/asset-mantle/validators/mantlevaloper1pmd5r3uu8tjfgywdksmj6st6k0s5llfw9la4cw)
+validator address: mantlevaloper1pmd5r3uu8tjfgywdksmj6st6k0s5llfw9la4cw
+
+2) bitcanna (https://www.mintscan.io/bitcanna/validators/bcnavaloper1lv73xg05zav7e0442c8lwnk8eqz9y54g2xtymp)
+validator address: bcnavaloper1lv73xg05zav7e0442c8lwnk8eqz9y54g2xtymp
+
+3) likecoin (https://www.mintscan.io/likecoin/validators/likevaloper1nsearc5dsjnk5xdvqfegj7zat6d5qntsnd4jyh)
+validator address: likevaloper1nsearc5dsjnk5xdvqfegj7zat6d5qntsnd4jyh
+
+4) provenance (https://www.mintscan.io/provenance/validators/pbvaloper1uvqa5athyr0nz7fyvejuxcnrw26s6fdnpqlfgn)
+validator address: pbvaloper1uvqa5athyr0nz7fyvejuxcnrw26s6fdnpqlfgn
