@@ -53,6 +53,10 @@
             "relayerAddress": "juno1ks0qeq9vyt9l7vgasaajd49ff0k8klur0g6ej0"
         },
         {
+            "ticker": "JUNO",
+            "relayerAddress": "juno1558hpgzv2jt6rkuccaklxhgtj8mcleq0xcprhr"
+        },
+        {
             "ticker": "OSMO",
             "relayerAddress": "osmo1ks0qeq9vyt9l7vgasaajd49ff0k8klur3p2jrp"
         },
