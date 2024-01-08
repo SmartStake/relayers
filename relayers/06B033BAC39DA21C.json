@@ -37,6 +37,14 @@
             "relayerAddress": "cosmos1558hpgzv2jt6rkuccaklxhgtj8mcleq0s2zcsl"
         },
         {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos126pkrcvytfvsvrdm7x4wme5y780amvwwarzezc"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1kgs9ml9hc085k6pm36z6wlnjc3c8zv99myau2w"
+        },
+        {
             "ticker": "EVMOS",
             "relayerAddress": "evmos146sl9u5kgsa86mxk6zjhmwlnlxa7l7cwyvlhan"
         },
@@ -45,12 +53,24 @@
             "relayerAddress": "juno1ks0qeq9vyt9l7vgasaajd49ff0k8klur0g6ej0"
         },
         {
+            "ticker": "JUNO",
+            "relayerAddress": "juno1558hpgzv2jt6rkuccaklxhgtj8mcleq0xcprhr"
+        },
+        {
             "ticker": "OSMO",
             "relayerAddress": "osmo1ks0qeq9vyt9l7vgasaajd49ff0k8klur3p2jrp"
         },
         {
             "ticker": "OSMO",
             "relayerAddress": "osmo1558hpgzv2jt6rkuccaklxhgtj8mcleq0c33gxd"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo126pkrcvytfvsvrdm7x4wme5y780amvww4c3f52"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1kgs9ml9hc085k6pm36z6wlnjc3c8zv99nlwvuu"
         },
         {
             "ticker": "STRD",
