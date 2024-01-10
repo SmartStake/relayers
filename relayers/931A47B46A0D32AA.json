@@ -63,6 +63,10 @@
         {
             "ticker": "TIA",
             "relayerAddress": "celestia1cdlz8scnf3mmxdnf4njmtp7vz4gps7fsm503qe"
+        },
+        {
+            "ticker": "BZE",
+            "relayerAddress": "bze1wf3f5kyrkmpnjy7xxg4mhqscchykfazl22quam"
         }
     ]
 }
