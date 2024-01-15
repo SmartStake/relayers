@@ -55,6 +55,10 @@
         {
             "ticker": "KAVA",
             "relayerAddress": "kava16mqjd9g0m5yce8jwnlu8hvdxu5pqnp0ldktknq"
-        }        
+        },
+        {
+            "ticker": "INJ",
+            "relayerAddress": "inj1ytj96qgvcntfckz34aaszr6r73qnyuqewek5h5"
+        }
     ]
 }
