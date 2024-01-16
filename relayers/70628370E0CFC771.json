@@ -51,6 +51,34 @@
         {
             "ticker": "JUNO",
             "relayerAddress": "juno1saf8gwlajkc2hhvsug6hkn80jad30sazy36v2s"
+        },
+        {
+            "ticker": "AURA",
+            "relayerAddress": "aura1saf8gwlajkc2hhvsug6hkn80jad30sazf4w404"
+        },
+        {
+            "ticker": "BAND",
+            "relayerAddress": "band10r5h56p7p2945tzhsavdekkzp96me9u9sufxzz"
+        },
+        {
+            "ticker": "ORAI",
+            "relayerAddress": "orai1saf8gwlajkc2hhvsug6hkn80jad30sazps05vl"
+        },
+        {
+            "ticker": "JKL",
+            "relayerAddress": "jkl1saf8gwlajkc2hhvsug6hkn80jad30saztahx5n"
+        },
+        {
+            "ticker": "KUJI",
+            "relayerAddress": "kujira1saf8gwlajkc2hhvsug6hkn80jad30sazrtm0qx"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar1saf8gwlajkc2hhvsug6hkn80jad30sazkd0lxd"
+        },
+        {
+            "ticker": "KAVA",
+            "relayerAddress": "kava1g76ufe7ld0enykrc8pzvnta37u79scgxxumetm"
         }
     ]
 }
