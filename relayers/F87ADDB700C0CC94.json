@@ -588,6 +588,18 @@
         {
             "ticker": "TIA",
             "relayerAddress": "celestia18xrruhq5r246mwk0yj9elnn3mte8xa9u3l2ak3"
+        },
+        {
+            "ticker": "GUU",
+            "relayerAddress": "ununifi18xrruhq5r246mwk0yj9elnn3mte8xa9ukhglkj"
+        },
+        {
+            "ticker": "NIBI",
+            "relayerAddress": "nibi18xrruhq5r246mwk0yj9elnn3mte8xa9uhsl590"
+        },
+        {
+            "ticker": "LUNA",
+            "relayerAddress": "terra1pn3t586r4t0w4w4pncmmdnsl3fqmj625xngs80"
         }
     ]
 }
