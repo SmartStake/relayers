@@ -1,0 +1,48 @@
+{
+  "keybaseIdentity": "1DAC06C56C7B2AC9",
+  "name": "Trivium",
+  "website": "https://trivium.network",
+  "twitter": "https://twitter.com/TriviumNode",
+  "telegram": "https://t.me/TriviumNode",
+  "discord": "https://discord.gg/tZj7ZhhdP5",
+  "email": "info@trivium.network",
+  "supportRelayerBy": "Stake with Trivium!",
+  "chainsRelayed": [
+    {
+      "ticker": "SCRT",
+      "relayerAddress": "secret1v29569qjca5uda5nsrvkfmlj93tv869ks2ajcq"
+    },
+    {
+      "ticker": "DVPN",
+      "relayerAddress": "sent1jct5gn7gpknl0kmqkm3agfwxm2mmtekwc9qkl0"
+    },
+    {
+      "ticker": "JKL",
+      "relayerAddress": "jkl1jct5gn7gpknl0kmqkm3agfwxm2mmtekw6qc7zl"
+    },
+    {
+      "ticker": "ARCH",
+      "relayerAddress": "archway1jct5gn7gpknl0kmqkm3agfwxm2mmtekwk42t3h"
+    },
+    {
+      "ticker": "ARCH",
+      "relayerAddress": "archway1eqzquzqmnyn8aqd0js5g5lwscp6g4k6tfag98x"
+    },
+    {
+      "ticker": "NOIS",
+      "relayerAddress": "nois1jct5gn7gpknl0kmqkm3agfwxm2mmtekwjkt9hc"
+    },
+    {
+      "ticker": "NOIS",
+      "relayerAddress": "nois1eqzquzqmnyn8aqd0js5g5lwscp6g4k6td7ftpf"
+    },
+    {
+      "ticker": "OSMO",
+      "relayerAddress": "osmo1jct5gn7gpknl0kmqkm3agfwxm2mmtekwt99ldj"
+    },
+    {
+      "ticker": "OSMO",
+      "relayerAddress": "osmo1eqzquzqmnyn8aqd0js5g5lwscp6g4k6t5d83mr"
+    }
+  ]
+}
