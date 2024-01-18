@@ -43,6 +43,10 @@
     {
       "ticker": "OSMO",
       "relayerAddress": "osmo1eqzquzqmnyn8aqd0js5g5lwscp6g4k6t5d83mr"
+    },
+    {
+      "ticker": "VDL",
+      "relayerAddress": "vdl1eqzquzqmnyn8aqd0js5g5lwscp6g4k6tejyxqh"
     }
   ]
 }
