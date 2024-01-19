@@ -9,6 +9,8 @@
     "supportRelayerBy": "Delegation to 4sv.io",
     "chainsRelayed": [
             {"ticker": "OSMO", "relayerAddress": "osmo10wkqxgzdu6lhm47txjj3m2yzv6g307ftk5ly3r"},
-            {"ticker": "TIA", "relayerAddress": "celestia10wkqxgzdu6lhm47txjj3m2yzv6g307ft09ayau"}
-            ]
+            {"ticker": "TIA", "relayerAddress": "celestia10wkqxgzdu6lhm47txjj3m2yzv6g307ft09ayau"},
+            {"ticker": "AXL", "relayerAddress": "axelar10wkqxgzdu6lhm47txjj3m2yzv6g307ft6p6uvs"},
+            {"ticker": "KYVE", "relayerAddress": "kyve10wkqxgzdu6lhm47txjj3m2yzv6g307ftfppzv4"}
+    ]
 }
