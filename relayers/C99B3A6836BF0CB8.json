@@ -1,13 +1,17 @@
 {
-   	"keybaseIdentity": "9C7571030BEF5157",
-   	"name": "WhisperNode🤐",
-   	"website": "https://restake.WhisperNode.com",
-   	"twitter": "@WhisperNode",
-   	"telegram": "gh0stdotexe",
-   	"discord": "whispernode",
-   	"email": "hello@WhisperNode.com",
-   	"supportRelayerBy": "WhisperNode is a community validator & infrastructure provider. Consider supporting our IBC relaying efforts by delegating!",
-   	"chainsRelayed": [
+	"keybaseIdentity": "C99B3A6836BF0CB8",
+	"name": "WhisperNode 🤐",
+	"website": "https://restake.whispernode.com",
+	"twitter": "https://twitter.com/whispernode",
+	"telegram": "https://t.me/team_whispernode",
+	"discord": "https://discord.gg/4E5KZsRtjE",
+	"email": "security@whispernode.com",
+	"supportRelayerBy": "WhisperNode is a community validator & infrastructure provider. Consider supporting our IBC relaying efforts by delegating!",
+	"chainsRelayed": [
+		{
+			"ticker": "AKT",
+			"relayerAddress": "akash1ryq6zncdxpdnnwhn9h24ar48ap9zkqgl5xpdnk"
+		},
 		{
 			"ticker": "ARCH",
 			"relayerAddress": "archway1ryq6zncdxpdnnwhn9h24ar48ap9zkqglvkswqm"
@@ -85,10 +89,6 @@
 			"relayerAddress": "secret1xpgjd2akpc8gmwez25keftpmlgs4aa3un463s7"
 		},
 		{
-			"ticker": "SEI",
-			"relayerAddress": "sei1ryq6zncdxpdnnwhn9h24ar48ap9zkqgl53auvd"
-		},
-		{
 			"ticker": "STARS",
 			"relayerAddress": "stars1ryq6zncdxpdnnwhn9h24ar48ap9zkqgldpmhpa"
 		},
@@ -96,5 +96,5 @@
 			"ticker": "STRD",
 			"relayerAddress": "stride1ryq6zncdxpdnnwhn9h24ar48ap9zkqgl6kvk7q"
 		}
-   	]
+	]
 }
