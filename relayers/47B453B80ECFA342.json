@@ -1,0 +1,17 @@
+{
+   	"keybaseIdentity": "47B453B80ECFA342",
+   	"name": "CroutonDigital",
+   	"website": "https://nodes.crouton.digital",
+   	"twitter": "@CroutonDigital",
+   	"telegram": "@toxa3333",
+   	"discord": "ak32821",
+   	"email": "croutondigital@aol.com",
+   	"supportRelayerBy": "donate to relayer",
+   	"chainsRelayed": [
+   		{"ticker": "OSMO", "relayerAddress": "osmo1q8pj4z552p9wpmq7mhlzwhtr3p97j04fpyudm9"},
+   		{"ticker": "ARCH", "relayerAddress": "archway1ejkj6ssfuwsea0lj9g84n0fsdzkzs28v9p7ju4"},
+   		{"ticker": "ANDR", "relayerAddress": "andr1cmnkyhzk9uuwahk6kyeg640z6lwcydzvpkk5xm"}, 
+   		{"ticker": "CUDOS", "relayerAddress": "cudos1mdxmnfcr5ah30wt5q6k07vuhc4emjlluvnpygd"},
+                {"ticker": "BEDROCK", "relayerAddress": "pylo1nmy8vrf3pufhjgwzx5kd4qma4a3vmfzk9wnlh0"}
+   	]
+}
