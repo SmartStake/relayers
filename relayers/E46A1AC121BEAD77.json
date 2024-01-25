@@ -71,6 +71,50 @@
         {
             "ticker": "FET",
             "relayerAddress": "fetch122sr7ukcdr580nt0jmyyd0cwnudd73kvglrqgr"
+        },
+        {
+            "ticker": "NTRN",
+            "relayerAddress": "neutron122sr7ukcdr580nt0jmyyd0cwnudd73kvlarxsn"
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride122sr7ukcdr580nt0jmyyd0cwnudd73kvcf2c7c"
+        }, 
+         {
+            "ticker": "TIA",
+            "relayerAddress": "celestia122sr7ukcdr580nt0jmyyd0cwnudd73kv2gm5se"
+        },   
+         {
+            "ticker": "CRE",
+            "relayerAddress": "cre122sr7ukcdr580nt0jmyyd0cwnudd73kvl2eple"
+        }, 
+         {
+            "ticker": "CRO",
+            "relayerAddress": "cro122sr7ukcdr580nt0jmyyd0cwnudd73kvrezak9"
+        }, 
+          {
+            "ticker": "DYDX",
+            "relayerAddress": "dydx122sr7ukcdr580nt0jmyyd0cwnudd73kvjmyq2r"
+        },
+          {
+            "ticker": "CANTO",
+            "relayerAddress": "canto122sr7ukcdr580nt0jmyyd0cwnudd73kvf5t57u"
+        }, 
+          {
+            "ticker": "JUNO",
+            "relayerAddress": "juno122sr7ukcdr580nt0jmyyd0cwnudd73kvdsfldg"
+        }, 
+          {
+            "ticker": "KAVA",
+            "relayerAddress": "kava122sr7ukcdr580nt0jmyyd0cwnudd73kv8h7eun"
+        },
+          {
+            "ticker": "SEI",
+            "relayerAddress": "sei122sr7ukcdr580nt0jmyyd0cwnudd73kvkwmjv4"
+        }, 
+           {
+            "ticker": "LUNA",
+            "relayerAddress": "terra122sr7ukcdr580nt0jmyyd0cwnudd73kvaxsyg5"
         }
     ]
 }

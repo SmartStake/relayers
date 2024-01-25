@@ -119,6 +119,18 @@
         {
             "ticker": "NOIS",
             "relayerAddress": "nois1nms20r7jzaa4ms9exv90ckl2xfn0rd3rlrksy5"
+        },
+        {
+            "ticker": "TIA",
+            "relayerAddress": "celestia1nms20r7jzaa4ms9exv90ckl2xfn0rd3rlp62jp"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo184hv0zmw2n9ud3h87mdykz22dr2d7yumu5k7a7"
+        },
+        {
+            "ticker": "SOURCE",
+            "relayerAddress": "source1nms20r7jzaa4ms9exv90ckl2xfn0rd3rgcjycj"
         }
     ]
 }

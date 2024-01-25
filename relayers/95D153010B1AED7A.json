@@ -1,0 +1,18 @@
+{
+   	"keybaseIdentity": "95D153010B1AED7A",
+   	"name": "Cybernodes",
+   	"website": "www.cybernodes.one",
+   	"twitter": "Cybernodes1",
+   	"telegram": "cybernodes",
+   	"discord": "https://discord.com/users/Cybernodes#9446",
+   	"email": "cybernodes@yahoo.com",
+   	"supportRelayerBy": "Stake with us!",
+   	"chainsRelayed": [
+   		{"ticker": "ATOM", "relayerAddress": "cosmos16y7gwszf2a436728lxd5jetm774mt5xlm7v3z9"},
+   		{"ticker": "BCNA", "relayerAddress": "bcna19zc9eur7aqlkd3udez9h2d53d8ay6snw7dsx64"},
+   		{"ticker": "HASH", "relayerAddress": "pb1jw7u2tupxc2d7602xsthdpjwaeqqlahyyfx0rf"},
+   		{"ticker": "LIKE", "relayerAddress": "like19gpncxttkffk4vr5vu5n3l3xlwyk24g2g3476v"},
+         {"ticker": "OSMO", "relayerAddress": "osmo1l4vdq6ha46fzrvkqmf6ymdau95u53e3f2nrd4c"},
+         {"ticker": "BAND", "relayerAddress": "band1uwyp7t4jcl6r3anyr5ythx66ctskcacaa6x4zs"}
+   	]
+}

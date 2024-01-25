@@ -1,0 +1,44 @@
+{
+    "keybaseIdentity": "742C3BF1876ADC9A",
+    "name": "Decentrio",
+    "website": "https://decentrio.ventures/",
+    "twitter": "decentriolabs",
+    "telegram": null,
+    "discord": null,
+    "email": "contact@decentrio.ventures",
+    "supportRelayerBy": "delegating to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1w0f29w3hst8hzhr2cv30cfjvqp70yyp9wgr3pv"
+        },
+        {
+            "ticker": "JUNO",
+            "relayerAddress": null
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1w0f29w3hst8hzhr2cv30cfjvqp70yyp9xnsph7"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar1w0f29w3hst8hzhr2cv30cfjvqp70yyp92x4e2d"
+        },
+        {
+            "ticker": "INJ",
+            "relayerAddress": "inj1n2wzhz0zvrpzjvwfjva6shq0lxyy0d8atf4f5f"
+        },
+        {
+             "ticker": "STRD",
+             "relayerAddress": "stride1w0f29w3hst8hzhr2cv30cfjvqp70yyp9drrd4q"
+        },
+                {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1sk76c20mkypkm8mmrza09nnkq9vkqn4atn60qj"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1sk76c20mkypkm8mmrza09nnkq9vkqn4argflkq"
+        }
+    ]
+}

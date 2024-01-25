@@ -13,20 +13,29 @@
             "relayerAddress": "akash18yln7vx0n6qvta7kdcq0qheuwr06a7xjtt9ncn"
         },
         {
+            "ticker": "ARCH",
+            "relayerAddress": "archway12qkshheaw2mrpr8asfj6jr9q2e5ms7qt6z0z6p"
+        },
+        {
             "ticker": "ATOM",
             "relayerAddress": "cosmos1wwxeusrluapjewppth29mp0dn6d8kukpa0l4zx"
         },
+
         {
             "ticker": "BAND",
             "relayerAddress": "band1grgqpjavx7u2rda5glwwq682h3ukvltk2q3yr6"
+        },
+        {
+            "ticker": "CRE",
+            "relayerAddress": "cre1nx0e3t2kqj3c6ctx06numtu9mvxxkm2848l296"
         },
         {
             "ticker": "CRO",
             "relayerAddress": "cro1tt4p7q85yhngggzrq2pt0guurdht0q8z8ry8mj"
         },
         {
-            "ticker": "CRE",
-            "relayerAddress": "cre1nx0e3t2kqj3c6ctx06numtu9mvxxkm2848l296"
+            "ticker": "DYDX",
+            "relayerAddress": "dydx12qkshheaw2mrpr8asfj6jr9q2e5ms7qtxsazsp"
         },
         {
             "ticker": "EVMOS",

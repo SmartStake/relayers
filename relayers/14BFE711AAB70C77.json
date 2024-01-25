@@ -1,0 +1,16 @@
+{
+    "keybaseIdentity": "14BFE711AAB70C77",
+    "name": "🐹 Quokka Stake",
+    "website": "https://quokkastake.io",
+    "telegram": "quokkastake",
+    "email": "quokkastake@gmail.com",
+    "supportRelayerBy": "Stake with us and be safe!",
+    "chainsRelayed": [
+        { "ticker": "BTSG", "relayerAddress": "bitsong17ndx5qfku28ymxgmq6zq4a6d02dvpfjjcdw0s2" },
+        { "ticker": "ATOM", "relayerAddress": "cosmos17ndx5qfku28ymxgmq6zq4a6d02dvpfjj5yu8j9" },
+        { "ticker": "LORE", "relayerAddress": "gitopia17ndx5qfku28ymxgmq6zq4a6d02dvpfjj2umsax" },
+        { "ticker": "JKL", "relayerAddress": "jkl17ndx5qfku28ymxgmq6zq4a6d02dvpfjjd6jkt6" },
+        { "ticker": "OSMO", "relayerAddress": "osmo17ndx5qfku28ymxgmq6zq4a6d02dvpfjjul0hyh" },
+        { "ticker": "DVPN", "relayerAddress": "sent17ndx5qfku28ymxgmq6zq4a6d02dvpfjj0l27k2" }
+    ]
+}

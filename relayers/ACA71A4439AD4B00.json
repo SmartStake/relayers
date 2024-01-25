@@ -1,0 +1,22 @@
+{
+   	"keybaseIdentity": "ACA71A4439AD4B00",
+   	"name": "jasbanza",
+   	"website": "https://linktr.ee/jasbanza",
+   	"twitter": "jasbanza",
+   	"telegram": "jasbanza",
+   	"discord": "https://discord.gg/jasbanza",
+   	"email": "osmojason@gmail.com",
+   	"supportRelayerBy": "Buy me a coffee 🥰 ICNS: jasbanza",
+   	"chainsRelayed": [
+   		{"ticker": "AKT", "relayerAddress": "akash1trgypevlqf7hn7xnfmu26h49wgk6hglg5zrump"},
+   		{"ticker": "ATOM", "relayerAddress": "cosmos1trgypevlqf7hn7xnfmu26h49wgk6hglgeewmzm"},
+   		{"ticker": "DVPN", "relayerAddress": "sent1trgypevlqf7hn7xnfmu26h49wgk6hglgzzczx5"},
+   		{"ticker": "DYDX", "relayerAddress": "dydx1trgypevlqf7hn7xnfmu26h49wgk6hglgsqqlzv"},
+   		{"ticker": "FET", "relayerAddress": "fetch1trgypevlqf7hn7xnfmu26h49wgk6hglg2y8lqv"},
+   		{"ticker": "JUNO", "relayerAddress": "juno1trgypevlqf7hn7xnfmu26h49wgk6hglg0tdq98"},
+   		{"ticker": "NTRN", "relayerAddress": "neutron1trgypevlqf7hn7xnfmu26h49wgk6hglgax8ecu"},
+   		{"ticker": "OSMO", "relayerAddress": "osmo1trgypevlqf7hn7xnfmu26h49wgk6hglg3zat5f"},
+   		{"ticker": "TIA", "relayerAddress": "celestia1trgypevlqf7hn7xnfmu26h49wgk6hglggnltck"},
+   		{"ticker": "USDC", "relayerAddress": "noble1trgypevlqf7hn7xnfmu26h49wgk6hglg36mn64"}
+   	]
+}

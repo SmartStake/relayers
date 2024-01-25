@@ -1,0 +1,143 @@
+{
+    "keybaseIdentity": "8B06B351C06C1F87",
+    "name": "node101",
+    "website": "https://node101.io",
+    "twitter": "https://twitter.com/node_101",
+    "telegram": "https://web.telegram.org/k/#node101",
+    "email": "hello@node101.io",
+    "supportRelayerBy": "Stake to node101",
+    "chainsRelayed": [
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1ydgj7csawc0k4f7qguy6zd5vs7q5cqx5fns5w5"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1ydgj7csawc0k4f7qguy6zd5vs7q5cqx5pgrycx"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar1ydgj7csawc0k4f7qguy6zd5vs7q5cqx5daxu94"
+        },
+        {
+            "ticker": "FET",
+            "relayerAddress": "fetch1ydgj7csawc0k4f7qguy6zd5vs7q5cqx56wesvr"
+        },
+        {
+            "ticker": "GRAV",
+            "relayerAddress": "gravity1ydgj7csawc0k4f7qguy6zd5vs7q5cqx5drzvtu"
+        },
+        {
+            "ticker": "JUNO",
+            "relayerAddress": "juno1ydgj7csawc0k4f7qguy6zd5vs7q5cqx5lpn0fg"
+        },
+        {
+            "ticker": "KUJI",
+            "relayerAddress": "kujira1ydgj7csawc0k4f7qguy6zd5vs7q5cqx5cmjvr7"
+        },
+        {
+            "ticker": "NTRN",
+            "relayerAddress": "neutron1ydgj7csawc0k4f7qguy6zd5vs7q5cqx5dvek5n"
+        },
+        {
+            "ticker": "SCRT",
+            "relayerAddress": "secret1tum5lap9nj7ld7f3fnuc32d7zszh07ahp25dqn"
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride1ydgj7csawc0k4f7qguy6zd5vs7q5cqx52csg6c"
+        },
+        {
+            "ticker": "LUNA",
+            "relayerAddress": "terra176k7mege0p4fz43hnkhqvq4gv00gvkrf07q69e"
+        },
+        {
+            "ticker": "UMEE",
+            "relayerAddress": "umee1ydgj7csawc0k4f7qguy6zd5vs7q5cqx5m9dt2x"
+        },
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": "evmos1zshzqcvx6kpd7m9z6ugs5efs2nxm4m23reft6n"
+        },
+        {
+            "ticker": "KAVA",
+            "relayerAddress": "kava1482km6thz44jp52xv0ktyq3z4u0yc5neu2twxe"
+        },
+        {
+            "ticker": "INJ",
+            "relayerAddress": "inj1zshzqcvx6kpd7m9z6ugs5efs2nxm4m23t30pjr"
+        },
+        {
+            "ticker": "TIA",
+            "relayerAddress": "celestia1ydgj7csawc0k4f7qguy6zd5vs7q5cqx5cepy5e"
+        },
+        {
+            "ticker": "CHEQ",
+            "relayerAddress": "cheqd1ydgj7csawc0k4f7qguy6zd5vs7q5cqx583u599"
+        },
+        {
+            "ticker": "PICA",
+            "relayerAddress": "centauri1ydgj7csawc0k4f7qguy6zd5vs7q5cqx5deag28"
+        },
+        {
+            "ticker": "BAND",
+            "relayerAddress": "band1v8fdkcwa3yt9l8vgr0cz5hz9795g64v2atgp2p"
+        },
+        {
+            "ticker": "MNTL",
+            "relayerAddress": "mantle1ydgj7csawc0k4f7qguy6zd5vs7q5cqx5hht337"
+        },
+        {
+            "ticker": "BLD",
+            "relayerAddress": "agoric1ydgj7csawc0k4f7qguy6zd5vs7q5cqx5mwjt7z"
+        },
+        {
+            "ticker": "CRE",
+            "relayerAddress": "cre1ydgj7csawc0k4f7qguy6zd5vs7q5cqx5dmr3me"
+        },
+        {
+            "ticker": "DSM",
+            "relayerAddress": "desmos1hw4njcugmzkm7ux26savrm3ae456ttsxg9hj7q"
+        },
+        {
+            "ticker": "NGM",
+            "relayerAddress": "emoney1ydgj7csawc0k4f7qguy6zd5vs7q5cqx5xs2qef"
+        },
+        {
+            "ticker": "IRIS",
+            "relayerAddress": "iaa1ydgj7csawc0k4f7qguy6zd5vs7q5cqx5u3s9v9"
+        },
+        {
+            "ticker": "XKI",
+            "relayerAddress": "ki1ydgj7csawc0k4f7qguy6zd5vs7q5cqx5c7pm2q"
+        },
+        {
+            "ticker": "KYVE",
+            "relayerAddress": "kyve1ydgj7csawc0k4f7qguy6zd5vs7q5cqx57aaz9s"
+        },
+        {
+            "ticker": "ORAI",
+            "relayerAddress": "orai1ydgj7csawc0k4f7qguy6zd5vs7q5cqx56qxh08"
+        },
+        {
+            "ticker": "CTK",
+            "relayerAddress": "shentu1ydgj7csawc0k4f7qguy6zd5vs7q5cqx5p85duf"
+        },
+        {
+            "ticker": "FX",
+            "relayerAddress": "fx1zshzqcvx6kpd7m9z6ugs5efs2nxm4m23mgfsd2"
+        },
+        {
+            "ticker": "MARS",
+            "relayerAddress": "mars1ydgj7csawc0k4f7qguy6zd5vs7q5cqx55wfdm0"
+        },
+        {
+            "ticker": "USDC",
+            "relayerAddress": "noble1ydgj7csawc0k4f7qguy6zd5vs7q5cqx5ps9uk6"
+        },
+        {
+            "ticker": "NLS",
+            "relayerAddress": "nolus1ydgj7csawc0k4f7qguy6zd5vs7q5cqx5lrqtv3"
+        }
+    ]
+}

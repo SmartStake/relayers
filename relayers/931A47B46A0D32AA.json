@@ -59,6 +59,14 @@
         {
             "ticker": "HASH",
             "relayerAddress": "pb12qefgnyhdv3wzxn4dhf3lhunwdw87ymza9rtu5"
+        },
+        {
+            "ticker": "TIA",
+            "relayerAddress": "celestia1cdlz8scnf3mmxdnf4njmtp7vz4gps7fsm503qe"
+        },
+        {
+            "ticker": "BZE",
+            "relayerAddress": "bze1wf3f5kyrkmpnjy7xxg4mhqscchykfazl22quam"
         }
     ]
 }

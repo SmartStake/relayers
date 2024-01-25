@@ -2,11 +2,11 @@
     "keybaseIdentity": "DFEAAB98E8D0975B",
     "name": "Mandragora",
     "website": "https://mandragora.io",
-    "twitter": null,
-    "telegram": null,
+    "twitter": "https://twitter.com/mandragora_spem",
+    "telegram": "https://t.me/dann96",
     "discord": null,
     "email": null,
-    "supportRelayerBy": "delegating to validator",
+    "supportRelayerBy": "Support delegating us on Namada, Evmos, Sentinel, and other networks in which we are or will be in.",
     "chainsRelayed": [
         {
             "ticker": "EVMOS",
@@ -19,6 +19,22 @@
         {
             "ticker": "OSMO",
             "relayerAddress": "osmo1gde9xqg88zgcusngqf0fnvstvtkz3fmqqc207f"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1y25c5ahuwws98qlkhtud4rykkz3lxt5c0uygle"
+        },
+        {
+            "ticker": "TIA",
+            "relayerAddress": "celestia1kv4rl0yj660ct365zx5u293ftjx7qjsjftsl30"
+        },
+        {
+            "ticker": "DYDX",
+            "relayerAddress": "dydx144fpquuz3gap8ae8yrmng4jsmz72apnjpvrpdf"
+        },
+        {
+            "ticker": "USDC",
+            "relayerAddress": "noble12g4ve4g64nac00x05sjydtyxl7v64qyw8g6ezh"
         },
         {
             "ticker": "AXL",
