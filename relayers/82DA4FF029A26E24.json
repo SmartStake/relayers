@@ -5,7 +5,7 @@
    	"twitter": "https://twitter.com/takeshi_val", 
    	"telegram": "https://t.me/takeshiketano", 
    	"discord": "takeshi.team", 
-   	"email": "germansilence@gmail.com,
+   	"email": "germansilence@gmail.com",
    	"supportRelayerBy": "delegate to validator",
    	"chainsRelayed": [
    		{"ticker": "OSMO", "relayerAddress": "osmo1hwp63qqxdxcw9v0wxs4plxl3jmglt7qlhzutej"},
