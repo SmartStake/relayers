@@ -67,6 +67,10 @@
         {
             "ticker": "BZE",
             "relayerAddress": "bze1wf3f5kyrkmpnjy7xxg4mhqscchykfazl22quam"
+        },
+        {
+            "ticker": "QWOYN",
+            "relayerAddress": "qwoyn1p0x73j998sncjd0jqgvznun0p7xtf8madardp4"
         }
     ]
 }
