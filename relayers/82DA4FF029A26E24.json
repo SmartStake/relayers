@@ -1,0 +1,16 @@
+{
+   	"keybaseIdentity": "82DA4FF029A26E24",
+   	"name": "TAKESHI",
+   	"website": "https://services.takeshi.team",
+   	"twitter": "https://twitter.com/takeshi_val", 
+   	"telegram": "https://t.me/takeshiketano", 
+   	"discord": "takeshi.team", 
+   	"email": "germansilence@gmail.com",
+   	"supportRelayerBy": "delegate to validator",
+   	"chainsRelayed": [
+   		{"ticker": "OSMO", "relayerAddress": "osmo1hwp63qqxdxcw9v0wxs4plxl3jmglt7qlhzutej"},
+   		{"ticker": "QCK", "relayerAddress": "quick1rfevkq527p9vtt72p09nlfltqx90uecn08mqqu"},
+   		{"ticker": "HASH", "relayerAddress": "pb13yk4ucc79uv49fplv4nvftenuv4r74kpkrhrf8"}, 
+   		{"ticker": "TIA", "relayerAddress": "celestia1wmtmcjnes9r53npn5yfwpg09ze349453suh72a"} 
+   	]
+}
