@@ -59,6 +59,14 @@
         {
             "ticker": "INJ",
             "relayerAddress": "inj1ytj96qgvcntfckz34aaszr6r73qnyuqewek5h5"
+        },
+        {
+            "ticker": "TIA",
+            "relayerAddress": "celestia1y4t6q5hg4896mz68kn2dfwv2jkcqhfzlnwd23h"
+        },
+        {
+            "ticker": "DYDX",
+            "relayerAddress": "dydx1y4t6q5hg4896mz68kn2dfwv2jkcqhfzltaj7td"
         }
     ]
 }
