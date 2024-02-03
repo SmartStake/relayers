@@ -20,6 +20,6 @@
          {"ticker": "EVMOS", "relayerAddress": "evmos1v8q6c5zz3sk222k2cx0cw4rjk2zls78m269qam"},
          {"ticker": "STRD", "relayerAddress": "stride1r9dujmyxtu2fhadngs02jqw4g795095fwwxg9v"},
          {"ticker": "XPRT", "relayerAddress": "persistence163q6acq0qcvx8adye8t46wx5pdzpfvxnejlx6m"},
-         {"ticker": "PICA", "relayerAddress": "centauri16qkk5sfvrw4e5j0knj4pv8fgh53thfg768hegh"},
+         {"ticker": "PICA", "relayerAddress": "centauri16qkk5sfvrw4e5j0knj4pv8fgh53thfg768hegh"}
    	]
 }
