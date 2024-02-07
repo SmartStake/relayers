@@ -83,6 +83,10 @@
         {
             "ticker": "TIA",
             "relayerAddress": "celestia1twmgaeug7ymjq8c53ttstpl7rny43q8z5zsua2"
+        },
+        {
+            "ticker": "DYM",
+            "relayerAddress": "dym1twmgaeug7ymjq8c53ttstpl7rny43q8zh4d2zf"
         }
     ]
 }
