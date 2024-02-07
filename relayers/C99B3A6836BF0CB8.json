@@ -37,6 +37,10 @@
 			"relayerAddress": "sent1ryq6zncdxpdnnwhn9h24ar48ap9zkqglzx6nwr"
 		},
 		{
+			"ticker": "DYM",
+			"relayerAddress": "dym1jszj9xyh2eh8lx25u88rsv7hmsytvwsvmwr3we"
+		},
+		{
 			"ticker": "INJ",
 			"relayerAddress": "inj1jszj9xyh2eh8lx25u88rsv7hmsytvwsvr6cne0"
 		},
