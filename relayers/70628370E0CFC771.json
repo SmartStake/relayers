@@ -75,6 +75,10 @@
         {
             "ticker": "CTK",
             "relayerAddress": "shentu1saf8gwlajkc2hhvsug6hkn80jad30saz6hawl3"
+        },
+        {
+            "ticker": "DYM",
+            "relayerAddress": "dym1w6ks9vusffn8w6ksnrfz0zjznmsu7ds99kytrd"
         }
     ]
 }
