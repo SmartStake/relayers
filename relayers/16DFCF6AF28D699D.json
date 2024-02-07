@@ -13,6 +13,7 @@
             {"ticker": "BLD", "relayerAddress": "agoric1yjjvxayecreq4ds4ggm08jxnzlese7smhwakle"},
             {"ticker": "UMEE", "relayerAddress": "umee1rqaetvk3mx2cnn6guectun8a9k22mmgthhp02h"},
             {"ticker": "OSMO", "relayerAddress": "osmo1n3pmvc5pvnat5ugaytu8jh6q28zc2qdctxhgww"},
-            {"ticker": "TIA", "relayerAddress": "celestia1eyfy0hde8t62pmkzwxpl4xjr72rs3s8t0g3gkj"}
+            {"ticker": "TIA", "relayerAddress": "celestia1eyfy0hde8t62pmkzwxpl4xjr72rs3s8t0g3gkj"},
+            {"ticker": "DYM", "relayerAddress": "dym1wu8kmhrefk334x3kxt752uy47p0ezyts6wd3a0"}
             ]
 }
