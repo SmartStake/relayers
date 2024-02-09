@@ -58,5 +58,6 @@
       "relayerAddress": "andr1wqp8yslqh2mdvxzgljsde8wu6nyjp4qywls6j6"
     },
     {"ticker": "DYM", "relayerAddress": "dym13mjl2wha3887np37e7gklrv5zv6ytmfh42hkn9" }
+    {"ticker": "HOLE", "relayerAddress": "wormhole1wqp8yslqh2mdvxzgljsde8wu6nyjp4qycs4y94" }
   ]
 }
