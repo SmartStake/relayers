@@ -1,0 +1,108 @@
+{
+    "keybaseIdentity": "F7E5BA51D386D035",
+    "name": "ValiDAO",
+    "website": "https://validao.xyz",
+    "twitter": "https://x.com/validaoxyz",
+    "telegram": null,
+    "discord": null,
+    "email": "hello@validao.xyz",
+    "supportRelayerBy": "Delegating to validator",
+    "chainsRelayed": [
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo16p6lrlxf7f03c0ka8cv4sznr29rym27uf074q9"
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride16p6lrlxf7f03c0ka8cv4sznr29rym27uzldezm"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos16p6lrlxf7f03c0ka8cv4sznr29rym27up5d9kh"
+        },
+        {
+            "ticker": "TIA",
+            "relayerAddress": "celestia16p6lrlxf7f03c0ka8cv4sznr29rym27us7u4v6"
+        },
+        {
+            "ticker": "JUNO",
+            "relayerAddress": "juno16p6lrlxf7f03c0ka8cv4sznr29rym27uhxw73t"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar16p6lrlxf7f03c0ka8cv4sznr29rym27u96mdak"
+        },
+        {
+            "ticker": "AKT",
+            "relayerAddress": "akash16p6lrlxf7f03c0ka8cv4sznr29rym27uv0qz0d"
+        },
+        {
+            "ticker": "NTRN",
+            "relayerAddress": "neutron16p6lrlxf7f03c0ka8cv4sznr29rym27u9ty8vs"
+        },
+        {
+            "ticker": "SCRT",
+            "relayerAddress": "secret16p6lrlxf7f03c0ka8cv4sznr29rym27ur3evtt"
+        },
+        {
+            "ticker": "REGEN",
+            "relayerAddress": "regen16p6lrlxf7f03c0ka8cv4sznr29rym27u7kxeqn"
+        },
+        {
+            "ticker": "INJ",
+            "relayerAddress": "inj1nafarrnu2vap6ukyglfsx8nfh8axwse8xlctjk"
+        },
+        {
+            "ticker": "STARS",
+            "relayerAddress": "stars16p6lrlxf7f03c0ka8cv4sznr29rym27u4g6cax"
+        },
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": "evmos1nafarrnu2vap6ukyglfsx8nfh8axwse8wh7p6x"
+        },
+        {
+            "ticker": "DVPN",
+            "relayerAddress": "sent16p6lrlxf7f03c0ka8cv4sznr29rym27u60mujc"
+        },
+        {
+            "ticker": "UMEE",
+            "relayerAddress": "umee16p6lrlxf7f03c0ka8cv4sznr29rym27unzs6j9"
+        },
+        {
+            "ticker": "CRE",
+            "relayerAddress": "cre16p6lrlxf7f03c0ka8cv4sznr29rym27u9u7qr6"
+        },
+        {
+            "ticker": "BLD",
+            "relayerAddress": "agoric16p6lrlxf7f03c0ka8cv4sznr29rym27unf06xp"
+        },
+        {
+            "ticker": "IRIS",
+            "relayerAddress": "iaa16p6lrlxf7f03c0ka8cv4sznr29rym27u5kd55x"
+        },
+        {
+            "ticker": "GRAV",
+            "relayerAddress": "gravity16p6lrlxf7f03c0ka8cv4sznr29rym27u9ylanl"
+        },
+        {
+            "ticker": "QCK",
+            "relayerAddress": "quick16p6lrlxf7f03c0ka8cv4sznr29rym27u2sah09"
+        },
+        {
+            "ticker": "XPRT",
+            "relayerAddress": "persistence16p6lrlxf7f03c0ka8cv4sznr29rym27u0ctkcn"
+        },
+        {
+            "ticker": "CMDX",
+            "relayerAddress": "comdex16p6lrlxf7f03c0ka8cv4sznr29rym27uxm080q"
+        },
+        {
+            "ticker": "CRO",
+            "relayerAddress": "cro16p6lrlxf7f03c0ka8cv4sznr29rym27ue09u2x"
+        },
+        {
+            "ticker": "NGM",
+            "relayerAddress": "emoney16p6lrlxf7f03c0ka8cv4sznr29rym27uwhh3p2"
+        }
+    ]
+}
