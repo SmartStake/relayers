@@ -600,6 +600,34 @@
         {
             "ticker": "LUNA",
             "relayerAddress": "terra1pn3t586r4t0w4w4pncmmdnsl3fqmj625xngs80"
+        },
+        {
+            "ticker": "DYM",
+            "relayerAddress": "dym1mx070d26eu5trde862pfl6gaqmzlcj99ye4xcu"
+        },
+        {
+            "ticker": "SEI",
+            "relayerAddress": "sei18xrruhq5r246mwk0yj9elnn3mte8xa9ude2m2a"
+        },
+        {
+            "ticker": "SEI",
+            "relayerAddress": "sei1ure9g8re7h3qpk7d976e6t8yf4l9lz2exqqm3t"
+        },
+        {
+            "ticker": "SEI",
+            "relayerAddress": "sei159rufrfkf5g8qld5zqlsejesr4mlnfx0l6xyvg"
+        },
+        {
+            "ticker": "SEI",
+            "relayerAddress": "sei1j6swju2q7zywxmpcttcw4k98j7fphx5nezj7zh"
+        },
+        {
+            "ticker": "SEI",
+            "relayerAddress": "sei1aypuqvaaq54jn3zleqd6lamnxruun5nevnlkvw"
+        },
+        {
+            "ticker": "SEI",
+            "relayerAddress": "sei1nzjcsulyfxh0evmajk3ruawh407h5x8fa40a79"
         }
     ]
 }
