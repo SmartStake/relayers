@@ -4,7 +4,7 @@
     "website": "smartstake.io",
     "twitter": "SmartStake",
     "telegram": "SmartStake",
-    "discord": null,
+    "discord": "test",
     "email": "info@smartstake.io",
     "supportRelayerBy": "delegating to validator",
     "chainsRelayed": [
