@@ -8,7 +8,7 @@
    	"email": "info@secardnode.com",
    	"supportRelayerBy": "SECARD Relayer Service. Your support keeps us alive",
    	"chainsRelayed": [
-   		{"ticker": "DYMENSION", "relayerAddress": "dym1a66qfd4sgsldce44vy5xgszj78wz6ss87leuhr"},
+   		{"ticker": "DYM", "relayerAddress": "dym1a66qfd4sgsldce44vy5xgszj78wz6ss87leuhr"},
    		{"ticker": "OSMO", "relayerAddress": "osmo1mxetqz66umfn5hqeqsa3kpakeju7rnwy3srgm5"}
    	]
 }
