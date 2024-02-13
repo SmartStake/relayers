@@ -21,7 +21,7 @@
         },
         {
             "ticker": "HASH",
-            "relayerAddress": "pb10gutcxpk7kj0eeerw0r02h8ggnmz6yfkavdnj8"
+            "relayerAddress": "pb1s30c5wsyzsuar2j4fz0fag8a20fxhyjdpd68pj"
         },
         {
             "ticker": "JKL",
@@ -41,7 +41,7 @@
         },
         {
             "ticker": "DYM",
-            "relayerAddress": "dym1v6p80y5le5g2pgx048026r9y7memh3eg9p0983"
+            "relayerAddress": "dym1al99xx93xc33n02uj9k69hw334ac8jvzcy3km3"
         }
     ]
 }
