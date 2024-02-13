@@ -1,0 +1,14 @@
+{
+   	"keybaseIdentity": "0CEA385BEFC79A5D",
+   	"name": "SECARD",
+   	"website": "https://secardnode.com/",
+   	"twitter": "secardNodE", # @ not needed. full website address is not needed
+   	"telegram": "@secarda", #does not support multiple TG handles. full website address is not needed
+   	"discord": "secard", #does not support multiple discord handles. full website address is needed
+   	"email": "info@secardnode.com,
+   	"supportRelayerBy": "what can community do to support you? a response like 'delegate to validator' or 'donate to relayer' is good. max of 50 characters",
+   	"chainsRelayed": [
+   		{"ticker": "DYMENSION", "relayerAddress": "dym1a66qfd4sgsldce44vy5xgszj78wz6ss87leuhr"},
+   		{"ticker": "OSMO", "relayerAddress": "osmo1mxetqz66umfn5hqeqsa3kpakeju7rnwy3srgm5"}
+   	]
+}
