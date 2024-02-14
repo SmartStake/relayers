@@ -1,0 +1,18 @@
+{
+   	"keybaseIdentity": "E5378C73E7776BA8",
+   	"name": "Wave",
+   	"website": "https://www.0xwave.com/",
+   	"twitter": "WaveIBC",
+   	"telegram": "Waveways", 
+   	"discord": "waves9228",
+   	"email": "contact@0xwave.com",
+   	"supportRelayerBy": "",
+   	"chainsRelayed": [
+   		{"ticker": "AGO", "relayerAddress": "agoric16nghv6zud52ql62vyz83xjxpvf2fpwycvhmw6e"},
+   		{"ticker": "OSMO", "relayerAddress": "osmo1w6hxjh6ymq3fnx03y664qmzrlud29jyzyzwsk5"},
+   		{"ticker": "DYM", "relayerAddress": "dym1m9t6cvkeplmp7f288kanlm97jcgxxqvtez58zt"},
+   		{"ticker": "QUICK", "relayerAddress": "quick1f6qwp80h9uu6cfee3xyam3syrcspzpvlrpup6h"},
+      {"ticker": "TIA", "relayerAddress": "celestia1tqqjw2pystqxztkjjrqwrgjdf6fsv0huywlnc5"},
+      {"ticker": "NOBLE", "relayerAddress": "noble1jgxmtrrx4wccz27z4mgrh388fwjmn4cfw939pc"}
+   	]
+}
