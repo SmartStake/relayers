@@ -1,0 +1,14 @@
+{
+   	"keybaseIdentity": "2D67916C2934D193",
+   	"name": "alphab.ai",
+   	"website": "https://alphab.ai/",
+   	"twitter": "",
+   	"telegram": "intelix",
+   	"discord": "alphab1",
+   	"email": "security@alphab.ai",
+   	"supportRelayerBy": "delegating to validator",
+   	"chainsRelayed": [
+		{ "ticker": "TIA", "relayerAddress": "celestia1luqdteezfq2qlc40u50w9vaa87rruh9gwufn6h"},
+		{ "ticker": "OSMO", "relayerAddress": "osmo1kw34kgssqppl40jm4svk90g5964nt84w3zljr8"},
+	]
+}
