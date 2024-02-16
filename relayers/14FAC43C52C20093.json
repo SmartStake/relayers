@@ -1,0 +1,15 @@
+{
+    "keybaseIdentity": "14FAC43C52C20093",
+    "name": "Sentinel Growth DAO",
+    "website": "https://sentinelgrowthdao.com/",
+    "twitter": "https://twitter.com/dVPNDAO",
+    "telegram": "https://t.me/SentinelGrowthDAO",
+    "discord": "https://discord.gg/Stutc2UHJZ",
+    "email": null,
+    "supportRelayerBy": "Stake with Sentinel Growth DAO to support the project!",
+    "chainsRelayed": [
+        { "ticker": "DVPN", "relayerAddress": "sent175vdslyt4whfyeudm463m5trsjhwh3ydxu8spp" },
+        { "ticker": "OSMO", "relayerAddress": "osmo175vdslyt4whfyeudm463m5trsjhwh3yd4uzenu" },
+        { "ticker": "DEC", "relayerAddress": "decentr175vdslyt4whfyeudm463m5trsjhwh3ydkfhayx" }
+    ]
+}
