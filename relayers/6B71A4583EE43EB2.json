@@ -1,0 +1,15 @@
+{
+   	"keybaseIdentity": "6B71A4583EE43EB2",
+   	"name": "AnyValid",
+   	"website": "https://anyvalid.com",
+   	"twitter": "anyvalid",
+   	"telegram": "bulgakovvlad",
+   	"discord": "vladbulgakov",
+   	"email": "mail@anyvalid.com",
+   	"supportRelayerBy": "AnyValid - where earnings and security converge",
+   	"chainsRelayed": [
+   		{"ticker": "ATOM", "relayerAddress": "cosmos12u6qyrhh70gx389a7vlt6n5p9f27nl0mf5ak74"},
+   		{"ticker": "OSMO", "relayerAddress": "osmo12u6qyrhh70gx389a7vlt6n5p9f27nl0mp0wxg8"},
+   		{"ticker": "UMEE", "relayerAddress": "umee12u6qyrhh70gx389a7vlt6n5p9f27nl0mmzqf68"}
+   	]
+}
