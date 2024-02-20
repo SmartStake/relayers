@@ -13,12 +13,8 @@
             "relayerAddress": "terra139xmun2suypgu8hpl2z3tsvdt8py7e2erlfpe8"
         },
         {
-            "ticker": "LUNC",
-            "relayerAddress": "terra1jyrrdr733fq7v5j8rr7d53cehwazgx0kw54gdq"
-        },
-        {
             "ticker": "STRD",
-            "relayerAddress": "stride1xg93g0tx0wnt5weg7x7xmnvlh6setx2mal9mn3"
+            "relayerAddress": "stride1v7de8smyp35uh0hq8c84pvrxv4w04dn89ph6z4"
         },
         {
             "ticker": "STRD",
@@ -26,7 +22,7 @@
         },
         {
             "ticker": "ATOM",
-            "relayerAddress": "cosmos1xg93g0tx0wnt5weg7x7xmnvlh6setx2m75988a"
+            "relayerAddress": "cosmos16f699curkzmvsfwn04qfr6u9es6yw7rhrq96nu"
         },
         {
             "ticker": "ATOM",
@@ -71,6 +67,18 @@
         {
             "ticker": "PICA",
             "relayerAddress": "centauri18hnewzgssyx2448mwwylpryz220ccs8a0g77rr"
+        },
+        {
+            "ticker": "DYM",
+            "relayerAddress": "dym1nnxgtp6at89q4675edndcawwp9q7knhafe7xx7"
+        },
+        {
+            "ticker": "TIA",
+            "relayerAddress": "celestia1wvj4kuv4jnwc8v6mc6wsddrp3qvwmylpw72s99"
+        },
+        {
+            "ticker": "USDC",
+            "relayerAddress": "noble15tmz024xrncl6n8kawzws6nzauua85pktjrepv"
         }
     ]
 }
