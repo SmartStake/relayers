@@ -16,10 +16,8 @@
       "ticker": "LUNA",
       "relayerAddress": "terra1j32kujppc2xekktlnrgqepnmjhpg44jwf5045t"
     },
-    {
-      "ticker": "SCRT",
-      "relayerAddress": "secret1q5uvvkg0wp94hpnc8argyjr9ldgqyuty86r68v"
-    },
+    { "ticker": "SCRT", "relayerAddress": "secret1q5uvvkg0wp94hpnc8argyjr9ldgqyuty86r68v" },
+    { "ticker": "SCRT", "relayerAddress": "secret1xpwpn43dqlfylfqf6qcpfwsp6ntcec65436kul" },
     {
       "ticker": "INJ",
       "relayerAddress": "inj12qsz2ks3c88knmdg70naeu8xap6reeex9vyjg6"
@@ -58,6 +56,7 @@
       "relayerAddress": "andr1wqp8yslqh2mdvxzgljsde8wu6nyjp4qywls6j6"
     },
     {"ticker": "DYM", "relayerAddress": "dym13mjl2wha3887np37e7gklrv5zv6ytmfh42hkn9" },
-    {"ticker": "HOLE", "relayerAddress": "wormhole1wqp8yslqh2mdvxzgljsde8wu6nyjp4qycs4y94" }
+    {"ticker": "ORAI", "relayerAddress": "orai1wqp8yslqh2mdvxzgljsde8wu6nyjp4qy98wm0y" },
+    {"ticker": "ORAI", "relayerAddress": "orai1syaxzk4k34ytycs5jezflaq9yg3u4wevknxdxg" }
   ]
 }
