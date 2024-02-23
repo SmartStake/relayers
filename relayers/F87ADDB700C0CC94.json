@@ -282,6 +282,10 @@
             "relayerAddress": "osmo18xrruhq5r246mwk0yj9elnn3mte8xa9ugwga6w"
         },
         {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1ure9g8re7h3qpk7d976e6t8yf4l9lz2erhzapc"
+        },
+        {
             "ticker": "SCRT",
             "relayerAddress": "secret1czy3ak7s26sajcr99cyzfd2l75rprjxlkw4n6t"
         },
@@ -628,6 +632,26 @@
         {
             "ticker": "SEI",
             "relayerAddress": "sei1nzjcsulyfxh0evmajk3ruawh407h5x8fa40a79"
+        },
+        {
+            "ticker": "NIBI",
+            "relayerAddress": "nibi1ure9g8re7h3qpk7d976e6t8yf4l9lz2euf457e"
+        },
+        {
+            "ticker": "NIBI",
+            "relayerAddress": "nibi159rufrfkf5g8qld5zqlsejesr4mlnfx09nntr6"
+        },
+        {
+            "ticker": "NIBI",
+            "relayerAddress": "nibi1j6swju2q7zywxmpcttcw4k98j7fphx5nrt83d09"
+        },
+        {
+            "ticker": "NIBI",
+            "relayerAddress": "nibi1aypuqvaaq54jn3zleqd6lamnxruun5nek62eru"
+        },
+        {
+            "ticker": "NIBI",
+            "relayerAddress": "nibi1nzjcsulyfxh0evmajk3ruawh407h5x8f8u6j3h"
         }
     ]
 }
