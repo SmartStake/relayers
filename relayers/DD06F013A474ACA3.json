@@ -78,6 +78,10 @@
             "relayerAddress": "stride1asdzeurp6km7284xd23vuw4q3hsx3wlx4vjvcs"
         },
         {
+            "ticker": "TIA",
+            "relayerAddress": "celestia12qkshheaw2mrpr8asfj6jr9q2e5ms7qt7rzk2m"
+        },
+        {
             "ticker": "XPRT",
             "relayerAddress": "persistence1zycp4k7wrslx7dc5vw4c2ufkss2pfgfexrlrxl"
         }
