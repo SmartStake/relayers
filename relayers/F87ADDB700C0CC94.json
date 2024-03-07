@@ -286,6 +286,10 @@
             "relayerAddress": "osmo1ure9g8re7h3qpk7d976e6t8yf4l9lz2erhzapc"
         },
         {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo159rufrfkf5g8qld5zqlsejesr4mlnfx06dyzum"
+        },
+        {
             "ticker": "SCRT",
             "relayerAddress": "secret1czy3ak7s26sajcr99cyzfd2l75rprjxlkw4n6t"
         },
