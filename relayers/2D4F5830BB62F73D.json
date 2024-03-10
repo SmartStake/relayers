@@ -67,6 +67,10 @@
         {
             "ticker": "DYDX",
             "relayerAddress": "dydx1y4t6q5hg4896mz68kn2dfwv2jkcqhfzltaj7td"
+        },
+        {
+            "ticker": "DYM",
+            "relayerAddress": "dym1wve6c3xtlranxr8e3y4l82ph8237t07z9e6ssv"
         }
     ]
 }
