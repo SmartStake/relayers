@@ -1,0 +1,72 @@
+{
+  "keybaseIdentity": "1E09665F32FE7217",
+  "name": "defiantlabs.net",
+  "website": "https://defiantlabs.net",
+  "twitter": "https://twitter.com/defiantlabs",
+  "telegram": "https://t.me/defiantdanb",
+  "discord": "https://discord.gg/b5nXFAsex2",
+  "email": "hello@defiantlabs.net",
+  "supportRelayerBy": "Defiantlabs builds cosmos tooling like sycamore.tax and the cosmos-upgrades api.  We also validate, relay, and advise blockchain protocols",
+  "chainsRelayed": [
+    {
+      "ticker": "AKT",
+      "relayerAddress": "akash1x9fxqdkg4rumkzrck8t3qnhm30jgfsx90ch7fq"
+    },
+    {
+      "ticker": "MNTL",
+      "relayerAddress": "mantle1x9fxqdkg4rumkzrck8t3qnhm30jgfsx9u8pu0s"
+    },
+    {
+      "ticker": "CRE",
+      "relayerAddress": "cre1x9fxqdkg4rumkzrck8t3qnhm30jgfsx9xtfu9h"
+    },
+    {
+      "ticker": "DYDX",
+      "relayerAddress": "dydx1x9fxqdkg4rumkzrck8t3qnhm30jgfsx9t65asd"
+    },
+    {
+      "ticker": "KAVA",
+      "relayerAddress": "kava1utmjxp6ypyymdaqzc0tadqwsazdk602r9sp085"
+    },
+    {
+      "ticker": "KUJI",
+      "relayerAddress": "kujira1x9fxqdkg4rumkzrck8t3qnhm30jgfsx9ntcpas"
+    },
+    {
+      "ticker": "NTRN",
+      "relayerAddress": "neutron1x9fxqdkg4rumkzrck8t3qnhm30jgfsx9xunm2a"
+    },
+    {
+      "ticker": "USDC",
+      "relayerAddress": "noble1x9fxqdkg4rumkzrck8t3qnhm30jgfsx92q03g5"
+    },
+    {
+      "ticker": "FLIX",
+      "relayerAddress": "omniflix1x9fxqdkg4rumkzrck8t3qnhm30jgfsx9latq8y"
+    },
+    {
+      "ticker": "REGEN",
+      "relayerAddress": "regen1x9fxqdkg4rumkzrck8t3qnhm30jgfsx9ap39x7"
+    },
+    {
+      "ticker": "SOMM",
+      "relayerAddress": "somm1x9fxqdkg4rumkzrck8t3qnhm30jgfsx9wl44ps"
+    },
+    {
+      "ticker": "LUNA",
+      "relayerAddress": "terra1waj96rg2a65uf8m9h9zmfpsp6ayy364z4zh0ec"
+    },
+    {
+      "ticker": "ODIN",
+      "relayerAddress": "odin14vrutp488vh4y2n07atq3r6d578zgwr43mv04r"
+    },
+    {
+      "ticker": "OSMO",
+      "relayerAddress": "osmo14vrutp488vh4y2n07atq3r6d578zgwr4aqeu0m"
+    },
+    {
+      "ticker": "KUJI",
+      "relayerAddress": "kujira14vrutp488vh4y2n07atq3r6d578zgwr4yng55r"
+    }
+  ]
+}
