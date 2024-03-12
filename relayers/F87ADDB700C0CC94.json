@@ -450,6 +450,10 @@
             "relayerAddress": "cudos18xrruhq5r246mwk0yj9elnn3mte8xa9upyjjjf"
         },
         {
+            "ticker": "CUDOS",
+            "relayerAddress": "cudos1ure9g8re7h3qpk7d976e6t8yf4l9lz2e2acjfl"
+        },
+        {
             "ticker": "XPRT",
             "relayerAddress": "persistence18xrruhq5r246mwk0yj9elnn3mte8xa9uwea7zc"
         },
