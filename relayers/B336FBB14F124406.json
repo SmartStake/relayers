@@ -9,6 +9,6 @@
    	"supportRelayerBy": "Deploying infrastructure with CUDOS Intercloud",
    	"chainsRelayed": [
    		{"ticker": "CUDOS", "relayerAddress": "cudos17n8xtf56hxjg68q5chvwj4j99ftsxgdu8nte50"},
-      {"ticker": "OSMO", "relayerAddress": "osmo1lhgh0ln98ln8xuzp4zvmuqhtr7txzx7qwwefc5"}
+   		{"ticker": "OSMO", "relayerAddress": "osmo1lhgh0ln98ln8xuzp4zvmuqhtr7txzx7qwwefc5"}
    	]
 }
