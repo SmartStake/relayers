@@ -20,7 +20,10 @@
             "ticker": "ATOM",
             "relayerAddress": "cosmos1wwxeusrluapjewppth29mp0dn6d8kukpa0l4zx"
         },
-
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1zehpqzm5hxhgpr3yf0j44ap5aue732lx6k62hn"
+        },
         {
             "ticker": "BAND",
             "relayerAddress": "band1grgqpjavx7u2rda5glwwq682h3ukvltk2q3yr6"
@@ -54,6 +57,11 @@
             "relayerAddress": "inj19cxl8av38pjgn4mwv7f7rn59heh89vmvnlv2gu"
         },
         {
+            "ticker": "INJ",
+            "relayerAddress": "inj1h0gdrzsp3jn39pr5j782wjtpr8vtlu0vru5na8"
+        },
+
+        {
             "ticker": "JUNO",
             "relayerAddress": "juno12mczzwe9jsgejx0vccjwa7gyl2zhjus664uqdy"
         },
@@ -64,6 +72,10 @@
         {
             "ticker": "OSMO",
             "relayerAddress": "osmo1v6evmh0wdfvs56nrkq0dd66yvpuj3paq3gzksp"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1zehpqzm5hxhgpr3yf0j44ap5aue732lxjdf6pp"
         },
         {
             "ticker": "QCK",
@@ -78,12 +90,24 @@
             "relayerAddress": "stride1asdzeurp6km7284xd23vuw4q3hsx3wlx4vjvcs"
         },
         {
+            "ticker": "STRD",
+            "relayerAddress": "stride1zehpqzm5hxhgpr3yf0j44ap5aue732lxea6krl"
+        },
+        {
             "ticker": "TIA",
             "relayerAddress": "celestia12qkshheaw2mrpr8asfj6jr9q2e5ms7qt7rzk2m"
         },
         {
+            "ticker": "TIA",
+            "relayerAddress": "celestia1zehpqzm5hxhgpr3yf0j44ap5aue732lxtut6d7"
+        },
+        {
             "ticker": "XPRT",
             "relayerAddress": "persistence1zycp4k7wrslx7dc5vw4c2ufkss2pfgfexrlrxl"
+        },
+        {
+            "ticker": "UMEE",
+            "relayerAddress": "umee1zehpqzm5hxhgpr3yf0j44ap5aue732lxgq84np"
         }
     ]
 }
