@@ -1,0 +1,15 @@
+{
+   	"keybaseIdentity": "B5D4A18843FE77E3",
+   	"name": "Daksha",
+   	"website": "https://keybase.io/dakshavalidator",
+   	"twitter": "DakshaValidator",
+   	"telegram": "DakshaValidator",
+   	"discord": "",
+   	"email": "dakshavalidator@gmail.com",
+   	"supportRelayerBy": "delegate to validator",
+   	"chainsRelayed": [
+   		{"ticker": "FLIX", "relayerAddress": "omniflix1mztfp6k2dzrnkkta0at032uhzdl9ma3nv6pjcu"},
+   		{"ticker": "IST", "relayerAddress": "agoric1mztfp6k2dzrnkkta0at032uhzdl9ma3nrej5l5"},
+      {"ticker": "AKT", "relayerAddress": "akash1mztfp6k2dzrnkkta0at032uhzdl9ma3nulavkc"}
+   	]
+}
