@@ -9,6 +9,7 @@
    	"supportRelayerBy": "delegate to validator",
    	"chainsRelayed": [
    		{"ticker": "FLIX", "relayerAddress": "omniflix1mztfp6k2dzrnkkta0at032uhzdl9ma3nv6pjcu"},
+         {"ticker": "OSMO", "relayerAddress": "osmo1mztfp6k2dzrnkkta0at032uhzdl9ma3nelrmes"},
    		{"ticker": "IST", "relayerAddress": "agoric1mztfp6k2dzrnkkta0at032uhzdl9ma3nrej5l5"},
          {"ticker": "AKT", "relayerAddress": "akash1mztfp6k2dzrnkkta0at032uhzdl9ma3nulavkc"}
    	]
