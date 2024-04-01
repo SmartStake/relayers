@@ -9,6 +9,7 @@
    	"supportRelayerBy": "delegate to validator",
    	"chainsRelayed": [
    		{"ticker": "INJ", "relayerAddress": "inj15swxp4kl8zkm6jjusy2a9dx9l6e9smjujfw4er"},
-   		{"ticker": "ATOM", "relayerAddress": "cosmos15swxp4kl8zkm6jjusy2a9dx9l6e9smjucqe3tm"}
+   		{"ticker": "ATOM", "relayerAddress": "cosmos15swxp4kl8zkm6jjusy2a9dx9l6e9smjucqe3tm"},
+         {"ticker": "OSMO", "relayerAddress" "osmo15swxp4kl8zkm6jjusy2a9dx9l6e9smjusm2paf"}
    	]
 }
