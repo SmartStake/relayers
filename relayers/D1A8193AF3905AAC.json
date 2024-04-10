@@ -1,0 +1,26 @@
+{
+   	"keybaseIdentity": "D1A8193AF3905AAC",
+   	"name": "StingRay",
+   	"website": "https://github.com/MikhailRadusha",
+   	"twitter": "Mikhail00847153", # @ not needed. full website address is not needed
+   	"telegram": "MikhailRadusha", #does not support multiple TG handles. full website address is not needed
+   	"discord": "null", #does not support multiple discord handles. full website address is needed
+   	"email": "null",
+   	"supportRelayerBy": "Reliable Proof-of-Stake Validator and Relayer",
+   	"chainsRelayed": [
+   		{"ticker": "ATOM", "relayerAddress": "cosmos170zfsfw24a8f4fg2rx3kyqwlmkh2e47agscp0h"},
+      {"ticker": "ATOM", "relayerAddress": "cosmos159gaewr4nesswlqjxw86772zvmny5fu2htmyww"},
+   		{"ticker": "OSMO", "relayerAddress": "osmo1pha26yqgtf8ved6m45nttjqha6t3gcna6zawne"},
+   		{"ticker": "OSMO", "relayerAddress": "osmo1a55lr6serr4gjf9n8nzdg6hmrzxcuhm4zy29y2"}, 
+   		{"ticker": "INJ", "relayerAddress": "inj10sjeaf5q9trvkeay5d07af9fy5h7c7evjftc9n"}, 
+      {"ticker": "AXL", "relayerAddress": "axelar13hpfes8n80c0se8pq4ca7jkgjzwextztwfv9yk"},
+      {"ticker": "AXL", "relayerAddress": "axelar1vhkx6wucvw352u4n4du3y6a2hxj3ajtkjvcd33"},
+      {"ticker": "KAVA", "relayerAddress": "kava10h7j3vp66p0k4f67x4n9jfm3dma5sjz4njfayy"},
+      {"ticker": "KAVA", "relayerAddress": "kava1j8cawfmsjqvcyxg4hp7e8tsk0z76xfmjk6et02"},
+      {"ticker": "USDC", "relayerAddress": "noble1ln04rnp6z7np8x7j9976hw3mmautfuqgxntsrx"},
+      {"ticker": "USDC", "relayerAddress": "noble10al0cjkarlfkgt2qcw9x09f5xh3ydg7v8vlmc7"},
+      {"ticker": "SEI", "relayerAddress": "sei1ym3rcer9p0cehj380tdp2qfpa6ksvtcf6jhj8g"},
+      {"ticker": "LUNA", "relayerAddress": "terra1dux73r96g5mt2rlrjf96zm84h0tknlgces82tt"},
+      {"ticker": "DYM", "relayerAddress": "dym10ywr073ycpewzzm4us6wrxqjjmxxwkf3auf95f"}
+   	]
+}
