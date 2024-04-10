@@ -1,7 +1,7 @@
 {
    	"keybaseIdentity": "47B453B80ECFA342",
    	"name": "CroutonDigital",
-   	"website": "https://nodes.crouton.digital",
+   	"website": "https://crouton.digital",
    	"twitter": "@CroutonDigital",
    	"telegram": "@toxa3333",
    	"discord": "ak32821",
@@ -21,5 +21,8 @@
          {"ticker": "STRD", "relayerAddress": "stride1r9dujmyxtu2fhadngs02jqw4g795095fwwxg9v"},
          {"ticker": "XPRT", "relayerAddress": "persistence163q6acq0qcvx8adye8t46wx5pdzpfvxnejlx6m"},
          {"ticker": "PICA", "relayerAddress": "centauri16qkk5sfvrw4e5j0knj4pv8fgh53thfg768hegh"},
+         {"ticker": "DVPN", "relayerAddress": "sent17pns7ujcjutrxrf9u0t9znvg5x3hv8l56flmnx"},
+         {"ticker": "COREUM", "relayerAddress": "core1yzwae8sy5pxe3pkdwh9prnj0ump90yg4x2eyfk"},
+         {"ticker": "DYM", "relayerAddress": "dym1p7ewhq483zfrj6y23n3duj7anyx558wqu860jc"},
    	]
 }
