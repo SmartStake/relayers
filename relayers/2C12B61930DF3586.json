@@ -1,0 +1,44 @@
+{
+  "keybaseIdentity": "2C12B61930DF3586",
+  "name": "BlueStake 🚀",
+  "website": "https://bluestake.net",
+  "twitter": "twitter.com/blueStakeNet",
+  "telegram": "",
+  "discord": "",
+  "email": "hello@bluestake.net",
+  "supportRelayerBy": "Highly secure and reliable infrastructure, distributed across various datacenters and operated by a team of DevOps engineers.",
+  "chainsRelayed": [
+    {
+      "ticker": "BCNA",
+      "relayerAddress": "bcna1x8xujz36hgmg27c6x87vxy4pzs5s45ecg0620g"
+    },
+    {
+      "ticker": "ATOM",
+      "relayerAddress": "cosmos1x8xujz36hgmg27c6x87vxy4pzs5s45ecjl2t86"
+    },
+    {
+      "ticker": "CMDX",
+      "relayerAddress": "comdex1x8xujz36hgmg27c6x87vxy4pzs5s45ec4sgf7d"
+    },
+    {
+      "ticker": "JUNO",
+      "relayerAddress": "juno1x8xujz36hgmg27c6x87vxy4pzs5s45ecydfsqx"
+    },
+    {
+      "ticker": "OSMO",
+      "relayerAddress": "osmo1x8xujz36hgmg27c6x87vxy4pzs5s45ec6yem3g"
+    },
+    {
+      "ticker": "STARS",
+      "relayerAddress": "stars1x8xujz36hgmg27c6x87vxy4pzs5s45ecxrakvt"
+    },
+    {
+      "ticker": "UMEE",
+      "relayerAddress": "umee1x8xujz36hgmg27c6x87vxy4pzs5s45ecqfh5rg"
+    },
+    {
+      "ticker": "XPRT",
+      "relayerAddress": "persistence1x8xujz36hgmg27c6x87vxy4pzs5s45ecunvcf7"
+    }
+  ]
+}
