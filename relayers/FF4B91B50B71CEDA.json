@@ -1,14 +1,24 @@
 {
-   	"keybaseIdentity": "FF4B91B50B71CEDA",
-   	"name": "Cosmic Validator",
-   	"website": "https://cosmicvalidator.com",
-   	"twitter": "CosmicValidator",
-   	"telegram": "cosmicvalidator",
-   	"discord": "",
-   	"email": "info@cosmicvalidator.com",
-   	"supportRelayerBy": "delegate to validator",
-   	"chainsRelayed": [
-   		{"ticker": "INJ", "relayerAddress": "inj15swxp4kl8zkm6jjusy2a9dx9l6e9smjujfw4er"},
-   		{"ticker": "ATOM", "relayerAddress": "cosmos15swxp4kl8zkm6jjusy2a9dx9l6e9smjucqe3tm"}
-   	]
+  "keybaseIdentity": "FF4B91B50B71CEDA",
+  "name": "Cosmic Validator",
+  "website": "https://cosmicvalidator.com",
+  "twitter": "CosmicValidator",
+  "telegram": "cosmicvalidator",
+  "discord": "",
+  "email": "info@cosmicvalidator.com",
+  "supportRelayerBy": "delegate to validator",
+  "chainsRelayed": [
+    {
+      "ticker": "INJ",
+      "relayerAddress": "inj15swxp4kl8zkm6jjusy2a9dx9l6e9smjujfw4er"
+    },
+    {
+      "ticker": "ATOM",
+      "relayerAddress": "cosmos15swxp4kl8zkm6jjusy2a9dx9l6e9smjucqe3tm"
+    },
+    {
+      "ticker": "OSMO",
+      "relayerAddress": "osmo15swxp4kl8zkm6jjusy2a9dx9l6e9smjusm2paf"
+    }
+  ]
 }

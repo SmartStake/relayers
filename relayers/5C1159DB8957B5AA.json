@@ -59,6 +59,18 @@
         {
             "ticker": "AXL",
             "relayerAddress": "axelar1qvf2yflf7jyldwfcdyrkz2nc0c2uhn9py3waly"
+        },
+        {
+            "ticker": "TIA",
+            "relayerAddress": "celestia10pjlfffruyzg2l6f6xqmtncyzvfez5wdaf99p7"
+        },
+        {
+            "ticker": "UMEE",
+            "relayerAddress": "umee10pjlfffruyzg2l6f6xqmtncyzvfez5wd74f2lp"
+        },
+        {
+            "ticker": "KUJI",
+            "relayerAddress": "kujira10pjlfffruyzg2l6f6xqmtncyzvfez5wdatkdke"
         }
     ]
 }

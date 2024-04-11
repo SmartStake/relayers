@@ -11,6 +11,7 @@
    		{"ticker": "OSMO", "relayerAddress": "osmo1hwp63qqxdxcw9v0wxs4plxl3jmglt7qlhzutej"},
    		{"ticker": "QCK", "relayerAddress": "quick1rfevkq527p9vtt72p09nlfltqx90uecn08mqqu"},
    		{"ticker": "HASH", "relayerAddress": "pb13yk4ucc79uv49fplv4nvftenuv4r74kpkrhrf8"}, 
-   		{"ticker": "TIA", "relayerAddress": "celestia1wmtmcjnes9r53npn5yfwpg09ze349453suh72a"} 
+   		{"ticker": "TIA", "relayerAddress": "celestia1wmtmcjnes9r53npn5yfwpg09ze349453suh72a"},
+         {"ticker": "DYM", "relayerAddress": "dym1dftvzyjj36h0dyjfse9ghp6ndf49ewgefs0g8x"}
    	]
 }

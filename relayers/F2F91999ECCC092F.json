@@ -1,18 +1,47 @@
 {
-   	"keybaseIdentity": "F2F91999ECCC092F",
-   	"name": "🔥STAVR🔥",
-   	"website": "https://github.com/obajay",
-   	"twitter": "null",
-   	"telegram": "@STAVRRR",
-   	"discord": "SAKURA#0129",
-   	"email": "t0themo0onn@gmail.com",
-   	"supportRelayerBy": "delegating to validator 🔥STAVR🔥",
-   	"chainsRelayed": [
-   		{"ticker": "ATOM", "relayerAddress": "cosmos1ksnuupxn5pjc6h0e5t4g0nfuxqadxzyf2ypmd9"},
-   		{"ticker": "OSMO", "relayerAddress": "osmo1at8e9mfuztffnc5mryehpl8yr5uewcggenffdu"},
-   		{"ticker": "JUNO", "relayerAddress": "juno1grhaqx02dg8ahwz9ca08d6lnun9hmaeajmx0sz"},
-   		{"ticker": "BCNA", "relayerAddress": "bcna1f990s6slx4s0qv9s9h476pah5cejzdmvgp0x58"},
-   		{"ticker": "QCK", "relayerAddress": "quick1s555gqq6yhqa4nw688tvs6mj8jaay6spp6aexn"},
-   		{"ticker": "UMEE", "relayerAddress": "umee15wn9jeqec7vy9h973lgr202jskjpuwzmq0z04k"}
-   	]
+    "keybaseIdentity": "F2F91999ECCC092F",
+    "name": "🔥STAVR🔥",
+    "website": "https://github.com/obajay",
+    "telegram": "https://t.me/STAVRRR",
+    "discord": "https://discordapp.com/users/765663833049661530",
+    "email": "stavr.tech@gmail.com",
+    "supportRelayerBy": "The STAVR team has been working on blockchain security and verification since 2020(in the crypto industry since 2017).Our team offers professional node operation with a focus on safety and reliability, low commissions, best uptime and 24/7 customer support. Active participant in all projects we validate, IBC repeater and network service provider since 2022.",
+    "chainsRelayed": [
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1at8e9mfuztffnc5mryehpl8yr5uewcggenffdu"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1ksnuupxn5pjc6h0e5t4g0nfuxqadxzyf2ypmd9"
+        },
+        {
+            "ticker": "TORI",
+            "relayerAddress": "tori17rwvng2fy6ldph8ntxa78t39t3laexkth7lutq"
+        },
+        {
+            "ticker": "HASH",
+            "relayerAddress": "pb1s30c5wsyzsuar2j4fz0fag8a20fxhyjdpd68pj"
+        },
+        {
+            "ticker": "JKL",
+            "relayerAddress": "jkl1hndhnzgrfk2xct890ah9d47spja8f2fpeumgwk"
+        },
+        {
+            "ticker": "QCK",
+            "relayerAddress": "quick1s555gqq6yhqa4nw688tvs6mj8jaay6spp6aexn"
+        },
+        {
+            "ticker": "BCNA",
+            "relayerAddress": "bcna1f990s6slx4s0qv9s9h476pah5cejzdmvgp0x58"
+        },
+        {
+            "ticker": "UMEE",
+            "relayerAddress": "umee15wn9jeqec7vy9h973lgr202jskjpuwzmq0z04k"
+        },
+        {
+            "ticker": "DYM",
+            "relayerAddress": "dym1al99xx93xc33n02uj9k69hw334ac8jvzcy3km3"
+        }
+    ]
 }
