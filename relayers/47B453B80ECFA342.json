@@ -1,28 +1,76 @@
 {
-   	"keybaseIdentity": "47B453B80ECFA342",
-   	"name": "CroutonDigital",
-   	"website": "https://crouton.digital",
-   	"twitter": "@CroutonDigital",
-   	"telegram": "@toxa3333",
-   	"discord": "ak32821",
-   	"email": "croutondigital@aol.com",
-   	"supportRelayerBy": "donate to relayer",
-   	"chainsRelayed": [
-   		{"ticker": "OSMO", "relayerAddress": "osmo1q8pj4z552p9wpmq7mhlzwhtr3p97j04fpyudm9"},
-   		{"ticker": "ARCH", "relayerAddress": "archway1ejkj6ssfuwsea0lj9g84n0fsdzkzs28v9p7ju4"},
-   		{"ticker": "ANDR", "relayerAddress": "andr1cmnkyhzk9uuwahk6kyeg640z6lwcydzvpkk5xm"}, 
-   		{"ticker": "CUDOS", "relayerAddress": "cudos1mdxmnfcr5ah30wt5q6k07vuhc4emjlluvnpygd"},
-         {"ticker": "ROCK", "relayerAddress": "pylo1nmy8vrf3pufhjgwzx5kd4qma4a3vmfzk9wnlh0"},
-         {"ticker": "TIA", "relayerAddress": "celestia1fq6ddllcan5fkmjyu93gwd7fyz06mu7xt95e9w"},
-         {"ticker": "INJ", "relayerAddress": "inj1ayp0emu7pxpgpeaxq8walyyx903nkd42yqva73"},
-         {"ticker": "DYDX", "relayerAddress": "dydx1d4k3ph805c7q42m3daeexycudhtgaykgjjc7ra"},
-         {"ticker": "AKT", "relayerAddress": "akash1qah0vkdk0lgxjtsucadvl52x2uwv3vgg9lm2cx"},
-         {"ticker": "EVMOS", "relayerAddress": "evmos1v8q6c5zz3sk222k2cx0cw4rjk2zls78m269qam"},
-         {"ticker": "STRD", "relayerAddress": "stride1r9dujmyxtu2fhadngs02jqw4g795095fwwxg9v"},
-         {"ticker": "XPRT", "relayerAddress": "persistence163q6acq0qcvx8adye8t46wx5pdzpfvxnejlx6m"},
-         {"ticker": "PICA", "relayerAddress": "centauri16qkk5sfvrw4e5j0knj4pv8fgh53thfg768hegh"},
-         {"ticker": "DVPN", "relayerAddress": "sent17pns7ujcjutrxrf9u0t9znvg5x3hv8l56flmnx"},
-         {"ticker": "COREUM", "relayerAddress": "core1yzwae8sy5pxe3pkdwh9prnj0ump90yg4x2eyfk"},
-         {"ticker": "DYM", "relayerAddress": "dym1p7ewhq483zfrj6y23n3duj7anyx558wqu860jc"},
-   	]
+	"keybaseIdentity": "47B453B80ECFA342",
+	"name": "CroutonDigital",
+	"website": "https://crouton.digital",
+	"twitter": "@CroutonDigital",
+	"telegram": "@toxa3333",
+	"discord": "ak32821",
+	"email": "croutondigital@aol.com",
+	"supportRelayerBy": "donate to relayer",
+	"chainsRelayed": [
+		{
+			"ticker": "OSMO",
+			"relayerAddress": "osmo1q8pj4z552p9wpmq7mhlzwhtr3p97j04fpyudm9"
+		},
+		{
+			"ticker": "ARCH",
+			"relayerAddress": "archway1ejkj6ssfuwsea0lj9g84n0fsdzkzs28v9p7ju4"
+		},
+		{
+			"ticker": "ANDR",
+			"relayerAddress": "andr1cmnkyhzk9uuwahk6kyeg640z6lwcydzvpkk5xm"
+		},
+		{
+			"ticker": "CUDOS",
+			"relayerAddress": "cudos1mdxmnfcr5ah30wt5q6k07vuhc4emjlluvnpygd"
+		},
+		{
+			"ticker": "ROCK",
+			"relayerAddress": "pylo1nmy8vrf3pufhjgwzx5kd4qma4a3vmfzk9wnlh0"
+		},
+		{
+			"ticker": "TIA",
+			"relayerAddress": "celestia1fq6ddllcan5fkmjyu93gwd7fyz06mu7xt95e9w"
+		},
+		{
+			"ticker": "INJ",
+			"relayerAddress": "inj1ayp0emu7pxpgpeaxq8walyyx903nkd42yqva73"
+		},
+		{
+			"ticker": "DYDX",
+			"relayerAddress": "dydx1d4k3ph805c7q42m3daeexycudhtgaykgjjc7ra"
+		},
+		{
+			"ticker": "AKT",
+			"relayerAddress": "akash1qah0vkdk0lgxjtsucadvl52x2uwv3vgg9lm2cx"
+		},
+		{
+			"ticker": "EVMOS",
+			"relayerAddress": "evmos1v8q6c5zz3sk222k2cx0cw4rjk2zls78m269qam"
+		},
+		{
+			"ticker": "STRD",
+			"relayerAddress": "stride1r9dujmyxtu2fhadngs02jqw4g795095fwwxg9v"
+		},
+		{
+			"ticker": "XPRT",
+			"relayerAddress": "persistence163q6acq0qcvx8adye8t46wx5pdzpfvxnejlx6m"
+		},
+		{
+			"ticker": "PICA",
+			"relayerAddress": "centauri16qkk5sfvrw4e5j0knj4pv8fgh53thfg768hegh"
+		},
+		{
+			"ticker": "DVPN",
+			"relayerAddress": "sent17pns7ujcjutrxrf9u0t9znvg5x3hv8l56flmnx"
+		},
+		{
+			"ticker": "COREUM",
+			"relayerAddress": "core1yzwae8sy5pxe3pkdwh9prnj0ump90yg4x2eyfk"
+		},
+		{
+			"ticker": "DYM",
+			"relayerAddress": "dym1p7ewhq483zfrj6y23n3duj7anyx558wqu860jc"
+		}
+	]
 }
