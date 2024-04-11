@@ -2,10 +2,10 @@
    	"keybaseIdentity": "D1A8193AF3905AAC",
    	"name": "StingRay",
    	"website": "https://github.com/MikhailRadusha",
-   	"twitter": "Mikhail00847153", # @ not needed. full website address is not needed
-   	"telegram": "MikhailRadusha", #does not support multiple TG handles. full website address is not needed
-   	"discord": "null", #does not support multiple discord handles. full website address is needed
-   	"email": "null",
+   	"twitter": "Mikhail00847153", 
+   	"telegram": "MikhailRadusha", 
+   	"discord": null, 
+   	"email": null,
    	"supportRelayerBy": "Reliable Proof-of-Stake Validator and Relayer",
    	"chainsRelayed": [
    		{"ticker": "ATOM", "relayerAddress": "cosmos170zfsfw24a8f4fg2rx3kyqwlmkh2e47agscp0h"},
