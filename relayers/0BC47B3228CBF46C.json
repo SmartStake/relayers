@@ -1,16 +1,20 @@
 {
-    "keybaseIdentity": "0BC47B3228CBF46C",
-    "name": "Chandra Station",
-    "website": "https://www.chandrastation.com/",
-    "twitter": null,
-    "telegram": null,
-    "discord": null,
-    "email": null,
-    "supportRelayerBy": "Stake with Forbole. Forbole provides enterprise level web3 infrastructure since 2018. We are your trusted staking partner.",
-    "chainsRelayed": [
-        {
-            "ticker": "JUNO",
-            "relayerAddress": null
-        }
-    ]
+  "keybaseIdentity": "0BC47B3228CBF46C",
+  "name": "Chandra Station",
+  "website": "https://www.chandrastation.com/",
+  "twitter": null,
+  "telegram": null,
+  "discord": null,
+  "email": null,
+  "supportRelayerBy": null,
+  "chainsRelayed": [
+    {
+      "ticker": "OSMO",
+      "relayerAddress": "osmo1uwqjtgjhjctjc45ugy7ev5prprhehc7w3xx7ph"
+    },
+    {
+      "ticker": "SAGA",
+      "relayerAddress": "saga1uwqjtgjhjctjc45ugy7ev5prprhehc7w8wvusr"
+    }
+  ]
 }
