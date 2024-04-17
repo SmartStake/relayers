@@ -71,6 +71,14 @@
         {
             "ticker": "KUJI",
             "relayerAddress": "kujira10pjlfffruyzg2l6f6xqmtncyzvfez5wdatkdke"
+        },
+        {
+            "ticker": "HUAHUA",
+            "relayerAddress": "chihuahua10pjlfffruyzg2l6f6xqmtncyzvfez5wd0kem63"
+        },
+        {
+            "ticker": "BLD",
+            "relayerAddress": "agoric19myc5gnz7np64uam0ptpj5gzcyr5cttgmqg3t3"
         }
     ]
 }
