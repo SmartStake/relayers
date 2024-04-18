@@ -15,6 +15,10 @@
     {
       "ticker": "SAGA",
       "relayerAddress": "saga1uwqjtgjhjctjc45ugy7ev5prprhehc7w8wvusr"
+    },
+    {
+      "ticker": "AXL",
+      "relayerAddress": "axelar1uwqjtgjhjctjc45ugy7ev5prprhehc7wanrxuy"
     }
   ]
 }
