@@ -87,6 +87,10 @@
     {
       "ticker": "DYM",
       "relayerAddress": "dym1w29rwsjjpcmen347qdugjfusun4xshq66arcly"
+    },
+    {
+      "ticker": "UMEE",
+      "relayerAddress": "umee1p4557mdpc2qk8vcemeqgrcg55gs2uyznkq2jrj"
     }
   ]
 }
