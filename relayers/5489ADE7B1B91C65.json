@@ -79,6 +79,18 @@
     {
       "ticker": "CORE",
       "relayerAddress": "core1jnavat7gf0s2gce5g5sk0s3c7x3xf26yppdthr"
+    },
+    {
+      "ticker": "SAGA",
+      "relayerAddress": "saga1p4557mdpc2qk8vcemeqgrcg55gs2uyzn69wlqx"
+    },
+    {
+      "ticker": "DYM",
+      "relayerAddress": "dym1w29rwsjjpcmen347qdugjfusun4xshq66arcly"
+    },
+    {
+      "ticker": "UMEE",
+      "relayerAddress": "umee1p4557mdpc2qk8vcemeqgrcg55gs2uyznkq2jrj"
     }
   ]
 }
