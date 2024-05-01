@@ -45,6 +45,14 @@
             "relayerAddress": "dydx12qkshheaw2mrpr8asfj6jr9q2e5ms7qtxsazsp"
         },
         {
+            "ticker": "DYDX",
+            "relayerAddress": "dydx1zehpqzm5hxhgpr3yf0j44ap5aue732lxn05why"
+        },
+        {
+            "ticker": "DYM",
+            "relayerAddress": "dym1h0gdrzsp3jn39pr5j782wjtpr8vtlu0vmg0323"
+        },
+        {
             "ticker": "EVMOS",
             "relayerAddress": "evmos14wp74cy9ymmt204n4u43jsusy3l4xchdrxh5nh"
         },
@@ -78,6 +86,10 @@
             "relayerAddress": "neutron1lwu58mywx0qe706u9hssgu48pz50gvnuluaddz"
         },
         {
+            "ticker": "NTRN",
+            "relayerAddress": "neutron1zehpqzm5hxhgpr3yf0j44ap5aue732lx7fngd5"
+        },
+        {
             "ticker": "OSMO",
             "relayerAddress": "osmo1v6evmh0wdfvs56nrkq0dd66yvpuj3paq3gzksp"
         },
@@ -88,6 +100,10 @@
         {
             "ticker": "QCK",
             "relayerAddress": "quick12qkshheaw2mrpr8asfj6jr9q2e5ms7qtydr5fy"
+        },
+        {
+            "ticker": "SAGA",
+            "relayerAddress": "saga1zehpqzm5hxhgpr3yf0j44ap5aue732lxy9rcs4"
         },
         {
             "ticker": "STARS",
