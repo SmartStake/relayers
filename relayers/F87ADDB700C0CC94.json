@@ -55,6 +55,10 @@
         }, 
         {
             "ticker": "ANDR",
+            "relayerAddress": "andr1nzjcsulyfxh0evmajk3ruawh407h5x8fgjkfyf"
+        }, 
+        {
+            "ticker": "ANDR",
             "relayerAddress": "andr1sl4lhh93laxhnfmhvuaw3tz2eqvuuh7dfp2aah"
         },
         {
