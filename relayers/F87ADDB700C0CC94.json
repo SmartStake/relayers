@@ -578,6 +578,10 @@
             "relayerAddress": "noble1nzjcsulyfxh0evmajk3ruawh407h5x8fc6trq2"
         },
         {
+            "ticker": "USDC",
+            "relayerAddress": "noble1sl4lhh93laxhnfmhvuaw3tz2eqvuuh7defhhe5"
+        },
+        {
             "ticker": "DYDX",
             "relayerAddress": "dydx18xrruhq5r246mwk0yj9elnn3mte8xa9ufv4fvt"
         },
