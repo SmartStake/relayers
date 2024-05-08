@@ -12,7 +12,6 @@
    		{"ticker": "BCNA", "relayerAddress": "bcna1sgsqsktsku3w5q34np2e7v603l2jn2uw70vvtg"},
    		{"ticker": "BTSG", "relayerAddress": "bitsong1r7uqwyuenmve76tvu6vyxrfec64qw93h5uay9a"},
    		{"ticker": "CTK", "relayerAddress": "shentu1sgsqsktsku3w5q34np2e7v603l2jn2uwvtc538"},
-   		{"ticker": "DSM", "relayerAddress": "desmos1j0g8z8mllzrd9hvsdfp4d22tn5yqu7n6hzk4ud"},
    		{"ticker": "LUM", "relayerAddress": "lum1sgsqsktsku3w5q34np2e7v603l2jn2uw34pykw"},
    		{"ticker": "OSMO", "relayerAddress": "osmo1sgsqsktsku3w5q34np2e7v603l2jn2uwvy0a4g"}
    	]
