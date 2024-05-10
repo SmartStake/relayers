@@ -73,6 +73,10 @@
             "relayerAddress": "mars1nnjy6nct405pzfaqjm3dsyw0pf0kyw72vhw4pr"
         },
         {
+            "ticker": "NOBLE",
+            "relayerAddress": "noble1n6j7gnld9yxfyh6tflxhjjmt404zruuapayrhf"
+        },
+        {
             "ticker": "NTRN",
             "relayerAddress": "neutron1n6j7gnld9yxfyh6tflxhjjmt404zruuadpcf4q"
         },
@@ -87,6 +91,10 @@
         {
             "ticker": "OSMO",
             "relayerAddress": "osmo1n6j7gnld9yxfyh6tflxhjjmt404zruuap9zme4"
+        },
+        {
+            "ticker": "SAGA",
+            "relayerAddress": "saga1n6j7gnld9yxfyh6tflxhjjmt404zruuahdgegp"
         },
         {
             "ticker": "SOMM",
