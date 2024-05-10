@@ -56,8 +56,16 @@
         {
             "ticker": "ANDR",
             "relayerAddress": "andr1nzjcsulyfxh0evmajk3ruawh407h5x8fgjkfyf"
+        }, 
+        {
+            "ticker": "ANDR",
+            "relayerAddress": "andr1sl4lhh93laxhnfmhvuaw3tz2eqvuuh7dfp2aah"
         },
-                {
+        {
+            "ticker": "ARCH",
+            "relayerAddress": "archway18xrruhq5r246mwk0yj9elnn3mte8xa9u478fxt"
+        },
+        {
             "ticker": "ARCH",
             "relayerAddress": "archway18xrruhq5r246mwk0yj9elnn3mte8xa9u478fxt"
         },
@@ -156,6 +164,10 @@
         {
             "ticker": "AXL",
             "relayerAddress": "axelar1nzjcsulyfxh0evmajk3ruawh407h5x8f5hgrn9"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar1sl4lhh93laxhnfmhvuaw3tz2eqvuuh7d4y5h2m"
         },
         {
             "ticker": "BCNA",
@@ -294,6 +306,10 @@
             "relayerAddress": "osmo1j6swju2q7zywxmpcttcw4k98j7fphx5nu4scjy"
         },
         {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1sl4lhh93laxhnfmhvuaw3tz2eqvuuh7de330hg"
+        },
+        {
             "ticker": "SCRT",
             "relayerAddress": "secret1czy3ak7s26sajcr99cyzfd2l75rprjxlkw4n6t"
         },
@@ -316,6 +332,10 @@
         {
             "ticker": "SCRT",
             "relayerAddress": "secret1mqhe4xztskmnnh32xey0fkh0ryfzqm4us7ur6w"
+        },
+        {
+            "ticker": "SCRT",
+            "relayerAddress": "secret1gel2sgsq63ytxgz9rnjaqx7uzypxtggpgvl5lu"
         },
         {
             "ticker": "SOMM",
@@ -344,6 +364,10 @@
         {
             "ticker": "STRD",
             "relayerAddress": "stride1nzjcsulyfxh0evmajk3ruawh407h5x8fnj7hvg"
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride1sl4lhh93laxhnfmhvuaw3tz2eqvuuh7djpzr4k"
         },
         {
             "ticker": "LUNA",
@@ -552,6 +576,10 @@
         {
             "ticker": "USDC",
             "relayerAddress": "noble1nzjcsulyfxh0evmajk3ruawh407h5x8fc6trq2"
+        },
+        {
+            "ticker": "USDC",
+            "relayerAddress": "noble1sl4lhh93laxhnfmhvuaw3tz2eqvuuh7defhhe5"
         },
         {
             "ticker": "DYDX",
