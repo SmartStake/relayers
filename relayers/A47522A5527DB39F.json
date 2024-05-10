@@ -4,7 +4,7 @@
     "website": "https://silentvalidator.com/",
     "twitter": "https://twitter.com/EthExploring",
     "telegram": "https://t.me/stakewithsilent",
-    "discord": "https://discord.gg/95hXhcAWeB",
+    "discord": "https://discordapp.com/users/521362143279448075",
     "email": "silentvalidator@gmail.com",
     "supportRelayerBy": "delegating to validator",
     "chainsRelayed": [
@@ -39,6 +39,14 @@
         {
             "ticker": "ACRE",
             "relayerAddress": "acre1sw0n85xj7lsuq6k5uhrc8q23vj3p4gc2n0c36r"
+        },
+        {
+            "ticker": "DYM",
+            "relayerAddress": "dym1sw0n85xj7lsuq6k5uhrc8q23vj3p4gc2m3v5qq"
+        },
+        {
+            "ticker": "PASG",
+            "relayerAddress": "pasg1ntn96vkz77ky5kdnetyjtz2883fqwacln3uw2d"
         }
     ]
 }
