@@ -101,6 +101,10 @@
             "relayerAddress": "tgrade1nna7k5lywn99cd63elcfqm6p8c5c4qcur4488y"
         },
         {
+            "ticker": "TIA",
+            "relayerAddress": "celestia1nna7k5lywn99cd63elcfqm6p8c5c4qcuelvfne"
+        },
+        {
             "ticker": "UMEE",
             "relayerAddress": "umee1nna7k5lywn99cd63elcfqm6p8c5c4qcu6rqxdx"
         }

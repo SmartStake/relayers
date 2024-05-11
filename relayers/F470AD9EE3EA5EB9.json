@@ -1,0 +1,20 @@
+{
+   	"keybaseIdentity": "F470AD9EE3EA5EB9",
+   	"name": "MAHOF",
+   	"website": "https://mahof.info",
+   	"twitter": "etcminer",
+   	"telegram": "mahof",
+   	"discord": "mahof",
+   	"email": "mahof@mahof.info",
+   	"supportRelayerBy": "You can delegate to support",
+   	"chainsRelayed": [
+   		{"ticker": "ATOM", "relayerAddress": "cosmos1ljgl8ejac29kjlxtjg5jyc7262pqrj05frs29x"},
+   		{"ticker": "OSMO", "relayerAddress": "osmo1ljgl8ejac29kjlxtjg5jyc7262pqrj05pcr6n5"},
+   		{"ticker": "DYM", "relayerAddress": "dym1guej5kdusmqt25kwztmu8twssf668qt6upsqsz"},
+   		{"ticker": "STARS", "relayerAddress": "stars1ljgl8ejac29kjlxtjg5jyc7262pqrj05al8hwh"},
+   		{"ticker": "QCK", "relayerAddress": "quick1ljgl8ejac29kjlxtjg5jyc7262pqrj05z8qcu5"},
+   		{"ticker": "TIA", "relayerAddress": "celestia1ljgl8ejac29kjlxtjg5jyc7262pqrj05cfp6lt"},
+   		{"ticker": "LORE", "relayerAddress": "gitopia1ljgl8ejac29kjlxtjg5jyc7262pqrj05hmha29"}      
+
+   	]
+}

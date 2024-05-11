@@ -1,0 +1,17 @@
+{
+   	"keybaseIdentity": "34589DAF06970635",
+   	"name": "jayjay",
+   	"website": "https://twitter.com/javalry1",
+   	"twitter": "javalry1",
+   	"telegram": "jayjayval",
+   	"discord": "jayjay4970",
+   	"email": "ipspoff1997@gmail.com",
+   	"supportRelayerBy": "Support us & Delegate to us",
+   	"chainsRelayed": [
+		{ "ticker": "DYM", "relayerAddress": "dym1w0k8tnunamvmfaarekwhma982meazx4d7wfqgc"},
+		{ "ticker": "OSMO", "relayerAddress": "osmo1zzvt0q4klzacf9alwqpcwctyx3aae4nhg3g5vn"},
+		{"ticker": "NOIS", "relayerAddress": "nois1zzvt0q4klzacf9alwqpcwctyx3aae4nh3zxwke"},
+		{"ticker": "SGE", "relayerAddress": "sge1zzvt0q4klzacf9alwqpcwctyx3aae4nh7296dt"},
+		{"ticker": "INJ", "relayerAddress": "inj1zzvt0q4klzacf9alwqpcwctyx3aae4nh2rvqge"}
+	]
+}

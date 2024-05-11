@@ -131,6 +131,14 @@
         {
             "ticker": "SOURCE",
             "relayerAddress": "source1nms20r7jzaa4ms9exv90ckl2xfn0rd3rgcjycj"
+        },
+        {
+            "ticker": "SAGA",
+            "relayerAddress": "saga1nms20r7jzaa4ms9exv90ckl2xfn0rd3rscjg02"
+        },
+        {
+            "ticker": "DHP",
+            "relayerAddress": "dh1nms20r7jzaa4ms9exv90ckl2xfn0rd3ru7ku4d"
         }
     ]
 }

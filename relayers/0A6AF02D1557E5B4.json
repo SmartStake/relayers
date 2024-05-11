@@ -53,6 +53,10 @@
       "relayerAddress": "cro1w6cum6t9grjwj2aj2fqp3gmqyfh0lp57cnmxvq"
     },
     {
+      "ticker": "DYM",
+      "relayerAddress": "dym155kxha8lj8yszuf5a38ea960w0pg4q5u3xcken"
+    },
+    {
       "ticker": "EVMOS",
       "relayerAddress": "evmos1fgdn737xmvvsvjnjghxpjcrw02ux9705ydxxgs"
     },

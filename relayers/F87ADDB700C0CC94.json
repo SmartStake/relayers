@@ -56,8 +56,16 @@
         {
             "ticker": "ANDR",
             "relayerAddress": "andr1nzjcsulyfxh0evmajk3ruawh407h5x8fgjkfyf"
+        }, 
+        {
+            "ticker": "ANDR",
+            "relayerAddress": "andr1sl4lhh93laxhnfmhvuaw3tz2eqvuuh7dfp2aah"
         },
-                {
+        {
+            "ticker": "ARCH",
+            "relayerAddress": "archway18xrruhq5r246mwk0yj9elnn3mte8xa9u478fxt"
+        },
+        {
             "ticker": "ARCH",
             "relayerAddress": "archway18xrruhq5r246mwk0yj9elnn3mte8xa9u478fxt"
         },
@@ -156,6 +164,10 @@
         {
             "ticker": "AXL",
             "relayerAddress": "axelar1nzjcsulyfxh0evmajk3ruawh407h5x8f5hgrn9"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar1sl4lhh93laxhnfmhvuaw3tz2eqvuuh7d4y5h2m"
         },
         {
             "ticker": "BCNA",
@@ -282,6 +294,22 @@
             "relayerAddress": "osmo18xrruhq5r246mwk0yj9elnn3mte8xa9ugwga6w"
         },
         {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1ure9g8re7h3qpk7d976e6t8yf4l9lz2erhzapc"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo159rufrfkf5g8qld5zqlsejesr4mlnfx06dyzum"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1j6swju2q7zywxmpcttcw4k98j7fphx5nu4scjy"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1sl4lhh93laxhnfmhvuaw3tz2eqvuuh7de330hg"
+        },
+        {
             "ticker": "SCRT",
             "relayerAddress": "secret1czy3ak7s26sajcr99cyzfd2l75rprjxlkw4n6t"
         },
@@ -304,6 +332,10 @@
         {
             "ticker": "SCRT",
             "relayerAddress": "secret1mqhe4xztskmnnh32xey0fkh0ryfzqm4us7ur6w"
+        },
+        {
+            "ticker": "SCRT",
+            "relayerAddress": "secret1gel2sgsq63ytxgz9rnjaqx7uzypxtggpgvl5lu"
         },
         {
             "ticker": "SOMM",
@@ -332,6 +364,10 @@
         {
             "ticker": "STRD",
             "relayerAddress": "stride1nzjcsulyfxh0evmajk3ruawh407h5x8fnj7hvg"
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride1sl4lhh93laxhnfmhvuaw3tz2eqvuuh7djpzr4k"
         },
         {
             "ticker": "LUNA",
@@ -442,6 +478,10 @@
             "relayerAddress": "cudos18xrruhq5r246mwk0yj9elnn3mte8xa9upyjjjf"
         },
         {
+            "ticker": "CUDOS",
+            "relayerAddress": "cudos1ure9g8re7h3qpk7d976e6t8yf4l9lz2e2acjfl"
+        },
+        {
             "ticker": "XPRT",
             "relayerAddress": "persistence18xrruhq5r246mwk0yj9elnn3mte8xa9uwea7zc"
         },
@@ -538,6 +578,10 @@
             "relayerAddress": "noble1nzjcsulyfxh0evmajk3ruawh407h5x8fc6trq2"
         },
         {
+            "ticker": "USDC",
+            "relayerAddress": "noble1sl4lhh93laxhnfmhvuaw3tz2eqvuuh7defhhe5"
+        },
+        {
             "ticker": "DYDX",
             "relayerAddress": "dydx18xrruhq5r246mwk0yj9elnn3mte8xa9ufv4fvt"
         },
@@ -600,6 +644,78 @@
         {
             "ticker": "LUNA",
             "relayerAddress": "terra1pn3t586r4t0w4w4pncmmdnsl3fqmj625xngs80"
+        },
+        {
+            "ticker": "DYM",
+            "relayerAddress": "dym1mx070d26eu5trde862pfl6gaqmzlcj99ye4xcu"
+        },
+        {
+            "ticker": "SEI",
+            "relayerAddress": "sei18xrruhq5r246mwk0yj9elnn3mte8xa9ude2m2a"
+        },
+        {
+            "ticker": "SEI",
+            "relayerAddress": "sei1ure9g8re7h3qpk7d976e6t8yf4l9lz2exqqm3t"
+        },
+        {
+            "ticker": "SEI",
+            "relayerAddress": "sei159rufrfkf5g8qld5zqlsejesr4mlnfx0l6xyvg"
+        },
+        {
+            "ticker": "SEI",
+            "relayerAddress": "sei1j6swju2q7zywxmpcttcw4k98j7fphx5nezj7zh"
+        },
+        {
+            "ticker": "SEI",
+            "relayerAddress": "sei1aypuqvaaq54jn3zleqd6lamnxruun5nevnlkvw"
+        },
+        {
+            "ticker": "SEI",
+            "relayerAddress": "sei1nzjcsulyfxh0evmajk3ruawh407h5x8fa40a79"
+        },
+        {
+            "ticker": "NIBI",
+            "relayerAddress": "nibi1ure9g8re7h3qpk7d976e6t8yf4l9lz2euf457e"
+        },
+        {
+            "ticker": "NIBI",
+            "relayerAddress": "nibi159rufrfkf5g8qld5zqlsejesr4mlnfx09nntr6"
+        },
+        {
+            "ticker": "NIBI",
+            "relayerAddress": "nibi1j6swju2q7zywxmpcttcw4k98j7fphx5nrt83d9"
+        },
+        {
+            "ticker": "NIBI",
+            "relayerAddress": "nibi1aypuqvaaq54jn3zleqd6lamnxruun5nek62eru"
+        },
+        {
+            "ticker": "NIBI",
+            "relayerAddress": "nibi1nzjcsulyfxh0evmajk3ruawh407h5x8f8u6j3h"
+        },
+        {
+            "ticker": "SAGA",
+            "relayerAddress": "saga18xrruhq5r246mwk0yj9elnn3mte8xa9u7xzlt6"
+        },
+        {
+            "ticker": "SAGA",
+            "relayerAddress": "saga1ure9g8re7h3qpk7d976e6t8yf4l9lz2e4lglsv"
+        },
+        {
+            "ticker": "SAGA",
+            "relayerAddress": "saga159rufrfkf5g8qld5zqlsejesr4mlnfx0v9wqd0"
+        },
+        {
+            "ticker": "SAGA",
+            "relayerAddress": "saga1j6swju2q7zywxmpcttcw4k98j7fphx5n2a66rs"
+        },
+        {
+            "ticker": "SAGA",
+            "relayerAddress": "saga1aypuqvaaq54jn3zleqd6lamnxruun5nelvhjdf"
+        },
+        {
+            "ticker": "SAGA",
+            "relayerAddress": "saga1nzjcsulyfxh0evmajk3ruawh407h5x8fw28elz"
         }
     ]
 }

@@ -128,6 +128,10 @@
         {
             "ticker": "STARS",
             "relayerAddress": "stars1q6cc9u0x5r3fkjcex0rgxee5qlu86w8rrknukr"
+        },
+        {
+            "ticker": "DYM",
+            "relayerAddress": "dym1c2c0lp2guw4kgvwf6gazu6crde5nav537d5md6"
         }
     ]
 }

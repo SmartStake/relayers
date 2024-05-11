@@ -211,6 +211,14 @@
         {
             "ticker": "ATOLO",
             "relayerAddress": "rizon16vmp7sz28pnvgz6f3zm6q93y39jsd33ah3eu5c"
+        },
+        {
+            "ticker": "DYM",
+            "relayerAddress": "dym1yp9cvg8rncfh07xcsmafte6jf860qq5vlwp32t"
+        },
+        {
+            "ticker": "DYM",
+            "relayerAddress": "dym1eplg3py322dwhsjqxpmqyaczfghnjeen5620pc"
         }
     ]
 }

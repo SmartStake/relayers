@@ -1,28 +1,93 @@
 {
-    "keybaseIdentity": "A3D7C36FA55681A2",
-    "name": "Highlander | ChainTools",
-    "website": "https://chaintools.tech/",
-    "twitter": null,
-    "telegram": null,
-    "discord": null,
-    "email": null,
-    "supportRelayerBy": "delegating to validator",
+    "keybaseIdentity": "1857FF1BC2EA6A69",
+    "name": "chaintools.tech",
+    "website": "https://chaintools.tech",
+    "twitter": "https://twitter.com/ChaintoolsT",
+    "telegram": "https://t.me/chaintoolsT",
+    "discord": "https://discord.gg/RBhXtfec",
+    "email": "contact@chaintools.tech",
+    "supportRelayerBy": "Delegating to Validator",
     "chainsRelayed": [
-        {
-            "ticker": "EVMOS",
-            "relayerAddress": null
+         {
+            "ticker": "ACRE",
+            "relayerAddress": "acre1ml253qn7agm5667tqrxr8h3f88aa8jz8uuk5ud"
         },
         {
-            "ticker": "JUNO",
-            "relayerAddress": null
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1efwn09hmqx34tvgdvkk4e6vvzj9gtr58lvqhdu"
+        },
+       
+        {
+            "ticker": "EVMOS",
+            "relayerAddress": "evmos19u79wzzupuhhdc8jwa4r28n237unvck8gqm846"
+        },
+          {
+            "ticker": "JKL",
+            "relayerAddress": "jkl1vp9xldhdmjfmnwel7nl6tgy8numduq084vft6t"
         },
         {
             "ticker": "KUJI",
-            "relayerAddress": null
+            "relayerAddress": "kujira1efwn09hmqx34tvgdvkk4e6vvzj9gtr58wyz0qk"
+        },
+        {
+            "ticker": "BTSG",
+            "relayerAddress": "bitsong1vp9xldhdmjfmnwel7nl6tgy8numduq08qm4jpm"
+        },
+        {
+            "ticker": "TIA",
+            "relayerAddress": "celestia1efwn09hmqx34tvgdvkk4e6vvzj9gtr58wx38h3"
+        },
+        {
+            "ticker": "JUNO",
+            "relayerAddress": "juno1efwn09hmqx34tvgdvkk4e6vvzj9gtr58f7rv2q"
+        },
+        {
+            "ticker": "SWTH",
+            "relayerAddress": "swth1ml253qn7agm5667tqrxr8h3f88aa8jz8epypse"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1vp9xldhdmjfmnwel7nl6tgy8numduq08yf524x"
+        },
+        {
+            "ticker": "DSM",
+            "relayerAddress": "desmos1ml253qn7agm5667tqrxr8h3f88aa8jz8j8r85c"
         },
         {
             "ticker": "STRD",
-            "relayerAddress": null
+            "relayerAddress": "stride1efwn09hmqx34tvgdvkk4e6vvzj9gtr58u8qtes"
+        },
+        {
+            "ticker": "XKI",
+            "relayerAddress": "ki1vp9xldhdmjfmnwel7nl6tgy8numduq08alk48q"
+        },
+        {
+            "ticker": "FLIX",
+            "relayerAddress": "omniflix1vp9xldhdmjfmnwel7nl6tgy8numduq083vkr52"
+        },
+        {
+            "ticker": "DVPN",
+            "relayerAddress": "sent1vp9xldhdmjfmnwel7nl6tgy8numduq08hf3r8m"
+        },
+        {
+            "ticker": "FET",
+            "relayerAddress": "fetch1vp9xldhdmjfmnwel7nl6tgy8numduq08l0w7pr"
+        },
+        {
+            "ticker": "CMDX",
+            "relayerAddress": "comdex1ml253qn7agm5667tqrxr8h3f88aa8jz8psv46h"
+        },
+        {
+            "ticker": "DEC",
+            "relayerAddress": "decentr1vp9xldhdmjfmnwel7nl6tgy8numduq088upwzu"
+        },
+        {
+            "ticker": "KUJI",
+            "relayerAddress": "kujira1efwn09hmqx34tvgdvkk4e6vvzj9gtr58wyz0qk"
+        },
+        {
+            "ticker": "NOIS",
+            "relayerAddress": "nois1efwn09hmqx34tvgdvkk4e6vvzj9gtr58wyaapy"
         }
     ]
 }

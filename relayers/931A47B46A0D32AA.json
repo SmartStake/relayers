@@ -71,6 +71,10 @@
         {
             "ticker": "QWOYN",
             "relayerAddress": "qwoyn1p0x73j998sncjd0jqgvznun0p7xtf8madardp4"
+        },
+        {
+            "ticker": "DYM",
+            "relayerAddress": "dym165kynzttttckd7f0cuf9mvwf8s0fahdveu60qk"
         }
     ]
 }
