@@ -6,7 +6,7 @@
 	"telegram": "https://t.me/team_whispernode",
 	"discord": "https://discord.gg/4E5KZsRtjE",
 	"email": "security@whispernode.com",
-	"supportRelayerBy": "WhisperNode is a community validator & infrastructure provider. Consider supporting our IBC relaying efforts by delegating!",
+	"supportRelayerBy": "Delegate to WhisperNode to fuel our FREE 26+ mainnet network IBC relayers!",
 	"chainsRelayed": [
 		{
 			"ticker": "AKT",
@@ -82,7 +82,7 @@
 		},
 		{
 			"ticker": "PICA",
-			"relayerAddress": "centauri1ryq6zncdxpdnnwhn9h24ar48ap9zkqglahpkwl"
+			"relayerAddress": "pica1ryq6zncdxpdnnwhn9h24ar48ap9zkqglzp00wt"
 		},
 		{
 			"ticker": "QSR",
@@ -91,6 +91,10 @@
 		{
 			"ticker": "SCRT",
 			"relayerAddress": "secret1xpgjd2akpc8gmwez25keftpmlgs4aa3un463s7"
+		},
+		{
+			"ticker": "SEDA",
+			"relayerAddress": "seda1ryq6zncdxpdnnwhn9h24ar48ap9zkqgl0nqjfd"
 		},
 		{
 			"ticker": "STARS",
