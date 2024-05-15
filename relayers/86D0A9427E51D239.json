@@ -42,7 +42,7 @@
         },
         {
             "ticker": "PICA",
-            "relayerAddress": "centauri1ek7y9jex32ljxz7sgsjkrwrhsa4evyn026y05v"
+            "relayerAddress": "pica1ek7y9jex32ljxz7sgsjkrwrhsa4evyn04v2k5c"
         },
         {
             "ticker": "LORE",
@@ -69,8 +69,20 @@
             "relayerAddress": "core1tmj3v09rvk9a0natgkfn3r8272et5rpzl39sgd"
         },
         {
+            "ticker": "SEDA",
+            "relayerAddress": "seda1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0c79tn7"
+        },
+        {
             "ticker": "SGE",
             "relayerAddress": "sge1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0sshd84"
+        },
+        {
+            "ticker": "NIBI",
+            "relayerAddress": "nibi1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0e4d2ev"
+        },
+        {
+            "ticker": "ANDR",
+            "relayerAddress": "andr1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0kmp3vj"
         }
     ]
 }
