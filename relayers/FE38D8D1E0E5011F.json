@@ -10,7 +10,7 @@
   "chainsRelayed": [
     {"ticker": "JUNO", "relayerAddress": "juno18eee2859hfpmfz0qfcv2gvlkh832fyvtee87q0"},
     {"ticker": "OSMO", "relayerAddress": "osmo1jvzym275w6ajufpa8khadtkmugw68e2wg3f6hu"},
-    {"ticker": "PICA", "relayerAddress": "centauri15e4c99eauuhsq79n5s85znak5khrj4ad7tn46y"},
+    {"ticker": "PICA", "relayerAddress": "pica15e4c99eauuhsq79n5s85znak5khrj4adpaav6s"},
     {"ticker": "LORE", "relayerAddress": "gitopia1he2xxjh3l9p8c6xgd9c84qxgqv0860xpvus0x5"},
     {"ticker": "EVMOS", "relayerAddress": "evmos1lacl8rfxjuu3mj50szhc7szvnjgyrxmkaywgv6"},
     {"ticker": "UMEE", "relayerAddress": "umee1hu66qqhnwclr0tmh8uft5kwl97z5qgt7pf8596"},
