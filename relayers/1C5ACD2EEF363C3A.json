@@ -29,10 +29,6 @@
             "relayerAddress": "agoric1twmgaeug7ymjq8c53ttstpl7rny43q8zh4rnh3"
         },
         {
-            "ticker": "TORI",
-            "relayerAddress": "tori1twmgaeug7ymjq8c53ttstpl7rny43q8z8uk9uh"
-        },
-        {
             "ticker": "JKL",
             "relayerAddress": "jkl1twmgaeug7ymjq8c53ttstpl7rny43q8zuk0a7c"
         },
@@ -77,16 +73,8 @@
             "relayerAddress": "qwoyn1twmgaeug7ymjq8c53ttstpl7rny43q8zcgqjqx"
         },
         {
-            "ticker": "AXL",
-            "relayerAddress": "axelar1twmgaeug7ymjq8c53ttstpl7rny43q8zpxhyvx"
-        },
-        {
             "ticker": "TIA",
             "relayerAddress": "celestia1twmgaeug7ymjq8c53ttstpl7rny43q8z5zsua2"
-        },
-        {
-            "ticker": "DYM",
-            "relayerAddress": "dym1twmgaeug7ymjq8c53ttstpl7rny43q8zh4d2zf"
         },
         {
             "ticker": "NIBI",
