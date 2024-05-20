@@ -62,6 +62,10 @@
             "relayerAddress": "andr1sl4lhh93laxhnfmhvuaw3tz2eqvuuh7dfp2aah"
         },
         {
+            "ticker": "ANDR",
+            "relayerAddress": "andr19cwv0e5f5x08ak5zfkhh6l835vh5ag4gf79e4p"
+        },
+        {
             "ticker": "ARCH",
             "relayerAddress": "archway18xrruhq5r246mwk0yj9elnn3mte8xa9u478fxt"
         },
@@ -238,6 +242,10 @@
             "relayerAddress": "inj1xrt872jv434lyemcvk2f3dwh9cyqwmf06rhyj2"
         },
         {
+            "ticker": "INJ",
+            "relayerAddress": "inj17gwyjza5ecadqzl45493uhc4v8u9955vjyw0s7"
+        },
+        {
             "ticker": "IXO",
             "relayerAddress": "ixo18xrruhq5r246mwk0yj9elnn3mte8xa9ulq9lg0"
         },
@@ -276,6 +284,10 @@
         {
             "ticker": "KUJI",
             "relayerAddress": "kujira1nzjcsulyfxh0evmajk3ruawh407h5x8fp3un4w"
+        },
+        {
+            "ticker": "LUNA",
+            "relayerAddress": "terra1r0huxlu7h2xrzm5382mvzg504ymq44zrte49du"
         },
         {
             "ticker": "MARS",
@@ -336,6 +348,10 @@
         {
             "ticker": "SCRT",
             "relayerAddress": "secret1gel2sgsq63ytxgz9rnjaqx7uzypxtggpgvl5lu"
+        },
+        {
+            "ticker": "SCRT",
+            "relayerAddress": "secret162ayeartz2qkgszu4tt76xsxu00w5jh4men73q"
         },
         {
             "ticker": "SOMM",
