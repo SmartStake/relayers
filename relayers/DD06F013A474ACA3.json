@@ -94,6 +94,10 @@
             "relayerAddress": "osmo1zehpqzm5hxhgpr3yf0j44ap5aue732lxjdf6pp"
         },
         {
+            "ticker": "PRYZM",
+            "relayerAddress": "pryzm12qkshheaw2mrpr8asfj6jr9q2e5ms7qtheypw9"
+        },
+        {
             "ticker": "QCK",
             "relayerAddress": "quick12qkshheaw2mrpr8asfj6jr9q2e5ms7qtydr5fy"
         },
