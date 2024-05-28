@@ -45,12 +45,8 @@
             "relayerAddress": "evmos133czv5w6cr7amkpdv5q5elaytytp6enjk3gny8"
         },
         {
-            "ticker": "CRE",
-            "relayerAddress": "cre1vcadsqy5k8vd2g9ej8t0696gjwrla0txkvnhg4"
-        },
-        {
-            "ticker": "CRE",
-            "relayerAddress": "cre1gtzmqwxawwgd7y73m0g2570nt5thjkxz6umeta"
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1dyh8eu7k3n4uud3sz4vthlnc7l6garwcxyqy2w"
         },
         {
             "ticker": "UMEE",
@@ -70,7 +66,7 @@
         },
         {
             "ticker": "PICA",
-            "relayerAddress": "centauri18hnewzgssyx2448mwwylpryz220ccs8a0g77rr"
+            "relayerAddress": "pica18hnewzgssyx2448mwwylpryz220ccs8as7s8rh"
         },
         {
             "ticker": "DYM",
