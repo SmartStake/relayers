@@ -1,0 +1,16 @@
+{
+   	"keybaseIdentity": "0C293487659F3386",
+   	"name": "openbitlab",
+   	"website": "https://openbitlab.com",
+   	"twitter": "Openbitlab_node", 
+   	"telegram": "null",
+   	"discord": "null",
+   	"email": "null",
+   	"supportRelayerBy": "delegate to validator",
+   	"chainsRelayed": [
+   		{"ticker": "TIA", "relayerAddress": "celestia1upfntzwm4qzal6fyah6sf9d4uyte5sjucdj04q"},
+   		{"ticker": "KUJI", "relayerAddress": "kujira1yf7xy4rvpfxy4sfhhphef0uzue5tj5t4yqpyte"},
+   		{"ticker": "STRD", "relayerAddress": "stride1x3s9uhrakmzlew3sgtyszs9z9qmcmw8zfasztq"},
+   		{"ticker": "ARCH", "relayerAddress": "archway1vfsly37szfmaukxy2gfqlt4cq82lwvfhh657u4"}
+   	]
+}
