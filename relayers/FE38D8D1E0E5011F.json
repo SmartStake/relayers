@@ -23,6 +23,7 @@
     {"ticker": "PLQ", "relayerAddress": "plq1hpee9ds0q9ma79d8jyh969thju75cm43npms6q"},
     {"ticker": "ANDR", "relayerAddress": "andr1k2rrv7jzwq82apjvscfvaqmw5jpp92l0e882ju"},
     {"ticker": "XPRT", "relayerAddress": "persistence1gdaxp65ymdw5f7a32y2mg75lurm4amze8f2qss"},
-    {"ticker": "TIA", "relayerAddress": "celestia1dkd967wypqe8rh0cf9rerwgpllazdqcw0sd8hk"}
+    {"ticker": "TIA", "relayerAddress": "celestia1dkd967wypqe8rh0cf9rerwgpllazdqcw0sd8hk"},
+    {"ticker": "C4E", "relayerAddress": "c4e1ydz3l580akrx52rq94fu96f662mdcejp74q9kh"}
   ]
 }
