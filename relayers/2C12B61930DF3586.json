@@ -6,31 +6,47 @@
   "telegram": "",
   "discord": "",
   "email": "hello@bluestake.net",
-  "supportRelayerBy": "Highly secure and reliable infrastructure, distributed across various datacenters and operated by a team of DevOps engineers.",
+  "supportRelayerBy": "Delegating to validator. Highly secure and reliable infrastructure, distributed across various datacenters and monitored 24/7.",
   "chainsRelayed": [
-    {
-      "ticker": "BCNA",
-      "relayerAddress": "bcna1x8xujz36hgmg27c6x87vxy4pzs5s45ecg0620g"
-    },
     {
       "ticker": "ATOM",
       "relayerAddress": "cosmos1x8xujz36hgmg27c6x87vxy4pzs5s45ecjl2t86"
+    },
+    {
+      "ticker": "BCNA",
+      "relayerAddress": "bcna1x8xujz36hgmg27c6x87vxy4pzs5s45ecg0620g"
     },
     {
       "ticker": "CMDX",
       "relayerAddress": "comdex1x8xujz36hgmg27c6x87vxy4pzs5s45ec4sgf7d"
     },
     {
+      "ticker": "FET",
+      "relayerAddress": "fetch1x8xujz36hgmg27c6x87vxy4pzs5s45ecpzr09d"
+    },
+    {
       "ticker": "JUNO",
       "relayerAddress": "juno1x8xujz36hgmg27c6x87vxy4pzs5s45ecydfsqx"
+    },
+    {
+      "ticker": "NOBLE",
+      "relayerAddress": "noble1x8xujz36hgmg27c6x87vxy4pzs5s45ec6ulrl5"
     },
     {
       "ticker": "OSMO",
       "relayerAddress": "osmo1x8xujz36hgmg27c6x87vxy4pzs5s45ec6yem3g"
     },
     {
+      "ticker": "SOURCE",
+      "relayerAddress": "source1x8xujz36hgmg27c6x87vxy4pzs5s45ec5vn4hy"
+    },
+    {
       "ticker": "STARS",
       "relayerAddress": "stars1x8xujz36hgmg27c6x87vxy4pzs5s45ecxrakvt"
+    },
+    {
+      "ticker": "STRD",
+      "relayerAddress": "stride1x8xujz36hgmg27c6x87vxy4pzs5s45ec352hnk"
     },
     {
       "ticker": "UMEE",
