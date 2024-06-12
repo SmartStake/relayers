@@ -37,16 +37,8 @@
             "relayerAddress": "quick1twmgaeug7ymjq8c53ttstpl7rny43q8zwv3774"
         },
         {
-            "ticker": "WHALE",
-            "relayerAddress": "migaloo1twmgaeug7ymjq8c53ttstpl7rny43q8zgugkjf"
-        },
-        {
             "ticker": "BCNA",
             "relayerAddress": "bcna1twmgaeug7ymjq8c53ttstpl7rny43q8zlc3d04"
-        },
-        {
-            "ticker": "NOIS",
-            "relayerAddress": "nois1twmgaeug7ymjq8c53ttstpl7rny43q8z5quxtl"
         },
         {
             "ticker": "NLS",
@@ -67,10 +59,6 @@
         {
             "ticker": "ARCH",
             "relayerAddress": "archway1twmgaeug7ymjq8c53ttstpl7rny43q8zsragds"
-        },
-        {
-            "ticker": "QWOYN",
-            "relayerAddress": "qwoyn1twmgaeug7ymjq8c53ttstpl7rny43q8zcgqjqx"
         },
         {
             "ticker": "TIA",
