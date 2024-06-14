@@ -71,6 +71,34 @@
 		{
 			"ticker": "DYM",
 			"relayerAddress": "dym1p7ewhq483zfrj6y23n3duj7anyx558wqu860jc"
-		}
+		},
+				{
+			"ticker": "AXL",
+			"relayerAddress": "axelar1ph80mztw9f3g3wc4y77g8hcczkyqek8skp94vq"
+		},
+				{
+			"ticker": "BAND",
+			"relayerAddress": "band1eaxxxc700esh3kkega0jusw6vhvuycu47ljs27"
+		},
+				{
+			"ticker": "ATOM",
+			"relayerAddress": "cosmos1m7t70kzzmnax04jwcdu38rjljtaj8cl4clz6zq"
+		},
+				{
+			"ticker": "GRAV",
+			"relayerAddress": "gravity1awqn47ns2dw7a560fpzgtv9eme40cmtwzl47u0"
+		},
+				{
+			"ticker": "KUJI",
+			"relayerAddress": "kujira16m2qfth8q8qmfzgxakdva34736kvkunfaqyklq"
+		},
+				{
+			"ticker": "NOBLE",
+			"relayerAddress": "noble10k90fydng3yfeeaajvn27p7gdry0gcxc3jmvqr"
+		},
+				{
+			"ticker": "KAVA",
+			"relayerAddress": "kava14c7ftqpg9mhflzn0qts2alzuz8z4swqxxug4jj"
+		},
 	]
 }
