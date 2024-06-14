@@ -36,7 +36,7 @@
             {"ticker": "SWTH", "relayerAddress": "swth1ml253qn7agm5667tqrxr8h3f88aa8jz8epypse"},
             {"ticker": "TIA", "relayerAddress": "celestia1efwn09hmqx34tvgdvkk4e6vvzj9gtr58wx38h3"},
             {"ticker": "XKI", "relayerAddress": "ki17fgrnpg48c6tkhmp72zmjt93g67y6wu9kp063a"},
-            {"ticker": "XKI", "relayerAddress": "ki1vp9xldhdmjfmnwel7nl6tgy8numduq08alk48q"},
+            {"ticker": "XKI", "relayerAddress": "ki1vp9xldhdmjfmnwel7nl6tgy8numduq08alk48q"}
             ]
 }
 
