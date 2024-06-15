@@ -174,10 +174,6 @@
             "relayerAddress": "axelar1sl4lhh93laxhnfmhvuaw3tz2eqvuuh7d4y5h2m"
         },
         {
-            "ticker": "BCNA",
-            "relayerAddress": "bcna18xrruhq5r246mwk0yj9elnn3mte8xa9u69tvyw"
-        },
-        {
             "ticker": "CHEQ",
             "relayerAddress": "cheqd18xrruhq5r246mwk0yj9elnn3mte8xa9uwhhd8d"
         },
@@ -410,10 +406,6 @@
             "relayerAddress": "terra1d5mazhclrl8v2d6hzy99r2unhw3wwhl6f3g7mz"
         },
         {
-            "ticker": "TORI",
-            "relayerAddress": "tori18xrruhq5r246mwk0yj9elnn3mte8xa9uzpvyhv"
-        },
-        {
             "ticker": "QSR",
             "relayerAddress": "quasar18xrruhq5r246mwk0yj9elnn3mte8xa9uwkpspe"
         },
@@ -556,10 +548,6 @@
         {
             "ticker": "ODIN",
             "relayerAddress": "odin18xrruhq5r246mwk0yj9elnn3mte8xa9uy4awqk"
-        },
-        {
-            "ticker": "BTSG",
-            "relayerAddress": "bitsong18xrruhq5r246mwk0yj9elnn3mte8xa9uvuf9wn"
         },
         {
             "ticker": "LUM",
