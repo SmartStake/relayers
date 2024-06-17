@@ -93,10 +93,10 @@
 			"relayerAddress": "kujira16m2qfth8q8qmfzgxakdva34736kvkunfaqyklq"
 		},
 				{
-			"ticker": "NOBLE",
+			"ticker": "USDC",
 			"relayerAddress": "noble10k90fydng3yfeeaajvn27p7gdry0gcxc3jmvqr"
 		},
-				{
+		{
 			"ticker": "KAVA",
 			"relayerAddress": "kava14c7ftqpg9mhflzn0qts2alzuz8z4swqxxug4jj"
 		}
