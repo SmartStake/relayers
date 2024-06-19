@@ -1,0 +1,22 @@
+{
+  "keybaseIdentity": "3034BD2560DD86B4",
+  "name": "ContributionDAO",
+  "website": "https://www.contributiondao.com/",
+  "twitter": "https://x.com/contributedao",
+  "email": "contacts@contributiondao.com",
+  "supportRelayerBy": "ContributionDAO is an INSTITUTIONAL GRADE validator solution leading in the South East Asia region",
+  "chainsRelayed": [
+    {
+      "ticker": "DYM",
+      "relayerAddress": "dym19ln7xv3wq4xtffcg0qsh052nz65aa8ch9402pa"
+    },
+    {
+      "ticker": "ARCH",
+      "relayerAddress": "archway1794lvr70hcxxckqm6dzktsr7sduh8qg25atwlu"
+    },
+    {
+      "ticker": "TIA",
+      "relayerAddress": "celestia1794lvr70hcxxckqm6dzktsr7sduh8qg2sux60x"
+    }
+  ]
+}
