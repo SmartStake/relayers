@@ -17,6 +17,22 @@
     {
       "ticker": "TIA",
       "relayerAddress": "celestia1794lvr70hcxxckqm6dzktsr7sduh8qg2sux60x"
+    },
+    {
+      "ticker": "AXL",
+      "relayerAddress": "axelar1794lvr70hcxxckqm6dzktsr7sduh8qg29cpz72"
+    },
+    {
+      "ticker": "OSMO",
+      "relayerAddress": "osmo1794lvr70hcxxckqm6dzktsr7sduh8qg2fdy6re"
+    },
+    {
+      "ticker": "INJ",
+      "relayerAddress": "inj1794lvr70hcxxckqm6dzktsr7sduh8qg2tlqw8n"
+    },
+    {
+      "ticker": "STRD",
+      "relayerAddress": "stride1794lvr70hcxxckqm6dzktsr7sduh8qg2zahkp8"
     }
   ]
 }
