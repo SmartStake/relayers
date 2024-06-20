@@ -13,6 +13,7 @@
    		{"ticker": "HASH", "relayerAddress": "pb1jw7u2tupxc2d7602xsthdpjwaeqqlahyyfx0rf"},
    		{"ticker": "LIKE", "relayerAddress": "like19gpncxttkffk4vr5vu5n3l3xlwyk24g2g3476v"},
          {"ticker": "OSMO", "relayerAddress": "osmo1l4vdq6ha46fzrvkqmf6ymdau95u53e3f2nrd4c"},
+         {"ticker": "MNTL", "relayerAddress": "mantle1lr0q3s0759a7rpr7dcxxp89n3ca0m70h6yfy4x"},
          {"ticker": "BAND", "relayerAddress": "band1uwyp7t4jcl6r3anyr5ythx66ctskcacaa6x4zs"}
    	]
 }
