@@ -11,6 +11,7 @@
    		{"ticker": "TIA", "relayerAddress": "celestia1upfntzwm4qzal6fyah6sf9d4uyte5sjucdj04q"},
    		{"ticker": "KUJI", "relayerAddress": "kujira1yf7xy4rvpfxy4sfhhphef0uzue5tj5t4yqpyte"},
    		{"ticker": "STRD", "relayerAddress": "stride1x3s9uhrakmzlew3sgtyszs9z9qmcmw8zfasztq"},
+   		{"ticker": "OSMO", "relayerAddress": "osmo1v42j9gfy644mal8aakp9nhhlpkqur74srnk22d"},
    		{"ticker": "ARCH", "relayerAddress": "archway1vfsly37szfmaukxy2gfqlt4cq82lwvfhh657u4"}
    	]
 }
