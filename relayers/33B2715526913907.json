@@ -10,9 +10,8 @@
     "chainsRelayed": [
         {"ticker": "OSMO", "relayerAddress": "osmo1a98rn097svnm5mpfayu4tpvy45hmrancghvr3r"},
         {"ticker": "STARS", "relayerAddress": "stars19kee6wjsce00w6s8n2quufkns9kxcrl797zhpd"},
-        {"ticker": "GRAV", "relayerAddress": "gravity16c5vhmdyemkmvgcnh694cprxyp98dnwur8d6vu"},
+        {"ticker": "UMEE", "relayerAddress": "umee1h7tsxvmuspkqav9z3u9x8wfn9uyuupf3y0dg6y"},
         {"ticker": "JKL", "relayerAddress": "jkl1pqv3yc5tcpp57khrrekg3rjay37fce5gcp2l4n"},
-        {"ticker": "MNTL", "relayerAddress": "mantle1j96cn0clj82lmqa6el2rc4c59vh0teely8kneq"},
         {"ticker": "CTK", "relayerAddress": "shentu15gvxgvtf8fa67kl26dxp38utykx3dszeu7jnla"}
     ]
 }
