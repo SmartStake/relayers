@@ -8,9 +8,9 @@
     "chainsRelayed": [
         { "ticker": "BTSG", "relayerAddress": "bitsong17ndx5qfku28ymxgmq6zq4a6d02dvpfjjcdw0s2" },
         { "ticker": "ATOM", "relayerAddress": "cosmos17ndx5qfku28ymxgmq6zq4a6d02dvpfjj5yu8j9" },
-        { "ticker": "LORE", "relayerAddress": "gitopia17ndx5qfku28ymxgmq6zq4a6d02dvpfjj2umsax" },
         { "ticker": "JKL", "relayerAddress": "jkl17ndx5qfku28ymxgmq6zq4a6d02dvpfjjd6jkt6" },
         { "ticker": "OSMO", "relayerAddress": "osmo17ndx5qfku28ymxgmq6zq4a6d02dvpfjjul0hyh" },
-        { "ticker": "DVPN", "relayerAddress": "sent17ndx5qfku28ymxgmq6zq4a6d02dvpfjj0l27k2" }
+        { "ticker": "DVPN", "relayerAddress": "sent17ndx5qfku28ymxgmq6zq4a6d02dvpfjj0l27k2" },
+        { "ticker": "NTRN", "relayerAddress": "neutron1xqz9pemz5e5zycaa89kys5aw6m8rhgsv07va3d" }
     ]
 }
