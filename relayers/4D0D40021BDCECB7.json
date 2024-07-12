@@ -27,6 +27,10 @@
         {
             "ticker": "SGE",
             "relayerAddress": "sge1tzchfqaztwcekmr2jh6mvfhdt5ncdpnphtq28c"
+        },
+        {
+            "ticker": "FIRMACHAIN",
+            "relayerAddress": "firma1tzchfqaztwcekmr2jh6mvfhdt5ncdpnp8ckrpg"
         }
     ]
 }
