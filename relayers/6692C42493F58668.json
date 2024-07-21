@@ -1,0 +1,76 @@
+{
+    "keybaseIdentity": "6692C42493F58668",
+    "name": "R93ax",
+    "website": "https://twitter.com/R93ax",
+    "twitter": "https://twitter.com/R93ax",
+    "telegram": "",
+    "discord": "",
+    "email": "",
+    "supportRelayerBy": "",
+    "chainsRelayed": [
+        {
+            "ticker": "NTRN",
+            "relayerAddress": "neutron1h36h57805m7eann0xs2mrv72p8wnyypmss4zz7"
+        },
+        {
+            "ticker": "USDC",
+            "relayerAddress": "noble1h36h57805m7eann0xs2mrv72p8wnyypmuvfgqh"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1h36h57805m7eann0xs2mrv72p8wnyypmu50swt"
+        },
+        {
+            "ticker": "KUJI",
+            "relayerAddress": "kujira1h36h57805m7eann0xs2mrv72p8wnyypm987c4n"
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride1h36h57805m7eann0xs2mrv72p8wnyypmhyuuv4"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar1h36h57805m7eann0xs2mrv72p8wnyypmsp2gnc"
+        },
+        {
+            "ticker": "NOIS",
+            "relayerAddress": "nois1h36h57805m7eann0xs2mrv72p8wnyypm98p25p"
+        },
+        {
+            "ticker": "NLS",
+            "relayerAddress": "nolus1h36h57805m7eann0xs2mrv72p8wnyypmzlvl6u"
+        },
+        {
+            "ticker": "STARS",
+            "relayerAddress": "stars1h36h57805m7eann0xs2mrv72p8wnyypmqntang"
+        },
+        {
+            "ticker": "XPRT",
+            "relayerAddress": "persistence1h36h57805m7eann0xs2mrv72p8wnyypm6r6nka"
+        },
+        {
+            "ticker": "DYDX",
+            "relayerAddress": "dydx1h36h57805m7eann0xs2mrv72p8wnyypmakjycw"
+        },
+        {
+            "ticker": "LUNA",
+            "relayerAddress": "terra1h36h57805m7eann0xs2mrv72p8wnyypmjtxq6e"
+        },
+        {
+            "ticker": "DYM",
+            "relayerAddress": "dym1n23fp5q374qwz55us5hvh0vlqdvtcpmygh4g0f"
+        },   
+        {
+            "ticker": "INJ",
+            "relayerAddress": "inj1n23fp5q374qwz55us5hvh0vlqdvtcpmysrw2cl"
+        },
+        {
+            "ticker": "TIA",
+            "relayerAddress": "celestia1h36h57805m7eann0xs2mrv72p8wnyypm99dsz5"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1h36h57805m7eann0xs2mrv72p8wnyypm50uqce"
+        }
+    ]
+}
