@@ -724,6 +724,10 @@
         {
             "ticker": "SAGA",
             "relayerAddress": "saga1nzjcsulyfxh0evmajk3ruawh407h5x8fw28elz"
+        },
+        {
+            "ticker": "FCT",
+            "relayerAddress": "firma1v7rqwl9ddjj7565nt2dn604u4m8a0l4j0ux22f"
         }
     ]
 }
