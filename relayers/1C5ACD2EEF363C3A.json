@@ -67,6 +67,10 @@
         {
             "ticker": "NIBI",
             "relayerAddress": "nibi1twmgaeug7ymjq8c53ttstpl7rny43q8zjd94w5"
+        },
+        {
+            "ticker": "HEART",
+            "relayerAddress": "human1twmgaeug7ymjq8c53ttstpl7rny43q8z880zuc"
         }
     ]
 }
