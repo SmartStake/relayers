@@ -17,10 +17,6 @@
             "relayerAddress": "cosmos1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0wsfnsl"
         },
         {
-            "ticker": "MARS",
-            "relayerAddress": "mars1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0nds29y"
-        },
-        {
             "ticker": "PLQ",
             "relayerAddress": "plq1sty42e2lzdytwv8yewh53fxl4k2ah9szfvcnr2"
         },
@@ -33,28 +29,12 @@
             "relayerAddress": "bluzelle1p9wypphdmtawcp9whv3eef05q2lksgvl5ghvwg"
         },
         {
-            "ticker": "JUNO",
-            "relayerAddress": "juno1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0cz2ghr"
-        },
-        {
             "ticker": "KUJI",
             "relayerAddress": "kujira1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0lctta4"
         },
         {
-            "ticker": "PICA",
-            "relayerAddress": "pica1ek7y9jex32ljxz7sgsjkrwrhsa4evyn04v2k5c"
-        },
-        {
-            "ticker": "LORE",
-            "relayerAddress": "gitopia1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0sgwylu"
-        },
-        {
             "ticker": "RIO",
             "relayerAddress": "realio1sty42e2lzdytwv8yewh53fxl4k2ah9szfpv9er"
-        },
-        {
-            "ticker": "GUU",
-            "relayerAddress": "ununifi1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0cj6p23"
         },
         {
             "ticker": "QSR",
@@ -63,10 +43,6 @@
         {
             "ticker": "USDC",
             "relayerAddress": "noble1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0xnumg3"
-        },
-        {
-            "ticker": "CORE",
-            "relayerAddress": "core1tmj3v09rvk9a0natgkfn3r8272et5rpzl39sgd"
         },
         {
             "ticker": "SEDA",
@@ -79,10 +55,6 @@
         {
             "ticker": "NIBI",
             "relayerAddress": "nibi1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0e4d2ev"
-        },
-        {
-            "ticker": "ANDR",
-            "relayerAddress": "andr1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0kmp3vj"
         }
     ]
 }
