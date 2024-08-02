@@ -99,6 +99,10 @@
 		{
 			"ticker": "KAVA",
 			"relayerAddress": "kava14c7ftqpg9mhflzn0qts2alzuz8z4swqxxug4jj"
+		},
+				{
+			"ticker": "SCRT",
+			"relayerAddress": "secret1zevcgku6lw9z5jpsxc3xkpwy3na03ud849l049"
 		}
 	]
 }
