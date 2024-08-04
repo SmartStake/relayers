@@ -21,6 +21,14 @@
             "relayerAddress": "osmo1h36h57805m7eann0xs2mrv72p8wnyypmu50swt"
         },
         {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1cg5rydw8y5t6xsgq9q3yc3x2dq7zlnucehmpgy"
+        },
+        {
+            "ticker": "LAVA",
+            "relayerAddress": "lava@1cg5rydw8y5t6xsgq9q3yc3x2dq7zlnucf5l5em"
+        },
+        {
             "ticker": "KUJI",
             "relayerAddress": "kujira1h36h57805m7eann0xs2mrv72p8wnyypm987c4n"
         },
@@ -31,6 +39,10 @@
         {
             "ticker": "AXL",
             "relayerAddress": "axelar1h36h57805m7eann0xs2mrv72p8wnyypmsp2gnc"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar1cg5rydw8y5t6xsgq9q3yc3x2dq7zlnuc4z7e4h"
         },
         {
             "ticker": "NOIS",
