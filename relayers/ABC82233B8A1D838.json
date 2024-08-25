@@ -13,7 +13,6 @@
    		{"ticker": "BTSG", "relayerAddress": "bitsong1r7uqwyuenmve76tvu6vyxrfec64qw93h5uay9a"},
    		{"ticker": "CTK", "relayerAddress": "shentu1sgsqsktsku3w5q34np2e7v603l2jn2uwvtc538"},
    		{"ticker": "HASH", "relayerAddress": "pb1stsmyg3avsthng9n0s0ctm4fm3q0vshtcplln4"},
-   		{"ticker": "LUM", "relayerAddress": "lum1sgsqsktsku3w5q34np2e7v603l2jn2uw34pykw"},
    		{"ticker": "OSMO", "relayerAddress": "osmo1sgsqsktsku3w5q34np2e7v603l2jn2uwvy0a4g"}
    	]
 }
