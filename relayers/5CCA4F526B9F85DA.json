@@ -3,8 +3,8 @@
   "name": "Cypher Core",
   "website": "https://cyphercore.io",
   "twitter": "https://twitter.com/cypher_core",
-  "telegram": null,
-  "discord": null,
+  "telegram": "jim380",
+  "discord": "pepeforlife",
   "email": "admin@cyphercore.io",
   "supportRelayerBy": "Show your support by delegating",
   "chainsRelayed": [
@@ -33,8 +33,8 @@
       "relayerAddress": "stride1yv2myphganx8evm3z6s8rstwnd468c8cugeum9"
     },
      {
-      "ticker": "EVMOS",
-      "relayerAddress": "evmos126ue8md02003kwgv5t8zycft5e5p66647k9l5f"
+      "ticker": "AKT",
+      "relayerAddress": "akash1yv2myphganx8evm3z6s8rstwnd468c8cjc58kn"
     }
   ]
 }
