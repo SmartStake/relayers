@@ -1,7 +1,7 @@
 {
   "keybaseIdentity": "FE38D8D1E0E5011F",
   "name": "StakeTown",
-  "website": "",
+  "website": "https://stake-town.com",
   "twitter": "https://twitter.com/staketown_ua",
   "telegram": "https://t.me/mogoll92",
   "discord": "hottochelli",
@@ -19,7 +19,7 @@
     {"ticker": "ARCH", "relayerAddress": "archway19nku22r8mf4cfq2wmmgcl20eslhaqr5au0ecpk"},
     {"ticker": "ARCH", "relayerAddress": "archway1vcr9kt2jqw7n5gq6vmxcxzvahywl6ztsn3qhvg"},
     {"ticker": "QCK", "relayerAddress": "quick187c3t9a3sd28q00assugj3yq9sz9ryhs8npdss"},
-    {"ticker": "BAND", "relayerAddress": "band17d8xhux2slcx2g8htl6fcrqxst8v92w9nkmq3n"},
+    {"ticker": "LAVA", "relayerAddress": "lava@17akqw7yqm2r2uhe2qt05rqsfmpkypj5auzqldk"},
     {"ticker": "PLQ", "relayerAddress": "plq1hpee9ds0q9ma79d8jyh969thju75cm43npms6q"},
     {"ticker": "ANDR", "relayerAddress": "andr1k2rrv7jzwq82apjvscfvaqmw5jpp92l0e882ju"},
     {"ticker": "XPRT", "relayerAddress": "persistence1gdaxp65ymdw5f7a32y2mg75lurm4amze8f2qss"},
