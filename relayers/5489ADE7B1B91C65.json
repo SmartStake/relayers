@@ -95,6 +95,10 @@
     {
       "ticker": "DYDX",
       "relayerAddress": "dydx1p4557mdpc2qk8vcemeqgrcg55gs2uyznd0ef8h"
+    },
+    {
+      "ticker": "XPRT",
+      "relayerAddress": "persistence1p4557mdpc2qk8vcemeqgrcg55gs2uyzn2637fy"
     }
   ]
 }
