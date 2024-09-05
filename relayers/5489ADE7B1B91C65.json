@@ -99,6 +99,10 @@
     {
       "ticker": "XPRT",
       "relayerAddress": "persistence1p4557mdpc2qk8vcemeqgrcg55gs2uyzn2637fy"
+    },
+    {
+      "ticker": "STARS",
+      "relayerAddress": "stars1p4557mdpc2qk8vcemeqgrcg55gs2uyzns2qsv3"
     }
   ]
 }
