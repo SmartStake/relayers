@@ -91,6 +91,10 @@
     {
       "ticker": "UMEE",
       "relayerAddress": "umee1p4557mdpc2qk8vcemeqgrcg55gs2uyznkq2jrj"
-    }
+    },
+    {
+      "ticker": "DYDX",
+      "relayerAddress": "dydx1p4557mdpc2qk8vcemeqgrcg55gs2uyznd0ef8h"
+    },
   ]
 }
