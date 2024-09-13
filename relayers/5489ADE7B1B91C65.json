@@ -103,6 +103,14 @@
     {
       "ticker": "STARS",
       "relayerAddress": "stars1p4557mdpc2qk8vcemeqgrcg55gs2uyzns2qsv3"
+    },
+    {
+      "ticker": "SWTH",
+      "relayerAddress": "swth1p4557mdpc2qk8vcemeqgrcg55gs2uyznmgam5e"
+    },
+    {
+      "ticker": "FLIX",
+      "relayerAddress": "omniflix1p4557mdpc2qk8vcemeqgrcg55gs2uyznegx5s7"
     }
   ]
 }
