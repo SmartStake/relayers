@@ -111,6 +111,10 @@
     {
       "ticker": "FLIX",
       "relayerAddress": "omniflix1p4557mdpc2qk8vcemeqgrcg55gs2uyznegx5s7"
+    },
+    {
+      "ticker": "SOMM",
+      "relayerAddress": "somm1p4557mdpc2qk8vcemeqgrcg55gs2uyzng2cpk2"
     }
   ]
 }
