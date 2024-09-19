@@ -63,6 +63,14 @@
         {
             "ticker": "PASG",
             "relayerAddress": "pasg1znsg2durhsjzdx783j8c7uzz9h7d69l4sravhp"
+        },    
+        {
+            "ticker": "TIA",
+            "relayerAddress": "celestia1qx6nnykvn390su7hrtunvdj509khadehgchpnt"
+        },    
+        {
+            "ticker": "NTRN",
+            "relayerAddress": "neutron1qx6nnykvn390su7hrtunvdj509khadehad0nnp"
         }
     ]
 }
