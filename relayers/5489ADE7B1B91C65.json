@@ -115,6 +115,26 @@
     {
       "ticker": "SOMM",
       "relayerAddress": "somm1p4557mdpc2qk8vcemeqgrcg55gs2uyzng2cpk2"
+    },
+    {
+      "ticker": "BCNA",
+      "relayerAddress": "bcna1p4557mdpc2qk8vcemeqgrcg55gs2uyzn7x8v0j"
+    },
+    {
+      "ticker": "DVPN",
+      "relayerAddress": "sent1p4557mdpc2qk8vcemeqgrcg55gs2uyznldp5r0"
+    },
+    {
+      "ticker": "KYVE",
+      "relayerAddress": "kyve1p4557mdpc2qk8vcemeqgrcg55gs2uyznnc6mvy"
+    },
+    {
+      "ticker": "JKL",
+      "relayerAddress": "kyve1p4557mdpc2qk8vcemeqgrcg55gs2uyznnc6mvy"
+    },
+    {
+      "ticker": "SOURCE",
+      "relayerAddress": "source1p4557mdpc2qk8vcemeqgrcg55gs2uyznz9wnh7"
     }
   ]
 }
