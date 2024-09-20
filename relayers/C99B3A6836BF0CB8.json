@@ -13,10 +13,6 @@
 			"relayerAddress": "akash1ryq6zncdxpdnnwhn9h24ar48ap9zkqgl5xpdnk"
 		},
 		{
-			"ticker": "ARCH",
-			"relayerAddress": "archway1ryq6zncdxpdnnwhn9h24ar48ap9zkqglvkswqm"
-		},
-		{
 			"ticker": "ATOM",
 			"relayerAddress": "cosmos1ryq6zncdxpdnnwhn9h24ar48ap9zkqgleav22v"
 		},
@@ -27,14 +23,6 @@
 		{
 			"ticker": "CHEQ",
 			"relayerAddress": "cheqd1ryq6zncdxpdnnwhn9h24ar48ap9zkqglhlq2pa"
-		},
-		{
-			"ticker": "CMDX",
-			"relayerAddress": "comdex1ryq6zncdxpdnnwhn9h24ar48ap9zkqgl7jwgnm"
-		},
-		{
-			"ticker": "DVPN",
-			"relayerAddress": "sent1ryq6zncdxpdnnwhn9h24ar48ap9zkqglzx6nwr"
 		},
 		{
 			"ticker": "DYM",
@@ -49,26 +37,6 @@
 			"relayerAddress": "jkl1ryq6zncdxpdnnwhn9h24ar48ap9zkqglqrzmnn"
 		},
 		{
-			"ticker": "JUNO",
-			"relayerAddress": "juno1ryq6zncdxpdnnwhn9h24ar48ap9zkqgl0003ds"
-		},
-		{
-			"ticker": "KUJI",
-			"relayerAddress": "kujira1ryq6zncdxpdnnwhn9h24ar48ap9zkqglg4wj8x"
-		},
-		{
-			"ticker": "LORE",
-			"relayerAddress": "gitopia1ryq6zncdxpdnnwhn9h24ar48ap9zkqgl89ta90"
-		},
-		{
-			"ticker": "MNTL",
-			"relayerAddress": "mantle1ryq6zncdxpdnnwhn9h24ar48ap9zkqgl8eh04x"
-		},
-		{
-			"ticker": "MPWR",
-			"relayerAddress": "empower1ryq6zncdxpdnnwhn9h24ar48ap9zkqgl93gpsj"
-		},
-		{
 			"ticker": "NTRN",
 			"relayerAddress": "neutron1ryq6zncdxpdnnwhn9h24ar48ap9zkqglaz9gst"
 		},
@@ -77,28 +45,12 @@
 			"relayerAddress": "osmo1ryq6zncdxpdnnwhn9h24ar48ap9zkqgl3xl6u7"
 		},
 		{
-			"ticker": "PASG",
-			"relayerAddress": "pasg1ryq6zncdxpdnnwhn9h24ar48ap9zkqgl694s8n"
-		},
-		{
-			"ticker": "PICA",
-			"relayerAddress": "pica1ryq6zncdxpdnnwhn9h24ar48ap9zkqglzp00wt"
-		},
-		{
-			"ticker": "QSR",
-			"relayerAddress": "quasar1ryq6zncdxpdnnwhn9h24ar48ap9zkqglh7kh8f"
-		},
-		{
 			"ticker": "SCRT",
 			"relayerAddress": "secret1xpgjd2akpc8gmwez25keftpmlgs4aa3un463s7"
 		},
 		{
 			"ticker": "SEDA",
 			"relayerAddress": "seda1ryq6zncdxpdnnwhn9h24ar48ap9zkqgl0nqjfd"
-		},
-		{
-			"ticker": "STARS",
-			"relayerAddress": "stars1ryq6zncdxpdnnwhn9h24ar48ap9zkqgldpmhpa"
 		},
 		{
 			"ticker": "STRD",
