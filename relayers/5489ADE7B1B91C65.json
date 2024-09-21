@@ -147,6 +147,10 @@
     {
       "ticker": "LAVA",
       "relayerAddress": "lava@1p4557mdpc2qk8vcemeqgrcg55gs2uyznuwqgqd"
+    },
+    {
+      "ticker": "NLS",
+      "relayerAddress": "nolus1p4557mdpc2qk8vcemeqgrcg55gs2uyznjx8j99"
     }
   ]
 }
