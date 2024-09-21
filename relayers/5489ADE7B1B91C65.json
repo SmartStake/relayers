@@ -135,6 +135,22 @@
     {
       "ticker": "SOURCE",
       "relayerAddress": "source1p4557mdpc2qk8vcemeqgrcg55gs2uyznz9wnh7"
+    },
+    {
+      "ticker": "CMDX",
+      "relayerAddress": "comdex1p4557mdpc2qk8vcemeqgrcg55gs2uyznre407h"
+    },
+    {
+      "ticker": "TORI",
+      "relayerAddress": "tori1p4557mdpc2qk8vcemeqgrcg55gs2uyznxzqyus"
+    },
+    {
+      "ticker": "LAVA",
+      "relayerAddress": "lava@1p4557mdpc2qk8vcemeqgrcg55gs2uyznuwqgqd"
+    },
+    {
+      "ticker": "NLS",
+      "relayerAddress": "nolus1p4557mdpc2qk8vcemeqgrcg55gs2uyznjx8j99"
     }
   ]
 }
