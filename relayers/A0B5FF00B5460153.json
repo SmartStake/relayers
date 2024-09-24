@@ -37,6 +37,10 @@
             "relayerAddress": "pb1g5pejp3z4r0dptfv3zdemwnrs79e0lx95g5u9n"
         },
         {
+            "ticker": "TIA",
+            "relayerAddress": "celestia1xupzwxdunxaac5ht6yww5xa2vxkktr8rzafv3j"
+        },
+        {
             "ticker": "JKL",
             "relayerAddress": "jkl1k670rkzc45xmdgywe4vxwheslk3kxm3hjajrdp"
         }
