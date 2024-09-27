@@ -1,0 +1,14 @@
+{
+   	"keybaseIdentity": "2984A4CFCE477701",
+   	"name": "Busurnode",
+   	"website": "https://busurnode.com",
+   	"twitter": "busurnode",
+   	"telegram": null,
+   	"discord": null
+   	"email": "support@busurnode.com",
+   	"supportRelayerBy": "Delegating to our validators",
+   	"chainsRelayed": [
+   		{"ticker": "OSMO", "relayerAddress": "osmo1u2neda84jhwcccyhducxgnt5srkx940lzwpu4a"},
+   		{"ticker": "DVPN", "relayerAddress": "sent1xp4fdtlzlaa2daexk9la5zj84trkzng2ft8zyp"}
+   	]
+}
