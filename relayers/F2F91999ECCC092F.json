@@ -48,6 +48,10 @@
             "relayerAddress": "althea1msc0r40y284xps2rxcmnmynrsdmkdzxhp6j9ql"
         },
         {
+            "ticker": "TIA",
+            "relayerAddress": "celestia1lc3pvmlunt3gydrznxt3s9839nmv0vkg8dadv4"
+        },
+        {
             "ticker": "GRAV",
             "relayerAddress": "gravity1yz23f0dg3asps9yg3u9tn3cm8e6ephpjm8dz0g"
         },
