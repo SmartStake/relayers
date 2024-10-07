@@ -1,9 +1,9 @@
 {
     "keybaseIdentity": "6692C42493F58668",
-    "name": "R93ax",
+    "name": "r93AX Nodes",
     "website": "https://twitter.com/R93ax",
     "twitter": "https://twitter.com/R93ax",
-    "telegram": "",
+    "telegram": "@r93ax",
     "discord": "",
     "email": "",
     "supportRelayerBy": "",
@@ -11,6 +11,10 @@
         {
             "ticker": "NTRN",
             "relayerAddress": "neutron1h36h57805m7eann0xs2mrv72p8wnyypmss4zz7"
+        },
+        {
+            "ticker": "NTRN",
+            "relayerAddress": "neutron1wgrcnpqyfd46l9mwklf276mqgtzg5acyutdmuw"
         },
         {
             "ticker": "USDC",
@@ -69,6 +73,10 @@
             "relayerAddress": "terra1h36h57805m7eann0xs2mrv72p8wnyypmjtxq6e"
         },
         {
+            "ticker": "LUNA",
+            "relayerAddress": "terra1cg5rydw8y5t6xsgq9q3yc3x2dq7zlnuchgj3uk"
+        },
+        {
             "ticker": "DYM",
             "relayerAddress": "dym1n23fp5q374qwz55us5hvh0vlqdvtcpmygh4g0f"
         },   
@@ -83,6 +91,10 @@
         {
             "ticker": "ATOM",
             "relayerAddress": "cosmos1h36h57805m7eann0xs2mrv72p8wnyypm50uqce"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1cg5rydw8y5t6xsgq9q3yc3x2dq7zlnuc3vg37k"
         }
     ]
 }
