@@ -14,11 +14,15 @@
         },
         {
             "ticker": "NTRN",
-            "relayerAddress": "neutron1wgrcnpqyfd46l9mwklf276mqgtzg5acyutdmuw"
+            "relayerAddress": "neutron12n4xr6eeqcy28pe6celvlg5g7uelyut3yqsz07"
         },
         {
             "ticker": "USDC",
             "relayerAddress": "noble1h36h57805m7eann0xs2mrv72p8wnyypmuvfgqh"
+        },
+        {
+            "ticker": "USDC",
+            "relayerAddress": "noble12n4xr6eeqcy28pe6celvlg5g7uelyut3guvgdh"
         },
         {
             "ticker": "OSMO",
@@ -29,6 +33,10 @@
             "relayerAddress": "osmo1cg5rydw8y5t6xsgq9q3yc3x2dq7zlnucehmpgy"
         },
         {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo12n4xr6eeqcy28pe6celvlg5g7uelyut3gy2srt"
+        },
+        {
             "ticker": "LAVA",
             "relayerAddress": "lava@1cg5rydw8y5t6xsgq9q3yc3x2dq7zlnucf5l5em"
         },
@@ -37,8 +45,16 @@
             "relayerAddress": "kujira1h36h57805m7eann0xs2mrv72p8wnyypm987c4n"
         },
         {
+            "ticker": "KUJI",
+            "relayerAddress": "kujira12n4xr6eeqcy28pe6celvlg5g7uelyut33hmccn"
+        },
+        {
             "ticker": "STRD",
             "relayerAddress": "stride1h36h57805m7eann0xs2mrv72p8wnyypmhyuuv4"
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride12n4xr6eeqcy28pe6celvlg5g7uelyut3r5eup4"
         },
         {
             "ticker": "AXL",
@@ -47,6 +63,10 @@
         {
             "ticker": "AXL",
             "relayerAddress": "axelar1cg5rydw8y5t6xsgq9q3yc3x2dq7zlnuc4z7e4h"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar12n4xr6eeqcy28pe6celvlg5g7uelyut3y30g7c"
         },
         {
             "ticker": "NOIS",
@@ -59,6 +79,10 @@
         {
             "ticker": "STARS",
             "relayerAddress": "stars1h36h57805m7eann0xs2mrv72p8wnyypmqntang"
+        },
+        {
+            "ticker": "STARS",
+            "relayerAddress": "stars12n4xr6eeqcy28pe6celvlg5g7uelyut35rwa7g"
         },
         {
             "ticker": "XPRT",
@@ -74,7 +98,7 @@
         },
         {
             "ticker": "LUNA",
-            "relayerAddress": "terra1cg5rydw8y5t6xsgq9q3yc3x2dq7zlnuchgj3uk"
+            "relayerAddress": "terra12n4xr6eeqcy28pe6celvlg5g7uelyut3xmrqhe"
         },
         {
             "ticker": "DYM",
@@ -83,6 +107,10 @@
         {
             "ticker": "INJ",
             "relayerAddress": "inj1n23fp5q374qwz55us5hvh0vlqdvtcpmysrw2cl"
+        },
+        {
+            "ticker": "INJ",
+            "relayerAddress": "inj1fekaur22qq7j8k0hvg2q460wm533my8038ktst"
         },
         {
             "ticker": "TIA",
@@ -95,6 +123,10 @@
         {
             "ticker": "ATOM",
             "relayerAddress": "cosmos1cg5rydw8y5t6xsgq9q3yc3x2dq7zlnuc3vg37k"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos12n4xr6eeqcy28pe6celvlg5g7uelyut3qleq4e"
         }
     ]
 }
