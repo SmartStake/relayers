@@ -175,6 +175,10 @@
         {
             "ticker": "TIA",
             "relayerAddress": "celestia1cx82d7pm4dgffy7a93rl6ul5g84vjgxkkvhnfp"
+        },
+        {
+            "ticker": "AKT",
+            "relayerAddress": "akash1cx82d7pm4dgffy7a93rl6ul5g84vjgxk2aty2k"
         }
     ]
 }
