@@ -1,0 +1,14 @@
+{
+   	"keybaseIdentity": "CE1C601631C41781",
+   	"name": "TdrSys",
+   	"website": "https://www.tdrsys.com",
+   	"twitter": "tdr_systems",
+   	"telegram": "tdrsys",
+   	"discord": "https://discordapp.com/users/tdr4877",
+   	"email": "contact@tdrsys.com",
+   	"supportRelayerBy": "delegate to validator",
+   	"chainsRelayed": [
+   		{"ticker": "OSMO", "relayerAddress": "osmo1uus3hw7he29lnnplt32k979zpn6wtrh5zm2h7c"},
+   		{"ticker": "QCK", "relayerAddress": "quick1y28qvyyfva2d8090c4ltgvn24hj023zuc9xx7c"}
+   	]
+}
