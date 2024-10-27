@@ -83,7 +83,10 @@
         {
             "ticker": "C4E",
             "relayerAddress": "c4e19wjy60ugvn4s09wlsf8ntp9jv8qjgrstyt4szg"
+        },
+        {
+            "ticker": "NTRN",
+            "relayerAddress": "neutron1ul8lklccagmnujye6r4zwmae3zpzc373n38w5a"
         }
-
     ]
 }
