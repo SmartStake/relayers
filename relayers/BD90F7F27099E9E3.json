@@ -1,12 +1,12 @@
 {
     "keybaseIdentity": "BD90F7F27099E9E3",
-    "name": "Stake&Relax Validator",
+    "name": "Stake&Relax 🦥",
     "website": "https://linktr.ee/stakeandrelax",
     "twitter": "https://twitter.com/StakeandRelax",
     "telegram": "https://t.me/StakeandRelaxOfficial",
-    "discord": "https://discord.gg/n5ppkNEu",
+    "discord": "",
     "email": null,
-    "supportRelayerBy": "relax with our validator",
+    "supportRelayerBy": "Relax with our validator",
     "chainsRelayed": [
         {
             "ticker": "JUNO",
@@ -27,6 +27,10 @@
         {
             "ticker": "OSMO",
             "relayerAddress": "osmo1056sshv4vvyzu3ylrp5wd5r9we7cppl33vy2kv"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1qx6nnykvn390su7hrtunvdj509khadeh3f4pl5"
         },
         {
             "ticker": "ATOM",
