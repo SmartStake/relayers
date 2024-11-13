@@ -23,8 +23,8 @@ If you run relayer on any of the IBC chains, your relayer will be shown on Inter
     	"supportRelayerBy": "what can community do to support you? a response like 'delegate to validator' or 'donate to relayer' is good. max of 50 characters",
     	"chainsRelayed": [
     		{"ticker": "ATOM", "relayerAddress": "cosmos...."},
-    		{"ticker": "OSMO", "relayerAddress": "osmoaddr1...."},
-    		{"ticker": "OSMO", "relayerAddress": "osmoaddr2...."}, #for multiple relaying addresses, make separate entry for network-address combination 
+    		{"ticker": "OSMO", "relayerAddress": "osmoaddr1....", "alias": "Main"}, # alias is optional
+    		{"ticker": "OSMO", "relayerAddress": "osmoaddr2....", "alias": "Backup"}, #for multiple relaying addresses, make separate entry for network-address combination 
     		{"ticker": "INJ", "relayerAddress": "inj...."} #please make sure the last item doesnt end with a comma (it makes the json an invalid object)
     	]
  }

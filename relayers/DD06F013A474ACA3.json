@@ -10,7 +10,8 @@
     "chainsRelayed": [
         {
             "ticker": "AKT",
-            "relayerAddress": "akash18yln7vx0n6qvta7kdcq0qheuwr06a7xjtt9ncn"
+            "relayerAddress": "akash18yln7vx0n6qvta7kdcq0qheuwr06a7xjtt9ncn",
+            "alias": "main"
         },
         {
             "ticker": "ANDR",
@@ -22,11 +23,13 @@
         },
         {
             "ticker": "ATOM",
-            "relayerAddress": "cosmos1wwxeusrluapjewppth29mp0dn6d8kukpa0l4zx"
+            "relayerAddress": "cosmos1wwxeusrluapjewppth29mp0dn6d8kukpa0l4zx",
+            "alias": "main"
         },
         {
             "ticker": "ATOM",
-            "relayerAddress": "cosmos1zehpqzm5hxhgpr3yf0j44ap5aue732lx6k62hn"
+            "relayerAddress": "cosmos1zehpqzm5hxhgpr3yf0j44ap5aue732lx6k62hn",
+            "alias": "backup"
         },
         {
             "ticker": "BAND",
