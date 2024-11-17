@@ -6,18 +6,18 @@
     "email": "quokkastake@gmail.com",
     "supportRelayerBy": "Stake with us and be safe!",
     "chainsRelayed": [
-        { "ticker": "BTSG", "relayerAddress": "bitsong17ndx5qfku28ymxgmq6zq4a6d02dvpfjjcdw0s2" },
-        { "ticker": "ATOM", "relayerAddress": "cosmos17ndx5qfku28ymxgmq6zq4a6d02dvpfjj5yu8j9" },
-        { "ticker": "JKL", "relayerAddress": "jkl17ndx5qfku28ymxgmq6zq4a6d02dvpfjjd6jkt6" },
-        { "ticker": "OSMO", "relayerAddress": "osmo17ndx5qfku28ymxgmq6zq4a6d02dvpfjjul0hyh" },
-        { "ticker": "DVPN", "relayerAddress": "sent17ndx5qfku28ymxgmq6zq4a6d02dvpfjj0l27k2" },
-        { "ticker": "NTRN", "relayerAddress": "neutron1xqz9pemz5e5zycaa89kys5aw6m8rhgsv07va3d" },
+        { "ticker": "BTSG", "relayerAddress": "bitsong17ndx5qfku28ymxgmq6zq4a6d02dvpfjjcdw0s2", "alias": "Hermes" },
+        { "ticker": "ATOM", "relayerAddress": "cosmos17ndx5qfku28ymxgmq6zq4a6d02dvpfjj5yu8j9", "alias": "Hermes" },
+        { "ticker": "JKL", "relayerAddress": "jkl17ndx5qfku28ymxgmq6zq4a6d02dvpfjjd6jkt6", "alias": "Hermes" },
+        { "ticker": "OSMO", "relayerAddress": "osmo17ndx5qfku28ymxgmq6zq4a6d02dvpfjjul0hyh", "alias": "Hermes" },
+        { "ticker": "DVPN", "relayerAddress": "sent17ndx5qfku28ymxgmq6zq4a6d02dvpfjj0l27k2", "alias": "Hermes" },
+        { "ticker": "NTRN", "relayerAddress": "neutron1xqz9pemz5e5zycaa89kys5aw6m8rhgsv07va3d", "alias": "Hermes" },
 
-        { "ticker": "BTSG", "relayerAddress": "bitsong1gsjav7azmpykg0q25umkxyh3696yxd0h6jnffh" },
-        { "ticker": "ATOM", "relayerAddress": "cosmos17f6fxhs0nau206m9cafngtmvj5rrekfh4e00sf" },
-        { "ticker": "JKL", "relayerAddress": "jkl17f6fxhs0nau206m9cafngtmvj5rrekfhv8p7fk" },
-        { "ticker": "OSMO", "relayerAddress": "osmo17f6fxhs0nau206m9cafngtmvj5rrekfhazulxm" },
-        { "ticker": "DVPN", "relayerAddress": "sent17f6fxhs0nau206m9cafngtmvj5rrekfhwzek5x" },
-        { "ticker": "NTRN", "relayerAddress": "neutron17f6fxhs0nau206m9cafngtmvj5rrekfh3xxd2w" }
+        { "ticker": "BTSG", "relayerAddress": "bitsong1gsjav7azmpykg0q25umkxyh3696yxd0h6jnffh", "alias": "rly" },
+        { "ticker": "ATOM", "relayerAddress": "cosmos17f6fxhs0nau206m9cafngtmvj5rrekfh4e00sf", "alias": "rly" },
+        { "ticker": "JKL", "relayerAddress": "jkl17f6fxhs0nau206m9cafngtmvj5rrekfhv8p7fk", "alias": "rly" },
+        { "ticker": "OSMO", "relayerAddress": "osmo17f6fxhs0nau206m9cafngtmvj5rrekfhazulxm", "alias": "rly" },
+        { "ticker": "DVPN", "relayerAddress": "sent17f6fxhs0nau206m9cafngtmvj5rrekfhwzek5x", "alias": "rly" },
+        { "ticker": "NTRN", "relayerAddress": "neutron17f6fxhs0nau206m9cafngtmvj5rrekfh3xxd2w", "alias": "rly" }
     ]
 }
