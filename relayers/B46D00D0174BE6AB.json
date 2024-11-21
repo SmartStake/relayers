@@ -1,0 +1,48 @@
+{
+    "keybaseIdentity": "B46D00D0174BE6AB",
+    "name": "Apeiron Nodes",
+    "website": "https://docs.apeironnodes.com",
+    "twitter": "https://twitter.com/ApeironNodes",
+    "telegram": "https://t.me/apeironnodes",
+    "discord": "https://discord.com/invite/J8u7VPFc3T",
+    "email": "support@apeironnodes.com",
+    "supportRelayerBy": "Delegate to our validators, donating on validator wallets: https://docs.apeironnodes.com/apeironnodes-docs/ibc-relayer",
+    "chainsRelayed": [
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1smvn6h5jl5jymfnnqnzcsnp7800890nhctnjf5"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar1jj3klzrp25v8uzvq2vvqqss8y5n65srls82x7y"
+        },
+        {
+            "ticker": "LUNA",
+            "relayerAddress": "terra106gfxcuy4agl525c694z82pvt58x52nkw20907"
+        },
+        {
+            "ticker": "C4E",
+            "relayerAddress": "c4e19mm7c2lag5j86u4wx2rvqhwa8ewvkr2lfvxfx0"
+        },
+        {
+            "ticker": "FLIX",
+            "relayerAddress": "omniflix1kh5wnkvw39wff4vn9589zz3f2l8fpe8wam42c9"
+        },
+        {
+            "ticker": "DGN",
+            "relayerAddress": "dungeon1kldxutsrgyux7fasprzcfud5q9vmskllmvntwv"
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride1a7tzqtaa3h228gjjkpap2fj3zdct85rfzqwzv7"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo19yzhafr9wyrnjlx5kdlnzw06c22yp6rp5wh6fq"
+        },
+        {
+            "ticker": "NTRN",
+            "relayerAddress": "neutron1ljjnh80rdzkalafqs0z9048h0qyrft6ytrew5k"
+        }
+    ]
+}
