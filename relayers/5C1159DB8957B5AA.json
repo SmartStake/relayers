@@ -79,6 +79,14 @@
         {
             "ticker": "BLD",
             "relayerAddress": "agoric19myc5gnz7np64uam0ptpj5gzcyr5cttgmqg3t3"
+        },
+        {
+            "ticker": "PASG",
+            "relayerAddress": "pasg10pjlfffruyzg2l6f6xqmtncyzvfez5wd0md0kv"
+        },
+        {
+            "ticker": "PICA",
+            "relayerAddress": "pica10pjlfffruyzg2l6f6xqmtncyzvfez5wdhlhsl5"
         }
     ]
 }
