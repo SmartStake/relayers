@@ -18,10 +18,6 @@
             "relayerAddress": "andr12qkshheaw2mrpr8asfj6jr9q2e5ms7qthzmyvm"
         },
         {
-            "ticker": "ARCH",
-            "relayerAddress": "archway12qkshheaw2mrpr8asfj6jr9q2e5ms7qt6z0z6p"
-        },
-        {
             "ticker": "ATOM",
             "relayerAddress": "cosmos1wwxeusrluapjewppth29mp0dn6d8kukpa0l4zx",
             "alias": "main"
@@ -82,6 +78,10 @@
         },
         {
             "ticker": "NTRN",
+            "relayerAddress": "neutron12qkshheaw2mrpr8asfj6jr9q2e5ms7qttk6y23"
+        },
+        {
+            "ticker": "NTRN",
             "relayerAddress": "neutron1lwu58mywx0qe706u9hssgu48pz50gvnuluaddz"
         },
         {
@@ -99,14 +99,6 @@
         {
             "ticker": "AUUU",
             "relayerAddress": "pryzm12qkshheaw2mrpr8asfj6jr9q2e5ms7qtheypw9"
-        },
-        {
-            "ticker": "QCK",
-            "relayerAddress": "quick12qkshheaw2mrpr8asfj6jr9q2e5ms7qtydr5fy"
-        },
-        {
-            "ticker": "SAGA",
-            "relayerAddress": "saga1zehpqzm5hxhgpr3yf0j44ap5aue732lxy9rcs4"
         },
         {
             "ticker": "STARS",
@@ -131,10 +123,6 @@
         {
             "ticker": "XPRT",
             "relayerAddress": "persistence1zycp4k7wrslx7dc5vw4c2ufkss2pfgfexrlrxl"
-        },
-        {
-            "ticker": "UMEE",
-            "relayerAddress": "umee1zehpqzm5hxhgpr3yf0j44ap5aue732lxgq84np"
         },
         {
             "ticker": "WHALE",
