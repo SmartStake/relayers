@@ -151,6 +151,10 @@
     {
       "ticker": "NLS",
       "relayerAddress": "nolus1p4557mdpc2qk8vcemeqgrcg55gs2uyznjx8j99"
+    },
+    {
+      "ticker": "ELYS",
+      "relayerAddress": "elys1p4557mdpc2qk8vcemeqgrcg55gs2uyznykw22z"
     }
   ]
 }
