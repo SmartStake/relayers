@@ -37,10 +37,6 @@
             "relayerAddress": "realio1sty42e2lzdytwv8yewh53fxl4k2ah9szfpv9er"
         },
         {
-            "ticker": "QSR",
-            "relayerAddress": "quasar1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0qnnwa6"
-        },
-        {
             "ticker": "USDC",
             "relayerAddress": "noble1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0xnumg3"
         },
@@ -53,8 +49,8 @@
             "relayerAddress": "sge1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0sshd84"
         },
         {
-            "ticker": "NIBI",
-            "relayerAddress": "nibi1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0e4d2ev"
+            "ticker": "ELYS",
+            "relayerAddress": "elys1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0wss5aa"
         }
     ]
 }
