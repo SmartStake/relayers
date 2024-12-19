@@ -16,14 +16,13 @@
     {"ticker": "UMEE", "relayerAddress": "umee1hu66qqhnwclr0tmh8uft5kwl97z5qgt7pf8596"},
     {"ticker": "AXL", "relayerAddress": "axelar1nuz5f2eeq8sqwz6lf2qef2lvh08u7g9gax53sv"},
     {"ticker": "QSR", "relayerAddress": "quasar1gshuv5kyrz9gl3s98pxj9mh72y44zdenkh3g8f"},
-    {"ticker": "ARCH", "relayerAddress": "archway19nku22r8mf4cfq2wmmgcl20eslhaqr5au0ecpk"},
     {"ticker": "ARCH", "relayerAddress": "archway1vcr9kt2jqw7n5gq6vmxcxzvahywl6ztsn3qhvg"},
     {"ticker": "QCK", "relayerAddress": "quick187c3t9a3sd28q00assugj3yq9sz9ryhs8npdss"},
     {"ticker": "LAVA", "relayerAddress": "lava@17akqw7yqm2r2uhe2qt05rqsfmpkypj5auzqldk"},
     {"ticker": "PLQ", "relayerAddress": "plq1hpee9ds0q9ma79d8jyh969thju75cm43npms6q"},
-    {"ticker": "ANDR", "relayerAddress": "andr1k2rrv7jzwq82apjvscfvaqmw5jpp92l0e882ju"},
     {"ticker": "XPRT", "relayerAddress": "persistence1gdaxp65ymdw5f7a32y2mg75lurm4amze8f2qss"},
     {"ticker": "TIA", "relayerAddress": "celestia1dkd967wypqe8rh0cf9rerwgpllazdqcw0sd8hk"},
-    {"ticker": "C4E", "relayerAddress": "c4e1ydz3l580akrx52rq94fu96f662mdcejp74q9kh"}
+    {"ticker": "C4E", "relayerAddress": "c4e1ydz3l580akrx52rq94fu96f662mdcejp74q9kh"},
+    {"ticker": "ELYS", "relayerAddress": "elys1qy82us3mdvea7gua9y3jsmksca9fl944ej7esh"}
   ]
 }
