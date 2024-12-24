@@ -1,0 +1,35 @@
+{
+  "keybaseIdentity": "4554D347D0EBCAA7",
+  "name": "OWALLET",
+  "website": "https://owallet.io",
+  "twitter": "https://x.com/owallet_io",
+  "telegram": "https://t.me/megaorai",
+  "email": "infra@owallet.io",
+  "supportRelayerBy": "OWallet is a secure, easy-to-use Web3 crypto wallet that puts you in control of your digital assets.",
+  "chainsRelayed": [
+    {
+      "ticker": "ATOM",
+      "relayerAddress": "cosmos19qv67gvevp4xw64kmhd6ff6ta2l2ywgf72pn83"
+    },
+    {
+      "ticker": "INJ",
+      "relayerAddress": "inj1dr9rspdeu786qqyxshjr55hr227fvr8rmx4ny0"
+    },
+    {
+      "ticker": "USDC",
+      "relayerAddress": "noble1q53ujvvrcd0t543dsh5445lu6ar0qr2z70u49m"
+    },
+    {
+      "ticker": "OSMO",
+      "relayerAddress": "osmo1zqevmn000unnjj709akc8p86f9jc4xevnspylk"
+    },
+    {
+      "ticker": "ORAI",
+      "relayerAddress": "orai1q53ujvvrcd0t543dsh5445lu6ar0qr2z9ll7ux"
+    },
+    {
+      "ticker": "ELYS",
+      "relayerAddress": "elys1a2673py5cpqr5jvhquxvn7zracaaj0pfqkr833"
+    }
+  ]
+}
