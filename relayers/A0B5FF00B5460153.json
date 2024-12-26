@@ -14,10 +14,6 @@
         },
         {
             "ticker": "OSMO",
-            "relayerAddress": "osmo1k670rkzc45xmdgywe4vxwheslk3kxm3hrc0zzv"
-        },
-        {
-            "ticker": "OSMO",
             "relayerAddress": "osmo1xupzwxdunxaac5ht6yww5xa2vxkktr8rmvtvad"
         },
         {
@@ -27,10 +23,6 @@
         {
             "ticker": "AURA",
             "relayerAddress": "aura1k670rkzc45xmdgywe4vxwheslk3kxm3hs4tsk8"
-        },
-        {
-            "ticker": "NOIS",
-            "relayerAddress": "nois1k670rkzc45xmdgywe4vxwheslk3kxm3h6tpccx"
         },
         {
             "ticker": "HASH",
