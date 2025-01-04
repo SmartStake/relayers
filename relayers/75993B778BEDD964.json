@@ -1,0 +1,40 @@
+{
+    "keybaseIdentity": "75993B778BEDD964",
+    "name": "Node39.TOP",
+    "website": "https://node39.top",
+    "twitter": "https://twitter.com/Node39_",
+    "telegram": "https://t.me/node39",
+    "discord": "node39",
+    "email": "contact@node39.top",
+    "supportRelayerBy": "Delegate to Validator",
+    "chainsRelayed": [
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1excxqygej58cd3zcvlcku785hjc7keu86p4kev"
+        },
+        {
+            "ticker": "USDC",
+            "relayerAddress": "noble1excxqygej58cd3zcvlcku785hjc7keu86enwhs"
+        },
+        {
+            "ticker": "SLF",
+            "relayerAddress": "self1excxqygej58cd3zcvlcku785hjc7keu8h3m6ph"
+        },
+        {
+            "ticker": "XKP",
+            "relayerAddress": "kopi1excxqygej58cd3zcvlcku785hjc7keu8rukjzg"
+        },
+        {
+            "ticker": "ELYS",
+            "relayerAddress": "elys1excxqygej58cd3zcvlcku785hjc7keu8j6lpzu"
+        },
+        {
+            "ticker": "NIBI",
+            "relayerAddress": "nibi1excxqygej58cd3zcvlcku785hjc7keu89lzlxd"
+        },
+        {
+            "ticker": "CTK",
+            "relayerAddress": "shentu1excxqygej58cd3zcvlcku785hjc7keu86wzlar"
+        }
+    ]
+}
