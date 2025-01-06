@@ -87,6 +87,10 @@
         {
             "ticker": "NTRN",
             "relayerAddress": "neutron1ul8lklccagmnujye6r4zwmae3zpzc373n38w5a"
+        },
+        {
+             "ticker": "ELYS",
+             "relayerAddress": "elys129stf3ctn47dm34nlhr9e3vqmnn8ayur7grkz9"
         }
     ]
 }
