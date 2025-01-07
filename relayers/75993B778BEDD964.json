@@ -43,6 +43,10 @@
         {
             "ticker": "SEDA",
             "relayerAddress": "seda1excxqygej58cd3zcvlcku785hjc7keu8y527vl"
+        },
+        {
+            "ticker": "TIA",
+            "relayerAddress": "celestia1excxqygej58cd3zcvlcku785hjc7keu8rshk4n"
         }
     ]
 }
