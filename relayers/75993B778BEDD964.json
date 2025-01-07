@@ -35,6 +35,14 @@
         {
             "ticker": "CTK",
             "relayerAddress": "shentu1excxqygej58cd3zcvlcku785hjc7keu86wzlar"
+        },
+        {
+            "ticker": "INJ",
+            "relayerAddress": "inj1excxqygej58cd3zcvlcku785hjc7keu8cn3zax"
+        },
+        {
+            "ticker": "SEDA",
+            "relayerAddress": "seda1excxqygej58cd3zcvlcku785hjc7keu8y527vl"
         }
     ]
 }
