@@ -47,6 +47,22 @@
         {
             "ticker": "TIA",
             "relayerAddress": "celestia1excxqygej58cd3zcvlcku785hjc7keu8rshk4n"
-        }
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1excxqygej58cd3zcvlcku785hjc7keu8j6xx07"
+        },
+        {
+            "ticker": "SAGA",
+            "relayerAddress": "saga1excxqygej58cd3zcvlcku785hjc7keu8vfl5gc"
+        },
+        {
+            "ticker": "XION",
+            "relayerAddress": "xion1excxqygej58cd3zcvlcku785hjc7keu8snuye4"
+        },
+        {
+            "ticker": "OM",
+            "relayerAddress": "mantra1excxqygej58cd3zcvlcku785hjc7keu8e3vzvy"
+        }   
     ]
 }
