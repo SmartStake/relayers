@@ -1,0 +1,53 @@
+{
+  "keybaseIdentity": "AE04BDF0960C38E9",
+  "name": "SyaNodes",
+  "website": "https://docs.syanodes.my.id",
+  "twitter": "https://x.com/syanodes",
+  "telegram": "https://t.me/syanodes",
+  "discord": "http://discordapp.com/users/424422625662468096",
+  "email": "syanodess@gmail.com",
+  "supportRelayerBy": "delegating to validator",
+
+  "chainsRelayed": [
+    {
+      "ticker": "ATONE",
+      "relayerAddress": "atone1ama04pglrynswsfsazcmfsfnjehh8wuc9x223c"
+    },
+    {
+      "ticker": "BZE",
+      "relayerAddress": "bze1ama04pglrynswsfsazcmfsfnjehh8wuckz6x4h"
+    },
+    {
+      "ticker": "C4E",
+      "relayerAddress": "c4e1ama04pglrynswsfsazcmfsfnjehh8wucg70q77"
+    },
+    {
+      "ticker": "CHEQ",
+      "relayerAddress": "cheqd1ama04pglrynswsfsazcmfsfnjehh8wuc9y6dv3"
+    },
+    {
+      "ticker": "DHP",
+      "relayerAddress": "dh1ama04pglrynswsfsazcmfsfnjehh8wucentt6p"
+    },
+    {
+      "ticker": "OSMO",
+      "relayerAddress": "osmo1ama04pglrynswsfsazcmfsfnjehh8wucra9a3j"
+    },
+    {
+      "ticker": "QCK",
+      "relayerAddress": "quick1ama04pglrynswsfsazcmfsfnjehh8wucqzxl7j"
+    },
+    {
+      "ticker": "SEDA",
+      "relayerAddress": "seda1ama04pglrynswsfsazcmfsfnjehh8wucag64yp"
+    },
+    {
+      "ticker": "CTK",
+      "relayerAddress": "shentu1ama04pglrynswsfsazcmfsfnjehh8wucrjj54a"
+    },
+    {
+      "ticker": "SYNT",
+      "relayerAddress": "synt1ama04pglrynswsfsazcmfsfnjehh8wucyp9qrg"
+    }
+  ]
+}
