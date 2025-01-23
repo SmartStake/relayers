@@ -6,9 +6,11 @@
    	"telegram": null,
    	"discord": null,
    	"email": "support@busurnode.com",
-   	"supportRelayerBy": "Delegating to our validators",
+   	"supportRelayerBy": "Donating to our relayer addresses or delegating to our validators",
    	"chainsRelayed": [
    		{"ticker": "OSMO", "relayerAddress": "osmo1u2neda84jhwcccyhducxgnt5srkx940lzwpu4a"},
-   		{"ticker": "DVPN", "relayerAddress": "sent1xp4fdtlzlaa2daexk9la5zj84trkzng2ft8zyp"}
+   		{"ticker": "DVPN", "relayerAddress": "sent1xp4fdtlzlaa2daexk9la5zj84trkzng2ft8zyp"},
+   		{"ticker": "ATOM", "relayerAddress": "cosmos13s8xhdt8t6v9hda3xfnsah9snk2ldew3sw2v0n"},
+   		{"ticker": "AXL", "relayerAddress": "axelar13s8xhdt8t6v9hda3xfnsah9snk2ldew35quyyj"}
    	]
 }
