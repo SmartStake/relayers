@@ -155,6 +155,10 @@
     {
       "ticker": "ELYS",
       "relayerAddress": "elys1p4557mdpc2qk8vcemeqgrcg55gs2uyznykw22z"
+    },
+    {
+      "ticker": "QCK",
+      "relayerAddress": "quick1p4557mdpc2qk8vcemeqgrcg55gs2uyzn0j8l7j"
     }
   ]
 }
