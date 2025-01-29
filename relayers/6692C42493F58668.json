@@ -41,18 +41,6 @@
             "relayerAddress": "lava@1cg5rydw8y5t6xsgq9q3yc3x2dq7zlnucf5l5em"
         },
         {
-            "ticker": "KUJI",
-            "relayerAddress": "kujira1h36h57805m7eann0xs2mrv72p8wnyypm987c4n"
-        },
-        {
-            "ticker": "KUJI",
-            "relayerAddress": "kujira12n4xr6eeqcy28pe6celvlg5g7uelyut33hmccn"
-        },
-        {
-            "ticker": "STRD",
-            "relayerAddress": "stride1h36h57805m7eann0xs2mrv72p8wnyypmhyuuv4"
-        },
-        {
             "ticker": "STRD",
             "relayerAddress": "stride12n4xr6eeqcy28pe6celvlg5g7uelyut3r5eup4"
         },
@@ -69,24 +57,12 @@
             "relayerAddress": "axelar12n4xr6eeqcy28pe6celvlg5g7uelyut3y30g7c"
         },
         {
-            "ticker": "NOIS",
-            "relayerAddress": "nois1h36h57805m7eann0xs2mrv72p8wnyypm98p25p"
-        },
-        {
             "ticker": "NLS",
             "relayerAddress": "nolus1h36h57805m7eann0xs2mrv72p8wnyypmzlvl6u"
         },
         {
             "ticker": "STARS",
-            "relayerAddress": "stars1h36h57805m7eann0xs2mrv72p8wnyypmqntang"
-        },
-        {
-            "ticker": "STARS",
             "relayerAddress": "stars12n4xr6eeqcy28pe6celvlg5g7uelyut35rwa7g"
-        },
-        {
-            "ticker": "XPRT",
-            "relayerAddress": "persistence1h36h57805m7eann0xs2mrv72p8wnyypm6r6nka"
         },
         {
             "ticker": "DYDX",
@@ -94,20 +70,8 @@
         },
         {
             "ticker": "LUNA",
-            "relayerAddress": "terra1h36h57805m7eann0xs2mrv72p8wnyypmjtxq6e"
-        },
-        {
-            "ticker": "LUNA",
             "relayerAddress": "terra12n4xr6eeqcy28pe6celvlg5g7uelyut3xmrqhe"
-        },
-        {
-            "ticker": "DYM",
-            "relayerAddress": "dym1n23fp5q374qwz55us5hvh0vlqdvtcpmygh4g0f"
         },   
-        {
-            "ticker": "INJ",
-            "relayerAddress": "inj1n23fp5q374qwz55us5hvh0vlqdvtcpmysrw2cl"
-        },
         {
             "ticker": "INJ",
             "relayerAddress": "inj1fekaur22qq7j8k0hvg2q460wm533my8038ktst"
