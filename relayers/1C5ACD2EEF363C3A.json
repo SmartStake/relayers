@@ -17,12 +17,12 @@
             "relayerAddress": "osmo1twmgaeug7ymjq8c53ttstpl7rny43q8zdnju34"
         },
         {
-            "ticker": "ATOM",
-            "relayerAddress": "cosmos1twmgaeug7ymjq8c53ttstpl7rny43q8z9gpv88"
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1qmkft69j3tgeplmda6kga3emklw6naf7zf4euu"
         },
         {
-            "ticker": "KUJI",
-            "relayerAddress": "kujira1twmgaeug7ymjq8c53ttstpl7rny43q8z5qr52d"
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1twmgaeug7ymjq8c53ttstpl7rny43q8z9gpv88"
         },
         {
             "ticker": "BLD",
@@ -43,18 +43,6 @@
         {
             "ticker": "NLS",
             "relayerAddress": "nolus1twmgaeug7ymjq8c53ttstpl7rny43q8znc3n9z"
-        },
-        {
-            "ticker": "UMEE",
-            "relayerAddress": "umee1twmgaeug7ymjq8c53ttstpl7rny43q8zh7unr4"
-        },
-        {
-            "ticker": "AURA",
-            "relayerAddress": "aura1twmgaeug7ymjq8c53ttstpl7rny43q8z77kw97"
-        },
-        {
-            "ticker": "QSR",
-            "relayerAddress": "quasar1twmgaeug7ymjq8c53ttstpl7rny43q8zttm32z"
         },
         {
             "ticker": "ARCH",
