@@ -11,6 +11,7 @@
    		{"ticker": "ATOM", "relayerAddress": "cosmos1sgsqsktsku3w5q34np2e7v603l2jn2uwyludr6"},
    		{"ticker": "BTSG", "relayerAddress": "bitsong1r7uqwyuenmve76tvu6vyxrfec64qw93h5uay9a"},
    		{"ticker": "CTK", "relayerAddress": "shentu1sgsqsktsku3w5q34np2e7v603l2jn2uwvtc538"},
+   		{"ticker": "FET", "relayerAddress": "fetch1sgsqsktsku3w5q34np2e7v603l2jn2uwhz4fpd"},
    		{"ticker": "HASH", "relayerAddress": "pb1stsmyg3avsthng9n0s0ctm4fm3q0vshtcplln4"},
    		{"ticker": "OSMO", "relayerAddress": "osmo1sgsqsktsku3w5q34np2e7v603l2jn2uwvy0a4g"}
    	]
