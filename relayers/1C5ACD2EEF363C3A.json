@@ -63,6 +63,10 @@
         {
             "ticker": "HEART",
             "relayerAddress": "human1twmgaeug7ymjq8c53ttstpl7rny43q8z880zuc"
+        },
+        {
+            "ticker": "NTRN",
+            "relayerAddress": "neutron1qmkft69j3tgeplmda6kga3emklw6naf7wd0tsf"
         }
     ]
 }
