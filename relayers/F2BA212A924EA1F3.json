@@ -1,0 +1,17 @@
+{
+   	"keybaseIdentity": "F2BA212A924EA1F3",
+   	"name": "LuckyStar",
+   	"website": "https://www.luckystar.asia",
+   	"twitter": "LuckyStar_Asia",
+   	"telegram": "LuckyStarAsia",
+   	"discord": "luckystar.asia",
+   	"email": "aluckystarasia@gmail.com",
+   	"supportRelayerBy": "Delegate to LuckyStar validator",
+   	"chainsRelayed": [
+   		{"ticker": "ATOM", "relayerAddress": "cosmos1hrzv6r32t7y96v5gpcw9fr6y7mhz4e3pl8jqhf"},
+   		{"ticker": "OSMO", "relayerAddress": "osmo1hrzv6r32t7y96v5gpcw9fr6y7mhz4e3phupspm"},
+   		{"ticker": "LUNA", "relayerAddress": "terra1hrzv6r32t7y96v5gpcw9fr6y7mhz4e3pergq4f"},
+   		{"ticker": "NOBLE", "relayerAddress": "noble1hrzv6r32t7y96v5gpcw9fr6y7mhz4e3phy8g08"},
+   		{"ticker": "KOPI", "relayerAddress": "kopi1hrzv6r32t7y96v5gpcw9fr6y7mhz4e3pwpz56l"}
+   	]
+}
