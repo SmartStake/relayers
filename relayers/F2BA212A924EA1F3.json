@@ -2,9 +2,9 @@
    	"keybaseIdentity": "F2BA212A924EA1F3",
    	"name": "LuckyStar",
    	"website": "https://www.luckystar.asia",
-   	"twitter": "LuckyStar_Asia", # @ not needed. full website address is not needed
-   	"telegram": "LuckyStarAsia", #does not support multiple TG handles. full website address is not needed
-   	"discord": "luckystar.asia", #does not support multiple discord handles. full website address is needed
+   	"twitter": "LuckyStar_Asia",
+   	"telegram": "LuckyStarAsia",
+   	"discord": "luckystar.asia",
    	"email": "aluckystarasia@gmail.com",
    	"supportRelayerBy": "Delegate to LuckyStar validator",
    	"chainsRelayed": [
