@@ -77,8 +77,16 @@
             "relayerAddress": "celestia1wvj4kuv4jnwc8v6mc6wsddrp3qvwmylpw72s99"
         },
         {
+            "ticker": "TIA",
+            "relayerAddress": "celestia1fq884cew9kdqlcum0hfa27xzyhd3edet8hnk39"
+        },
+        {
             "ticker": "USDC",
             "relayerAddress": "noble15tmz024xrncl6n8kawzws6nzauua85pktjrepv"
+        },
+        {
+            "ticker": "USDC",
+            "relayerAddress": "noble1j4r9h6v42luhedfqly33k3qu3xg5d8ktq99elj"
         },
         {
             "ticker": "C4E",
