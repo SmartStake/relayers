@@ -48,10 +48,6 @@
             "relayerAddress": "dym1h0gdrzsp3jn39pr5j782wjtpr8vtlu0vmg0323"
         },
         {
-            "ticker": "EVMOS",
-            "relayerAddress": "evmos14wp74cy9ymmt204n4u43jsusy3l4xchdrxh5nh"
-        },
-        {
             "ticker": "FET",
             "relayerAddress": "fetch1anzemlurs94zwvd5ypxyz6zu3v0c5jhp228ftp"
         },
@@ -67,7 +63,6 @@
             "ticker": "INJ",
             "relayerAddress": "inj1h0gdrzsp3jn39pr5j782wjtpr8vtlu0vru5na8"
         },
-
         {
             "ticker": "JUNO",
             "relayerAddress": "juno12mczzwe9jsgejx0vccjwa7gyl2zhjus664uqdy"
@@ -127,6 +122,10 @@
         {
             "ticker": "WHALE",
             "relayerAddress": "migaloo12qkshheaw2mrpr8asfj6jr9q2e5ms7qtza6u9c"
+        },
+        {
+            "ticker": "XION",
+            "relayerAddress": "xion12qkshheaw2mrpr8asfj6jr9q2e5ms7qtdqfyxa"
         }
     ]
 }
