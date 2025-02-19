@@ -126,6 +126,63 @@
         {
             "ticker": "XION",
             "relayerAddress": "xion12qkshheaw2mrpr8asfj6jr9q2e5ms7qtdqfyxa"
+        },
+
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos188gyqncklykkna5zt9cem2hwednz7t4af9qmr2",
+            "alias": "r4"
+        },
+        {
+            "ticker": "DYDX",
+            "relayerAddress": "dydx188gyqncklykkna5zt9cem2hwednz7t4aquwlra",
+            "alias": "r4"
+        },
+        {
+            "ticker": "DYM",
+            "relayerAddress": "dym188gyqncklykkna5zt9cem2hwednz7t4amcvaxy",
+            "alias": "r4"
+        },
+        {
+            "ticker": "FET",
+            "relayerAddress": "fetch188gyqncklykkna5zt9cem2hwednz7t4a6cflpa",
+            "alias": "r4"
+        },
+        {
+            "ticker": "INJ",
+            "relayerAddress": "inj1rm77w8adfe0kw2p8ue05p40jptumfdtwl9kdun",
+            "alias": "r4"
+        },
+        {
+            "ticker": "NTRN",
+            "relayerAddress": "neutron188gyqncklykkna5zt9cem2hwednz7t4ad6feed",
+            "alias": "r4"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo188gyqncklykkna5zt9cem2hwednz7t4ap7nt4c",
+            "alias": "r4"
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride188gyqncklykkna5zt9cem2hwednz7t4a2wq8hx",
+            "alias": "r4"
+        },
+        {
+            "ticker": "TIA",
+            "relayerAddress": "celestia188gyqncklykkna5zt9cem2hwednz7t4ac03te8",
+            "alias": "r4"
+        },
+        {
+            "ticker": "XPRT",
+            "relayerAddress": "persistence188gyqncklykkna5zt9cem2hwednz7t4a8fxgdw",
+            "alias": "r4"
+        },
+        {
+            "ticker": "XION",
+            "relayerAddress": "xion188gyqncklykkna5zt9cem2hwednz7t4atv6e4p",
+            "alias": "r4"
         }
+
     ]
 }
