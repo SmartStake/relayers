@@ -67,6 +67,10 @@
         {
             "ticker": "LUNA",
             "relayerAddress": "mantra1excxqygej58cd3zcvlcku785hjc7keu8e3vzvy"
+        },
+        {
+            "ticker": "BLD",
+            "relayerAddress": "agoric1cl7gnv9vgxrg6a54ta3wwv4745rwflj90d33fs"
         }
     ]
 }
