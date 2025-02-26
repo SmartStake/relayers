@@ -1,0 +1,39 @@
+{
+  "keybaseIdentity": "6CB6AC3E672AAB9D",
+  "name": "ValidatorVN",
+  "website": "https://validatorvn.com",
+  "twitter": "https://twitter.com/validatorvn",
+  "telegram": "https://t.me/nodevalidatorvn",
+  "email": "security@validatorvn.com",
+  "supportRelayerBy": "Trusted Proof-of-Stake validator & Tendermint chain service provider",
+  "chainsRelayed": [
+    {
+      "ticker": "ATOM",
+      "relayerAddress": "cosmos1cjhz8st5409k2nzfcpcnexehjxh7k2fgknzuaa"
+    },
+    {
+      "ticker": "OSMO",
+      "relayerAddress": "osmo1cjhz8st5409k2nzfcpcnexehjxh7k2fg7g3vt0"
+    },
+    {
+      "ticker": "ELYS",
+      "relayerAddress": "elys1jq3terhmyuct8p6xatskg720fy66hkat8re8a6"
+    },
+    {
+      "ticker": "STRD",
+      "relayerAddress": "stride1cjhz8st5409k2nzfcpcnexehjxh7k2fg4czqf3"
+    },
+    {
+      "ticker": "AXL",
+      "relayerAddress": "axelar1cjhz8st5409k2nzfcpcnexehjxh7k2fgja55ku"
+    },
+    {
+      "ticker": "TIA",
+      "relayerAddress": "celestia1cjhz8st5409k2nzfcpcnexehjxh7k2fg8env8s"
+    },
+    {
+      "ticker": "NAM",
+      "relayerAddress": "tnam1qp8ctrxp62eqw6hnnm2q42zpl8js2pk8f5jxtzgt"
+    }
+  ]
+}
