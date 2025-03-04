@@ -75,6 +75,10 @@
         {
             "ticker": "DYM",
             "relayerAddress": "dym165kynzttttckd7f0cuf9mvwf8s0fahdveu60qk"
+        },
+        {
+            "ticker": "ELYS",
+            "relayerAddress": "elys1n83usl8dr6lj5muh7gde98pg6qvuhrra6cjeml"
         }
     ]
 }
