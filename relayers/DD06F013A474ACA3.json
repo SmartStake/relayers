@@ -145,7 +145,7 @@
         },
         {
             "ticker": "DYM",
-            "relayerAddress": "dym188gyqncklykkna5zt9cem2hwednz7t4amcvaxy",
+            "relayerAddress": "dym17wwlawtyfq262cc56nx60g9qf0trdelun83ea3",
             "alias": "r4"
         },
         {
@@ -187,7 +187,61 @@
             "ticker": "XION",
             "relayerAddress": "xion188gyqncklykkna5zt9cem2hwednz7t4atv6e4p",
             "alias": "r4"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1a3lf7xwjeakd2eekd6vjqjzt0z99lxhtt5kpu8",
+            "alias": "r5"
+        },
+        {
+            "ticker": "DYDX",
+            "relayerAddress": "dydx1a3lf7xwjeakd2eekd6vjqjzt0z99lxhtzdc9us",
+            "alias": "r5"
+        },
+        {
+            "ticker": "DYM",
+            "relayerAddress": "dym16a8n5kf02ufn6ngafkekvqdw28ygmkh3z4sk5w",
+            "alias": "r5"
+        },
+        {
+            "ticker": "FET",
+            "relayerAddress": "fetch1a3lf7xwjeakd2eekd6vjqjzt0z99lxhtcfl97s",
+            "alias": "r5"
+        },
+        {
+            "ticker": "INJ",
+            "relayerAddress": "inj16a8n5kf02ufn6ngafkekvqdw28ygmkh36pt5rc",
+            "alias": "r5"
+        },
+        {
+            "ticker": "NTRN",
+            "relayerAddress": "neutron1a3lf7xwjeakd2eekd6vjqjzt0z99lxht0tlrxq",
+            "alias": "r5"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1a3lf7xwjeakd2eekd6vjqjzt0z99lxhtr09324",
+            "alias": "r5"
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride1a3lf7xwjeakd2eekd6vjqjzt0z99lxhtglkagt",
+            "alias": "r5"
+        },
+        {
+            "ticker": "TIA",
+            "relayerAddress": "celestia1a3lf7xwjeakd2eekd6vjqjzt0z99lxht6783x2",
+            "alias": "r5"
+        },
+        {
+            "ticker": "XPRT",
+            "relayerAddress": "persistence1a3lf7xwjeakd2eekd6vjqjzt0z99lxht9csjjr",
+            "alias": "r5"
+        },
+        {
+            "ticker": "XION",
+            "relayerAddress": "xion1a3lf7xwjeakd2eekd6vjqjzt0z99lxhtfavr2v",
+            "alias": "r5"
         }
-
     ]
 }
