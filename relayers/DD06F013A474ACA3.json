@@ -242,6 +242,27 @@
             "ticker": "XION",
             "relayerAddress": "xion1a3lf7xwjeakd2eekd6vjqjzt0z99lxhtfavr2v",
             "alias": "r5"
+        },
+        {
+            "ticker": "OM",
+            "relayerAddress": "uom188gyqncklykkna5zt9cem2hwednz7t4apgkyq0",
+            "alias": "r4"
+        },
+        {
+            "ticker": "ORAI",
+            "relayerAddress": "orai188gyqncklykkna5zt9cem2hwednz7t4a6kkcze",
+            "alias": "r4"
+        },
+        {
+            "ticker": "OM",
+            "relayerAddress": "uom1a3lf7xwjeakd2eekd6vjqjzt0z99lxhtreq7lz",
+            "alias": "r5"
+        },
+        {
+            "ticker": "ORAI",
+            "relayerAddress": "orai1a3lf7xwjeakd2eekd6vjqjzt0z99lxhtc8qza5",
+            "alias": "r5"
         }
+        
     ]
 }
