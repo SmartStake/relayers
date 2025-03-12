@@ -41,6 +41,10 @@
             "relayerAddress": "kopi1qndwcgkad70wcjxpj9y8ya2xgn8wqc8m5d52sh"
         },
         {
+            "ticker": "PLQ",
+            "relayerAddress": "plq1ah63vlyksnh8vaecck5q7qfwph6vmvrmas03zn"    
+        },
+        {
             "ticker": "RIO",
             "relayerAddress": "realio125qz3xh2gy3qssym5dc9yk7xj87h05a7u6f02k"
         }
