@@ -17,6 +17,10 @@
             "relayerAddress": "noble1excxqygej58cd3zcvlcku785hjc7keu86enwhs"
         },
         {
+            "ticker": "USDC",
+            "relayerAddress": "noble1e5p5zmdslfvj5vlqcun2u9lnngq2jy7v9hdz9d"
+        },
+        {
             "ticker": "SLF",
             "relayerAddress": "self1excxqygej58cd3zcvlcku785hjc7keu8h3m6ph"
         },
