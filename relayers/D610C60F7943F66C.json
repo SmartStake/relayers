@@ -10,19 +10,19 @@
   "chainsRelayed": [
     {
       "ticker": "JUNO",
-      "relayerAddress": "juno1yvs0wp05m075qe9m3zyx5cvkj2gwdrs04zqzqe",
+      "relayerAddress": "juno1yvs0wp05m075qe9m3zyx5cvkj2gwdrs04zqzqe"
     },
     {
       "ticker": "IRIS",
-      "relayerAddress": "iaa1yvs0wp05m075qe9m3zyx5cvkj2gwdrs0kjrg95",
+      "relayerAddress": "iaa1yvs0wp05m075qe9m3zyx5cvkj2gwdrs0kjrg95"
     },
     {
       "ticker": "KAVA",
-      "relayerAddress": "kava1mhchsnrumqs3cxcke9v95l00x0dvfwcpafstry",
+      "relayerAddress": "kava1mhchsnrumqs3cxcke9v95l00x0dvfwcpafstry"
     },
     {
       "ticker": "KYVE",
-      "relayerAddress": "kyve1yvs0wp05m075qe9m3zyx5cvkj2gwdrs057w0vp",
+      "relayerAddress": "kyve1yvs0wp05m075qe9m3zyx5cvkj2gwdrs057w0vp"
     },
     {
       "ticker": "ATOM",
