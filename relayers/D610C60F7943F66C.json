@@ -1,0 +1,36 @@
+{
+  "keybaseIdentity": "D610C60F7943F66C",
+  "name": "SpaceStake",
+  "website": "https://spacestake.tech",
+  "twitter": "SpaceStakeTech",
+  "telegram": null,
+  "discord": "https://discord.gg/jf9QWE9SQt",
+  "email": "support@spacestake.tech",
+  "supportRelayerBy": "Delegating to SpaceStake",
+  "chainsRelayed": [
+    {
+      "ticker": "JUNO",
+      "relayerAddress": "juno1yvs0wp05m075qe9m3zyx5cvkj2gwdrs04zqzqe"
+    },
+    {
+      "ticker": "IRIS",
+      "relayerAddress": "iaa1yvs0wp05m075qe9m3zyx5cvkj2gwdrs0kjrg95"
+    },
+    {
+      "ticker": "KAVA",
+      "relayerAddress": "kava1mhchsnrumqs3cxcke9v95l00x0dvfwcpafstry"
+    },
+    {
+      "ticker": "KYVE",
+      "relayerAddress": "kyve1yvs0wp05m075qe9m3zyx5cvkj2gwdrs057w0vp"
+    },
+    {
+      "ticker": "ATOM",
+      "relayerAddress": "cosmos1yvs0wp05m075qe9m3zyx5cvkj2gwdrs0rsre89"
+    },
+    {
+      "ticker": "OSMO",
+      "relayerAddress": "osmo1yvs0wp05m075qe9m3zyx5cvkj2gwdrs0ttsf3h"
+    }
+  ]
+}
