@@ -1,0 +1,32 @@
+{
+    "keybaseIdentity": "D5F5A78539B6C1CC",
+    "name": "LuckyResearch Labs",
+    "website": "https://luckyresearch.org",
+    "twitter": "https://x.com/LuckyResearchVN",
+    "telegram": "https://t.me/leeluckyresearch",
+    "discord": "leelucky",
+    "email": "contact@luckyresearch.org",
+    "supportRelayerBy": "Delegate to Validator",
+    "chainsRelayed": [
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo10lk3rtplccpe8xgk8wcrdw748ydqgkk70mnryt"
+        },
+        {
+            "ticker": "Celestia",
+            "relayerAddress": "celestia10lk3rtplccpe8xgk8wcrdw748ydqgkk7k23rg5"
+        },
+        {
+            "ticker": "Dymension",
+            "relayerAddress": "dym1jdjwk3pz76y93evu65tge92reuy6gschhzytex"
+        },
+        {
+            "ticker": "Stride",
+            "relayerAddress": "stride10lk3rtplccpe8xgk8wcrdw748ydqgkk7ytq0x4"
+        },
+        {
+            "ticker": "Neutron",
+            "relayerAddress": "neutron10lk3rtplccpe8xgk8wcrdw748ydqgkk7rlf3g7"
+        }  
+    ]
+}
