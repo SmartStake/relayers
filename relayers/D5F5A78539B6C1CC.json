@@ -13,19 +13,19 @@
             "relayerAddress": "osmo10lk3rtplccpe8xgk8wcrdw748ydqgkk70mnryt"
         },
         {
-            "ticker": "Celestia",
+            "ticker": "TIA",
             "relayerAddress": "celestia10lk3rtplccpe8xgk8wcrdw748ydqgkk7k23rg5"
         },
         {
-            "ticker": "Dymension",
+            "ticker": "DYM",
             "relayerAddress": "dym1jdjwk3pz76y93evu65tge92reuy6gschhzytex"
         },
         {
-            "ticker": "Stride",
+            "ticker": "STRD",
             "relayerAddress": "stride10lk3rtplccpe8xgk8wcrdw748ydqgkk7ytq0x4"
         },
         {
-            "ticker": "Neutron",
+            "ticker": "NTRN",
             "relayerAddress": "neutron10lk3rtplccpe8xgk8wcrdw748ydqgkk7rlf3g7"
         }  
     ]
