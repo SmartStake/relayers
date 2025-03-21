@@ -31,6 +31,14 @@
     {
       "ticker": "OSMO",
       "relayerAddress": "osmo1yvs0wp05m075qe9m3zyx5cvkj2gwdrs0ttsf3h"
+    },
+    {
+      "ticker": "DYDX",
+      "relayerAddress": "dydx1yvs0wp05m075qe9m3zyx5cvkj2gwdrs02fda8j"
+    },
+    {
+      "ticker": "XKP",
+      "relayerAddress": "kopi1yvs0wp05m075qe9m3zyx5cvkj2gwdrs0jknd2n"
     }
   ]
 }
