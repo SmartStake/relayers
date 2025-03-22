@@ -1,0 +1,16 @@
+{
+   	"keybaseIdentity": "D36EEB12E5B1B11A",
+   	"name": "ITRocket",
+   	"website": "https://itrocket.net/",
+   	"twitter": "itrocket_team",
+   	"telegram": "itrocket_team",
+   	"discord": "itrocket",
+   	"email": "ops@itrocket.net",
+   	"supportRelayerBy": "Donating to our relayer addresses or delegating to our validators",
+   	"chainsRelayed": [
+		{ "ticker": "ATOM", "relayerAddress": "cosmos1gu4vdcvqy3khelanwvatk983x49ngxujh6k36l"},
+		{ "ticker": "TIA", "relayerAddress": "celestia1gu4vdcvqy3khelanwvatk983x49ngxujxs8pqj"},
+		{"ticker": "ELYS", "relayerAddress": "elys1gu4vdcvqy3khelanwvatk983x49ngxujh60kha"},
+		{"ticker": "QCK", "relayerAddress": "quick1gu4vdcvqy3khelanwvatk983x49ngxuju7xrrd"}
+	]
+}
