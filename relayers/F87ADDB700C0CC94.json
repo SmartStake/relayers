@@ -490,6 +490,10 @@
             "relayerAddress": "noble12gpm8vw69nzx66qc3fvzmnajh4jpxmna2hpuag"
         },
         {
+            "ticker": "USDC",
+            "relayerAddress": "noble1xyvwdfv6y7d3xt3kc8eywv4qlwth3k5dv7rvhe"
+        },
+        {
             "ticker": "NLS",
             "relayerAddress": "nolus18xrruhq5r246mwk0yj9elnn3mte8xa9uk9tjwe"
         },
@@ -548,6 +552,10 @@
         {
             "ticker": "OSMO",
             "relayerAddress": "osmo19cwv0e5f5x08ak5zfkhh6l835vh5ag4gew7tl7"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1xyvwdfv6y7d3xt3kc8eywv4qlwth3k5dvx95e9"
         },
         {
             "ticker": "SAGA",
@@ -620,6 +628,10 @@
         {
             "ticker": "SEI",
             "relayerAddress": "sei1nzjcsulyfxh0evmajk3ruawh407h5x8fa40a79"
+        },
+        {
+            "ticker": "SEI",
+            "relayerAddress": "sei1xyvwdfv6y7d3xt3kc8eywv4qlwth3k5df38jfk"
         },
         {
             "ticker": "SGE",
