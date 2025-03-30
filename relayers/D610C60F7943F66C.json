@@ -39,6 +39,10 @@
     {
       "ticker": "XKP",
       "relayerAddress": "kopi1yvs0wp05m075qe9m3zyx5cvkj2gwdrs0jknd2n"
+    },
+    {
+      "ticker": "STARS",
+      "relayerAddress": "stars1yvs0wp05m075qe9m3zyx5cvkj2gwdrs0hv5yv5"
     }
   ]
 }
