@@ -21,8 +21,12 @@
             "relayerAddress": "cosmos1tslfpzjggk9sw05klppef93t7mmmappeylghch"
         },
         {
+            "ticker": "MEDAS",
+            "relayerAddress": "medas1h5d96y4e7dee5ek24j9g0m56yuuxwpg2dd36qk"
+        },
+        {
             "ticker": "ATONE",
-            "relayerAddress": "atone1gyz87ffdzlzd0qwxha8d8upt4qw5h856yglg6t"
+            "relayerAddress": "atone1gyz87ffdzlzd0qwxha8d8upt4qw5h856yglg6t"    
         },
         {
             "ticker": "SAGA",
