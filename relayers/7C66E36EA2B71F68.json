@@ -47,6 +47,10 @@
         {
             "ticker": "RIO",
             "relayerAddress": "realio125qz3xh2gy3qssym5dc9yk7xj87h05a7u6f02k"
+        },
+        { 
+            "ticker": "MEDAS",
+            "relayerAddress": "medas1h5d96y4e7dee5ek24j9g0m56yuuxwpg2dd36qk"
         }
     ]
 }
