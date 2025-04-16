@@ -20,6 +20,14 @@
             "relayerAddress": "tori17rwvng2fy6ldph8ntxa78t39t3laexkth7lutq"
         },
         {
+            "ticker": "JUNO",
+            "relayerAddress": "juno1q3c80zs65tnjf9xrkdexe0u3tuf8d7ad4huc6q"
+        },
+        {
+            "ticker": "ELYS",
+            "relayerAddress": "elys1ce80jh8ntzce9v7e5xkyg2s2cdqmttnuvh82tw"
+        },
+        {
             "ticker": "HASH",
             "relayerAddress": "pb1s30c5wsyzsuar2j4fz0fag8a20fxhyjdpd68pj"
         },
