@@ -1,0 +1,60 @@
+{
+    "keybaseIdentity": "57B4BC3293EE88AB",
+    "name": "NodesHub",
+    "website": "https://nodeshub.online/",
+    "twitter": "https://x.com/Nodes_Hub",
+    "telegram": "https://t.me/Nodes_Hub",
+    "discord": "https://discord.gg/FYFyT4zgSD",
+    "email": "contact@nodeshub.online",
+    "supportRelayerBy": "Stake with | NodesHub | Validators!",
+    "chainsRelayed": [
+        {
+            "ticker": "ELYS",
+            "relayerAddress": "elys1rg5kkthm49lh6t45q5g44fpa78h73ae8tdlet5"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1rg5kkthm49lh6t45q5g44fpa78h73ae8rk4wsy"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1rg5kkthm49lh6t45q5g44fpa78h73ae8tdx7xk"
+        },
+        {
+            "ticker": "ATONE",
+            "relayerAddress": "cosmos1rg5kkthm49lh6t45q5g44fpa78h73ae8tdx7xk"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar1rg5kkthm49lh6t45q5g44fpa78h73ae80rskdh"
+        },
+        {
+            "ticker": "Celestia",
+            "relayerAddress": "celestia1rg5kkthm49lh6t45q5g44fpa78h73ae868hwum"
+        },
+        {
+            "ticker": "OM",
+            "relayerAddress": "mantra1rg5kkthm49lh6t45q5g44fpa78h73ae8qxv69v"
+        },
+        {
+            "ticker": "USDC",
+            "relayerAddress": "noble1rg5kkthm49lh6t45q5g44fpa78h73ae8rwnk7c"
+        },
+        {
+            "ticker": "XKP",
+            "relayerAddress": "kopi1rg5kkthm49lh6t45q5g44fpa78h73ae86tk2tq"
+        },
+        {
+            "ticker": "Source",
+            "relayerAddress": "source1rg5kkthm49lh6t45q5g44fpa78h73ae8d7lqkg"    
+        },
+        {
+            "ticker": "RIO",
+            "relayerAddress": "realio1jt5j7negugd7eeve53frrzl3dxts80mrsx387p"
+        },
+        { 
+            "ticker": "Kyve",
+            "relayerAddress": "kyve1rg5kkthm49lh6t45q5g44fpa78h73ae8urtgdj"
+        }
+    ]
+}
