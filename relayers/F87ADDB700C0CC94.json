@@ -778,20 +778,37 @@
             "relayerAddress": "noble1rx7pka3869049mvxxw23yzwd0klxvxc5fp5qzc"
         },
         {
-            "ticker": "BBN",
+            "ticker": "BABY",
             "relayerAddress": "bbn1rx7pka3869049mvxxw23yzwd0klxvxc5kuse90"
         },
         {
-            "ticker": "BBN",
+            "ticker": "BABY",
             "relayerAddress": "bbn15lwqp6pe4d70m8yc0lv6fc70yajjqwgr8450z5"
         },
         {
-            "ticker": "BBN",
+            "ticker": "BABY",
             "relayerAddress": "bbn1u2stehedmne63vt3g7j2gyyc5wh2wq6h6ahsys"
         },
         {
-            "ticker": "BBN",
+            "ticker": "BABY",
             "relayerAddress": "bbn1n3rhlmte4qcvek4wf9plcpmvqsgta7d5uvafxu"
+        },
+                {
+            "ticker": "BABY",
+            "relayerAddress": "bbn18xrruhq5r246mwk0yj9elnn3mte8xa9uht2un9"
+        },
+                {
+            "ticker": "BABY",
+            "relayerAddress": "bbn12gpm8vw69nzx66qc3fvzmnajh4jpxmna42996l"
+        },
+                {
+            "ticker": "BABY",
+            "relayerAddress": "bbn13zclp2gd0g2dx7f33nrhw29jv0rqssfpulu3nu"
+        },
+                {
+            "ticker": "BABY",
+            "relayerAddress": "bbn1ure9g8re7h3qpk7d976e6t8yf4l9lz2eujqugn"
         }
+        
     ]
 }
