@@ -1,0 +1,39 @@
+{
+"keybaseIdentity": "34DA4858CF0FBA77",
+    "name": "VALIDEXIS",
+    "website": "https://validexis.com/",
+    "telegram": "https://t.me/validexisinfra",
+    "discord": "https://discordapp.com/users/validexis",
+    "email": "validexisglobal@gmail.com",
+    "supportRelayerBy": "Delegate to our validators — try the best staking experience.",
+    "chainsRelayed": [
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1uzyu7ht07arngluwhl3yj55tx3dyujwgnzur9a"
+        },
+        {
+            "ticker": "TIA",
+            "relayerAddress": "celestia1uzyu7ht07arngluwhl3yj55tx3dyujwg2n7rfz"
+        },
+        {
+            "ticker": "STARS",
+            "relayerAddress": "stars1uzyu7ht07arngluwhl3yj55tx3dyujwg09cwc7"
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride1uzyu7ht07arngluwhl3yj55tx3dyujwgcj008r"
+        },
+        {
+            "ticker": "INJ",
+            "relayerAddress": "inj1tq0l8rkwpwmqm69qktysr0fhyz94qqu226kygh"
+        },
+        {
+            "ticker": "ELYS",
+            "relayerAddress": "elys1uzyu7ht07arngluwhl3yj55tx3dyujwgmek57d"
+        },
+        {
+            "ticker": "NTRN",
+            "relayerAddress": "neutron1uzyu7ht07arngluwhl3yj55tx3dyujwglxx3fg"
+        }
+    ]
+}
