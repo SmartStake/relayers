@@ -1,0 +1,40 @@
+{
+  "keybaseIdentity": "7A553496D97AA912",
+  "name": "Shazoe",
+  "website": "https://services.shazoe.xyz",
+  "twitter": "_shazoe",
+  "telegram": "https://t.me/shazoes",
+  "discord": "http://discordapp.com/users/906483432811561000",
+  "email": "hello@shazoe.xyz",
+  "supportRelayerBy": "Delegate to Shazoe Validator",
+  "chainsRelayed": [
+    {
+      "ticker": "OSMO",
+      "relayerAddress": "osmo1yfrzzn950fgklpdy2sx2dcj56ne59ezdts74ww"
+    },
+    {
+      "ticker": "ATONE",
+      "relayerAddress": "atone1yfrzzn950fgklpdy2sx2dcj56ne59ezddt3zwy"
+    },
+    {
+      "ticker": "BABY",
+      "relayerAddress": "bbn1yfrzzn950fgklpdy2sx2dcj56ne59ezd54u589"
+    },
+    {
+      "ticker": "CTK",
+      "relayerAddress": "shentu1yfrzzn950fgklpdy2sx2dcj56ne59ezdtlfu2p"
+    },
+    {
+      "ticker": "SEDA",
+      "relayerAddress": "seda1yfrzzn950fgklpdy2sx2dcj56ne59ezd49pama"
+    },
+    {
+      "ticker": "SYNT",
+      "relayerAddress": "synt1yfrzzn950fgklpdy2sx2dcj56ne59ezdvv7gu5"
+    },
+    {
+      "ticker": "USDC",
+      "relayerAddress": "noble1yfrzzn950fgklpdy2sx2dcj56ne59ezdtgcdqj"
+    }
+  ]
+}
