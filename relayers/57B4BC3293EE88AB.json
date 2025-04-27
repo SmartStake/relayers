@@ -55,6 +55,10 @@
         { 
             "ticker": "Kyve",
             "relayerAddress": "kyve1rg5kkthm49lh6t45q5g44fpa78h73ae8urtgdj"
-        }
+        },
+        { 
+            "ticker": "Juno",
+            "relayerAddress": "juno1rg5kkthm49lh6t45q5g44fpa78h73ae8al99p2"
+        }        
     ]
 }
