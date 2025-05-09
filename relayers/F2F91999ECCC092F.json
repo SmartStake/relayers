@@ -20,6 +20,10 @@
             "relayerAddress": "tori17rwvng2fy6ldph8ntxa78t39t3laexkth7lutq"
         },
         {
+            "ticker": "ORAI",
+            "relayerAddress": "orai19xhzktuxkrgyhwgt7unrsg3a3u28qvw6vdfcrj"
+        },
+        {
             "ticker": "JUNO",
             "relayerAddress": "juno1q3c80zs65tnjf9xrkdexe0u3tuf8d7ad4huc6q"
         },
