@@ -1,0 +1,120 @@
+{
+    "keybaseIdentity": "220491ADDD660741",
+    "name": "[NODERS]",
+    "website": "https://noders.team",
+    "twitter": "https://x.com/NODERS_TEAM",
+    "telegram": "https://t.me/nodersteam",
+    "discord": "noders",
+    "email": "office@noders.team",
+    "supportRelayerBy": "Stake with our Validator",
+    "chainsRelayed": [
+        {
+            "ticker": "TIA",
+            "relayerAddress": "celestia14n8p425hz5l6xxcrq4ml00djkmwezm0mta38sc"
+        },
+        {
+            "ticker": "TIA",
+            "relayerAddress": "celestia1myf5gg5xas2y7c04kmggdrrhm3w2856v945gzt"
+        },
+        {
+            "ticker": "TIA",
+            "relayerAddress": "celestia1d34n2vctzxthcmdc030gm4zg24v7f0w22cgy7m"
+        },
+        {
+            "ticker": "USDC",
+            "relayerAddress": "noble14n8p425hz5l6xxcrq4ml00djkmwezm0mj54ljm"
+        },
+        {
+            "ticker": "USDC",
+            "relayerAddress": "noble1d34n2vctzxthcmdc030gm4zg24v7f0w2n3vuuc"
+        },
+        {
+            "ticker": "USDC",
+            "relayerAddress": "noble1myf5gg5xas2y7c04kmggdrrhm3w2856vuussqg"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos14n8p425hz5l6xxcrq4ml00djkmwezm0m6hqh24"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1d34n2vctzxthcmdc030gm4zg24v7f0w2mje5yk"
+        },
+        {
+            "ticker": "AKT",
+            "relayerAddress": "akash14n8p425hz5l6xxcrq4ml00djkmwezm0mhvdsn0"
+        },
+        {
+            "ticker": "AKT",
+            "relayerAddress": "akash1d34n2vctzxthcmdc030gm4zg24v7f0w2kf5nav"
+        },
+        {
+            "ticker": "INJ",
+            "relayerAddress": "inj1y8q5jfmz4yg3stfxxkq9zjsy8hzg4sma82ac28"
+        },
+        {
+            "ticker": "FET",
+            "relayerAddress": "fetch14n8p425hz5l6xxcrq4ml00djkmwezm0mf2fngz"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar14n8p425hz5l6xxcrq4ml00djkmwezm0m7eklp5"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar1d34n2vctzxthcmdc030gm4zg24v7f0w2lu0u0h"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar1myf5gg5xas2y7c04kmggdrrhm3w2856vs3nsn8"
+        },
+        {
+            "ticker": "NIL",
+            "relayerAddress": "nillion14n8p425hz5l6xxcrq4ml00djkmwezm0mph7ypk"
+        },
+        {
+            "ticker": "DYM",
+            "relayerAddress": "dydx14n8p425hz5l6xxcrq4ml00djkmwezm0mnwwn2z"
+        },
+        {
+            "ticker": "DYM",
+            "relayerAddress": "dydx1myf5gg5xas2y7c04kmggdrrhm3w2856vaxtuc3"
+        },
+        {
+            "ticker": "BBN",
+            "relayerAddress": "bbn14n8p425hz5l6xxcrq4ml00djkmwezm0mdf3x4v"
+        },
+        {
+            "ticker": "BBN",
+            "relayerAddress": "bbn1myf5gg5xas2y7c04kmggdrrhm3w2856vrp5f8l"
+        },
+        {
+            "ticker": "BBN",
+            "relayerAddress": "bbn1d34n2vctzxthcmdc030gm4zg24v7f0w2vvg9m0"
+        },
+        {
+            "ticker": "SEI",
+            "relayerAddress": "sei14n8p425hz5l6xxcrq4ml00djkmwezm0mhm3pv5"
+        },
+        {
+            "ticker": "SEI",
+            "relayerAddress": "sei1myf5gg5xas2y7c04kmggdrrhm3w2856ven5w78"
+        },
+        {
+            "ticker": "SEI",
+            "relayerAddress": "sei1d34n2vctzxthcmdc030gm4zg24v7f0w2k7gzzh"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo14n8p425hz5l6xxcrq4ml00djkmwezm0mjvn8u8"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1d34n2vctzxthcmdc030gm4zg24v7f0w2nf2yjy"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1myf5gg5xas2y7c04kmggdrrhm3w2856vuykgw5"
+        }
+    ]
+}
