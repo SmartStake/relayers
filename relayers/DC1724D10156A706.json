@@ -27,7 +27,14 @@
         {
             "ticker": "ATOM",
             "relayerAddress": "cosmos1t6ez779qdgwqmzjd2p9myfw46lnwsufkug2y4n"
-        }
-               
+        },
+        {
+            "ticker": "CTK",
+            "relayerAddress": "shentu1t6ez779qdgwqmzjd2p9myfw46lnwsufk5uwa8w"
+        },
+        {
+            "ticker": "BZE",
+            "relayerAddress": "bze1t6ez779qdgwqmzjd2p9myfw46lnwsufkpvx08y"
+        }           
     ]
 }
