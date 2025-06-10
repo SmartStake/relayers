@@ -95,6 +95,10 @@
         {
             "ticker": "BLD",
             "relayerAddress": "agoric1cl7gnv9vgxrg6a54ta3wwv4745rwflj90d33fs"
+        },
+        {
+            "ticker": "BZE",
+            "relayerAddress": "bze1excxqygej58cd3zcvlcku785hjc7keu8072daf"
         }
     ]
 }
