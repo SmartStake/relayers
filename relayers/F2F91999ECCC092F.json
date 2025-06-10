@@ -16,6 +16,10 @@
             "relayerAddress": "cosmos1ksnuupxn5pjc6h0e5t4g0nfuxqadxzyf2ypmd9"
         },
         {
+            "ticker": "DEC",
+            "relayerAddress": "decentr1yf9t45228pu52tfqny3jfxvrld6h6rnsy9eltt"
+        },
+        {
             "ticker": "TORI",
             "relayerAddress": "tori17rwvng2fy6ldph8ntxa78t39t3laexkth7lutq"
         },
