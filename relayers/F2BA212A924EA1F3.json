@@ -13,6 +13,7 @@
    		{"ticker": "LUNA", "relayerAddress": "terra1hrzv6r32t7y96v5gpcw9fr6y7mhz4e3pergq4f"},
    		{"ticker": "USDC", "relayerAddress": "noble1hrzv6r32t7y96v5gpcw9fr6y7mhz4e3phy8g08"},
    		{"ticker": "XKP", "relayerAddress": "kopi1hrzv6r32t7y96v5gpcw9fr6y7mhz4e3pwpz56l"},
-         {"ticker": "ATONE", "relayerAddress": "atone1hrzv6r32t7y96v5gpcw9fr6y7mhz4e3p38w8p3"}
+         {"ticker": "ATONE", "relayerAddress": "atone1hrzv6r32t7y96v5gpcw9fr6y7mhz4e3p38w8p3"},
+         {"ticker": "SEDA", "relayerAddress": "seda1hrzv6r32t7y96v5gpcw9fr6y7mhz4e3pff7c5g"}
    	]
 }
