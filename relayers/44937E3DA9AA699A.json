@@ -5,7 +5,7 @@
   "twitter": "https://twitter.com/GataHubZone",
   "discord": "https://discord.gg/m6YDFq6Wgy",
   "email": "jovecosmos@gmail.com",
-  "supportRelayerBy": "Cat brings you the max rewards. Decentralized community-owned public infrastucture, trusted by thousands of delegators with millions of funds. Join GATA family 🐾"
+  "supportRelayerBy": "Decentralized community-owned public infrastructure. DAO. NFTfi. Cat brings you the max rewards 🐾"
     ,
   "chainsRelayed": [
     
@@ -47,6 +47,10 @@
     {
       "ticker": "FLIX",
       "relayerAddress": "omniflix1tfa6axplvpt0ucsur4zv56a5gq8x6x0nr5z3qa"
+    },
+     {
+      "ticker": "ATOMEONE",
+      "relayerAddress": "atone1spd292pwfd68f4lsegescct42p8m9dlnescptx"
     }
   ]
 }
