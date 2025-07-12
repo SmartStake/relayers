@@ -21,16 +21,8 @@
             "relayerAddress": "plq1sty42e2lzdytwv8yewh53fxl4k2ah9szfvcnr2"
         },
         {
-            "ticker": "BCNA",
-            "relayerAddress": "bcna1ek7y9jex32ljxz7sgsjkrwrhsa4evyn05qejcd"
-        },
-        {
             "ticker": "BLZ",
             "relayerAddress": "bluzelle1p9wypphdmtawcp9whv3eef05q2lksgvl5ghvwg"
-        },
-        {
-            "ticker": "KUJI",
-            "relayerAddress": "kujira1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0lctta4"
         },
         {
             "ticker": "RIO",
@@ -39,14 +31,6 @@
         {
             "ticker": "USDC",
             "relayerAddress": "noble1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0xnumg3"
-        },
-        {
-            "ticker": "SEDA",
-            "relayerAddress": "seda1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0c79tn7"
-        },
-        {
-            "ticker": "SGE",
-            "relayerAddress": "sge1ek7y9jex32ljxz7sgsjkrwrhsa4evyn0sshd84"
         },
         {
             "ticker": "ELYS",

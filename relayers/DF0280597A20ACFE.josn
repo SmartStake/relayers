@@ -1,0 +1,72 @@
+{
+  "keybaseIdentity": "DF0280597A20ACFE",
+  "name": "Citizen Web3",
+  "website": "https://staking.citizenweb3.com",
+  "twitter": "https://x.com/citizen_web3",
+  "telegram": "https://t.me/citizenweb3",
+  "discord": "https://discord.gg/DhmMaaCW",
+  "email": "citizenweb3@protonmail.com",
+  "supportRelayerBy": "Non-Custodial, Self-Hosted, Bare-Metal Validator and Infrastructure Provider. Citizen Web3 Podcast, Validator Info. W3S, B.V.C.",
+  "chainsRelayed": [
+    {
+      "ticker": "NAM",
+      "relayerAddress": "tnam1qzxw2ls5vene79qlelves5ukaqykldm00gec8xt0agoric1fegapd4jc3ejqeg0eu3jk4hvr74hg660v82m5m"
+    },
+    {
+      "ticker": "ATOM",
+      "relayerAddress": "cosmos1fl92605jdx79tu0hcynzy0fxmvrjaehvvkce03"
+    },
+    {
+      "ticker": "TIA",
+      "relayerAddress": "celestia1fl92605jdx79tu0hcynzy0fxmvrjaehvauff4u"
+    },
+    {
+      "ticker": "OSMO",
+      "relayerAddress": "osmo1fl92605jdx79tu0hcynzy0fxmvrjaehvydtfer"
+    },
+    {
+      "ticker": "STRD",
+      "relayerAddress": "stride1fl92605jdx79tu0hcynzy0fxmvrjaehv0ac9ma"
+    },
+    {
+      "ticker": "NTRN",
+      "relayerAddress": "neutron1fl92605jdx79tu0hcynzy0fxmvrjaehvgf3m4k"
+    },
+    {
+      "ticker": "NYM",
+      "relayerAddress": "n1fl92605jdx79tu0hcynzy0fxmvrjaehv7j0ms5"
+    },
+    {
+      "ticker": "ATOM",
+      "relayerAddress": "cosmos12mchf67y67y3xnk2tkzkxa67w3vmhxjsuhq6tz"
+    },
+    {
+      "ticker": "OSMO",
+      "relayerAddress": "osmo12mchf67y67y3xnk2tkzkxa67w3vmhxjs5vn2as"
+    },
+    {
+      "ticker": "STRD",
+      "relayerAddress": "stride12mchf67y67y3xnk2tkzkxa67w3vmhxjsluqxlw"
+    },
+    {
+      "ticker": "TIA",
+      "relayerAddress": "celestia12mchf67y67y3xnk2tkzkxa67w3vmhxjsda3230"
+    },
+    {
+      "ticker": "NTRN",
+      "relayerAddress": "neutron12mchf67y67y3xnk2tkzkxa67w3vmhxjscgfc39"
+    },
+    {
+      "ticker": "QCK",
+      "relayerAddress": "quick12mchf67y67y3xnk2tkzkxa67w3vmhxjshnsgjs"
+    },
+    {
+      "ticker": "GRAV",
+      "relayerAddress": "gravity12mchf67y67y3xnk2tkzkxa67w3vmhxjsc8jzw2"
+    },
+    {
+      "ticker": "ATONE",
+      "relayerAddress": "atone12mchf67y67y3xnk2tkzkxa67w3vmhxjsjhuaa6"
+    }
+  ]
+}

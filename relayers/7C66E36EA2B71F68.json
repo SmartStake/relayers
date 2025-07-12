@@ -1,0 +1,56 @@
+{
+    "keybaseIdentity": "7C66E36EA2B71F68",
+    "name": "Vinjan.Inc",
+    "website": "https://service.vinjan.xyz",
+    "twitter": "https://x.com/vjanwil",
+    "telegram": "https://t.me/vinjan",
+    "discord": "Vinjan.Inc",
+    "email": "vinjan@gmail.com",
+    "supportRelayerBy": "Stake to Vinjan.Inc",
+    "chainsRelayed": [
+        {
+            "ticker": "ELYS",
+            "relayerAddress": "elys1hsh6uf2j3vexvfupdvtww4sj3pmuvv7k2ak8zl"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1f3gsdgex6zczz9dgt9qu6qhyfv3s6xne5jkhk8"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1tslfpzjggk9sw05klppef93t7mmmappeylghch"
+        },
+        {
+            "ticker": "ATONE",
+            "relayerAddress": "atone1gyz87ffdzlzd0qwxha8d8upt4qw5h856yglg6t"
+        },
+        {
+            "ticker": "SAGA",
+            "relayerAddress": "saga17jev0atx3pa46jnkvley5pvsw9yvdmachkykr9"
+        },
+        {
+            "ticker": "STARS",
+            "relayerAddress": "stars1qnk65zq00gx73fqp8jhcxhnrkwxcgvvsnn4xmr"
+        },
+        {
+            "ticker": "USDC",
+            "relayerAddress": "noble1k2lz29ygqvn7f2prr3txymx9zrq5ythjtupty8"
+        },
+        {
+            "ticker": "XKP",
+            "relayerAddress": "kopi1qndwcgkad70wcjxpj9y8ya2xgn8wqc8m5d52sh"
+        },
+        {
+            "ticker": "PLQ",
+            "relayerAddress": "plq1ah63vlyksnh8vaecck5q7qfwph6vmvrmas03zn"    
+        },
+        {
+            "ticker": "RIO",
+            "relayerAddress": "realio125qz3xh2gy3qssym5dc9yk7xj87h05a7u6f02k"
+        },
+        { 
+            "ticker": "MEDAS",
+            "relayerAddress": "medas1h5d96y4e7dee5ek24j9g0m56yuuxwpg2dd36qk"
+        }
+    ]
+}

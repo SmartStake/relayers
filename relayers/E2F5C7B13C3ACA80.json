@@ -1,0 +1,40 @@
+{
+    "keybaseIdentity": "E2F5C7B13C3ACA80",
+    "name": "NODESYNC",
+    "website": "https://nodesync.top",
+    "twitter": "https://x.com/nodesync_top",
+    "telegram": "https://t.me/nodesync_top",
+    "discord": "nodesync_top",
+    "email": "info@nodesync.top",
+    "supportRelayerBy": "Delegate to Validator",
+    "chainsRelayed": [
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1t6ez779qdgwqmzjd2p9myfw46lnwsufk5ne5rp"
+        },      
+        {
+            "ticker": "USDC",
+            "relayerAddress": "noble1t6ez779qdgwqmzjd2p9myfw46lnwsufk5tlvda"
+        },
+        {
+            "ticker": "XKP",
+            "relayerAddress": "kopi1t6ez779qdgwqmzjd2p9myfw46lnwsufkdw6sc9"
+        },
+        {
+            "ticker": "INJ",
+            "relayerAddress": "inj1jgpmgqcclzaj5wq6lwc2wtysm86d7kse3ufnlg"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1t6ez779qdgwqmzjd2p9myfw46lnwsufkug2y4n"
+        },
+        {
+            "ticker": "CTK",
+            "relayerAddress": "shentu1t6ez779qdgwqmzjd2p9myfw46lnwsufk5uwa8w"
+        },
+        {
+            "ticker": "BZE",
+            "relayerAddress": "bze1t6ez779qdgwqmzjd2p9myfw46lnwsufkpvx08y"
+        }           
+    ]
+}

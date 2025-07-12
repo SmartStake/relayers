@@ -1,0 +1,44 @@
+{
+  "keybaseIdentity": "7A553496D97AA912",
+  "name": "Shazoe",
+  "website": "https://services.shazoe.xyz",
+  "twitter": "_shazoe",
+  "telegram": "https://t.me/shazoes",
+  "discord": "http://discordapp.com/users/906483432811561000",
+  "email": "hello@shazoe.xyz",
+  "supportRelayerBy": "Delegate to Shazoe Validator",
+  "chainsRelayed": [
+    {
+      "ticker": "OSMO",
+      "relayerAddress": "osmo1238rpkaw44fys2cz27dng69anaugnkweh7954z"
+    },
+    {
+      "ticker": "ATOM",
+      "relayerAddress": "cosmos1238rpkaw44fys2cz27dng69anaugnkwel9kyrs"
+    },
+    {
+      "ticker": "ATONE",
+      "relayerAddress": "atone1238rpkaw44fys2cz27dng69anaugnkwe392r4g"
+    },
+    {
+      "ticker": "BABY",
+      "relayerAddress": "bbn1238rpkaw44fys2cz27dng69anaugnkwegm84uf"
+    },
+    {
+      "ticker": "CTK",
+      "relayerAddress": "shentu1238rpkaw44fys2cz27dng69anaugnkweh3ja3d"
+    },
+    {
+      "ticker": "SEDA",
+      "relayerAddress": "seda1238rpkaw44fys2cz27dng69anaugnkweft6uq3"
+    },
+    {
+      "ticker": "SYNT",
+      "relayerAddress": "synt1238rpkaw44fys2cz27dng69anaugnkwesz9f8c"
+    },
+    {
+      "ticker": "USDC",
+      "relayerAddress": "noble1238rpkaw44fys2cz27dng69anaugnkwehxrvm7"
+    }
+  ]
+}

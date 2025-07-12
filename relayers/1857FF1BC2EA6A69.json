@@ -13,13 +13,21 @@
             "relayerAddress": "acre1ezndyjwsnhvuc8jwdm4lasaf94fn3zj282kfgr"
         },
         {
+            "ticker": "ARCH",
+            "relayerAddress": "archway1z7p3628vmw8psjwwzlcak0xqvgyssmwpx6glu5"
+        },
+        {
             "ticker": "ATOM",
             "relayerAddress": "cosmos1efwn09hmqx34tvgdvkk4e6vvzj9gtr58lvqhdu"
         },
         {
             "ticker": "ATOM",
-            "relayerAddress": "cosmos1efwn09hmqx34tvgdvkk4e6vvzj9gtr58lvqhdu"
-        },        
+            "relayerAddress": "cosmos1z7p3628vmw8psjwwzlcak0xqvgyssmwpn35mkr"
+        },
+        {
+            "ticker": "ATONE",
+            "relayerAddress": "atone1z7p3628vmw8psjwwzlcak0xqvgyssmwpa3guqm"
+        },
         {
             "ticker": "BCNA",
             "relayerAddress": "bcna1z7p3628vmw8psjwwzlcak0xqvgyssmwpfpy673"
@@ -33,6 +41,10 @@
             "relayerAddress": "bze1z7p3628vmw8psjwwzlcak0xqvgyssmwpw4csy5"
         },
         {
+            "ticker": "BZE",
+            "relayerAddress": "bze1vp9xldhdmjfmnwel7nl6tgy8numduq083kt33r"
+        },
+        {
             "ticker": "BLZ",
             "relayerAddress": "bluzelle1vp9xldhdmjfmnwel7nl6tgy8numduq08e2yc99"
         },
@@ -43,6 +55,10 @@
         {
             "ticker": "DEC",
             "relayerAddress": "decentr1vp9xldhdmjfmnwel7nl6tgy8numduq088upwzu"
+        },
+        {
+            "ticker": "DGN",
+            "relayerAddress": "dungeon1z7p3628vmw8psjwwzlcak0xqvgyssmwpaztauc"
         },
         {
             "ticker": "DSM",
@@ -59,7 +75,15 @@
         {
             "ticker": "DYS",
             "relayerAddress": "dys1vp9xldhdmjfmnwel7nl6tgy8numduq08nn03ah"
-        },         
+        },
+        {
+            "ticker": "FCT",
+            "relayerAddress": "firma1wtxshu8upmv93tcpcxdhmucey3sf2lf2g26p5q"
+        },  
+        {
+            "ticker": "FCT",
+            "relayerAddress": "firma17fgrnpg48c6tkhmp72zmjt93g67y6wu9flkzyn"
+        },                         
         {
             "ticker": "FET",
             "relayerAddress": "fetch17fgrnpg48c6tkhmp72zmjt93g67y6wu953h3h7"
@@ -67,15 +91,15 @@
         {
             "ticker": "FET",
             "relayerAddress": "fetch1vp9xldhdmjfmnwel7nl6tgy8numduq08l0w7pr"
-        },
-        {
-            "ticker": "FCT",
-            "relayerAddress": "firma17fgrnpg48c6tkhmp72zmjt93g67y6wu9flkzyn"
-        },        
+        },      
         {
             "ticker": "FLIX",
             "relayerAddress": "omniflix1vp9xldhdmjfmnwel7nl6tgy8numduq083vkr52"
         },
+        {
+            "ticker": "FLIX",
+            "relayerAddress": "omniflix1z7p3628vmw8psjwwzlcak0xqvgyssmwpw09zpa"
+        },        
         {
             "ticker": "FURY",
             "relayerAddress": "furya17fgrnpg48c6tkhmp72zmjt93g67y6wu9ge9rqm"
@@ -85,13 +109,21 @@
             "relayerAddress": "furya1vp9xldhdmjfmnwel7nl6tgy8numduq08r8uvkx"
         },
         {
+            "ticker": "INJ",
+            "relayerAddress": "inj1z7p3628vmw8psjwwzlcak0xqvgyssmwpecrlym"
+        },        
+        {
             "ticker": "JKL",
             "relayerAddress": "jkl1vp9xldhdmjfmnwel7nl6tgy8numduq084vft6t"
         },
         {
+            "ticker": "JKL",
+            "relayerAddress": "jkl1z7p3628vmw8psjwwzlcak0xqvgyssmwp20620u"
+        },        
+        {
             "ticker": "JUNO",
             "relayerAddress": "juno1efwn09hmqx34tvgdvkk4e6vvzj9gtr58f7rv2q"
-        },
+        },       
         {
             "ticker": "LUNA",
             "relayerAddress": "terra1vp9xldhdmjfmnwel7nl6tgy8numduq082ka6p5"
@@ -125,8 +157,16 @@
             "relayerAddress": "noble1z7p3628vmw8psjwwzlcak0xqvgyssmwpmjpnwd"
         },        
         {
+            "ticker": "USDC",
+            "relayerAddress": "noble1vp9xldhdmjfmnwel7nl6tgy8numduq08y3jjm6"
+        },   
+        {
             "ticker": "XKI",
             "relayerAddress": "ki17fgrnpg48c6tkhmp72zmjt93g67y6wu9kp063a"
-        }
+        },
+        {
+            "ticker": "XKP",
+            "relayerAddress": "kopi1z7p3628vmw8psjwwzlcak0xqvgyssmwpzhy0m4"
+        }        
     ]
 }

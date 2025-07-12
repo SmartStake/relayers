@@ -159,6 +159,18 @@
     {
       "ticker": "QCK",
       "relayerAddress": "quick1p4557mdpc2qk8vcemeqgrcg55gs2uyzn0j8l7j"
+    },
+    {
+      "ticker": "LUNC",
+      "relayerAddress": "terra1zr5a4asqa7l0994lypjrf8zrzafdxtv6ev9v9l"
+    },
+    {
+      "ticker": "SEI",
+      "relayerAddress": "sei1p4557mdpc2qk8vcemeqgrcg55gs2uyznf6xmpp"
+    },
+    {
+      "ticker": "BLD",
+      "relayerAddress": "agoric1lj8ds8mawk52t47jar8z3g97k437763htgwskq"
     }
   ]
 }
