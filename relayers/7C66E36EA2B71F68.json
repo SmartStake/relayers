@@ -51,6 +51,10 @@
         { 
             "ticker": "MEDAS",
             "relayerAddress": "medas1h5d96y4e7dee5ek24j9g0m56yuuxwpg2dd36qk"
+        },
+        {
+            "ticker": "MLD",
+            "relayerAddress": "symphony1kq6q6rlc2tzlrfjh2pre7yn5j6djd3j8euxqwj"    
         }
     ]
 }
