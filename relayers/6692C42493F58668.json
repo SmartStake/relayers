@@ -1,9 +1,7 @@
 {
     "keybaseIdentity": "6692C42493F58668",
     "name": "r93AX Nodes",
-    "website": "https://twitter.com/R93ax",
     "twitter": "https://twitter.com/R93ax",
-    "telegram": "@r93ax",
     "discord": "",
     "email": "",
     "supportRelayerBy": "",
@@ -79,18 +77,6 @@
         {
             "ticker": "TIA",
             "relayerAddress": "celestia1h36h57805m7eann0xs2mrv72p8wnyypm99dsz5"
-        },
-        {
-            "ticker": "ATOM",
-            "relayerAddress": "cosmos1h36h57805m7eann0xs2mrv72p8wnyypm50uqce"
-        },
-        {
-            "ticker": "ATOM",
-            "relayerAddress": "cosmos1cg5rydw8y5t6xsgq9q3yc3x2dq7zlnuc3vg37k"
-        },
-        {
-            "ticker": "ATOM",
-            "relayerAddress": "cosmos12n4xr6eeqcy28pe6celvlg5g7uelyut3qleq4e"
         }
     ]
 }
