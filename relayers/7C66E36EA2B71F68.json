@@ -51,6 +51,14 @@
         {
             "ticker": "MLD",
             "relayerAddress": "symphony1kq6q6rlc2tzlrfjh2pre7yn5j6djd3j8euxqwj"    
+        },
+        {
+            "ticker": "PLQ",
+            "relayerAddress": "plq1ah63vlyksnh8vaecck5q7qfwph6vmvrmas03zn"
+        },
+        {
+            "ticker": "ARKEO",
+            "relayerAddress": "arkeo137es3rc28tg7e49leylv2ceu08z3hf9598qk03"    
         }
     ]
 }
