@@ -12,10 +12,6 @@
             "relayerAddress": "neutron1h36h57805m7eann0xs2mrv72p8wnyypmss4zz7"
         },
         {
-            "ticker": "NTRN",
-            "relayerAddress": "neutron12n4xr6eeqcy28pe6celvlg5g7uelyut3yqsz07"
-        },
-        {
             "ticker": "USDC",
             "relayerAddress": "noble1h36h57805m7eann0xs2mrv72p8wnyypmuvfgqh"
         },
