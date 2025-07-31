@@ -1,5 +1,5 @@
 {
-   	"keybaseIdentity": "2CB281A714F6133B",
+   	"keybaseIdentity": "08B50C4CBBAF1EE1",
    	"name": "High Stakes 🇨🇭",
    	"website": "https://highstakes.ch  ",
    	"twitter": "HighStakes_CH",
@@ -12,12 +12,11 @@
 		{ "ticker": "INJ", "relayerAddress": "inj1wul6qa4ftt0tchednq8qxt6p0484ztn3xswtfu"},
 		{"ticker": "XPRT", "relayerAddress": "persistence1q5uk3g9pc4474djppfvpm2t9qw4thgyw8m43vx"},
 		{"ticker": "SCRT", "relayerAddress": "secret1lmzepd2s5nglkneasrhqsmu6a34hw39l0ghuuw"},
-    {"ticker": "ATOM", "relayerAddress": "cosmos1gjxea4uwelzhw0ma99ahwsn473uljyqvx88w5j"},
-    {"ticker": "UMEE", "relayerAddress": "umee12npr2hf35t2hadrdjua433zynuevgyp3x9n8m2"},
-    {"ticker": "FET", "relayerAddress": "fetch1h6udn75q8rssdldnzv8lce4dcl0eder9n8mz9a"},
-    {"ticker": "CTK", "relayerAddress": "shentu1ee3p697p53j8t9u9ls7hvx6gryycdnp9hcr236"},
-    {"ticker": "OSMO", "relayerAddress": "osmo1wgq85ejwm44rl3w8fpla6yeqwcpcpzr9mm3xdj"},
-    {"ticker": "OSMO", "relayerAddress": "osmo16qz4nzmmfxn9q3244cyapv6tvmkyhqffj6zm3c"},
-    {"ticker": "ELYS", "relayerAddress": "elys1naeu0um5620e5sdeehy4w7ejyw6ex5ajpqen8t"}
+    		{"ticker": "ATOM", "relayerAddress": "cosmos1gjxea4uwelzhw0ma99ahwsn473uljyqvx88w5j"},
+   		{"ticker": "UMEE", "relayerAddress": "umee12npr2hf35t2hadrdjua433zynuevgyp3x9n8m2"},
+   		{"ticker": "FET", "relayerAddress": "fetch1h6udn75q8rssdldnzv8lce4dcl0eder9n8mz9a"},
+   		{"ticker": "CTK", "relayerAddress": "shentu1ee3p697p53j8t9u9ls7hvx6gryycdnp9hcr236"},
+  		{"ticker": "OSMO", "relayerAddress": "osmo1wgq85ejwm44rl3w8fpla6yeqwcpcpzr9mm3xdj"},
+   		{"ticker": "ELYS", "relayerAddress": "elys1naeu0um5620e5sdeehy4w7ejyw6ex5ajpqen8t"}
 	]
 }
