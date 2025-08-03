@@ -10,23 +10,11 @@
     "chainsRelayed": [
         {
             "ticker": "STRD",
-            "relayerAddress": "stride1twmgaeug7ymjq8c53ttstpl7rny43q8zxrpsnt"
-        },
-        {
-            "ticker": "STRD",
             "relayerAddress": "stride1qmkft69j3tgeplmda6kga3emklw6naf7fex47z"
         },
         {
             "ticker": "OSMO",
-            "relayerAddress": "osmo1twmgaeug7ymjq8c53ttstpl7rny43q8zdnju34"
-        },
-        {
-            "ticker": "OSMO",
             "relayerAddress": "osmo1qmkft69j3tgeplmda6kga3emklw6naf7zf4euu"
-        },
-        {
-            "ticker": "ATOM",
-            "relayerAddress": "cosmos1twmgaeug7ymjq8c53ttstpl7rny43q8z9gpv88"
         },
         {
             "ticker": "BLD",
@@ -35,18 +23,6 @@
         {
             "ticker": "JKL",
             "relayerAddress": "jkl1twmgaeug7ymjq8c53ttstpl7rny43q8zuk0a7c"
-        },
-        {
-            "ticker": "QCK",
-            "relayerAddress": "quick1twmgaeug7ymjq8c53ttstpl7rny43q8zwv3774"
-        },
-        {
-            "ticker": "BCNA",
-            "relayerAddress": "bcna1twmgaeug7ymjq8c53ttstpl7rny43q8zlc3d04"
-        },
-        {
-            "ticker": "NLS",
-            "relayerAddress": "nolus1twmgaeug7ymjq8c53ttstpl7rny43q8znc3n9z"
         },
         {
             "ticker": "ARCH",
@@ -63,10 +39,6 @@
         {
             "ticker": "HEART",
             "relayerAddress": "human1twmgaeug7ymjq8c53ttstpl7rny43q8z880zuc"
-        },
-        {
-            "ticker": "NTRN",
-            "relayerAddress": "neutron1qmkft69j3tgeplmda6kga3emklw6naf7wd0tsf"
         }
     ]
 }
