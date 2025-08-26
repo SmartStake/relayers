@@ -15,7 +15,6 @@
    		{"ticker": "XKP", "relayerAddress": "kopi1hrzv6r32t7y96v5gpcw9fr6y7mhz4e3pwpz56l", "alias": "Backup"},
          {"ticker": "ATONE", "relayerAddress": "atone1hrzv6r32t7y96v5gpcw9fr6y7mhz4e3p38w8p3", "alias": "Backup"},
          {"ticker": "SEDA", "relayerAddress": "seda1hrzv6r32t7y96v5gpcw9fr6y7mhz4e3pff7c5g", "alias": "Backup"},
-         {"ticker": "BABY", "relayerAddress": "bb1hrzv6r32t7y96v5gpcw9fr6y7mhz4e3pu66ntc", "alias": "Backup"},
    		{"ticker": "ATOM", "relayerAddress": "cosmos1gfgd0jygdkews9jyul9y936laprus32xaynhcx", "alias": "Main"},
    		{"ticker": "OSMO", "relayerAddress": "osmo1gfgd0jygdkews9jyul9y936laprus32x4lq8w5", "alias": "Main"},
    		{"ticker": "INJ", "relayerAddress": "inj1cwt5ctlkhlz7e0tsr0srxyjhy538eykm0maxkm", "alias": "Main"},
