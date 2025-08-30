@@ -57,6 +57,10 @@
             "relayerAddress": "centauri1dr0lam8gl8srm47zma42m0lner6w9wxac7ttat"
         },
         {
+            "ticker": "SEDA",
+            "relayerAddress": "seda1qx6nnykvn390su7hrtunvdj509khadeh0u2f28"
+        },           
+        {
             "ticker": "SAGA",
             "relayerAddress": "saga1qx6nnykvn390su7hrtunvdj509khadeh8plrwq"
         },   
@@ -83,6 +87,15 @@
         {
             "ticker": "JKL",
             "relayerAddress": "jkl1qx6nnykvn390su7hrtunvdj509khadehqvgqse"
+        },    
+        {
+            "ticker": "ELYS",
+            "relayerAddress": "elys1qx6nnykvn390su7hrtunvdj509khadehejlkyy"
+        },    
+        {
+            "ticker": "OM",
+            "relayerAddress": "mantra1qx6nnykvn390su7hrtunvdj509khadehjev42u"
         }
     ]
 }
+
