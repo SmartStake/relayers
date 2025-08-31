@@ -12,6 +12,7 @@
 		{ "ticker": "TIA", "relayerAddress": "celestia1gu4vdcvqy3khelanwvatk983x49ngxujxs8pqj"},
 		{"ticker": "ELYS", "relayerAddress": "elys1gu4vdcvqy3khelanwvatk983x49ngxujh60kha"},
 		{"ticker": "QCK", "relayerAddress": "quick1gu4vdcvqy3khelanwvatk983x49ngxuju7xrrd"},
-		{"ticker": "DORA", "relayerAddress": "dora1gu4vdcvqy3khelanwvatk983x49ngxuj5qnudf"}
+		{"ticker": "DORA", "relayerAddress": "dora1gu4vdcvqy3khelanwvatk983x49ngxuj5qnudf"},
+		{"ticker": "OSMO", "relayerAddress": "osmo1gu4vdcvqy3khelanwvatk983x49ngxujlp9pvd"}
 	]
 }
