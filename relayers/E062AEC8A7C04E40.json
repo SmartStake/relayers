@@ -1,0 +1,24 @@
+{
+    "keybaseIdentity": "E062AEC8A7C04E40",
+    "name": "RuangNode",
+    "website": "https://services.ruangnode.com",
+    "twitter": "https://x.com/ruangnode",
+    "telegram": "https://t.me/ruangnode",
+    "discord": "https://discord.gg/EWhwCnvP",
+    "email": "contact@ruangnode.com",
+    "supportRelayerBy": "Professional validator and infrastructure provider across multiple blockchain ecosystems. Active IBC relayer operations supporting cross-chain connectivity. Delegate to RuangNode validators for reliable network security.",
+    "chainsRelayed": [
+        {
+            "ticker": "ATONE",
+            "relayerAddress": "atone1m8d8zmpulmc030rwu5ar0lm6454wzxdnt0dje6"
+        },
+        {
+            "ticker": "DORA",
+            "relayerAddress": "dora1m8d8zmpulmc030rwu5ar0lm6454wzxdnx45cc5"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1m8d8zmpulmc030rwu5ar0lm6454wzxdnd5z9es"
+        }
+    ]
+}
