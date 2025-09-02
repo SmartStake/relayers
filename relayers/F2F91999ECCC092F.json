@@ -24,6 +24,10 @@
             "relayerAddress": "tori17rwvng2fy6ldph8ntxa78t39t3laexkth7lutq"
         },
         {
+            "ticker": "DORA",
+            "relayerAddress": "dora1fefknzrlmdsae3z7g82c9yvm3qwt5eprmn2hge"
+        },
+        {
             "ticker": "ORAI",
             "relayerAddress": "orai19xhzktuxkrgyhwgt7unrsg3a3u28qvw6vdfcrj"
         },
@@ -77,3 +81,4 @@
         }
     ]
 }
+
