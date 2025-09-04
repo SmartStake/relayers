@@ -17,12 +17,12 @@
             "relayerAddress": "osmo1f3gsdgex6zczz9dgt9qu6qhyfv3s6xne5jkhk8"
         },
         {
-            "ticker": "ATOM",
-            "relayerAddress": "cosmos1tslfpzjggk9sw05klppef93t7mmmappeylghch"
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1ftg5nqg4lyeuhff2pthd0nmnr08ethc00zrw6y"    
         },
         {
-            "ticker": "ATONE",
-            "relayerAddress": "atone1gyz87ffdzlzd0qwxha8d8upt4qw5h856yglg6t"
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1tslfpzjggk9sw05klppef93t7mmmappeylghch"
         },
         {
             "ticker": "SAGA",
