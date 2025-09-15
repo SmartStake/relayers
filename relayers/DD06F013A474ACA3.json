@@ -14,11 +14,6 @@
             "alias": "r"
         },
         {
-            "ticker": "ANDR",
-            "relayerAddress": "andr12qkshheaw2mrpr8asfj6jr9q2e5ms7qthzmyvm",
-            "alias": "rm"
-        },
-        {
             "ticker": "ATOM",
             "relayerAddress": "cosmos1wwxeusrluapjewppth29mp0dn6d8kukpa0l4zx",
             "alias": "r"
@@ -27,11 +22,6 @@
             "ticker": "ATOM",
             "relayerAddress": "cosmos1zehpqzm5hxhgpr3yf0j44ap5aue732lx6k62hn",
             "alias": "r2"
-        },
-        {
-            "ticker": "BAND",
-            "relayerAddress": "band1grgqpjavx7u2rda5glwwq682h3ukvltk2q3yr6",
-            "alias": "r"
         },
         {
             "ticker": "CRO",
@@ -81,11 +71,6 @@
         {
             "ticker": "JUNO",
             "relayerAddress": "juno12mczzwe9jsgejx0vccjwa7gyl2zhjus664uqdy",
-            "alias": "r"
-        },
-        {
-            "ticker": "KUJI",
-            "relayerAddress": "kujira1hf80p6qv0uc89d0wxn6p9ucy0kdd02k3q448rg",
             "alias": "r"
         },
         {
@@ -146,11 +131,6 @@
             "ticker": "XPRT",
             "relayerAddress": "persistence1zycp4k7wrslx7dc5vw4c2ufkss2pfgfexrlrxl",
             "alias": "r"
-        },
-        {
-            "ticker": "WHALE",
-            "relayerAddress": "migaloo12qkshheaw2mrpr8asfj6jr9q2e5ms7qtza6u9c",
-            "alias": "rm"
         },
         {
             "ticker": "XION",
@@ -287,7 +267,27 @@
             "ticker": "ORAI",
             "relayerAddress": "orai1a3lf7xwjeakd2eekd6vjqjzt0z99lxhtc8qza5",
             "alias": "r5"
+        },
+
+        {
+            "ticker": "LUME",
+            "relayerAddress": "lumera12qkshheaw2mrpr8asfj6jr9q2e5ms7qthkna7y",
+            "alias": "rm"
+        },
+        {
+            "ticker": "LUME",
+            "relayerAddress": "lumera1zehpqzm5hxhgpr3yf0j44ap5aue732lxzf63ep",
+            "alias": "rm2"
+        },
+        {
+            "ticker": "LUME",
+            "relayerAddress": "lumera188gyqncklykkna5zt9cem2hwednz7t4a36qqdc",
+            "alias": "rm4"
+        },
+        {
+            "ticker": "LUME",
+            "relayerAddress": "lumera1a3lf7xwjeakd2eekd6vjqjzt0z99lxhtntk6j4",
+            "alias": "rm5"
         }
-        
     ]
 }
