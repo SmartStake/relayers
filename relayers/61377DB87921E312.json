@@ -1,0 +1,33 @@
+{
+   	"keybaseIdentity": "61377DB87921E312",
+   	"name": "Metatarz",
+   	"website": "https://metatarz.xyz",
+   	"twitter": "https://x.com/metatarzxyz",
+   	"telegram": null,
+    "discord": null,
+   	"email": "hello@metatarz.xyz",
+   	"supportRelayerBy": "Delegate to Metatarz",
+    "chainsRelayed": [
+        {
+            "ticker": "TIA",
+            "relayerAddress": "celestia1ledz626m75u2cq0dxmted4rw6qqg4493qzl9df"
+        },
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1ledz626m75u2cq0dxmted4rw6qqg4493ena9pk"
+        },
+        {
+            "ticker": "STRD",
+            "relayerAddress": "stride1ledz626m75u2cq0dxmted4rw6qqg4493jrwfrg"
+        },
+        {
+            "ticker": "AXL",
+            "relayerAddress": "axelar1ledz626m75u2cq0dxmted4rw6qqg44934xcau9"
+        },
+        {
+            "ticker": "DYM",
+            "relayerAddress": "dym1ledz626m75u2cq0dxmted4rw6qqg4493r4znj2"
+        }
+
+    ]
+}
