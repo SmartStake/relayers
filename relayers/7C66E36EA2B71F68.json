@@ -25,6 +25,10 @@
             "relayerAddress": "cosmos1tslfpzjggk9sw05klppef93t7mmmappeylghch"
         },
         {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1wya5kp5wwprnvvxvh3e8z04r7x27q6zusr2fyu"    
+        },
+        {
             "ticker": "SAGA",
             "relayerAddress": "saga17jev0atx3pa46jnkvley5pvsw9yvdmachkykr9"
         },
