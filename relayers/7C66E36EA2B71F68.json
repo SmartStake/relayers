@@ -62,7 +62,11 @@
         },
         {
             "ticker": "DGN",
-            "relayerAddress": "dungeon1kyyfdhdwsyjwe8cun8v00r30t4yqm7d6fnu0q5"    
+            "relayerAddress": "dungeon1kyyfdhdwsyjwe8cun8v00r30t4yqm7d6fnu0q5"
+        },
+        {
+            "ticker": "ATONE",
+            "relayerAddress": "atone1gyz87ffdzlzd0qwxha8d8upt4qw5h856yglg6t" 
         }
     ]
 }
