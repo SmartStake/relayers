@@ -23,6 +23,16 @@
          {"ticker": "ATONE", "relayerAddress": "atone1gfgd0jygdkews9jyul9y936laprus32xny0sw7", "alias": "Main"},
          {"ticker": "BZE", "relayerAddress": "bze1gfgd0jygdkews9jyul9y936laprus32xqqlu23", "alias": "Main"},
          {"ticker": "SEDA", "relayerAddress": "seda1gfgd0jygdkews9jyul9y936laprus32xt2l0m8", "alias": "Main"},
-         {"ticker": "BABY", "relayerAddress": "bb1gfgd0jygdkews9jyul9y936laprus32x7emyyh", "alias": "Main"}
+         {"ticker": "DYDX", "relayerAddress": "dydx1gfgd0jygdkews9jyul9y936laprus32x5aanc3", "alias": "Main"},
+         {"ticker": "AXL", "relayerAddress": "axelar1gfgd0jygdkews9jyul9y936laprus32xe29ln8", "alias": "Main"},
+         {"ticker": "INTO", "relayerAddress": "into1gfgd0jygdkews9jyul9y936laprus32xjxkna5", "alias": "Main"},
+         {"ticker": "AXONE", "relayerAddress": "axone1gfgd0jygdkews9jyul9y936laprus32x7zlqvm", "alias": "Main"},
+         {"ticker": "ORAI", "relayerAddress": "orai1gfgd0jygdkews9jyul9y936laprus32xwh95e4", "alias": "Main"},
+         {"ticker": "TORI", "relayerAddress": "tori1gfgd0jygdkews9jyul9y936laprus32xlsy7rk", "alias": "Main"},
+         {"ticker": "U", "relayerAddress": "union1gfgd0jygdkews9jyul9y936laprus32xhnjlkh", "alias": "Main"},
+         {"ticker": "ALTHEA", "relayerAddress": "althea1gfgd0jygdkews9jyul9y936laprus32xfxke5r", "alias": "Main"},
+         {"ticker": "VRISE", "relayerAddress": "sunrise1gfgd0jygdkews9jyul9y936laprus32x0fcxf4", "alias": "Main"},
+         {"ticker": "STARS", "relayerAddress": "stars1gfgd0jygdkews9jyul9y936laprus32xfcy2nh", "alias": "Main"},
+         {"ticker": "BADGE", "relayerAddress": "bb1gfgd0jygdkews9jyul9y936laprus32x7emyyh", "alias": "Main"}
    	]
 }

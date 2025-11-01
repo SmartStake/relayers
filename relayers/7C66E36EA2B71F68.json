@@ -25,6 +25,10 @@
             "relayerAddress": "cosmos1tslfpzjggk9sw05klppef93t7mmmappeylghch"
         },
         {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1wya5kp5wwprnvvxvh3e8z04r7x27q6zusr2fyu"    
+        },
+        {
             "ticker": "SAGA",
             "relayerAddress": "saga17jev0atx3pa46jnkvley5pvsw9yvdmachkykr9"
         },
@@ -37,8 +41,8 @@
             "relayerAddress": "noble1k2lz29ygqvn7f2prr3txymx9zrq5ythjtupty8"
         },
         {
-            "ticker": "XKP",
-            "relayerAddress": "kopi1qndwcgkad70wcjxpj9y8ya2xgn8wqc8m5d52sh"    
+            "ticker": "NTRN",
+            "relayerAddress": "neutron1yg4yjdy92q64thhjjj6etzvzzww6znldxhru95"  
         },
         {
             "ticker": "RIO",
@@ -58,7 +62,11 @@
         },
         {
             "ticker": "DGN",
-            "relayerAddress": "dungeon1kyyfdhdwsyjwe8cun8v00r30t4yqm7d6fnu0q5"    
+            "relayerAddress": "dungeon1kyyfdhdwsyjwe8cun8v00r30t4yqm7d6fnu0q5"
+        },
+        {
+            "ticker": "ATONE",
+            "relayerAddress": "atone1gyz87ffdzlzd0qwxha8d8upt4qw5h856yglg6t" 
         }
     ]
 }
