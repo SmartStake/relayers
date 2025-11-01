@@ -8,7 +8,7 @@
     "email": null,
     "supportRelayerBy": "Stake with Sentinel Growth DAO to support the project!",
     "chainsRelayed": [
-        { "ticker": "DVPN", "relayerAddress": "sent175vdslyt4whfyeudm463m5trsjhwh3ydxu8spp" },
+        { "ticker": "P2P", "relayerAddress": "sent175vdslyt4whfyeudm463m5trsjhwh3ydxu8spp" },
         { "ticker": "OSMO", "relayerAddress": "osmo175vdslyt4whfyeudm463m5trsjhwh3yd4uzenu" },
         { "ticker": "ATOM", "relayerAddress": "cosmos175vdslyt4whfyeudm463m5trsjhwh3yda83f9w" },
         { "ticker": "AXL", "relayerAddress": "axelar175vdslyt4whfyeudm463m5trsjhwh3ydef8pw0" }
