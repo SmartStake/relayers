@@ -49,16 +49,6 @@
             "alias": "r"
         },
         {
-            "ticker": "FLIX",
-            "relayerAddress": "omniflix1jt43h96txjlt7lndruj7zvm2j4zlg2xpk08h5d",
-            "alias": "r"
-        },
-        {
-            "ticker": "FLIX",
-            "relayerAddress": "omniflix12qkshheaw2mrpr8asfj6jr9q2e5ms7qtjhzl8g",
-            "alias": "rm"
-        },
-        {
             "ticker": "INJ",
             "relayerAddress": "inj19cxl8av38pjgn4mwv7f7rn59heh89vmvnlv2gu",
             "alias": "r"
@@ -67,11 +57,6 @@
             "ticker": "INJ",
             "relayerAddress": "inj1h0gdrzsp3jn39pr5j782wjtpr8vtlu0vru5na8",
             "alias": "r2"
-        },
-        {
-            "ticker": "JUNO",
-            "relayerAddress": "juno12mczzwe9jsgejx0vccjwa7gyl2zhjus664uqdy",
-            "alias": "r"
         },
         {
             "ticker": "NTRN",
@@ -95,26 +80,6 @@
         {
             "ticker": "OSMO",
             "relayerAddress": "osmo1zehpqzm5hxhgpr3yf0j44ap5aue732lxjdf6pp",
-            "alias": "r2"
-        },
-        {
-            "ticker": "AUUU",
-            "relayerAddress": "pryzm12qkshheaw2mrpr8asfj6jr9q2e5ms7qtheypw9",
-            "alias": "rm"
-        },
-        {
-            "ticker": "STARS",
-            "relayerAddress": "stars1nsltpdnaz4julm0cen5teyc4hjpqmnr5wnj3fx",
-            "alias": "r"
-        },
-        {
-            "ticker": "STRD",
-            "relayerAddress": "stride1asdzeurp6km7284xd23vuw4q3hsx3wlx4vjvcs",
-            "alias": "r"
-        },
-        {
-            "ticker": "STRD",
-            "relayerAddress": "stride1zehpqzm5hxhgpr3yf0j44ap5aue732lxea6krl",
             "alias": "r2"
         },
         {
@@ -174,11 +139,6 @@
             "alias": "r4"
         },
         {
-            "ticker": "STRD",
-            "relayerAddress": "stride188gyqncklykkna5zt9cem2hwednz7t4a2wq8hx",
-            "alias": "r4"
-        },
-        {
             "ticker": "TIA",
             "relayerAddress": "celestia188gyqncklykkna5zt9cem2hwednz7t4ac03te8",
             "alias": "r4"
@@ -229,11 +189,6 @@
             "alias": "r5"
         },
         {
-            "ticker": "STRD",
-            "relayerAddress": "stride1a3lf7xwjeakd2eekd6vjqjzt0z99lxhtglkagt",
-            "alias": "r5"
-        },
-        {
             "ticker": "TIA",
             "relayerAddress": "celestia1a3lf7xwjeakd2eekd6vjqjzt0z99lxht6783x2",
             "alias": "r5"
@@ -249,19 +204,9 @@
             "alias": "r5"
         },
         {
-            "ticker": "OM",
-            "relayerAddress": "mantra188gyqncklykkna5zt9cem2hwednz7t4azw2lqs",
-            "alias": "r4"
-        },
-        {
             "ticker": "ORAI",
             "relayerAddress": "orai188gyqncklykkna5zt9cem2hwednz7t4a6kkcze",
             "alias": "r4"
-        },
-        {
-            "ticker": "OM",
-            "relayerAddress": "mantra1a3lf7xwjeakd2eekd6vjqjzt0z99lxhtqlu9la",
-            "alias": "r5"
         },
         {
             "ticker": "ORAI",
