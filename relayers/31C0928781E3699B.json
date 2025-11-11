@@ -1,0 +1,23 @@
+{
+  "keybaseIdentity": "31C0928781E3699B",
+  "name": "Nodeify",
+  "website": "https://nodeify.net",
+  "twitter": "https://twitter.com/nodeify_eth",
+  "telegram": "https://t.me/nodeify_eth",
+  "email": "admin@nodeify.net",
+  "supportRelayerBy": "Strengthening Networks, Securing Futures",
+  "chainsRelayed": [
+    {
+      "ticker": "AKT",
+      "relayerAddress": "akash183yjmkk556luxgz4yf3sckqs45ywv2rg3q6zxv"
+    },
+    {
+      "ticker": "ATOM",
+      "relayerAddress": "cosmos183yjmkk556luxgz4yf3sckqs45ywv2rgumh9lk"
+    },
+    {
+      "ticker": "OSMO",
+      "relayerAddress": "osmo183yjmkk556luxgz4yf3sckqs45ywv2rg5qy4fy"
+    }
+  ]
+}
