@@ -808,7 +808,38 @@
                 {
             "ticker": "BABY",
             "relayerAddress": "bbn1ure9g8re7h3qpk7d976e6t8yf4l9lz2eujqugn"
+        },
+        {
+            "ticker": "ZIG",
+            "relayerAddress": "zig18xrruhq5r246mwk0yj9elnn3mte8xa9upl7lw5"
+        },
+        {
+            "ticker": "ZIG",
+            "relayerAddress": "zig13zclp2gd0g2dx7f33nrhw29jv0rqssfp2tgjwd"
+        },
+        {
+            "ticker": "ZIG",
+            "relayerAddress": "zig1ure9g8re7h3qpk7d976e6t8yf4l9lz2e2x5l4z"
+        },
+        {
+            "ticker": "ZIG",
+            "relayerAddress": "zig12gpm8vw69nzx66qc3fvzmnajh4jpxmnar73x8w"
+        },
+        {
+            "ticker": "ZIG",
+            "relayerAddress": "zig155y4hyx39u8pllh9v6rehqgk6p06s8efwdc6uk"
+        },
+        {
+            "ticker": "ZIG",
+            "relayerAddress": "zig1mrs5z4c36nzvmej7hvqehz4hpu4lv8mq6ttmhd"
+        },
+        {
+            "ticker": "ZIG",
+            "relayerAddress": "zig1aypuqvaaq54jn3zleqd6lamnxruun5neq4tjg8"
+        },
+        {
+            "ticker": "ZIG",
+            "relayerAddress": "zig1nzjcsulyfxh0evmajk3ruawh407h5x8f3nme6v"
         }
-        
     ]
 }
