@@ -33,8 +33,8 @@
             "relayerAddress": "saga17jev0atx3pa46jnkvley5pvsw9yvdmachkykr9"
         },
         {
-            "ticker": "STARS",
-            "relayerAddress": "stars1qnk65zq00gx73fqp8jhcxhnrkwxcgvvsnn4xmr"
+            "ticker": "BADGE",
+            "relayerAddress": "bb12592rdafd6p857qsum7kq2tud4hrcwj9dzu23w"
         },
         {
             "ticker": "USDC",
@@ -67,6 +67,10 @@
         {
             "ticker": "ATONE",
             "relayerAddress": "atone1gyz87ffdzlzd0qwxha8d8upt4qw5h856yglg6t" 
+        },
+        {
+            "ticker": "PAXI",
+            "relayerAddress": "paxi1kkv8e9020v99hv6hqcn6ekdazeec4gvdehg5sp"    
         }
     ]
 }
