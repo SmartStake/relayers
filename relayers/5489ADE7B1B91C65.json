@@ -175,6 +175,10 @@
     {
       "ticker": "CHEQ",
       "relayerAddress": "cheqd1p4557mdpc2qk8vcemeqgrcg55gs2uyzn25mdv3"
+    },
+    {
+      "ticker": "DEC",
+      "relayerAddress": "decentr1p4557mdpc2qk8vcemeqgrcg55gs2uyzn0c3exg"
     }
   ]
 }
