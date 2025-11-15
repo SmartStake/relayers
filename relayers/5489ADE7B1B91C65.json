@@ -21,10 +21,6 @@
       "relayerAddress": "kujira1p4557mdpc2qk8vcemeqgrcg55gs2uyzn474422"
     },
     {
-      "ticker": "MARS",
-      "relayerAddress": "mars1p4557mdpc2qk8vcemeqgrcg55gs2uyznetw5jm"
-    },
-    {
       "ticker": "OSMO",
       "relayerAddress": "osmo1p4557mdpc2qk8vcemeqgrcg55gs2uyznvdya3j"
     },
@@ -175,6 +171,10 @@
     {
       "ticker": "CHEQ",
       "relayerAddress": "cheqd1p4557mdpc2qk8vcemeqgrcg55gs2uyzn25mdv3"
+    },
+    {
+      "ticker": "DEC",
+      "relayerAddress": "decentr1p4557mdpc2qk8vcemeqgrcg55gs2uyzn0c3exg"
     }
   ]
 }
