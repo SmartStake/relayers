@@ -179,6 +179,10 @@
     {
       "ticker": "IRIS",
       "relayerAddress": "iaa1p4557mdpc2qk8vcemeqgrcg55gs2uyzn35hu93"
+    },
+    {
+      "ticker": "KOPI",
+      "relayerAddress": "kopi1p4557mdpc2qk8vcemeqgrcg55gs2uyzn4s8e2k"
     }
   ]
 }
