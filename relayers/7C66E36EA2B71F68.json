@@ -70,7 +70,11 @@
         },
         {
             "ticker": "PAXI",
-            "relayerAddress": "paxi1kkv8e9020v99hv6hqcn6ekdazeec4gvdehg5sp"    
+            "relayerAddress": "paxi1kkv8e9020v99hv6hqcn6ekdazeec4gvdehg5sp"
+        },
+        {
+            "ticker": "LAVA",
+            "relayerAddress": "lava@1fzrfdkn0arse2dsnhea4reznhdne3syda2vkcj"
         }
     ]
 }
