@@ -5,7 +5,7 @@
     "twitter": "theNode75",
     "telegram": "@sw_HbZ",
     "discord": "sw33pronodes",
-    "email": "n75pro@pm.me",
+    "email": "n75pro@protonmail.com",
     "supportRelayerBy": "delegating to validator",
     "chainsRelayed": [
         {
@@ -37,12 +37,12 @@
             "relayerAddress": "gravity1qxr0vh6qxpnyk6nvdhfh8sv2wgaxp0wg7f7wne"
         },
         {
-            "ticker": "EVMOS",
-            "relayerAddress": "evmos1qw3qt0x9j7mcq5jyhdza82uns4u6ra7pwpv9fa"
+            "ticker": "SCRT",
+            "relayerAddress": "secret1warpzqacqh0v4v9jht9s44wzdzhcrlkecy9pqc"
         },
         {
-            "ticker": "EVMOS",
-            "relayerAddress": "evmos133czv5w6cr7amkpdv5q5elaytytp6enjk3gny8"
+            "ticker": "ALTHEA",
+            "relayerAddress": "althea1dcg76t29zrltxtgp4zu9jm4lz2ty0mctuzjlx6"
         },
         {
             "ticker": "OSMO",
@@ -63,10 +63,6 @@
         {
             "ticker": "ARCH",
             "relayerAddress": "archway1dvfr02esfgkhwxrlv6x3dcq5cy58pcvyjam438"
-        },
-        {
-            "ticker": "PICA",
-            "relayerAddress": "pica18hnewzgssyx2448mwwylpryz220ccs8as7s8rh"
         },
         {
             "ticker": "DYM",
