@@ -179,6 +179,10 @@
         {
             "ticker": "AKT",
             "relayerAddress": "akash1cx82d7pm4dgffy7a93rl6ul5g84vjgxk2aty2k"
+        },
+        {
+            "ticker": "NAM",
+            "relayerAddress": "tnam1qqwv4vmsec0870tha6vzw4mmwfq6h0sv4gpnz29n"
         }
     ]
 }

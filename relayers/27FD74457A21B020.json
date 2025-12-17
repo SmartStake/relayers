@@ -223,6 +223,10 @@
         {
             "ticker": "DYM",
             "relayerAddress": "dym1eplg3py322dwhsjqxpmqyaczfghnjeen5620pc"
+        },
+        {
+            "ticker": "NAM",
+            "relayerAddress": "tnam1qr4xqmsrnzsh7xnkzykvrm6f2nw0eps2l5zvudts"
         }
     ]
 }
