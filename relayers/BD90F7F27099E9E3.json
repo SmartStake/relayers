@@ -99,6 +99,10 @@
         {
             "ticker": "OM",
             "relayerAddress": "mantra1qx6nnykvn390su7hrtunvdj509khadehjev42u"
+        },    
+        {
+            "ticker": "NAM",
+            "relayerAddress": "tnam1qr8z58egh28eh5k7ed4jwt646acerlzs0q6r2u0n"
         }
     ]
 }

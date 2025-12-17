@@ -95,6 +95,10 @@
         {
              "ticker": "ELYS",
              "relayerAddress": "elys129stf3ctn47dm34nlhr9e3vqmnn8ayur7grkz9"
+        },
+        {
+             "ticker": "NAM",
+             "relayerAddress": "tnam1qqxnkp7spz6xs3er6xw9k3rjm9lxl78k95vxrnfd"
         }
     ]
 }

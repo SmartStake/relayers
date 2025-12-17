@@ -55,6 +55,10 @@
         {
             "ticker": "NGM",
             "relayerAddress": "emoney17mhy2662y598awhsrln7apz00ye6v4r9dv7aw3"
+        },
+        {
+            "ticker": "NAM",
+            "relayerAddress": "tnam1qp467577tlh0r3kl8xekxrj8ea3r898ffszn7q4d"
         }
     ]
 }
