@@ -19,7 +19,7 @@ If you run relayer on any of the IBC chains, your relayer will be shown on Inter
     	"twitter": "yourprofilehandle", # @ not needed. full website address is not needed
     	"telegram": "tguserorgrouphandle", #does not support multiple TG handles. full website address is not needed
     	"discord": "discordhandle", #does not support multiple discord handles. full website address is needed
-    	"email": "support@validator.example,
+    	"email": "support@validator.example",
     	"supportRelayerBy": "what can community do to support you? a response like 'delegate to validator' or 'donate to relayer' is good. max of 50 characters",
     	"chainsRelayed": [
     		{"ticker": "ATOM", "relayerAddress": "cosmos...."},

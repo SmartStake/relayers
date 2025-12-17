@@ -1,0 +1,19 @@
+{
+   	"keybaseIdentity": "E22107D7D6D507E2",
+   	"name": "max-02",
+   	"website": "https://github.com/maxpower-01",
+   	"twitter": "null",
+   	"telegram": "null", 
+   	"discord": "power542",
+   	"email": "null",
+   	"supportRelayerBy": "Support: delegate to validator max-02 (Namada 🟡)",
+   	"chainsRelayed": [
+   		{"ticker": "NAM", "relayerAddress": "tnam1qr6nhs8mjj2n9ra5n2ukw32068qw2w3y45wlk8tc"},
+        {"ticker": "TIA", "relayerAddress": "celestia1ac8va444x67ghwsersq6sssywcx67h75pqayx0"},
+        {"ticker": "ATOM", "relayerAddress": "cosmos1ac8va444x67ghwsersq6sssywcx67h75s2v5uz"},
+        {"ticker": "NTRN", "relayerAddress": "neutron1ac8va444x67ghwsersq6sssywcx67h75549kx9"},
+        {"ticker": "USDC", "relayerAddress": "noble1ac8va444x67ghwsersq6sssywcx67h75cfeuyv"},
+   		{"ticker": "OSMO", "relayerAddress": "osmo1ac8va444x67ghwsersq6sssywcx67h75c3ly2s"},
+   		{"ticker": "STRD", "relayerAddress": "stride1ac8va444x67ghwsersq6sssywcx67h75npvggw"}
+   	]
+}
