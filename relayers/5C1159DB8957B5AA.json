@@ -13,14 +13,6 @@
             "relayerAddress": "persistence1m3hsmmf633nl5dl8sm58dypu4fthppe7ej463y"
         },
         {
-            "ticker": "STRD",
-            "relayerAddress": "stride10pjlfffruyzg2l6f6xqmtncyzvfez5wd0g5f0l"
-        },
-        {
-            "ticker": "QCK",
-            "relayerAddress": "quick15rwjpdn2cjunek9g0sqmehwd4ht3nz0fkzx673"
-        },
-        {
             "ticker": "GRAV",
             "relayerAddress": "gravity1was23c4eyvym4f4aqfaq8gra28sp0ge98ynpr0"
         },
@@ -53,40 +45,8 @@
             "relayerAddress": "noble1hulkamkqy8jvgylye3hsdpc67c0ktkmm2cpenp"
         },
         {
-            "ticker": "HASH",
-            "relayerAddress": "pb10z5a6mn5f952snnd54xgd5vmun73m2jyhvlrul"
-        },
-        {
-            "ticker": "AXL",
-            "relayerAddress": "axelar1qvf2yflf7jyldwfcdyrkz2nc0c2uhn9py3waly"
-        },
-        {
             "ticker": "TIA",
             "relayerAddress": "celestia10pjlfffruyzg2l6f6xqmtncyzvfez5wdaf99p7"
-        },
-        {
-            "ticker": "UMEE",
-            "relayerAddress": "umee10pjlfffruyzg2l6f6xqmtncyzvfez5wd74f2lp"
-        },
-        {
-            "ticker": "KUJI",
-            "relayerAddress": "kujira10pjlfffruyzg2l6f6xqmtncyzvfez5wdatkdke"
-        },
-        {
-            "ticker": "HUAHUA",
-            "relayerAddress": "chihuahua10pjlfffruyzg2l6f6xqmtncyzvfez5wd0kem63"
-        },
-        {
-            "ticker": "BLD",
-            "relayerAddress": "agoric19myc5gnz7np64uam0ptpj5gzcyr5cttgmqg3t3"
-        },
-        {
-            "ticker": "PASG",
-            "relayerAddress": "pasg10pjlfffruyzg2l6f6xqmtncyzvfez5wd0md0kv"
-        },
-        {
-            "ticker": "PICA",
-            "relayerAddress": "pica10pjlfffruyzg2l6f6xqmtncyzvfez5wdhlhsl5"
         }
     ]
 }
