@@ -1,20 +1,32 @@
 {
     "keybaseIdentity": "6408AA029ADBE364",
-    "name": "Cephalopod Equipment Corp",
-    "website": "https://cephalopod.equipment",
-    "twitter": null,
-    "telegram": null,
-    "discord": null,
-    "email": null,
-    "supportRelayerBy": "delegating to validator",
+    "name": "Informal Systems",
+    "website": "https://informal.systems",
+    "twitter": "https://x.com/informalinc",
+    "telegram": "",
+    "discord": "",
+    "email": "validator@informal.systems",
+    "supportRelayerBy": "Support us by delegating to our validator",
     "chainsRelayed": [
-        {
-            "ticker": "ATOM",
-            "relayerAddress": null
-        },
-        {
-            "ticker": "JUNO",
-            "relayerAddress": null
-        }
+      {
+        "ticker": "DYDX",
+        "relayerAddress": "dydx1zz22dfpvw3zqpeyhvhmx944a588fgcal88m3t8"
+      },
+      {
+        "ticker": "TIA",
+        "relayerAddress": "celestia1j4n52zvswdd75h5jcq5sawsl852pkewlud0a86"
+      },
+      {
+        "ticker": "NIL",
+        "relayerAddress": "nillion140l24cnky5z096tzn2hf8htaha9j7h0zxq2rck"
+      },
+      {
+        "ticker": "USDC",
+        "relayerAddress": "noble1zz22dfpvw3zqpeyhvhmx944a588fgcalxaqan7"
+      },
+      {
+        "ticker": "OSMO",
+        "relayerAddress": "osmo1zz22dfpvw3zqpeyhvhmx944a588fgcalx9x9az"
+      }
     ]
 }
