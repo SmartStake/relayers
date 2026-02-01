@@ -72,6 +72,16 @@
       "ticker": "XKP",
       "relayerAddress": "kopi1yvs0wp05m075qe9m3zyx5cvkj2gwdrs0jknd2n",
       "alias": "rly"
+    },
+    {
+      "ticker": "ARKEO",
+      "relayerAddress": "arkeo1yvs0wp05m075qe9m3zyx5cvkj2gwdrs0qsku6q",
+      "alias": "rly"
+    },
+    {
+      "ticker": "ARKEO",
+      "relayerAddress": "arkeo13hnee8ffss77f288uns8frkxz69egn6z43pn20",
+      "alias": "Hermes"
     }
   ]
 }
