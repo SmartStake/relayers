@@ -1,0 +1,28 @@
+{
+    "keybaseIdentity": "A2CFE20941181F35",
+    "name": "AstroStake",
+    "website": "https://astrostake.xyz",
+    "twitter": "https://x.com/AstroStake",
+    "telegram": "https://t.me/astrostake",
+    "discord": "gsXShcgAC5",
+    "email": "contact@astrostake.xyz",
+    "supportRelayerBy": "Delegate to AstroStake validator",
+    "chainsRelayed": [
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1uwqj9rgrygjdck9qxgxhy4w2wcxwyrlsyxfwlv"
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1uwqj9rgrygjdck9qxgxhy4w2wcxwyrlsva67f7"
+        },
+        {
+            "ticker": "LAVA",
+            "relayerAddress": "lava@1uwqj9rgrygjdck9qxgxhy4w2wcxwyrls59dmwn"
+        },
+        {
+            "ticker": "LUME",
+            "relayerAddress": "lumera1uwqj9rgrygjdck9qxgxhy4w2wcxwyrls5z698v"
+        }
+    ]
+}
