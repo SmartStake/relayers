@@ -183,6 +183,10 @@
     {
       "ticker": "XKP",
       "relayerAddress": "kopi1p4557mdpc2qk8vcemeqgrcg55gs2uyzn4s8e2k"
+    },
+    {
+      "ticker": "CRO",
+      "relayerAddress": "cro1twsw2p0vkar06af6m3n5tmz5cqpylzpyfz8qle"
     }
   ]
 }
