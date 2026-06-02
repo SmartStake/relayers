@@ -53,10 +53,6 @@
             "relayerAddress": "osmo10nam3udjgdldtptg6jnms2jh08vusve0wx8aqk"
         },
         {
-            "ticker": "UMEE",
-            "relayerAddress": "umee14ym67y5zwq6qzkek9rlh58zugqrp6hhj8q3qc5"
-        },
-        {
             "ticker": "ARCH",
             "relayerAddress": "archway1j694ux46ughsp7rd20ghzxhtc2dd53v9m0ckya"
         },
@@ -85,20 +81,8 @@
             "relayerAddress": "noble1j4r9h6v42luhedfqly33k3qu3xg5d8ktq99elj"
         },
         {
-            "ticker": "C4E",
-            "relayerAddress": "c4e19wjy60ugvn4s09wlsf8ntp9jv8qjgrstyt4szg"
-        },
-        {
             "ticker": "NTRN",
             "relayerAddress": "neutron1ul8lklccagmnujye6r4zwmae3zpzc373n38w5a"
-        },
-        {
-             "ticker": "ELYS",
-             "relayerAddress": "elys129stf3ctn47dm34nlhr9e3vqmnn8ayur7grkz9"
-        },
-        {
-             "ticker": "NAM",
-             "relayerAddress": "tnam1qqxnkp7spz6xs3er6xw9k3rjm9lxl78k95vxrnfd"
         }
     ]
 }
