@@ -11,14 +11,6 @@
         {
             "ticker": "ATOM",
             "relayerAddress": "cosmos1rpzrwy5tpzqmfxhx5t0z3pf7fj2ma3vwudhyh6"
-        },
-        {
-            "ticker": "OSMO",
-            "relayerAddress": "osmo1rpzrwy5tpzqmfxhx5t0z3pf7fj2ma3vw5ky5pg"
-        },
-        {
-            "ticker": "JUNO",
-            "relayerAddress": "juno1rpzrwy5tpzqmfxhx5t0z3pf7fj2ma3vw2l5lsx"
         }
     ]
 }
