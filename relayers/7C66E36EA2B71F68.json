@@ -1,7 +1,7 @@
 {
     "keybaseIdentity": "7C66E36EA2B71F68",
     "name": "Vinjan.Inc",
-    "website": "https://service.vinjan.xyz",
+    "website": "https://vinjan-inc.com",
     "twitter": "https://x.com/vjanwil",
     "telegram": "https://t.me/vinjan",
     "discord": "Vinjan.Inc",
@@ -14,23 +14,11 @@
         },
         {
             "ticker": "OSMO",
-            "relayerAddress": "osmo1f3gsdgex6zczz9dgt9qu6qhyfv3s6xne5jkhk8"
-        },
-        {
-            "ticker": "OSMO",
-            "relayerAddress": "osmo1ftg5nqg4lyeuhff2pthd0nmnr08ethc00zrw6y"    
+            "relayerAddress": "osmo1se055w3e6vmly6c23nqeg504ltn8khqupsmgyw"   
         },
         {
             "ticker": "ATOM",
-            "relayerAddress": "cosmos1tslfpzjggk9sw05klppef93t7mmmappeylghch"
-        },
-        {
-            "ticker": "ATOM",
-            "relayerAddress": "cosmos1wya5kp5wwprnvvxvh3e8z04r7x27q6zusr2fyu"    
-        },
-        {
-            "ticker": "SAGA",
-            "relayerAddress": "saga17jev0atx3pa46jnkvley5pvsw9yvdmachkykr9"
+            "relayerAddress": "cosmos1se055w3e6vmly6c23nqeg504ltn8khquftgcju" 
         },
         {
             "ticker": "BADGE",
@@ -54,11 +42,7 @@
         },
         {
             "ticker": "MLD",
-            "relayerAddress": "symphony1kq6q6rlc2tzlrfjh2pre7yn5j6djd3j8euxqwj"    
-        },
-        {
-            "ticker": "PLQ",
-            "relayerAddress": "plq1ah63vlyksnh8vaecck5q7qfwph6vmvrmas03zn"
+            "relayerAddress": "symphony1kq6q6rlc2tzlrfjh2pre7yn5j6djd3j8euxqwj" 
         },
         {
             "ticker": "DGN",
