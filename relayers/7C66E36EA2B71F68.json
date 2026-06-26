@@ -59,6 +59,10 @@
         {
             "ticker": "LAVA",
             "relayerAddress": "lava@1fzrfdkn0arse2dsnhea4reznhdne3syda2vkcj"
+       },
+        {
+            "ticker": "SAF",
+            "relayerAddress": "addr_safro1gs54lntq77jqla7txj5nej5zke4vyh9qvaa2hm"     
         }
     ]
 }
