@@ -1,0 +1,37 @@
+{
+    "keybaseIdentity": "F492A8D46AEA02AB",
+    "name": "NodeSafe",
+    "website": "https://explorer.nodesafe-app.xyz",
+    "twitter": "https://x.com/CryptoGemFunds",
+    "telegram": "https://t.me/cryptogemfunds",
+    "discord": "@cryptogemfuds",
+    "email": "cryptogemfunds@gmail.com",
+    "https://github.com/cryptogemfunds",
+    "supportRelayerBy": "Trusted Proof of Stake validator across Cosmos universe. Active ecosystem contributor, IBC relayer and chain service provider since 2022. We deliver top-notch secure and reliable infrastructure for Cosmos projects.",
+    "chainsRelayed": [
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1xy8f77wqh54l8w8gdm6pmclj7qe3pdha24sjrq"
+        },
+        {
+            "ticker": "EPIX",
+            "relayerAddress": "epix1xy8f77wqh54l8w8gdm6pmclj7qe3pdhah9dhjf"
+        },
+        {
+            "ticker": "LMN",
+            "relayerAddress": "lmn1xy8f77wqh54l8w8gdm6pmclj7qe3pdhahclm7z"
+        },
+        {
+            "ticker": "JAY",
+            "relayerAddress": "yjay1wlnzmfzx5c2rhsfq92rcz340e2z7ely8xrhpg4"
+        },
+        {
+            "ticker": "MUC",
+            "relayerAddress": "muc1y3erpclq52060qvvs20z6a898yvrya3mered6e"
+        },
+        {
+            "ticker": "SAF",
+            "relayerAddress": "addr_safro1ly0a69aspyfhpk58ksd67d2g7gldufp9evrg8f"
+        }
+    ]
+}
