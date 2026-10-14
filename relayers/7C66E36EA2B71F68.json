@@ -62,7 +62,11 @@
        },
         {
             "ticker": "SAF",
-            "relayerAddress": "addr_safro1gs54lntq77jqla7txj5nej5zke4vyh9qvaa2hm"     
+            "relayerAddress": "addr_safro1gs54lntq77jqla7txj5nej5zke4vyh9qvaa2hm"
+       },
+        {
+            "ticker": "GNOD",
+            "relayerAddress": "gnodi1k96pua5cga7rpvnmm42884hcx47nwn9q5dvxnx"     
         }
     ]
 }
