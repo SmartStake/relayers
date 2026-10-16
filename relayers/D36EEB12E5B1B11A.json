@@ -11,6 +11,7 @@
 		{ "ticker": "ATOM", "relayerAddress": "cosmos1gu4vdcvqy3khelanwvatk983x49ngxujh6k36l"},
 		{ "ticker": "TIA", "relayerAddress": "celestia1gu4vdcvqy3khelanwvatk983x49ngxujxs8pqj"},
 		{"ticker": "DORA", "relayerAddress": "dora1gu4vdcvqy3khelanwvatk983x49ngxuj5qnudf"},
-		{"ticker": "OSMO", "relayerAddress": "osmo1gu4vdcvqy3khelanwvatk983x49ngxujlp9pvd"}
+		{"ticker": "OSMO", "relayerAddress": "osmo1gu4vdcvqy3khelanwvatk983x49ngxujlp9pvd"},
+		{"ticker": "HASH", "relayerAddress": "pb1gu4vdcvqy3khelanwvatk983x49ngxuj75a5hr"}
 	]
 }
