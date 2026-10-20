@@ -9,24 +9,12 @@
     "supportRelayerBy": "Trusted Proof of Stake validator across Cosmos universe. Active ecosystem contributor, IBC relayer and chain service provider since 2021. We deliver top-notch secure and reliable infrastructure for Cosmos projects.",
     "chainsRelayed": [
         {
-            "ticker": "STRD",
-            "relayerAddress": "stride1qmkft69j3tgeplmda6kga3emklw6naf7fex47z"
-        },
-        {
             "ticker": "OSMO",
             "relayerAddress": "osmo1qmkft69j3tgeplmda6kga3emklw6naf7zf4euu"
         },
         {
             "ticker": "BLD",
             "relayerAddress": "agoric1twmgaeug7ymjq8c53ttstpl7rny43q8zh4rnh3"
-        },
-        {
-            "ticker": "JKL",
-            "relayerAddress": "jkl1twmgaeug7ymjq8c53ttstpl7rny43q8zuk0a7c"
-        },
-        {
-            "ticker": "ARCH",
-            "relayerAddress": "archway1twmgaeug7ymjq8c53ttstpl7rny43q8zsragds"
         },
         {
             "ticker": "TIA",

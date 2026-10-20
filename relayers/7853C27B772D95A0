@@ -1,0 +1,52 @@
+{
+    "keybaseIdentity": "7853C27B772D95A0",
+    "name": "Maouam Nodelab",
+    "website": "https://maouam.xyz",
+    "twitter": "https://x.com/MaouamNodelab",
+    "telegram": "https://t.me/maouam",
+    "discord": "maouamnodelab",
+    "email": "contact@maouam.xyz",
+    "supportRelayerBy": "Delegation to MaouamNodelab",
+    "chainsRelayed": [
+        {
+            "ticker": "OSMO",
+            "relayerAddress": "osmo1kepj0hw4h2srw72dn6xzqttnshhqrmvfy44pde"    
+        },
+        {
+            "ticker": "ATOM",
+            "relayerAddress": "cosmos1kepj0hw4h2srw72dn6xzqttnshhqrmvfvwx3mt"
+        },
+        {
+            "ticker": "USDC",
+            "relayerAddress": "noble1kepj0hw4h2srw72dn6xzqttnshhqrmvfydner9"
+        },
+        {
+            "ticker": "BADGE",
+            "relayerAddress": "bb1u3j8rejrhmw57rqvh3kst4df9dur8r498q9atg"
+        },
+        {
+            "ticker": "PAXI",
+            "relayerAddress": "paxi1u3j8rejrhmw57rqvh3kst4df9dur8r498pfpdf"
+        },
+        {
+            "ticker": "VRISE",
+            "relayerAddress": "sunrise1u3j8rejrhmw57rqvh3kst4df9dur8r49ksxlx2"
+        },
+        {
+            "ticker": "SHIDO",
+            "relayerAddress": "shido1gaqvvcydmu5080dcqvwfgzp3cwveg673m887pp"
+        },
+        {
+            "ticker": "LAVA",
+            "relayerAddress": "lava@1u3j8rejrhmw57rqvh3kst4df9dur8r49u96ts5"
+        },
+        {
+            "ticker": "LUME",
+            "relayerAddress": "lumera1u3j8rejrhmw57rqvh3kst4df9dur8r49uzd4et"
+        },
+        {
+            "ticker": "EPIX",
+            "relayerAddress": "epix1gaqvvcydmu5080dcqvwfgzp3cwveg673p77kh7"
+        }
+    ]
+}
