@@ -1,33 +1,13 @@
 {
   "keybaseIdentity": "D610C60F7943F66C",
-  "name": "SpaceStake",
-  "website": "https://spacestake.tech",
-  "twitter": "SpaceStakeTech",
+  "name": "Asterlane",
+  "website": "https://asterlane.net",
+  "twitter": "AsterlaneNet",
   "telegram": null,
   "discord": "https://discord.gg/jf9QWE9SQt",
-  "email": "support@spacestake.tech",
-  "supportRelayerBy": "Delegating to SpaceStake",
+  "email": "support@asterlane.net",
+  "supportRelayerBy": "Delegating to Asterlane",
   "chainsRelayed": [
-    {
-      "ticker": "JUNO",
-      "relayerAddress": "juno1yvs0wp05m075qe9m3zyx5cvkj2gwdrs04zqzqe",
-      "alias": "rly"
-    },
-    {
-      "ticker": "JUNO",
-      "relayerAddress": "juno13hnee8ffss77f288uns8frkxz69egn6zqrhdsk",
-      "alias": "Hermes"
-    },
-    {
-      "ticker": "IRIS",
-      "relayerAddress": "iaa1yvs0wp05m075qe9m3zyx5cvkj2gwdrs0kjrg95",
-      "alias": "rly"
-    },
-    {
-      "ticker": "IRIS",
-      "relayerAddress": "iaa13hnee8ffss77f288uns8frkxz69egn6zrn584m",
-      "alias": "Hermes"
-    },
     {
       "ticker": "KAVA",
       "relayerAddress": "kava1mhchsnrumqs3cxcke9v95l00x0dvfwcpafstry",
@@ -39,16 +19,6 @@
       "alias": "Hermes"
     },
     {
-      "ticker": "KYVE",
-      "relayerAddress": "kyve1yvs0wp05m075qe9m3zyx5cvkj2gwdrs057w0vp",
-      "alias": "rly"
-    },
-    {
-      "ticker": "KYVE",
-      "relayerAddress": "kyve13hnee8ffss77f288uns8frkxz69egn6zplequw",
-      "alias": "Hermes"
-    },
-    {
       "ticker": "ATOM",
       "relayerAddress": "cosmos1yvs0wp05m075qe9m3zyx5cvkj2gwdrs0rsre89",
       "alias": "rly"
@@ -57,21 +27,6 @@
       "ticker": "ATOM",
       "relayerAddress": "cosmos13hnee8ffss77f288uns8frkxz69egn6zk35kh2",
       "alias": "Hermes"
-    },
-    {
-      "ticker": "OSMO",
-      "relayerAddress": "osmo1yvs0wp05m075qe9m3zyx5cvkj2gwdrs0ttsf3h",
-      "alias": "rly"
-    },
-    {
-      "ticker": "OSMO",
-      "relayerAddress": "osmo13hnee8ffss77f288uns8frkxz69egn6z728xpc",
-      "alias": "Hermes"
-    },
-    {
-      "ticker": "XKP",
-      "relayerAddress": "kopi1yvs0wp05m075qe9m3zyx5cvkj2gwdrs0jknd2n",
-      "alias": "rly"
     }
   ]
 }
