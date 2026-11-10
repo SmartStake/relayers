@@ -66,7 +66,15 @@
        },
         {
             "ticker": "GNOD",
-            "relayerAddress": "gnodi1k96pua5cga7rpvnmm42884hcx47nwn9q5dvxnx"     
+            "relayerAddress": "gnodi1k96pua5cga7rpvnmm42884hcx47nwn9q5dvxnx"
+      },
+        {
+            "ticker": "LUXA",
+            "relayerAddress": "luxa1se055w3e6vmly6c23nqeg504ltn8khqu0tx2x2"
+      },
+        {
+            "ticker": "TIA",
+            "relayerAddress": "celestia1se055w3e6vmly6c23nqeg504ltn8khqucpegg3"      
         }
     ]
 }
