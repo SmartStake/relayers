@@ -22,7 +22,11 @@
         },
         {
             "ticker": "LUME",
-            "relayerAddress": "lumera1uwqj9rgrygjdck9qxgxhy4w2wcxwyrls5z698v"
+            "relayerAddress": "lumera15nfp9dfzf2fqmh0tgaqanlmpucv4rtxvtsnpdw"
+        },
+        {
+            "ticker": "EPIX",
+            "relayerAddress": "epix15nfp9dfzf2fqmh0tgaqanlmpucv4rtxvxya0y8"
         }
     ]
 }
