@@ -25,10 +25,6 @@
             "relayerAddress": "bb17fgrnpg48c6tkhmp72zmjt93g67y6wu9y3kxfc"
         },        
         {
-            "ticker": "BCNA",
-            "relayerAddress": "bcna17fgrnpg48c6tkhmp72zmjt93g67y6wu9auw5am"
-        },
-        {
             "ticker": "BTSG",
             "relayerAddress": "bitsong17fgrnpg48c6tkhmp72zmjt93g67y6wu9t9vahx"
         },
@@ -45,14 +41,6 @@
             "relayerAddress": "dungeon17fgrnpg48c6tkhmp72zmjt93g67y6wu9flpnlj"
         },
         {
-            "ticker": "DSM",
-            "relayerAddress": "desmos17fgrnpg48c6tkhmp72zmjt93g67y6wu9n5n9z3"
-        },
-        {
-            "ticker": "P2P",
-            "relayerAddress": "sent17fgrnpg48c6tkhmp72zmjt93g67y6wu9uhgv3x"
-        },   
-        {
             "ticker": "FCT",
             "relayerAddress": "firma17fgrnpg48c6tkhmp72zmjt93g67y6wu9flkzyn"
         },  
@@ -61,16 +49,16 @@
             "relayerAddress": "fetch17fgrnpg48c6tkhmp72zmjt93g67y6wu953h3h7"
         },
         {
-            "ticker": "FLIX",
-            "relayerAddress": "omniflix17fgrnpg48c6tkhmp72zmjt93g67y6wu96j0vzh"
+            "ticker": "HP",
+            "relayerAddress": "hippo17fgrnpg48c6tkhmp72zmjt93g67y6wu9kygwtj"
         },
         {
-            "ticker": "JKL",
-            "relayerAddress": "jkl17fgrnpg48c6tkhmp72zmjt93g67y6wu97jsyvk"
+            "ticker": "INJ",
+            "relayerAddress": "inj17fgrnpg48c6tkhmp72zmjt93g67y6wu9d9f383"
         },
         {
-            "ticker": "LORE",
-            "relayerAddress": "gitopia17fgrnpg48c6tkhmp72zmjt93g67y6wu9e5ez62"
+            "ticker": "LMN",
+            "relayerAddress": "lmn17fgrnpg48c6tkhmp72zmjt93g67y6wu9j6zv7e"
         },
         {
             "ticker": "ORAI",
@@ -81,16 +69,16 @@
             "relayerAddress": "osmo17fgrnpg48c6tkhmp72zmjt93g67y6wu90hd9rm"
         },
         {
-            "ticker": "USDC",
-            "relayerAddress": "noble17fgrnpg48c6tkhmp72zmjt93g67y6wu900tad8"
-        },        
-        {
-            "ticker": "XKI",
-            "relayerAddress": "ki17fgrnpg48c6tkhmp72zmjt93g67y6wu9kp063a"
+            "ticker": "P2P",
+            "relayerAddress": "sent17fgrnpg48c6tkhmp72zmjt93g67y6wu9uhgv3x"
         },
         {
-            "ticker": "XKP",
-            "relayerAddress": "kopi17fgrnpg48c6tkhmp72zmjt93g67y6wu9k2wpcl"
-        }        
+            "ticker": "SAF",
+            "relayerAddress": "addr_safro17fgrnpg48c6tkhmp72zmjt93g67y6wu9lqlz7e"
+        },
+        {
+            "ticker": "USDC",
+            "relayerAddress": "noble17fgrnpg48c6tkhmp72zmjt93g67y6wu900tad8"
+        }       
     ]
 }
